@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.1",
+  "canonical_url": "lbry://@FFFTech#3/21-A-Bobcat-Ridge-Wrap-Panels#2",
+  "claim_id": "215acf67d553a146f6c31700a30496bbd6188eed",
+  "claim_op": "create",
+  "confirmations": 743944,
+  "height": 1310037,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1310037,
+    "creation_height": 1310037,
+    "creation_timestamp": 1676324710,
+    "effective_amount": "0.1",
+    "expiration_height": 3412437,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1310037
+  },
+  "name": "21-A-Bobcat-Ridge-Wrap-Panels",
+  "normalized_name": "21-a-bobcat-ridge-wrap-panels",
+  "nout": 0,
+  "permanent_url": "lbry://21-A-Bobcat-Ridge-Wrap-Panels#215acf67d553a146f6c31700a30496bbd6188eed",
+  "short_url": "lbry://21-A-Bobcat-Ridge-Wrap-Panels#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676324710,
+  "txid": "d8e41c6401c521a2bf18fa8ff2d14676ce05fcfae6fef3edeca900f0eea28c57",
+  "type": "claim",
+  "value": {
+    "description": "Ridge Wrap Beretta 21A Bobcat Grip Panels: Laffs Dynamic\n\nPrinter Used: Ender 3 V2\n \nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 20%+\nSupport Material Percentage: 18%\n\n\n\nAccreditations:\n\nGerald.Katz: Creator of the Bobkatz 3DP Pistol Frame; used the base grip model from their design release.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1676324324",
+    "source": {
+      "hash": "64f62b7b52ba87788258d7c62040aedaf6089ef3005ff8ae00f4752e58762be1864cf875295cb3d29b53c63949e9259d",
+      "media_type": "application/zip",
+      "name": "21 A Bobcat Ridge Wrap Panels.zip",
+      "sd_hash": "c65d5e58b6f253321baff682b5a5f94f7fe32a7b94a8995cc5e59c1d91a47a6c25b1c7354c1d07f36cf4d23a67e824fc",
+      "size": "2609957"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "beretta",
+      "panels",
+      "pistol"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7a4fa52bed0195d80fa1f7c3823f98c9.webp"
+    },
+    "title": "21 A Bobcat Ridge Wrap Panels"
+  },
+  "value_type": "stream"
+}
