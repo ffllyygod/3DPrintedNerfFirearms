@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/22LR-Chamber-Flag#8",
+  "claim_id": "8e58fbdbc0fa4968dbb5d485cb68ac946048232b",
+  "claim_op": "create",
+  "confirmations": 280681,
+  "height": 1773289,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1773289,
+    "creation_height": 1773289,
+    "creation_timestamp": 1745264094,
+    "effective_amount": "0.001",
+    "expiration_height": 3875689,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1773289
+  },
+  "name": "22LR-Chamber-Flag",
+  "normalized_name": "22lr-chamber-flag",
+  "nout": 0,
+  "permanent_url": "lbry://22LR-Chamber-Flag#8e58fbdbc0fa4968dbb5d485cb68ac946048232b",
+  "short_url": "lbry://22LR-Chamber-Flag#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1745264094,
+  "txid": "47934d85a4e8770143e776efca574298086de360c62066ee6910a1083e3c5b13",
+  "type": "claim",
+  "value": {
+    "description": "22LR Chamber Flag: Laffs Dynamics\n\nFor when you gotta go to the range that has the crustiest RSO that'll threaten to eject you from the range for shooting too fast, and insist on manhandling \nyour firearm to check the chamber.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 80%+\nMaterial Flow: 100%\n\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1745264064",
+    "source": {
+      "hash": "f95d6f2e438ea0e3767ef88fd0f8629ccd88ea319c4b4217f2471dd4af8d2b0666589148af60651e31efefc53a605251",
+      "media_type": "application/zip",
+      "name": "22LR Chamber Flag.zip",
+      "sd_hash": "867b217f43365b0839a9882daea8e06263f2b0867007b137e8955fb6703fdfc1ce35d620ad9bd059eda44c78937464bf",
+      "size": "1196900"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "3d printing",
+      "firearms",
+      "22lr",
+      "chamber",
+      "chamber flag"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/b40459867c01ce9c8e2f10a5e32ee9cb.webp"
+    },
+    "title": "22LR Chamber Flag"
+  },
+  "value_type": "stream"
+}
