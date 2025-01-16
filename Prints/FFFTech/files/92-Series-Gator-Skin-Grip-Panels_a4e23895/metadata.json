@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/92-Series-Gator-Skin-Grip-Panels#a",
+  "claim_id": "a4e23895ab1ab5284d8686edef7a60a5b517b0a2",
+  "claim_op": "create",
+  "confirmations": 109675,
+  "height": 1944289,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1944289,
+    "creation_height": 1944289,
+    "creation_timestamp": 1768945163,
+    "effective_amount": "0.001",
+    "expiration_height": 4046689,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1944289
+  },
+  "name": "92-Series-Gator-Skin-Grip-Panels",
+  "normalized_name": "92-series-gator-skin-grip-panels",
+  "nout": 0,
+  "permanent_url": "lbry://92-Series-Gator-Skin-Grip-Panels#a4e23895ab1ab5284d8686edef7a60a5b517b0a2",
+  "short_url": "lbry://92-Series-Gator-Skin-Grip-Panels#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1768945163,
+  "txid": "769e163312c13218884469cec00f619330b7d7f8a11dc593992ab9477c0bed96",
+  "type": "claim",
+  "value": {
+    "description": "Gator Skin Grip Panels (Beretta 92FS): Laffs\n\nGrip panels for the Beretta 92FS pistols; embossed with a stylized gator skin pattern.\n\n\nCompatible with Beretta 90 Series Frames (Including Unlisted Submodels):\n\n *92FS\n *92A1\n *92G\n *96\n *M9\n *Sphynx (3D Printed Beretta 92/M9 Frame) (See Notes)\n\n\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 45%\nSupport Material Percentage: 18%\n\n\n\nHardware Needed:\n\n4x Beretta 92 Grip Panel Screws\n\n\n\nNotes:\n\nThe Sphynx 3D printed frame can be found here: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/Sphynx_V1:6\n\n\n\nAccreditations:\n\nGerald.Katz: Provided base template data for geometric refinement. Provided information on design origin.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1768946010",
+    "source": {
+      "hash": "bb08d119938b4b74cf4aa0d7640da50760aa9bf11d5e4b8c830c3420db3ed14f48154862b30c9fc7ae9334f987054af6",
+      "media_type": "application/zip",
+      "name": "92 Series Gator Skin Grip Panels.zip",
+      "sd_hash": "bd9825159d9908b2840a7e2b9fde6270f0e11f434c461594c1fe6f30f25e429fc6b80c92b99dfb485a8404f740e77f29",
+      "size": "6088208"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-comments",
+      "3d printing",
+      "firearms",
+      "beretta",
+      "92",
+      "gator"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3461735ee0b68b8cc1698a6b6f98ec90.webp"
+    },
+    "title": "Gator Skin Grip Panels (Beretta 92FS)"
+  },
+  "value_type": "stream"
+}
