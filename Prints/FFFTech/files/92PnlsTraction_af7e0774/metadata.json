@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/92PnlsTraction#a",
+  "claim_id": "af7e077432d2c4daace45db9286ff349e43a0a18",
+  "claim_op": "update",
+  "confirmations": 109680,
+  "height": 1944290,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1944290,
+    "creation_height": 1700857,
+    "creation_timestamp": 1735333762,
+    "effective_amount": "0.01",
+    "expiration_height": 4046690,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1700857
+  },
+  "name": "92PnlsTraction",
+  "normalized_name": "92pnlstraction",
+  "nout": 0,
+  "permanent_url": "lbry://92PnlsTraction#af7e077432d2c4daace45db9286ff349e43a0a18",
+  "short_url": "lbry://92PnlsTraction#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1768946225,
+  "txid": "c268fdd7309553edff774c9321886635126115353f697c9c568dee61f3d3e44f",
+  "type": "claim",
+  "value": {
+    "description": "Traction Grip Panels (Beretta 92FS) V1.1: Laffs\n\nGrip panels for the Beretta 92FS pistols. Has upward facing deep ridges for better retention under recoil in wet environments. (Compared to \npanels with little to no texturing on it's surface.)\n\n\nCompatible with Beretta 90 Series Frames (Including Unlisted Submodels):\n\n *92FS\n *92A1\n *92G\n *96\n *M9\n *Sphynx (3D Printed Beretta 92/M9 Frame) (See Notes)\n\n\nUpdate: Removed topmost ridge, as users complained of it digging into under their index digit knuckle, causing skin irritation under firearm \nrecoil. Rounded panel edges.\n\n\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 45%\nSupport Material Percentage: 18%\n\n\n\nHardware Needed:\n\n4x Beretta 92 Grip Panel Screws\n\n\n\nNotes:\n\nThe Sphynx 3D printed frame can be found here: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/Sphynx_V1:6\n\n\n\nAccreditations:\n\nGerald.Katz: Provided base template data for geometric refinement. Provided information on design origin.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1735333757",
+    "source": {
+      "hash": "262edf613857cf60d272c5a64213b631929cc8e29a91ccb719dc036fc03e6acd86c0fb2e42a1d58507d196be88e36dfe",
+      "media_type": "application/zip",
+      "name": "92 Series Traction Grip Panels V1.1.zip",
+      "sd_hash": "8ee91e2ec8742a61ecde3115958382b8c694c6cf7c66a935ae7fcaec02e0707c6eb16dbb154ff3e9a602886b1bc23355",
+      "size": "4602331"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "beretta",
+      "92fs",
+      "grip panels",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/c28bd6128cf9f6b08690eb607f6bb9e8.webp"
+    },
+    "title": "Traction Grip Panels V1.1 (Beretta 92FS)"
+  },
+  "value_type": "stream"
+}
