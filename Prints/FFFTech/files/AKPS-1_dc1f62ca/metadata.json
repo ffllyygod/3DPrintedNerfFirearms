@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/AKPS-1#d",
+  "claim_id": "dc1f62ca428a7384402a44388e9dab0487a15176",
+  "claim_op": "create",
+  "confirmations": 625215,
+  "height": 1428766,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1428766,
+    "creation_height": 1428766,
+    "creation_timestamp": 1695330430,
+    "effective_amount": "0.001",
+    "expiration_height": 3531166,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1429118
+  },
+  "name": "AKPS-1",
+  "normalized_name": "akps-1",
+  "nout": 0,
+  "permanent_url": "lbry://AKPS-1#dc1f62ca428a7384402a44388e9dab0487a15176",
+  "short_url": "lbry://AKPS-1#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1695330430,
+  "txid": "7ee2a1e2e6199ba5cf3fb8010f73e0682724d97084cabd5c2e29d434cafd537f",
+  "type": "claim",
+  "value": {
+    "description": "AKPS-1: Laffs Dynamics\n\nPicatinny variant of the original Laffs Dynamics FBS-1 AKM Buttstock. Classic AK aesthetic. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7+\nInfill: 42%+\nSupport Material Percentage: 18%\n\n\n\nHardware Needed: \n\n1x M4x30mm Bolt (Can be ground down to 28mm, so it doesn't stick out the side)\n\n1x M4 Hex Nut\n\n\n\nAccreditations:\n\nDubleBurrn: Created a version of this design before me. Showed me his creation from the publicly available STL mesh file over Discord \nvideo call. \n\nI told ya I'd remember and credit you :D",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1695330388",
+    "source": {
+      "hash": "6e6e43fc81ac75a1c09af950dee092138fe348250f96adc98d17a8f08594654c1e27e30356ee92583bf238e9b52f14cd",
+      "media_type": "application/zip",
+      "name": "AKPS-1.zip",
+      "sd_hash": "c7a34aee451fad51b4ead8d7e0ff75fce89d03c79d843c72d4dadecdcf76ce02116408e7d1de79f8fe536c03fb7f8006",
+      "size": "2820564"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ak",
+      "picatinny",
+      "buttstock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/9526db3f3a764dd5a5491ac6286e77dc.webp"
+    },
+    "title": "AKPS-1"
+  },
+  "value_type": "stream"
+}
