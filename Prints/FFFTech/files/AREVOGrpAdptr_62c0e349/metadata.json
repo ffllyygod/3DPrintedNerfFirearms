@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/AREVOGrpAdptr#6",
+  "claim_id": "62c0e3495a33ab241cc9eb8a4f46ba87b41a6476",
+  "claim_op": "create",
+  "confirmations": 411192,
+  "height": 1642778,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1642778,
+    "creation_height": 1642778,
+    "creation_timestamp": 1727084942,
+    "effective_amount": "5.001",
+    "expiration_height": 3745178,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "5.0",
+    "take_over_height": 1643825
+  },
+  "name": "AREVOGrpAdptr",
+  "normalized_name": "arevogrpadptr",
+  "nout": 0,
+  "permanent_url": "lbry://AREVOGrpAdptr#62c0e3495a33ab241cc9eb8a4f46ba87b41a6476",
+  "short_url": "lbry://AREVOGrpAdptr#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1727084942,
+  "txid": "9f6e367e754b8cce56160df0d2044b21ffdd813649973bc496f279092dc10f72",
+  "type": "claim",
+  "value": {
+    "description": "AR/Evo Grip Adaptor V1.2.1: Laffs\n\nAn adaptor designed for mounting standard AR-15 grips to the CZ Scorpion Evo 3.\n\nReuploaded due to reports of previous corrupted files during slicing.\n\n\nUpdate: Refined original geometry to match current Laffs Dynamics specs of Scorpion Evo 3 grip index sections. Moved designer's logo. Added \nan updated model image for preview. \n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 80%+\nSupport Material Percentage: 20%\n\nPrint the adaptor upside-down.\n\n\n\nHardware Required:\n\n1x M4x30mm Bolt (Grind down to 28mm)\n\n1x M4 Hex Nut\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n\n\nAccreditation: \n\nJustinhates: For test fitting the grip adaptor, and providing images. Origin of design request.  \n\nInsertmeow: Original designer of the CZ Sczorpion MOE Grips, which this design uses the top portion of his grip model.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1727084910",
+    "source": {
+      "hash": "362c6d742b223cd57df87c965d6b93b12cba95c08f249a48e4bd20fef88c82f2c04b565cf65c67ba6cef8fc67b585b92",
+      "media_type": "application/zip",
+      "name": "AR-Evo Grip Adaptor V1.2.1.zip",
+      "sd_hash": "42cf9e9a6a73e54c8e8c2c610b45c4373bbe047808418f197cac2bca23d753d7ebc7d82d5318b0a5307a1b06978fea7a",
+      "size": "7870586"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ar-15",
+      "scorpion evo",
+      "grip adaptor",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/5984a8a40855c65b94c150a234e9436a.webp"
+    },
+    "title": "AR/Evo Grip Adaptor V1.2.1"
+  },
+  "value_type": "stream"
+}
