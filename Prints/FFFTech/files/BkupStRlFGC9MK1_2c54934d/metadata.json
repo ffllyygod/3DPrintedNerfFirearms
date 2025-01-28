@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/BkupStRlFGC9MK1#2",
+  "claim_id": "2c54934d0d7c8eaa645b5fffa639a4ed00dcfc74",
+  "claim_op": "create",
+  "confirmations": 500213,
+  "height": 1553757,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1553757,
+    "creation_height": 1553757,
+    "creation_timestamp": 1714426126,
+    "effective_amount": "0.001",
+    "expiration_height": 3656157,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1553909
+  },
+  "name": "BkupStRlFGC9MK1",
+  "normalized_name": "bkupstrlfgc9mk1",
+  "nout": 0,
+  "permanent_url": "lbry://BkupStRlFGC9MK1#2c54934d0d7c8eaa645b5fffa639a4ed00dcfc74",
+  "short_url": "lbry://BkupStRlFGC9MK1#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1714426126,
+  "txid": "167d47db530e3db8a8f7373c379b6b1cd939c1b7cb40a35449304a28888f948a",
+  "type": "claim",
+  "value": {
+    "description": "Backup Sight Rail (FGC-9 MK1): Laffs Dynamics\n\nA picatinny rail for the legacy model FGC-9 MK1, designed with built in low profile iron sights, should a user not currently have a weapon \noptic, or their current optic ceases to function. Useful for ranges between 0 - 30 meters. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 80%+\n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@TheGatalog-HybridDesigns:0/FGC-9:e)\n\n\n\nCredit:\n\nJStark1809, IvanTheTroll, 3socksandcrocs; Creators of the FGC-9 MKI, used the picatinny rail geometry as a base for creating this design. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1714425879",
+    "source": {
+      "hash": "dc28c63cad49fae3a0af7063a96d63a85b576bf88dd9b82756c1a295851fc42379551ea91725194e3d7b20071ea88ffb",
+      "media_type": "application/zip",
+      "name": "Backup Sight Rail (FGC-9 MK1).zip",
+      "sd_hash": "711efff504edaecf7098d016d716c73c4ea4d27df8cbeb5eac970e436165a0b3533a91153de580c1dcb434b22ac6f952",
+      "size": "775334"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "fgc9",
+      "rail",
+      "sight"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/bc4a9e11175f25f1311fd2c9c6ed951c.webp"
+    },
+    "title": "Backup Sight Rail (FGC-9 MK1)"
+  },
+  "value_type": "stream"
+}
