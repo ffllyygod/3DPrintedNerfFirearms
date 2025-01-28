@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/BgBnkKnklDstr#8",
+  "claim_id": "8e113ae895b6ed3d6dec7773b0eee99ccb65a89f",
+  "claim_op": "create",
+  "confirmations": 431510,
+  "height": 1622460,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1622460,
+    "creation_height": 1622460,
+    "creation_timestamp": 1724263673,
+    "effective_amount": "0.001",
+    "expiration_height": 3724860,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1622616
+  },
+  "name": "BgBnkKnklDstr",
+  "normalized_name": "bgbnkknkldstr",
+  "nout": 0,
+  "permanent_url": "lbry://BgBnkKnklDstr#8e113ae895b6ed3d6dec7773b0eee99ccb65a89f",
+  "short_url": "lbry://BgBnkKnklDstr#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1724263673,
+  "txid": "f806c82a4ec1bc63ec15f58c1832a720a491253750fb2e908d8cf6c671d92fb3",
+  "type": "claim",
+  "value": {
+    "description": "\"Big Bonk\" Knuckleduster: Laffs\n\nA knuckleduster for my kings that shop in the Big & Tall section. For the big burly lads that may not NEED a set of knuckledusters, but would \nlike to make SURE the fucker that started shit stays down. \n\nMuch larger than previous knuckleduster designs I've previously created; (See Images folder for general size comparison) made for men with \nextra large hands. \n\nInsert *cartoon_bonk.mp3* here.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+ (Carbon Fiber Nylon is a much better material for this design though)\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 75%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1724263441",
+    "source": {
+      "hash": "b95c33c08a81861209b55e2f0c278d89abd04e59b622a10b2a8c5a83180d7c71e0e25d823bc5a9c7cae5c44458ff3834",
+      "media_type": "application/zip",
+      "name": "Big Bonk Knuckleduster.zip",
+      "sd_hash": "5faa05eaf684acb868df299e721773145536b951dd0e21a3e94065caf803b15c91d5dd3305f90074d45389aa93701109",
+      "size": "2226936"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "knuckleduster",
+      "melee",
+      "big",
+      "bonk",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a44b1b2d722939ddcdbff994711b5332.webp"
+    },
+    "title": "\"Big Bonk\" Knuckleduster"
+  },
+  "value_type": "stream"
+}
