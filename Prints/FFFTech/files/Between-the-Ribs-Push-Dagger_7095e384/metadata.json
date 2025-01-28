@@ -1,0 +1,114 @@
+{
+  "address": "bJJ9gXFxVKbcpRfG9XFn9t1R6d9tYpnWQ5",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Between-the-Ribs-Push-Dagger#7",
+  "claim_id": "7095e384ccc23b706c677bb414c26662e5d45c5a",
+  "claim_op": "update",
+  "confirmations": 34114,
+  "height": 2019867,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2019867,
+    "creation_height": 1182709,
+    "creation_timestamp": 1656250599,
+    "effective_amount": "0.001",
+    "expiration_height": 4122267,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1182709
+  },
+  "name": "Between-the-Ribs-Push-Dagger",
+  "normalized_name": "between-the-ribs-push-dagger",
+  "nout": 0,
+  "permanent_url": "lbry://Between-the-Ribs-Push-Dagger#7095e384ccc23b706c677bb414c26662e5d45c5a",
+  "short_url": "lbry://Between-the-Ribs-Push-Dagger#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1776651373,
+  "txid": "957b4c87149a08371211a5518f07d5cf86b6416000279c97373a2071246e09f5",
+  "type": "claim",
+  "value": {
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1672938260",
+    "source": {
+      "hash": "71086277163b157fd73d18061358fadae1f96d3ae4f0f5f3ba5a098656f78c59005d61536b94f234d030a69d868aa2cb",
+      "media_type": "application/zip",
+      "name": "Test.zip",
+      "sd_hash": "7b1265d903cdc284f4ae18cbd8dc367459463ca0bc3fb522ab5c8f35fa07312afe2659c742927bfbeccb805fcfc184f1",
+      "size": "1074690"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "c:disable-comments",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-video",
+      "c:disable-download",
+      "c:unlisted"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/048d6a75021b6c83ddf0c193c1f175ec.webp"
+    },
+    "title": "Test"
+  },
+  "value_type": "stream"
+}
