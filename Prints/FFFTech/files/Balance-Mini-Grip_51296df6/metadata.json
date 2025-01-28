@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.08",
+  "canonical_url": "lbry://@FFFTech#3/Balance-Mini-Grip#5",
+  "claim_id": "51296df6ad325f2f0c10c2c7121dc26d239fee5d",
+  "claim_op": "update",
+  "confirmations": 879085,
+  "height": 1174909,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1174909,
+    "creation_height": 923554,
+    "creation_timestamp": 1614931343,
+    "effective_amount": "0.08",
+    "expiration_height": 3277309,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 923554
+  },
+  "name": "Balance-Mini-Grip",
+  "normalized_name": "balance-mini-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Balance-Mini-Grip#51296df6ad325f2f0c10c2c7121dc26d239fee5d",
+  "short_url": "lbry://Balance-Mini-Grip#5",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1654988118,
+  "txid": "fc6326f2b163491d187f89977669ea0d140dfd58c9574217e4388ab38771ce79",
+  "type": "claim",
+  "value": {
+    "description": "A basic slim and compact grip for the AR-15. (And other compatible firearms) The design was created to have a grip angle of 20°; between A2's 25° and Magpul K2's 17° grip angles. In theory, this should allow for most people to have a comfortable grip, whether prone or offhand shooting. This grip is a shortened version of the original Balance Grips, and is designed for people with smaller hands and(or) those that wish to have their AR-15 as compact as possible.\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent\n\n1x Safety Selector Detent Spring",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1614931248",
+    "source": {
+      "hash": "8feb60774a518b72f1182846923bcdf4aa60ca4dbf449d0efa8d3fcb01178e1d54a89950e7440498e8f14e7edd2d1dc3",
+      "media_type": "application/zip",
+      "name": "Balance Mini Grip.zip",
+      "sd_hash": "b38d4b6d679cbb448bab6c20717be86bad1c3868cf3b1722b145380ac40ecae27e9b6a4d9c8c3a7b65b541898edb1ad6",
+      "size": "6718121"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printed",
+      "ar15",
+      "compact",
+      "firearms",
+      "grip"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/4/d812c5b4278a0819.jpg"
+    },
+    "title": "Balance Mini Grip"
+  },
+  "value_type": "stream"
+}
