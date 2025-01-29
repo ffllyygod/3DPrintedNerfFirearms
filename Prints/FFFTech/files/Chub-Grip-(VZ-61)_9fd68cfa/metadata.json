@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Chub-Grip-(VZ-61)#9",
+  "claim_id": "9fd68cfab69c67eccaba0b2c23d81f21ff6329b1",
+  "claim_op": "create",
+  "confirmations": 118648,
+  "height": 1935316,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1935316,
+    "creation_height": 1935316,
+    "creation_timestamp": 1767997365,
+    "effective_amount": "0.001",
+    "expiration_height": 4037716,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1935790
+  },
+  "name": "Chub-Grip-(VZ-61)",
+  "normalized_name": "chub-grip-(vz-61)",
+  "nout": 0,
+  "permanent_url": "lbry://Chub-Grip-(VZ-61)#9fd68cfab69c67eccaba0b2c23d81f21ff6329b1",
+  "short_url": "lbry://Chub-Grip-(VZ-61)#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1767997365,
+  "txid": "34d0a6dd8c247519efdcd314812707d00cc2e262d964bce47cde202e1e87497b",
+  "type": "claim",
+  "value": {
+    "description": "Chub Grip (VZ-61 Skorpion): Laffs\n\nRound sided grip for the VZ-61 Skorpion, with an elongated toe for a more comfortable fit in the hand. \n\nComes in three varieties:\n\n *Standard\n *Ribbed\n *Ridged\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 50%+\nSupport Material Percentage: 20%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1767996883",
+    "source": {
+      "hash": "b30d1b883305ae85064146ff43e5a8cb47480bbd20be931f06304d61df448d058d331247701498a034d7278e56772db4",
+      "media_type": "application/zip",
+      "name": "Chub Grip (VZ-61).zip",
+      "sd_hash": "9cb1ba433c1f47d0c0f270a43fd66de87f03bd5a9ea346099c9d35bd737a2cfb851bf6adde7c4e6d7765a910fefef554",
+      "size": "15061336"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "vz61",
+      "grip",
+      "chub",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/577f65457b09dfbd55ad54dee9c48967.webp"
+    },
+    "title": "Chub Grip (VZ-61)"
+  },
+  "value_type": "stream"
+}
