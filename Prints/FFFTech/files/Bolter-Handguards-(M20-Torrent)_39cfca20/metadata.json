@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Bolter-Handguards-(M20-Torrent)#3",
+  "claim_id": "39cfca20d6a0b9439c6e53cf65ada4464aeb8673",
+  "claim_op": "create",
+  "confirmations": 56646,
+  "height": 1997318,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1997318,
+    "creation_height": 1997318,
+    "creation_timestamp": 1774299035,
+    "effective_amount": "0.001",
+    "expiration_height": 4099718,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1997318
+  },
+  "name": "Bolter-Handguards-(M20-Torrent)",
+  "normalized_name": "bolter-handguards-(m20-torrent)",
+  "nout": 0,
+  "permanent_url": "lbry://Bolter-Handguards-(M20-Torrent)#39cfca20d6a0b9439c6e53cf65ada4464aeb8673",
+  "short_url": "lbry://Bolter-Handguards-(M20-Torrent)#3",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1774299035,
+  "txid": "ed203fbd3c42e8f808b4369f08ad6aaefbcaa8fb00192e3c92672ab49a15b355",
+  "type": "claim",
+  "value": {
+    "description": "Bolter Handguards (M20 Torrent): Laffs Dynamics\n\nHandguards designed for the M20 Torrent, the aesthetics inspired by Warhammer 40K big chunky bolter handguards.\n\nFour model variants are available:\n\n * Short\n * Short, Picatinny Rail\n * Tall\n * Tall, Picatinny Rail\n\n\nThis file pack is for the handguards only. Other printed part files will need to be downloaded from the base design release; link provided \nin the below text.\n\nBase M20 Torrent files can be found on Odysee: \n\nOdysee: https://odysee.com/@ProSpaceDog:b/M20-Torrent:d\n\n\n\nAccreditations:\n\nProSpaceDog: Creator of the M20 Torrent. (MAC-11 based PDW)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "release_time": "1774298977",
+    "source": {
+      "hash": "33d30ffeab27b9303392327deebd3b9d3591bc7105c6705f5e72595c539d592aa408a3d19c3df28d2c8f5793ee8cc623",
+      "media_type": "application/zip",
+      "name": "Bolter Handguards (M20 Torrent).zip",
+      "sd_hash": "f11a3077c9614fe5134cfe387613c9b31095b94fcea1b81ee4d785d68d49d9ace12d90f031c736f0e2e90cdece576aaa",
+      "size": "11320192"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "bolter",
+      "warhammer 40k",
+      "m20 torrent",
+      "c:disable-comments",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/53ce7750725f7d70ed8641b512827a3f.webp"
+    },
+    "title": "Bolter Handguards (M20 Torrent)"
+  },
+  "value_type": "stream"
+}
