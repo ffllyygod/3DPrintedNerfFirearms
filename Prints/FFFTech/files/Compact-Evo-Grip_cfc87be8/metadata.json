@@ -1,0 +1,114 @@
+{
+  "address": "bX4AaQTocinvchotvj6gmG14WdcnPo9p2i",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Compact-Evo-Grip#c",
+  "claim_id": "cfc87be8d067cc098c1802598ed0db28c054df01",
+  "claim_op": "create",
+  "confirmations": 1035586,
+  "height": 1018408,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1018408,
+    "creation_height": 1018408,
+    "creation_timestamp": 1629961899,
+    "effective_amount": "0.01",
+    "expiration_height": 3120808,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1018408
+  },
+  "name": "Compact-Evo-Grip",
+  "normalized_name": "compact-evo-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Compact-Evo-Grip#cfc87be8d067cc098c1802598ed0db28c054df01",
+  "short_url": "lbry://Compact-Evo-Grip#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1629961899,
+  "txid": "8e36df69ed007a68073ffe1a3bc44aa48943a0aeaab179500c3ea6908d1e2912",
+  "type": "claim",
+  "value": {
+    "description": "3FTech Compact Evo Grip: FFFTech/FFFTechnology\n\nA variant of the Balance Mini Grip, designed for the AWCY? Scz0rpion and OEM CZ Scorpion Evo 3. \n\n\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 54C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .14mm\nWall Thickness: .40 \nWall Perimeters: 4 - 5\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\nPrint the grip upside-down.\n\n\n\nHardware Required:\n\n1x M4x30mm Bolt\n\n1x M4 Hex Nut\n\n\n\nAccreditation: \n\n*justinhates: For the model request and instruction of specific design variations. \n\n*Insertmeow: Original designer of the CZ Sczorpion MOE Grips, which this design uses the top portion of his grip model.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1629961745",
+    "source": {
+      "hash": "eb70eb0a846278e073b1d2824288340abf926129c03c17027dcca8fd69c0a61fe6f9d61701eaf5605ce4b1127658bed7",
+      "media_type": "application/zip",
+      "name": "Compact Evo Grip.zip",
+      "sd_hash": "1af5168d1da523b9c24fd99e72bcca0750d343f86be2b9dc15e46ab4ccd6f8ff60b38211a10ae707ab9772c10bd28f88",
+      "size": "2932862"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "cz",
+      "scorpion",
+      "grip"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/d/a2939eff69b26536.png"
+    },
+    "title": "3FTech Compact Evo Grip"
+  },
+  "value_type": "stream"
+}
