@@ -1,0 +1,114 @@
+{
+  "address": "bRAqdckMXivk92E243sfAeou3oGG6Wgxr5",
+  "amount": "0.02",
+  "canonical_url": "lbry://@FFFTech#3/Close-Quarters-Evo-Grip#4",
+  "claim_id": "4c3358af3d28fb0b88c3bf2d1a1d5184dfb58300",
+  "claim_op": "update",
+  "confirmations": 851542,
+  "height": 1202452,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1202452,
+    "creation_height": 1196107,
+    "creation_timestamp": 1658400842,
+    "effective_amount": "0.02",
+    "expiration_height": 3304852,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1196107
+  },
+  "name": "Close-Quarters-Evo-Grip",
+  "normalized_name": "close-quarters-evo-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Close-Quarters-Evo-Grip#4c3358af3d28fb0b88c3bf2d1a1d5184dfb58300",
+  "short_url": "lbry://Close-Quarters-Evo-Grip#4",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659419938,
+  "txid": "45cf780aaa3febc4427557df92dd8fb0234fec0ef0a4336b486b51dcd3f1b09e",
+  "type": "claim",
+  "value": {
+    "description": "Close Quarters Evo Grip (CZ Scorpion Evo 3): Laffs Dynamics\n\nA large, curved, forward angle grip for use in close quarters engagements. Has .5mm wrap ridging around the front section. \n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\nPrint the grip upside-down.\n\n\nHardware Required:\n\n1x M4x30mm Bolt (Can be ground down to 28mm, so it doesn't stick out the side)\n\n1x M4 Hex Nut",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1658400468",
+    "source": {
+      "hash": "9241e41783c7839e2e36970ba38a6723b6b8fd04e71e058dd85907495f19b5ad30da59d45a21f360fe06344975b8c757",
+      "media_type": "application/zip",
+      "name": "Close Quarters Evo Grip.zip",
+      "sd_hash": "4b3689fc669cb8d34d6e52171f9bb85afc9278abb83f94a06c1e23b1418e66dff8472e8328bbf143c906e7ca0629d858",
+      "size": "8699100"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "cz",
+      "firearms",
+      "grip",
+      "scorpion"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/4/bae31b564604e6ff.png"
+    },
+    "title": "Close Quarters Evo Grip (CZ Scorpion Evo 3)"
+  },
+  "value_type": "stream"
+}
