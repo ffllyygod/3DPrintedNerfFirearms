@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/ContemptLite#0",
+  "claim_id": "0ca6e663fee1fa6d02e5ee3c3a5da2abc6ae435d",
+  "claim_op": "create",
+  "confirmations": 612372,
+  "height": 1441609,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1441609,
+    "creation_height": 1441609,
+    "creation_timestamp": 1697387946,
+    "effective_amount": "0.001",
+    "expiration_height": 3544009,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1442313
+  },
+  "name": "ContemptLite",
+  "normalized_name": "contemptlite",
+  "nout": 0,
+  "permanent_url": "lbry://ContemptLite#0ca6e663fee1fa6d02e5ee3c3a5da2abc6ae435d",
+  "short_url": "lbry://ContemptLite#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1697387946,
+  "txid": "319f02c9d90008dab0ca4d00a2a2eada85f49e85b29c9b51195c0de564ff8651",
+  "type": "claim",
+  "value": {
+    "description": "Contempt Lightweight: Laffs Dynamics\n\nA tool for puncturing soft flesh sections such as the human neck, stomach, under the ribcage, etc. \n\nLess of a \"dagger\" and more of a stake. Lightweight version of the original Laffs Dynamics Contempt Puncture Tool. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 60%+\n\n\n\nBan firearms all you want, the populous will always find a way to kill eachother...",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1697387815",
+    "source": {
+      "hash": "bf09e26ffc564bdedfe0281df5fa4c67699ea73df4bb3d54839dbcf6dee097e611b4873c467f2de97440976d936624d3",
+      "media_type": "application/zip",
+      "name": "Contempt Lightened.zip",
+      "sd_hash": "d2984bdec02548e75a7256fd020f384d79c60d74bc497c0b0bc3f093bda522c217cc93efa31ccdd6cc2091fb00c45b97",
+      "size": "429908"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "melee",
+      "puncture",
+      "tool",
+      "undetectable"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/aa70de0a9db1af2d4cfadd21c07033d1.webp"
+    },
+    "title": "Contempt Lightweight"
+  },
+  "value_type": "stream"
+}
