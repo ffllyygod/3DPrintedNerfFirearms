@@ -1,0 +1,114 @@
+{
+  "address": "bS2sVrG2kPazsREVzkTkmYikcC1iSmMTvC",
+  "amount": "0.1",
+  "canonical_url": "lbry://@FFFTech#3/Cross-Cut-1911-Grip-Set#5",
+  "claim_id": "576c7d3c4664eeafdeb9c98d04be4fa0702351e0",
+  "claim_op": "create",
+  "confirmations": 967151,
+  "height": 1086843,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1086843,
+    "creation_height": 1086843,
+    "creation_timestamp": 1640875858,
+    "effective_amount": "0.1",
+    "expiration_height": 3189243,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1086843
+  },
+  "name": "Cross-Cut-1911-Grip-Set",
+  "normalized_name": "cross-cut-1911-grip-set",
+  "nout": 0,
+  "permanent_url": "lbry://Cross-Cut-1911-Grip-Set#576c7d3c4664eeafdeb9c98d04be4fa0702351e0",
+  "short_url": "lbry://Cross-Cut-1911-Grip-Set#5",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1640875858,
+  "txid": "0b3ef7bf872edbd68408001d255411a06e76ec58873c16a7f1f5d9c345bc6af9",
+  "type": "claim",
+  "value": {
+    "description": "Cross Cut 1911 Grip Panels: FFFTech/FFFTechnology\n\nA grip panel set for M1911 pistols (and compatible variants) with an interconnected cross pattern.\n\n \nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 4 - 6\nInfill: 20% - 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\n\nHardware Needed:\n\n4x 1911 Grip Panel Screws\n\n\nAccreditations:\n\nGW-DD: Printed and assembled the grip panels onto their 1911. Provided images of the panels by themselves, as well as on the firearm. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1640875344",
+    "source": {
+      "hash": "93a7cc91084d6d6ade7fd6a00e26388dd5558de7b38d0f9c1cf2bdab5668c474e7b9475f1ad35f7a8fe42e8eade77450",
+      "media_type": "application/zip",
+      "name": "Cross Cut 1911 Grip Set.zip",
+      "sd_hash": "76435ab5b7ff7942ac3a35e9c3f0d8c7fed2f9920f6784be543594225d8ae0f214149dc2c4845c7015e8a37a27a25a67",
+      "size": "9198376"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "1911",
+      "grips",
+      "cross"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/e/ddaee13e7aab324b.jpg"
+    },
+    "title": "Cross Cut 1911 Grip Panels"
+  },
+  "value_type": "stream"
+}
