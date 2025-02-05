@@ -1,0 +1,110 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Contempt#b",
+  "claim_id": "bcca54d645ff9c74782adad3f8d04ab539033fa1",
+  "claim_op": "create",
+  "confirmations": 687468,
+  "height": 1366513,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1366513,
+    "creation_height": 1366513,
+    "creation_timestamp": 1685366481,
+    "effective_amount": "25.001",
+    "expiration_height": 3468913,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "25.0",
+    "take_over_height": 1367924
+  },
+  "name": "Contempt",
+  "normalized_name": "contempt",
+  "nout": 0,
+  "permanent_url": "lbry://Contempt#bcca54d645ff9c74782adad3f8d04ab539033fa1",
+  "short_url": "lbry://Contempt#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1685366481,
+  "txid": "1893f8f9fa956c9977b422b774ac00c7386d4eb62b11a6d3c0cc510db3866182",
+  "type": "claim",
+  "value": {
+    "description": "Contempt: Laffs Dynamics\n\nA tool for puncturing soft flesh sections such as the human neck, stomach, under the ribcage, etc. \n\nLess of a \"dagger\" and more of a stake. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 60%+\n\n\n\nOnce the witness changed their story, I knew I secured my freedom.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1685366201",
+    "source": {
+      "hash": "a559e6335a78293e04a88e6594eb691bf0abaafbd2d58ff83c89c12f37bba59bbeed27832cba30f38975c8ce067a086e",
+      "media_type": "application/zip",
+      "name": "Contempt.zip",
+      "sd_hash": "7fd6fcbcd3a7fadcb5af65a1e79f18cf0a5b18dc33386a663243e3615e02195f4751e1bee8b531937b3ca3d7623e81b6",
+      "size": "602196"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/fa0033e7ca690aef5a9665ec53f92e26.webp"
+    },
+    "title": "Contempt"
+  },
+  "value_type": "stream"
+}
