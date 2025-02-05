@@ -1,0 +1,114 @@
+{
+  "address": "bHT4d6ZmJBPJdyAfeGJszBRa1pZUaVXnXw",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Dynamic-Dong-M-Lok-Flat-Mount#0",
+  "claim_id": "0894265b3ec324a1c5a3fbc76391b8b3103f4dca",
+  "claim_op": "create",
+  "confirmations": 812023,
+  "height": 1241971,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1241971,
+    "creation_height": 1241971,
+    "creation_timestamp": 1665764118,
+    "effective_amount": "0.01",
+    "expiration_height": 3344371,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1241971
+  },
+  "name": "Dynamic-Dong-M-Lok-Flat-Mount",
+  "normalized_name": "dynamic-dong-m-lok-flat-mount",
+  "nout": 0,
+  "permanent_url": "lbry://Dynamic-Dong-M-Lok-Flat-Mount#0894265b3ec324a1c5a3fbc76391b8b3103f4dca",
+  "short_url": "lbry://Dynamic-Dong-M-Lok-Flat-Mount#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1665764118,
+  "txid": "2a76018cb2b75ea833d12c5d351987904e2e030d22878f18b25050608a6ead76",
+  "type": "claim",
+  "value": {
+    "description": "DYNAMIC DONG M-Lok Flat Mount AFGs: Laffs Dynamics\n\nVariants of the original Dynamic Dong M-Lok AFGs, designed for mounting on flat faced / non rounded handguards. \n\nComes in two variants, both with two sub variants: \n\n* Dong Dangler\n    - Ribbed Dangler\n\n* Lil Silly\n    - Ribbed Silly\n\nYou can figure out which one's are longer :D \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .14mm+\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 28%+\nSupport Material Percentage: 18%\n\nPrint the dong upside down. \n\n\n\nHardware Required:\n\n2x M5x10 Hex Socketed Machine Screw/Bolt\n\n2x M-Lok T-Nuts (Be sure both bolt & nut are the same thread pitch.)\n\n\n\nDeveloper's Notes:\n\n*During the original development of the Dynamic Dong, the model variants were actually called the Hung 'n Slung, and the Chode; instead \nof their released \"family friendly\" designations. \n\n*I was giggled at when I originally asked around for ppl's AK dong dims, so I had Chairmanwon do it for me. Not surprisingly, ppl \nstraight up gave him the data needed. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1665763703",
+    "source": {
+      "hash": "0f7b27263f074f545906b6e09eae3c44561ea46ec434dcfd919578f2d0523f2822f8576fb58b292a2ac66ef4561cb11b",
+      "media_type": "application/zip",
+      "name": "Dynamic Dong M-Lok Flat Mount.zip",
+      "sd_hash": "883eab06bd8f354a8b2f17de1e87862b4de2cd238b60ecfb5b1920d6b91df2d73a74d93db52fcc2e62884079eb3975b3",
+      "size": "6000749"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "dong",
+      "mlok",
+      "ak"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/7/b29432e61a75031f.png"
+    },
+    "title": "DYNAMIC DONG M-Lok Flat Mount AFGs"
+  },
+  "value_type": "stream"
+}
