@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Cross-Cut-Panels-(OK-Zoomer)#0",
+  "claim_id": "040d8c008c9c16014db7840e853ba23b8b2cf3ef",
+  "claim_op": "create",
+  "confirmations": 295553,
+  "height": 1758417,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1758417,
+    "creation_height": 1758417,
+    "creation_timestamp": 1743174046,
+    "effective_amount": "0.001",
+    "expiration_height": 3860817,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1758497
+  },
+  "name": "Cross-Cut-Panels-(OK-Zoomer)",
+  "normalized_name": "cross-cut-panels-(ok-zoomer)",
+  "nout": 0,
+  "permanent_url": "lbry://Cross-Cut-Panels-(OK-Zoomer)#040d8c008c9c16014db7840e853ba23b8b2cf3ef",
+  "short_url": "lbry://Cross-Cut-Panels-(OK-Zoomer)#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1743174046,
+  "txid": "ecdd26f54b7cf4641c93f9688ea1bf895c0053f305f7016936f40e9a9adfef24",
+  "type": "claim",
+  "value": {
+    "description": "Cross Cut Grip Panels (OK Zoomer): Laffs Dynamics\n\nGrip panels for the OK Zoomer 3D printed pistol frame. Has deep, diagonal, intersecting cuts that form a large diamond pattern. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Perimeters: 7+ \nInfill: 65%+\nSupport Material Percentage: 18%\n\n\n\nBase OK Zoomer pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/OK-ZOOMER:b\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nGhostgunsrspooky & Uberclay: Creators of the OK Zoomer pistol frame.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1743173930",
+    "source": {
+      "hash": "79fba4278368b95038b239feaf5424717dc640dc31c7e12596441219596462a64b3e65de0377ff9a78293aa718a408d4",
+      "media_type": "application/zip",
+      "name": "Cross Cut Panels (OK Zoomer).zip",
+      "sd_hash": "3c8937fbda451f18677200fa5ac0ed1644b89e6854de4b45ed8f33caefe3368fc0dce601e4e3055e1cc91a8ca0abeafb",
+      "size": "3048458"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ok zoomer",
+      "grip panels",
+      "cross cut",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ff16dbac536f0c3bf6a77255df6ee4aa.webp"
+    },
+    "title": "Cross Cut Panels (OK Zoomer)"
+  },
+  "value_type": "stream"
+}
