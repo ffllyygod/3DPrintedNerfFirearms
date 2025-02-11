@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/EndlessNightRpk#c",
+  "claim_id": "c227369e0f33546495ef6824c57ebb9d2f91d499",
+  "claim_op": "create",
+  "confirmations": 422581,
+  "height": 1631389,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1631389,
+    "creation_height": 1631389,
+    "creation_timestamp": 1725513471,
+    "effective_amount": "0.001",
+    "expiration_height": 3733789,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1631992
+  },
+  "name": "EndlessNightRpk",
+  "normalized_name": "endlessnightrpk",
+  "nout": 0,
+  "permanent_url": "lbry://EndlessNightRpk#c227369e0f33546495ef6824c57ebb9d2f91d499",
+  "short_url": "lbry://EndlessNightRpk#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1725513471,
+  "txid": "e4cfef1c717df2cfb78d2c17787e83f04bed398fbd9a491e8764d2b9af799f62",
+  "type": "claim",
+  "value": {
+    "description": "Endless Night Push Dagger (REPACK): Laffs\n\nGrimdark inspired, it's usage for the brutal reality we live in. \n\nHas a curved spear point for ease of penetrating light clothing and sliding between bones. Widens at the guard to expand the entrance of the wound \nchannel for increasing bleedout potential.\n\nComes in two variants:\n\n *Standard Edge\n *Serrated Edge\n\n\nUpdate: Serrated design variant has been added to the data pack.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 65%+",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1725513422",
+    "source": {
+      "hash": "7e8c653a25ee83a9323704f82432b316abbdb2e0cad67fc08ab6c0c93f035c95687113573d5af4663bccb9f33abc6484",
+      "media_type": "application/zip",
+      "name": "Endless Night Push Dagger (REPACK).zip",
+      "sd_hash": "7969d9519b1fcdd0dd7dc4667142e67806c4da16e7526c6e8b22dfd3bbf5474a3e9bcd30040627cfe55332bb7a2e3664",
+      "size": "2640710"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "melee",
+      "push dagger",
+      "endless night",
+      "dagger",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d26e70097068d97fe02e677b98f6b477.webp"
+    },
+    "title": "Endless Night Push Dagger (REPACK)"
+  },
+  "value_type": "stream"
+}
