@@ -1,0 +1,114 @@
+{
+  "address": "bVDVym9Cka99Z2j7wYkgTkjBmuu91jrmMZ",
+  "amount": "0.1",
+  "canonical_url": "lbry://@FFFTech#3/Dynamic-Dong-M-Lok-Foregrips#0",
+  "claim_id": "05e73a738a8a840af2eb1a81bca484e1be76b569",
+  "claim_op": "update",
+  "confirmations": 829707,
+  "height": 1224287,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1224287,
+    "creation_height": 1045586,
+    "creation_timestamp": 1634282831,
+    "effective_amount": "0.1",
+    "expiration_height": 3326687,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1045586
+  },
+  "name": "Dynamic-Dong-M-Lok-Foregrips",
+  "normalized_name": "dynamic-dong-m-lok-foregrips",
+  "nout": 0,
+  "permanent_url": "lbry://Dynamic-Dong-M-Lok-Foregrips#05e73a738a8a840af2eb1a81bca484e1be76b569",
+  "short_url": "lbry://Dynamic-Dong-M-Lok-Foregrips#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1662918474,
+  "txid": "6511e53d5264d69e6f2abf224f696a57019de8d00f190c2a3216d46edde84750",
+  "type": "claim",
+  "value": {
+    "description": "DYNAMIC DONG M-Lok AFGs V1.0.1: Laffs Dynamics\n\nAn angled foregrip that mimics the PM md. 63's unique forward-pointing front handgrip, known to many as the \"Dong\" grip. \n\nThis design is created to mount to M-Lok, essentially allowing attachment to any compatible forend on AKs; \nand any other weapons with M-Lok slotted forends. The main benefit of this design is one can have a \"dong\" grip with \nthe ability to mount it further forward on an AK, allowing easier insertion of 30+ round mags without the issue of \nslamming the bottom of the mag into the foregrip, such is the problem with original Romanian \"dong\" foregrips.\n\nComes in two variants, both with two sub variants: \n\n* Dong Dangler\n    - Ribbed Dangler\n\n* Lil Silly\n    - Ribbed Silly\n\nYou can figure out which one's are longer :D \n\n\nUpdate V1.0.1: Added information stating this design is specifically an angled foregrip. \n\n\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 55C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .14mm\nWall Thickness: .40 \nWall Perimeters: 4 - 5\nInfill: 28%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 30%\n\nPrint the dong upside down. \n\n\n\nHardware Required:\n\n2x M5x10 Hex Socketed Machine Screw/Bolt\n\n2x M-Lok T-Nuts (Be sure both bolt & nut are the same thread pitch.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1662918088",
+    "source": {
+      "hash": "aa2f31f3943d5246c528a9f9aa4ce5dcf06087318d7d567c37691b466a7946cc36e98812cae1ae2a57df26a2546df626",
+      "media_type": "application/zip",
+      "name": "Dynamic Dong M-Lok Foregrips V1.0.1.zip",
+      "sd_hash": "54c9389a0dc991b7471d5e68c6a70c17aa9c8f59810de78d56187effc9ad59ed770d0eca4ca5da02499e371b057ba188",
+      "size": "15151934"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "dong",
+      "firearms",
+      "foregrip",
+      "mlok"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/d/b3e9cd7ce2402266.png"
+    },
+    "title": "DYNAMIC DONG M-Lok AFGs V1.0.1"
+  },
+  "value_type": "stream"
+}
