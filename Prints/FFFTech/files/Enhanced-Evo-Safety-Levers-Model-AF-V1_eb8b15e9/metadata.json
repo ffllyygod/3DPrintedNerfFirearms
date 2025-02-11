@@ -1,0 +1,114 @@
+{
+  "address": "bELMyp11BK47c5vZV4XM8EhvQ6gkahLmGR",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Enhanced-Evo-Safety-Levers-Model-AF-V1#e",
+  "claim_id": "eb8b15e9ac834361fc54ea1cba8c0d3bde209fa8",
+  "claim_op": "update",
+  "confirmations": 849555,
+  "height": 1204439,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1204439,
+    "creation_height": 1099743,
+    "creation_timestamp": 1642946065,
+    "effective_amount": "0.001",
+    "expiration_height": 3306839,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1099743
+  },
+  "name": "Enhanced-Evo-Safety-Levers-Model-AF-V1",
+  "normalized_name": "enhanced-evo-safety-levers-model-af-v1",
+  "nout": 0,
+  "permanent_url": "lbry://Enhanced-Evo-Safety-Levers-Model-AF-V1#eb8b15e9ac834361fc54ea1cba8c0d3bde209fa8",
+  "short_url": "lbry://Enhanced-Evo-Safety-Levers-Model-AF-V1#e",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659738140,
+  "txid": "e3afc616331b54a1dd54a337fe09472ae430c171a75961a97cd349581d0ca3a1",
+  "type": "claim",
+  "value": {
+    "description": "Enhanced Evo Safety Levers Model-F V1.1.2: FFFTech/FFFTechnology\n\n3D printed safety levers for the CZ Scorpion Evo III. OEM safety levers are known to \ndig into weapon user's index fingers; causing discomfort, and sometimes leading the \nuser to bleed. \n\nThis set places the levers forward and above the index finger, allowing clearance for \na proper firing grip. The safeties are beveled out slightly, and have texturing on the \nlevers for easy manipulation when switching from fire to safe.\n\nUpdate V1.1.2: Changed model designation. Increased selector throw lever thickness by .5mm. \nUpdated print settings for the common used Ender 3 3D printers.\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 4 - 6\nInfill: 32%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\n\n\n\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1653630389",
+    "source": {
+      "hash": "18e013baeb0bdcd741175f46ce45b8c8b95a3a2eaeadac7d34a31bccc5946ec54a0ee56a6aa2267b999f3d85b066fdbe",
+      "media_type": "application/zip",
+      "name": "Enhanced Evo Safety Levers Model-F V1.1.2.zip",
+      "sd_hash": "678d6259671b89ea9a0a8cd520528a91c2e3bd76eb6f6c39b7d4151d2af7aa57aa10ad3f776bcc74c279767e4dd2a72a",
+      "size": "6363453"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "cz",
+      "firearms",
+      "safety",
+      "scorpion"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/f/0eac1bf523327537.jpg"
+    },
+    "title": "Enhanced Evo Safety Levers Model-F V1.1.2"
+  },
+  "value_type": "stream"
+}
