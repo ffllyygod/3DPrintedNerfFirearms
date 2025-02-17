@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Evo-Rear-Picatinny-Mount-V1.1.3-(REUPLOAD)#0",
+  "claim_id": "0efa5ccf0e1abe8021b64450ffaab871abab66e4",
+  "claim_op": "create",
+  "confirmations": 295516,
+  "height": 1758454,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1758454,
+    "creation_height": 1758454,
+    "creation_timestamp": 1743179328,
+    "effective_amount": "0.001",
+    "expiration_height": 3860854,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1758496
+  },
+  "name": "Evo-Rear-Picatinny-Mount-V1.1.3-(REUPLOAD)",
+  "normalized_name": "evo-rear-picatinny-mount-v1.1.3-(reupload)",
+  "nout": 0,
+  "permanent_url": "lbry://Evo-Rear-Picatinny-Mount-V1.1.3-(REUPLOAD)#0efa5ccf0e1abe8021b64450ffaab871abab66e4",
+  "short_url": "lbry://Evo-Rear-Picatinny-Mount-V1.1.3-(REUPLOAD)#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1743179328,
+  "txid": "1584dcb7949553238e4798070474048e0519661130ff6c7351e2df5000ee1e36",
+  "type": "claim",
+  "value": {
+    "description": "Evo Rear Picatinny Mount V1.1.3 (REUPLOAD): Laffs Dynamics\n\nA 3DP back plate for the CZ Scorpion Evo III, with a 5 slot picatinny rail for attaching buttstocks and pistol braces with compatible mounting hardware. \n\n\nUpdate V1.1.3: Reuploaded the original file to Odysee, updated print settings to current designer's standards. Added higher resolution renders to IMAGES \nfolder, added newer CAD based images.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7\nInfill: 50%+\nSupport Material Percentage: 20%\n\nPrint the back plate right side up.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1743179091",
+    "source": {
+      "hash": "2adea15eb16d077e7951d17aa2cff86ebcc89032fb2fce5c828ce0f604a29e5a57ffd33f962a26c4afcdbcf70d83a962",
+      "media_type": "application/zip",
+      "name": "Evo Rear Picatinny Mount V1.1.3 (REUPLOAD).zip",
+      "sd_hash": "1bb813ea0d523b26f70b6c494fe463da21ba769e5399b7c77996570cd23bf3bee18e1ee4dbc9e3d2a57c78d9aa164baa",
+      "size": "9013967"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "evo",
+      "cz",
+      "picatinny"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/fa7cc1f6ea9b7cee7bc9f8e6fb278a99.webp"
+    },
+    "title": "Evo Rear Picatinny Mount V1.1.3 (REUPLOAD)"
+  },
+  "value_type": "stream"
+}
