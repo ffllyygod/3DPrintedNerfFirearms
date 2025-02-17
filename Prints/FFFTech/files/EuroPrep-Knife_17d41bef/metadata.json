@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/EuroPrep-Knife#1",
+  "claim_id": "17d41beff9162a672f17184b409a2b218d9cf715",
+  "claim_op": "create",
+  "confirmations": 214105,
+  "height": 1839859,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1839859,
+    "creation_height": 1839859,
+    "creation_timestamp": 1755125884,
+    "effective_amount": "0.001",
+    "expiration_height": 3942259,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1840389
+  },
+  "name": "EuroPrep-Knife",
+  "normalized_name": "europrep-knife",
+  "nout": 0,
+  "permanent_url": "lbry://EuroPrep-Knife#17d41beff9162a672f17184b409a2b218d9cf715",
+  "short_url": "lbry://EuroPrep-Knife#1",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755125884,
+  "txid": "4cb115ba54dd298b250af6e3e0807e7f6ffa011436a50b5908da55f28b660ac5",
+  "type": "claim",
+  "value": {
+    "description": "EuroPrep Knife: Laffs\n\n3D printed food prep cutlery... yeah that's what it's for... :3\n\nFor the Europeans that need EASILY disposable and untraceable knives used for (long)pig, without the polizei/policja/polis/whatever nabbing it from your home.\n\nYou TOTALLY wouldn't stab someone 5cm above, 5cm - 7cm left or right side of the collarbone with this FOOD PREPERATION KNIFE., CUZ YOU'RE A TOTALLY PEACEFUL \nCONTINENT I'M SURE. NOBODY GETS HURT IN EUROPE, OF ALL PLACES.\n\nTotal Length: 203mm\n\nBlade Length: 111.6mm\n\n\nTHIS IS NOT A WEAPON, ITS FOR FOOD PREPERATION... BUT IF IT WAS USED AS A WEAPON, (Which you won't...) YOU COULD EASILY DISPOSE OF IT WITH A LIGHTER, CANDLE FLAME, \nOR OTHER DISCREET HEATING MEANS IF PRINTED IN PLA+.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 50%+\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1755125926",
+    "source": {
+      "hash": "48c1a2623edbb46af04827f2f586db4ab4145e146d9437ec6e9f9d9aec594800257a38a1b99652e1297452c859543837",
+      "media_type": "application/zip",
+      "name": "EuroPrep Knife.zip",
+      "sd_hash": "674f8c072f3af844d0b9034acf33f8f749a8bbba466e03879772ca75c86e85fd78dc8344d4b32c8af9e4daa6932c39a9",
+      "size": "2132156"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "european",
+      "knife",
+      "dagger",
+      "defence",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6b2b241a9fe52beecdac16dbbc5b5f8d.webp"
+    },
+    "title": "EuroPrep Knife"
+  },
+  "value_type": "stream"
+}
