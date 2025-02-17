@@ -1,0 +1,119 @@
+{
+  "address": "bRAFueEXUs81cvkMkTkunae7Tf18fxD4tr",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Evo-Edgerunner-Grip#a",
+  "claim_id": "a05e6669551c48dbac1bff3452bae93ab7d40cfe",
+  "claim_op": "update",
+  "confirmations": 116415,
+  "height": 1937549,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1937549,
+    "creation_height": 1227002,
+    "creation_timestamp": 1663354234,
+    "effective_amount": "0.01",
+    "expiration_height": 4039949,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1227002
+  },
+  "name": "Evo-Edgerunner-Grip",
+  "normalized_name": "evo-edgerunner-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Evo-Edgerunner-Grip#a05e6669551c48dbac1bff3452bae93ab7d40cfe",
+  "short_url": "lbry://Evo-Edgerunner-Grip#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1768242915,
+  "txid": "6129aa8d458e76282898fa9149be68a83372c64e394006f7611b949f71819e60",
+  "type": "claim",
+  "value": {
+    "description": "Evo Edgerunner Grips (CZ Scorpion Evo 3) (REPACK): Laffs\n\nWake The Fuck Up Samurai; We Have Megacorps To Burn D:<\n\nSkeletonized styled grip for the Scorpion Evo III. Built in reinforcement struts to resist damage against impacts on hard surfaces. \n\nFor those that love to run on the bleeding edge of 3D2A tech.\n\n\nUpdate: Changed geometry at the bottom of the grip, reduced logo size, added previously unreleased variants to the data pack. Updated manufacture \nsettings for increased durability. Updated image folder to include digital renderings outside the CAD environment.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 50%\nSupport Material Percentage: 18%\n\nPrint the grip upside-down.\n\n\n\nHardware Required:\n\n1x M4x30mm Bolt (Can be ground down to 28mm so it doesn't stick out the side)\n\n1x M4 Hex Nut",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1768242762",
+    "source": {
+      "hash": "d5a8d0366e948bb9214e324b6e7ca7e13b022b30cd90a686e6beaa14014ab57443279adfff24dfcd73b8b86eb24db236",
+      "media_type": "application/zip",
+      "name": "Evo Edgerunner Grips (REPACK).zip",
+      "sd_hash": "b12a9d626589e75d366be433e1c1fbeb9b46e595634b235c9867b4229421c4fdb31ebe799ecc7e0d9c56a2cfdbc0a71d",
+      "size": "20794581"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "cz",
+      "evo",
+      "grip",
+      "edgerunner",
+      "cyberpunk",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6479b1b2c63aa049067cba4d55eef240.webp"
+    },
+    "title": "Evo Edgerunner Grips (CZ Scorpion Evo 3) (REPACK)"
+  },
+  "value_type": "stream"
+}
