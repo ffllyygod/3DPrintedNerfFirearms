@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Evo_HG1#f",
+  "claim_id": "f7bf01fc228466c9bc00ed0d36d79b3c5b0dfa57",
+  "claim_op": "create",
+  "confirmations": 660036,
+  "height": 1393945,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1393945,
+    "creation_height": 1393945,
+    "creation_timestamp": 1689759479,
+    "effective_amount": "25.001",
+    "expiration_height": 3496345,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "25.0",
+    "take_over_height": 1400970
+  },
+  "name": "Evo_HG1",
+  "normalized_name": "evo_hg1",
+  "nout": 0,
+  "permanent_url": "lbry://Evo_HG1#f7bf01fc228466c9bc00ed0d36d79b3c5b0dfa57",
+  "short_url": "lbry://Evo_HG1#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1689759479,
+  "txid": "4b32fbf3d1d65aebbd7239c2d8a942f34a9bc4caa2611a69aaa79ba40b7091da",
+  "type": "claim",
+  "value": {
+    "description": "HG-1 (Scorpion Evo III): Laffs Dynamics\n\nFirst Laffs Dynamics handguard design for the CZ Scorpion Evo III SMG/PCC.\n\nInstalls onto your Scorpion Evo III same as the OEM handguard. \n\n\n\nFilament Recommended: Nylon, Carbon Fiber Nylon, Glass Filled Nylon. \n\nPrint Settings:\n\nFirst Layer Print Height: .2mm \nStandard Layer Height: .16\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 80%+\nSupport Material Percentage: 20%\n\n\n\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1689759458",
+    "source": {
+      "hash": "d058e9af5cf3c471cae52f707156e6dde0e390f61581c82004775d570bef0d4972e16fbab7331afcd7968a2989f89a6e",
+      "media_type": "application/zip",
+      "name": "HG-1 (Evo).zip",
+      "sd_hash": "7d3e1a065736d809af44a258f82c2566bf90ea1ef5fc7b84d23413d9b4c8662a4c5d8fdfc11327d5a45da98e479fa266",
+      "size": "1667695"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "scorpion",
+      "evo",
+      "handguard"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/12a1f0b85f003338e9a5ce5676d0f989.webp"
+    },
+    "title": "HG-1 (Scorpion Evo III)"
+  },
+  "value_type": "stream"
+}
