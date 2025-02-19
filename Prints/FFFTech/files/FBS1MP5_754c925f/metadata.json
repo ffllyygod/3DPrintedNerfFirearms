@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/FBS1MP5#7",
+  "claim_id": "754c925ffba0b9344141f43e2ced27df69346b74",
+  "claim_op": "create",
+  "confirmations": 500217,
+  "height": 1553753,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1553753,
+    "creation_height": 1553753,
+    "creation_timestamp": 1714425694,
+    "effective_amount": "0.001",
+    "expiration_height": 3656153,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1553753
+  },
+  "name": "FBS1MP5",
+  "normalized_name": "fbs1mp5",
+  "nout": 0,
+  "permanent_url": "lbry://FBS1MP5#754c925ffba0b9344141f43e2ced27df69346b74",
+  "short_url": "lbry://FBS1MP5#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1714425694,
+  "txid": "537c2acdad18bec1f995886130f93d804be16a0accb36d1a5d5d31392195377f",
+  "type": "claim",
+  "value": {
+    "description": "FBS-1 (MP5): Laffs Dynamics\n\nA traditional styled fixed stock for H&K (Or licensed variants) MP5 SMGs and pistols, and pistol caliber carbines.\n\nSlightly shorter LOP compared to the OEM stock for better use with body armor or heavier clothing. \n\nTested with: \n\n1x Pakistan Ordnance POF-5 Pistol\n1x MKE AP5\n\n(May require slight hand fitment due to MP5 licensed manufacturers using older tooling for their model variants)\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .14mm+\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 50%+\nSupport Material Percentage: 18%\n\n\n\nHardware Required:\n\n1x Choate MP5 Stock Buffer\n\n1x M5x15mm Bolt\n\n2x M3x12mm Bolts",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1714425528",
+    "source": {
+      "hash": "a3e47b69b7de8b588db96501cf97f3af600be2a2ecf0d64b4825266cc498037065f4e6005e343f19ca9c012557b40359",
+      "media_type": "application/zip",
+      "name": "FBS-1 (MP5).zip",
+      "sd_hash": "1b68a8064d8ff7537a53c3bf95a6d9ff64bae87d9968d5511e0676c8cda95240aaadbd893dbd7a74bec1c725425ee9c1",
+      "size": "3696690"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mp5",
+      "stock",
+      "buttstock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/59f19b0cbcf18ce111aefa821c3f512c.webp"
+    },
+    "title": "FBS-1 (MP5)"
+  },
+  "value_type": "stream"
+}
