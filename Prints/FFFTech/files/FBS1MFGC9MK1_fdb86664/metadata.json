@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/FBS1MFGC9MK1#f",
+  "claim_id": "fdb8666410e5955fe73a2d73b60f19e3461d8792",
+  "claim_op": "create",
+  "confirmations": 551940,
+  "height": 1502030,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1502030,
+    "creation_height": 1502030,
+    "creation_timestamp": 1707073117,
+    "effective_amount": "0.001",
+    "expiration_height": 3604430,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1508361
+  },
+  "name": "FBS1MFGC9MK1",
+  "normalized_name": "fbs1mfgc9mk1",
+  "nout": 0,
+  "permanent_url": "lbry://FBS1MFGC9MK1#fdb8666410e5955fe73a2d73b60f19e3461d8792",
+  "short_url": "lbry://FBS1MFGC9MK1#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1707073117,
+  "txid": "7fd4800a149dd90aaa2d9e0ed94538e50bd60ed83d7314de1dd50f6a87c8a2db",
+  "type": "claim",
+  "value": {
+    "description": "FBS-1-M (FGC-9): Laffs Dynamics\n\nReduced material variant of the original Laffs Dynamics FBS-1 FGC-9 Buttstock. \n\n\n\nCompatible with: \n\n*FGC-9\n*FGC-9 MKII \n*Unity 3DP PCC Lower Receiver\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 50%+\nSupport Material Percentage: 18%\n\n\n\nNote: The original FBS-1 FGC-9 Buttstock can be found here: https://defcad.com/library/de62ed54-25d7-46e5-8b3c-9e36aaceb9fc/\n\n\n\nAccreditations:\n\nJStark1809, IvanTheTroll, 3socksandcrocs; Creators of the FGC-9 MKII, used the buffer extension as a base for creating this \ndesign. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1707072810",
+    "source": {
+      "hash": "1051a80cbf5069d2c3ef2588abb4d901e330feb6025af14c0f15c96770fb9b7077d435cdfe666fd2e0e030be57f68a49",
+      "media_type": "application/zip",
+      "name": "FBS-1-M (FGC-9).zip",
+      "sd_hash": "7fbf30517cd762f5f32be0ceba977082e80e845ebd70826af52a5c368e444242aa59afb5fb1e5a82c7c1653479d7ef97",
+      "size": "1469628"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "fgc-9",
+      "stock",
+      "shoulder stock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d0390de29fc9157c6c4ade196421d351.webp"
+    },
+    "title": "FBS-1-M (FGC-9)"
+  },
+  "value_type": "stream"
+}
