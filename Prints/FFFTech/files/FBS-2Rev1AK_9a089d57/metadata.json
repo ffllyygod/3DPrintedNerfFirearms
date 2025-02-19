@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/FBS-2Rev1AK#9",
+  "claim_id": "9a089d57671df5b2dbe63ec0d0d4c1287c71dc89",
+  "claim_op": "create",
+  "confirmations": 628519,
+  "height": 1425462,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1425462,
+    "creation_height": 1425462,
+    "creation_timestamp": 1694801685,
+    "effective_amount": "0.001",
+    "expiration_height": 3527862,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1499575
+  },
+  "name": "FBS-2Rev1AK",
+  "normalized_name": "fbs-2rev1ak",
+  "nout": 0,
+  "permanent_url": "lbry://FBS-2Rev1AK#9a089d57671df5b2dbe63ec0d0d4c1287c71dc89",
+  "short_url": "lbry://FBS-2Rev1AK#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1694801685,
+  "txid": "f6cec7338505964c6184e57c9ae1e0a4a1b68f2785244a50e0f2a3270ea0d836",
+  "type": "claim",
+  "value": {
+    "description": "FBS-2 (AKM) (Rev 1): Laffs Dynamics\n\nRevision of the original Laffs Dynamics FBS-2 AKM Buttstock. Follows the original's design parameter of a higher cheek comb for use \nwith mounted optics. \n\nThis revision is much more aesthetically pleasing, and is much easier to print and assemble.\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 5+\nInfill: 32%\nSupport Material Percentage: 18%\n\n\n\nHardware Needed: \n\n2x M4x10mm - M4x15mm Screws\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1694801573",
+    "source": {
+      "hash": "45e15932a5e28f13739ebb53ac0e1fc97055406272112fa7011d1f7e680b4e0ad71c9236115cd80eadb1ef6aabc9bc53",
+      "media_type": "application/zip",
+      "name": "FBS-2 (AKM) (Rev 1).zip",
+      "sd_hash": "597ba99c6e12fbd410f83198202dc812ad4e2273a309eace6542395716acfa2bf55f069aae8d84d455150bd0e51b4498",
+      "size": "1957512"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "akm",
+      "ak",
+      "buttstock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/43b5f4daa994bd4b44a7246a82eb6fe2.webp"
+    },
+    "title": "FBS-2 (AKM) (Rev 1)"
+  },
+  "value_type": "stream"
+}
