@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/FS-1Rev1#d",
+  "claim_id": "d94c2ed3944b8138c8ff65916fbf664953ae1763",
+  "claim_op": "create",
+  "confirmations": 539203,
+  "height": 1514767,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1514767,
+    "creation_height": 1514767,
+    "creation_timestamp": 1709116090,
+    "effective_amount": "0.001",
+    "expiration_height": 3617167,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1514913
+  },
+  "name": "FS-1Rev1",
+  "normalized_name": "fs-1rev1",
+  "nout": 0,
+  "permanent_url": "lbry://FS-1Rev1#d94c2ed3944b8138c8ff65916fbf664953ae1763",
+  "short_url": "lbry://FS-1Rev1#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1709116090,
+  "txid": "cb5ce9e83720042f8e6f52dfb69fab3bee7c74794ef3ecb7b4b7706cccd76251",
+  "type": "claim",
+  "value": {
+    "description": "FS-1 Rev 1: Laffs Dynamics\n\nRevision of the original Laffs Dynamics FS-1 picatinny attachable buttstock. Much beefier than the original design; extra material around \nthe mounting section, much less material internally towards the rear. \n\nComes in two variants; a four slot mount and five slot taking advantage of some firearms having more picatinny rail space. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 40%+\nSupport Material Percentage: 18%\n\n(Use infill blockers on the inside of the buttstock, as it is semi-hollow.)\n\n\n\nHardware Required:\n\n2x M4x30mm Bolt (Can be ground down to 28mm, so it doesn't stick out the side)\n\n2x M4 Hex Nut",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1709116018",
+    "source": {
+      "hash": "16e3fe2e9657cee05f1b2809135c486c145ffd9adc55dac2b3b0710aaee5410008bf4e17e3d1d817626ee7be9af153d3",
+      "media_type": "application/zip",
+      "name": "FS-1 Rev 1.zip",
+      "sd_hash": "e61e78cf4e4d263c271ad517757a403bb70a947c77283d6c280dd9ea493050a5c49f2d6efc7e6f0f47ed85f21c337ff4",
+      "size": "5294794"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "picatinny",
+      "stock",
+      "revision"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f55db67492787f9a820485b70e973a87.webp"
+    },
+    "title": "FS-1 Rev 1 (Fixed Picatinny Mount Stock)"
+  },
+  "value_type": "stream"
+}
