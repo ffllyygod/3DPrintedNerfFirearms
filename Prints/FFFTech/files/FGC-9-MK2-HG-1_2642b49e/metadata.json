@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/FGC-9-MK2-HG-1#2",
+  "claim_id": "2642b49e52cc54bba711ae4eca50749384e4f9cc",
+  "claim_op": "create",
+  "confirmations": 722957,
+  "height": 1331024,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1331024,
+    "creation_height": 1331024,
+    "creation_timestamp": 1679696024,
+    "effective_amount": "0.001",
+    "expiration_height": 3433424,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1340806
+  },
+  "name": "FGC-9-MK2-HG-1",
+  "normalized_name": "fgc-9-mk2-hg-1",
+  "nout": 0,
+  "permanent_url": "lbry://FGC-9-MK2-HG-1#2642b49e52cc54bba711ae4eca50749384e4f9cc",
+  "short_url": "lbry://FGC-9-MK2-HG-1#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1679696024,
+  "txid": "8622f01bc96ce2a1291012471619268b149757eddf3f2a704924d4c493a0b30f",
+  "type": "claim",
+  "value": {
+    "description": "HG-1 (FGC-9 MKII): Laffs Dynamics\n\nSecond Laffs Dynamics handguard design for the FGC-9 weapon platform. \n\nSpecifically for the MKII, simplistic in design.\n\nWide open ended design, the M-Lok slots acting as ventilation of heat. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 38%+\nSupport Material Percentage: 20% \n\nPrint the handguard on it front face. \n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@TheGatalog-HybridDesigns:0/FGC-9_MkII_Rev1:f)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1679695928",
+    "source": {
+      "hash": "1f5956e3dcc8d129bc335b12525a0b4a14dc9c1cd6b2ab657df1fa89fa5b2035030b9735c64d9fc271d930341623dd02",
+      "media_type": "application/zip",
+      "name": "FGC-9 MK2 HG-1.zip",
+      "sd_hash": "dbb6e7b13aa5b67d04ce601c9942c50f6d5437379ed4f76dc6274363a5b5e88a90c9be62414b76f02b9f246ac325be67",
+      "size": "1205233"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "fgc9",
+      "fgc-9",
+      "pcc"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3b63f034817c571584d03bc85aead8b8.webp"
+    },
+    "title": "FGC-9 MK2 HG-1"
+  },
+  "value_type": "stream"
+}
