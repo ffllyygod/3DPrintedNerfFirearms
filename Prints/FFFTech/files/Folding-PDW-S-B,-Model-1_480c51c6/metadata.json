@@ -1,0 +1,114 @@
+{
+  "address": "bTjg33dWMLc3yuNLWPBzjUZHx5EY3hVYxn",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Folding-PDW-S-B,-Model-1#4",
+  "claim_id": "480c51c6f19559da67d573299ab60dbff8ef527b",
+  "claim_op": "update",
+  "confirmations": 742908,
+  "height": 1311086,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1311086,
+    "creation_height": 1064268,
+    "creation_timestamp": 1637254819,
+    "effective_amount": "0.01",
+    "expiration_height": 3413486,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1064268
+  },
+  "name": "Folding-PDW-S-B,-Model-1",
+  "normalized_name": "folding-pdw-s-b,-model-1",
+  "nout": 0,
+  "permanent_url": "lbry://Folding-PDW-S-B,-Model-1#480c51c6f19559da67d573299ab60dbff8ef527b",
+  "short_url": "lbry://Folding-PDW-S-B,-Model-1#4",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676493490,
+  "txid": "8fa209b63bc12e77b67ba717243ded0f06c02e446561b36903540a99a4472267",
+  "type": "claim",
+  "value": {
+    "description": "PDW S/B, Model 1 V1.3.2: Laffs Dynamics\n\nA short length of pull, folding stock/brace. Mounts via 4+ slot picatinny rail. Either a blade style brace, \nor buttstock can be fitted in the rear socket of the folding arm. \n\n\nUpdate V1.3.2: Redesignated design name. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5\nInfill: 50%\nInfill Pattern: Gyroid\nSupport Material Percentage: 20%\n\n\nHardware Needed: \n\n1x M6x40mm Bolt\n1x 8mm x 20mm Spring (Ender 3 Bed Spring)\n\n\nNotes: \n\n1) The M6x40mm bolt should simply pass through the hinge of the folding arm. Should the threads cut into \nthe hinge, dremel out the hole slightly until the bolt passes through. The bolt should only thread into the \nfolding mech mount's top and bottom hinge points. Be sure not to overtighten the bolt, otherwise the hinge \npoints could flex and squeeze together, binding the folding arm and not allowing it to articulate. \n\n2) If the spring is too tight, simply cut off a coil to reduce pressure on the mechanism. \n\n\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1671718004",
+    "source": {
+      "hash": "825e17195fe9e9318293feff849ce454fa783b70dc0be2fa21c144615494e8ecd449bbe6f6117f2f2d6475b6f6781cd0",
+      "media_type": "application/zip",
+      "name": "PDW S-B, Model 1 Delta 1 V1.0.1.zip",
+      "sd_hash": "155ec4f210a7aa326571d6ccb97fbf317fb2a8b731136d81fa5b5d6f4951044a82f9dd5802223a101548e9b0c4c0eb79",
+      "size": "4263577"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "buttstock",
+      "firearms",
+      "folding",
+      "picatinny"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/a/bf79fff8ee693d49.png"
+    },
+    "title": "PDW S/B, Model 1 V1.3.2"
+  },
+  "value_type": "stream"
+}
