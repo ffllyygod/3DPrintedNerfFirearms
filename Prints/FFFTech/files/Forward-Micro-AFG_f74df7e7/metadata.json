@@ -1,0 +1,114 @@
+{
+  "address": "bRP1NExoGGawuDgfWFw8xbnxxro1qHAghf",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Forward-Micro-AFG#f",
+  "claim_id": "f74df7e7272f8d239a04f9a9dd7599096fc3e509",
+  "claim_op": "create",
+  "confirmations": 970926,
+  "height": 1083068,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1083068,
+    "creation_height": 1083068,
+    "creation_timestamp": 1640267840,
+    "effective_amount": "0.01",
+    "expiration_height": 3185468,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1083068
+  },
+  "name": "Forward-Micro-AFG",
+  "normalized_name": "forward-micro-afg",
+  "nout": 0,
+  "permanent_url": "lbry://Forward-Micro-AFG#f74df7e7272f8d239a04f9a9dd7599096fc3e509",
+  "short_url": "lbry://Forward-Micro-AFG#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1640267840,
+  "txid": "22f4dd1bfe93a97251a54523687228ab9f074a2a29e2b5f22c9b4d0aba2ca17f",
+  "type": "claim",
+  "value": {
+    "description": "Forward Micro M-Lok AFG: FFFTech/FFFTechnology\n\nA micro AFG, designed for compact PDWs such as:\n\n *Sig MCX Rattler\n *SP5K (if using M-Lok Handguard)\n *CZ Scorpion EVO 3 S2 Pistol Micro\n *Ruger PC Charger\n\nAlso the design works well for AK \"Kink\" builds that use M-Lok forends, as the insertion/removal of mags can be \ndifficult with a full sized foregrip.\n\nThis AFG is angled 70° forwards, legally allowing it to be used on pistols. \n\nComes in four varieties: \n\n *Standard\n *Wrap Ridged\n *Ridged\n *Perforated\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 216C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .14mm\nWall Thickness: .40mm\nWall Perimeters: 4 - 5\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 24%\n\nPrint the AFG upside down.\n\nHardware Needed: \n\n2x M5x10 Hex Socketed Machine Screw/Bolt\n\n2x M-Lok T-Nuts (Be sure both bolt & nut are the same thread pitch.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1640267613",
+    "source": {
+      "hash": "600467cdeb7599eefd5073eb3f8c0d7fe32bab462cbd7a109423ed0866825880cbc764a8413fe1f0a73086581e69e306",
+      "media_type": "application/zip",
+      "name": "Forward Micro AFG.zip",
+      "sd_hash": "f06b3abcf53f35eb21900b196713fdd864c859f034c0db054424077f195f322f35a35b211c8e5eec676ca9271d94c58e",
+      "size": "8194253"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mlok",
+      "grip",
+      "foregrip"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/a/1700b4346031dd00.jpg"
+    },
+    "title": "Forward Micro M-Lok AFG"
+  },
+  "value_type": "stream"
+}
