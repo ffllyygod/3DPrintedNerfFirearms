@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG-1-(Biden's-Bane)#7",
+  "claim_id": "704823a890ba3bdc1346b6529bf441bae9625e66",
+  "claim_op": "create",
+  "confirmations": 695176,
+  "height": 1358805,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1358805,
+    "creation_height": 1358805,
+    "creation_timestamp": 1684133748,
+    "effective_amount": "0.001",
+    "expiration_height": 3461205,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1358805
+  },
+  "name": "HG-1-(Biden's-Bane)",
+  "normalized_name": "hg-1-(biden's-bane)",
+  "nout": 0,
+  "permanent_url": "lbry://HG-1-(Biden's-Bane)#704823a890ba3bdc1346b6529bf441bae9625e66",
+  "short_url": "lbry://HG-1-(Biden's-Bane)#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1684133748,
+  "txid": "fd9b00efccc945609398c02d3d34a0c2cf3ccee8e9ad1c87c15f6effdc0132e2",
+  "type": "claim",
+  "value": {
+    "description": "HG-1 (Biden's Bane): Laffs Dynamics\n\nFirst Laffs Dynamics handguard design for the Biden's Bane AR-15 upper receiver. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 40%+\nSupport Material Percentage: 20% \n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/BidensBane_3DAR15_Upper_Receiver:e)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1684133600",
+    "source": {
+      "hash": "d258e674a4cb25af6612fa190e0a7dd8ea8efbac93c9352b2a21a07133af4ce79857443320851ce9f949499bfc3cda34",
+      "media_type": "application/zip",
+      "name": "HG-1 (Biden's Bane).zip",
+      "sd_hash": "bfbbc13fd6dc9de9f9de6c4e452d8ef99bb6e282fac35593f29aca8f4cae3b00315afa2c4ac763197e0fea5e1e2c0543",
+      "size": "1179478"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "biden",
+      "bidens bane",
+      "ar-15"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/64a07bc6a51ac774dc079f24e7415e90.webp"
+    },
+    "title": "HG-1 (Biden's Bane)"
+  },
+  "value_type": "stream"
+}
