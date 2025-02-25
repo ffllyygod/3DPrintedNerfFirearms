@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Gator-Skin-Grip-Panels-(OK-Zoomer)#9",
+  "claim_id": "9629e53fab68e087eb8ff3cfbaf8ea9932ec2796",
+  "claim_op": "create",
+  "confirmations": 295573,
+  "height": 1758397,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1758397,
+    "creation_height": 1758397,
+    "creation_timestamp": 1743171231,
+    "effective_amount": "0.001",
+    "expiration_height": 3860797,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1758498
+  },
+  "name": "Gator-Skin-Grip-Panels-(OK-Zoomer)",
+  "normalized_name": "gator-skin-grip-panels-(ok-zoomer)",
+  "nout": 0,
+  "permanent_url": "lbry://Gator-Skin-Grip-Panels-(OK-Zoomer)#9629e53fab68e087eb8ff3cfbaf8ea9932ec2796",
+  "short_url": "lbry://Gator-Skin-Grip-Panels-(OK-Zoomer)#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1743171231,
+  "txid": "06a5e4db72d04865382f2319fd76c3ed8587b81e93d9d8cfeb5da26b47389a48",
+  "type": "claim",
+  "value": {
+    "description": "Gator Skin Grip Panels (OK Zoomer): Laffs Dynamics\n\nGrip panels for the OK Zoomer 3D printed pistol frame; designed with a gator skin pattern. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Perimeters: 7+ \nInfill: 65%+\nSupport Material Percentage: 18%\n\n\n\nBase OK Zoomer pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/OK-ZOOMER:b\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nGhostgunsrspooky & Uberclay: Creators of the OK Zoomer pistol frame.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1743170968",
+    "source": {
+      "hash": "9b219e83a7883cb18041e5b5d4e435c39fcbaeb6d9f28875c128939974f5e28a1ba27ca996bde3824661706393a6e825",
+      "media_type": "application/zip",
+      "name": "Gator Skin Grip Panels (OK Zoomer).zip",
+      "sd_hash": "1b0e5d19377ff885fd5aae75497f330b18409d9e55e0c87b9726ee968cce4649faf682cff6f77b76c70a3b4001c30dc6",
+      "size": "4429087"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "gator skin",
+      "grip panels",
+      "ok zoomer",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/4bf4576b1df4a02e7cd6a8dd35dacc62.webp"
+    },
+    "title": "Gator Skin Grip Panels (OK Zoomer)"
+  },
+  "value_type": "stream"
+}
