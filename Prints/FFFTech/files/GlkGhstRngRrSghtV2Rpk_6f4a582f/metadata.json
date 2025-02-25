@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/GlkGhstRngRrSghtV2Rpk#6",
+  "claim_id": "6f4a582f0e109254a1096bb446fcd5fcb7e1e753",
+  "claim_op": "create",
+  "confirmations": 427986,
+  "height": 1625984,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1625984,
+    "creation_height": 1625984,
+    "creation_timestamp": 1724765506,
+    "effective_amount": "0.001",
+    "expiration_height": 3728384,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1626140
+  },
+  "name": "GlkGhstRngRrSghtV2Rpk",
+  "normalized_name": "glkghstrngrrsghtv2rpk",
+  "nout": 0,
+  "permanent_url": "lbry://GlkGhstRngRrSghtV2Rpk#6f4a582f0e109254a1096bb446fcd5fcb7e1e753",
+  "short_url": "lbry://GlkGhstRngRrSghtV2Rpk#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1724765506,
+  "txid": "cb72039b73c2fd1a2ca9f33c0701317f9bc3c33ae848447df084f7832d1d1f7a",
+  "type": "claim",
+  "value": {
+    "description": "Glock Ghost Ring Rear Sight V2 (REPACK): Laffs\n\nVersion 2 of the original 3FTech Ghost Ring Rear Sight. Overall less bulky design. Aperture diameter reduced by .4mm.\n\nCompatible with standard 6.5mm height front sights.\n\nComes in two variants:\n\n *7.6mm Aperture\n *6.5mm Aperture\n\n\nUPDATE: Added the smaller 6.5mm diameter aperture variant to the data pack.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+ (Better printed in CF Nylon)\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8\nInfill: 50%+\n\nPrint the sight on it's front face.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1724765333",
+    "source": {
+      "hash": "7731ea373ce8bd716aebb43e49ef55a5cdaebcab5a78a39913e08f198b3c1068cdfa5be59d12be0b949047b1aa47b99a",
+      "media_type": "application/zip",
+      "name": "Glock Ghost Ring Rear Sight V2 (REPACK).zip",
+      "sd_hash": "aa512bef625e5e5044edb1f6417039207cd0aba0eec5c8ba2ea671b87228d5dbeb45ca2b60afa128cd7156df2f410272",
+      "size": "3400018"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "glock",
+      "ghost ring",
+      "sights",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-slimes-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/19c01e7f46939d8356c000a33914a0e2.webp"
+    },
+    "title": "Glock Ghost Ring Rear Sight V2 (REPACK)"
+  },
+  "value_type": "stream"
+}
