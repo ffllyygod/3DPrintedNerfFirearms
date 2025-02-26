@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG-3MP5K#e",
+  "claim_id": "e89cf3258bab22d805d9ccec98e5e03086e08ccc",
+  "claim_op": "create",
+  "confirmations": 622996,
+  "height": 1430985,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1430985,
+    "creation_height": 1430985,
+    "creation_timestamp": 1695688279,
+    "effective_amount": "0.001",
+    "expiration_height": 3533385,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1430985
+  },
+  "name": "HG-3MP5K",
+  "normalized_name": "hg-3mp5k",
+  "nout": 0,
+  "permanent_url": "lbry://HG-3MP5K#e89cf3258bab22d805d9ccec98e5e03086e08ccc",
+  "short_url": "lbry://HG-3MP5K#e",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1695688279,
+  "txid": "60375ea48a8e9f0539a9e6e43f37d4fe72be156a03c76095513adb621afa7c6c",
+  "type": "claim",
+  "value": {
+    "description": "HG-3 (MP5K): Laffs Dynamics\n\nRibbed handguard for the H&K MP5K & MKE AP5-M / AP5-P PDWs.\n\n\n\nFilament Recommended: Glass Filled Nylon, Carbon Fiber Nylon\n\nPrint Settings:\n\nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 75%+\nSupport Material Percentage: 20%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1695688062",
+    "source": {
+      "hash": "e8f876eece2313508463bfe4b34476d26277cb839c1d8c467dd09e707b3c89dc0ae38a9a73596b1f1f06f52d8b092d43",
+      "media_type": "application/zip",
+      "name": "HG-3 (MP5K).zip",
+      "sd_hash": "f68ab59c854e591286faea27924c1ea4dc410a87e4dc0813edaa885da28269925e34a18fdb06f778d0a9f999f5c08740",
+      "size": "2780344"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "mp5k",
+      "handguard",
+      "pdw",
+      "hk",
+      "smg"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ff223630eede785556f3db87d1ab8464.webp"
+    },
+    "title": "HG-3 Handguard (MP5K)"
+  },
+  "value_type": "stream"
+}
