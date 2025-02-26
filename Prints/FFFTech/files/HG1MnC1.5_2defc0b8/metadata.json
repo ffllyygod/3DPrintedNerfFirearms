@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG1MnC1.5#2",
+  "claim_id": "2defc0b8a8aa4a6af58b7ca7c3e5279e20b0b203",
+  "claim_op": "create",
+  "confirmations": 551933,
+  "height": 1502037,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1502037,
+    "creation_height": 1502037,
+    "creation_timestamp": 1707074093,
+    "effective_amount": "0.001",
+    "expiration_height": 3604437,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1502037
+  },
+  "name": "HG1MnC1.5",
+  "normalized_name": "hg1mnc1.5",
+  "nout": 0,
+  "permanent_url": "lbry://HG1MnC1.5#2defc0b8a8aa4a6af58b7ca7c3e5279e20b0b203",
+  "short_url": "lbry://HG1MnC1.5#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1707074093,
+  "txid": "0f3bdb9826ac071aefeca399869dc54b5b52297e8bf7b724ce03c0af5dbb04af",
+  "type": "claim",
+  "value": {
+    "description": "HG-1 (Mac N' Cheese V1.5): Laffs Dynamics\n\nFirst Laffs Dynamics handguard design for the Mac N' Cheese 3DP PCC. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 75%+\nSupport Material Percentage: 20% \n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@MiddletonMade:1/MacnCheesev15:d)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1707073886",
+    "source": {
+      "hash": "87bbad30e2e5f30996e73d982180f0e66326fd296f89c1d00de22eab9aa8d7cc064bff5ef6032d79f5890f20be94eba1",
+      "media_type": "application/zip",
+      "name": "HG-1 (M&C V1.5).zip",
+      "sd_hash": "0e5c0c8781f2447fd3c0f954ff48d98cdedd85e9f3c31a6b4e58add04b67a858611e0ced2b4f99da6e049d9772e0a3dc",
+      "size": "1076350"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mac and cheese",
+      "handguard",
+      "pcc"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/aa864dd2dc35940e4f06165946db7ccf.webp"
+    },
+    "title": "HG-1 (Mac N' Cheese V1.5)"
+  },
+  "value_type": "stream"
+}
