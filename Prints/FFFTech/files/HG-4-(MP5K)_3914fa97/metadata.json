@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG-4-(MP5K)#3",
+  "claim_id": "3914fa97a528b6f837c6432d3e6b0e9aecd60b9e",
+  "claim_op": "create",
+  "confirmations": 283614,
+  "height": 1770356,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1770356,
+    "creation_height": 1770356,
+    "creation_timestamp": 1744844493,
+    "effective_amount": "0.001",
+    "expiration_height": 3872756,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1770356
+  },
+  "name": "HG-4-(MP5K)",
+  "normalized_name": "hg-4-(mp5k)",
+  "nout": 0,
+  "permanent_url": "lbry://HG-4-(MP5K)#3914fa97a528b6f837c6432d3e6b0e9aecd60b9e",
+  "short_url": "lbry://HG-4-(MP5K)#3",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1744844493,
+  "txid": "7cdb0fc283e13b7bd23cb2d70a19fbc6e9509d8dd405dfc7c869011974b2d653",
+  "type": "claim",
+  "value": {
+    "description": "HG-4 (MP5K): Laffs Dynamics\n\nHandguards for the HK MP5K or licensed variants with inbuilt sockets for attaching foregrips at differing angles; manufacture is considerably easier on FDM \nprinting machinery than if printed all as a singular piece.\n\n\nTwo handguard variants are available, with two differing foregrip lengths:\n\nHandguards:\n\n *Forward Angle Socket, 77.5°\n *Vertical Angle Socket, 90° (Hope you paid your tax stamp)\n\nForegrips:\n\n *Kurz, 55.5mm\n *Standard, 72.4mm\n\n\n\nFilament Recommended: Glass Filled Nylon, Carbon Fiber Nylon\n\nPrint Settings:\n\nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm - .16mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 60%+\nSupport Material Percentage: 20%\n\n\n\nHardware Required: \n\n1x 4x20mm - 4x24mm Roll Pin\n\n\n\nNotes:\n\n 1) The design was originally completed July 3rd, 2024, but the release date was put on indefinite hiatus (at the time) due to the designer attending to \npersonal responsibilites involving independent contractor employment.\n\n 2) This design has an handguard variant to allow the use of an foregrip in a FORWARD angle orientation; that being said, be aware the ATF does NOT \n*clearly* define what the specific angle is required for a foregrip to not TECHNICALLY be considered vertical foregrip, of which would require a tax stamp.\nI HEAVILY implore anyone that prints this design be aware of legalities involving such parameters, and to be cautious employing such a device; as it's known \nthe ATF remains vague on the matter. \n\nI'm not responsible for end user possibly violating state or federal laws and any consequences that may come of said usage.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1744844395",
+    "source": {
+      "hash": "5b55c0faa20068c6ed4eaac0f48db0e4d0d982be6d4382e30ca76d929f0da5d3fa574f4f49b67e4a177406e9b35c5c2b",
+      "media_type": "application/zip",
+      "name": "HG-4 (MP5K).zip",
+      "sd_hash": "b48a7994ce8c840d69c8e542777f2e8f77c3f7d467494d5ef2faac012d834abfc7425209c7abd43d865c4ff32ce27bfd",
+      "size": "10160805"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mp5",
+      "mp5k",
+      "handguard",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a6fff1c72a9a2af23be2d2c53a85e0c3.webp"
+    },
+    "title": "HG-4 (MP5K)"
+  },
+  "value_type": "stream"
+}
