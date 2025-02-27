@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Henry-H001-(H1)-Traditional-Handguards#8",
+  "claim_id": "8c0f459f4164c02d000f9c60b01f02052dc7fa3a",
+  "claim_op": "update",
+  "confirmations": 103742,
+  "height": 1950222,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1950222,
+    "creation_height": 1950193,
+    "creation_timestamp": 1769540594,
+    "effective_amount": "0.001",
+    "expiration_height": 4052622,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1950193
+  },
+  "name": "Henry-H001-(H1)-Traditional-Handguards",
+  "normalized_name": "henry-h001-(h1)-traditional-handguards",
+  "nout": 0,
+  "permanent_url": "lbry://Henry-H001-(H1)-Traditional-Handguards#8c0f459f4164c02d000f9c60b01f02052dc7fa3a",
+  "short_url": "lbry://Henry-H001-(H1)-Traditional-Handguards#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1769543870,
+  "txid": "9505517ba2e655f46c1a60660aa4a03351ad09ac321344384dc9905013cfa574",
+  "type": "claim",
+  "value": {
+    "description": "Henry H001 Traditional Handguards: Laffs Dynamics\n\n3D printed handguards for the Henry Repeating Arms H001 rifle and model variants. (As of 2026, designated the H1) \n\nTwo model variants are available:\n\n *Traditional: A basic diamond checkered pattern.\n\n *Refined: Diamond checkered pattern with double fleur-de-lis emblems, has contoured thumb and finger shelved atop the handguard.\n\n\nCompatible with model lines:\n\nH1 Classic Rifle: H001-22, H001-22M, H001L-22, H001L-22M\n\nH1 Classic Carbine: H001R-22, H001R-22M\n\nH1 Garden Gun: H001GG-22\n\nH1 Classic Youth Model: H001Y-22, H001Y-22M\n\nH1 Mare’s Leg Pistol: H001ML-22, H001ML-22M\n\n\n\nFilament Used: PLA+ (CF-Nylon recommended for long term)\n\nPLA+ Print Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40mm\nWall Perimeters: 6+\nInfill: 60%+\nSupport Material Percentage: 20%\n\nFor best aesthetic results, print the design vertically. (Rear facet flat on the build plate)\n\n\n\nAccreditations:\n\nNotsogod: Printed both handguard models horizontal and vertical to the 3D printer's Z axis; both in CF-Nylon and PLA+. Took images of the prototype \nprints, and shipped the finished models to the designer. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1769543791",
+    "source": {
+      "hash": "c4d45f2cf82e1e1b928edf4b5a7d7bdd8e7a360b25cb35c18b9622510a273f0b40c089aace17a37974ea4b1ecf9b9cda",
+      "media_type": "application/zip",
+      "name": "Henry H001 (H1) Traditional Handguards.zip",
+      "sd_hash": "93efba655454247e07ce9efac4e54faee5cc87adaec676966b2b3bd5cfcc50c2f5ba47bc5e5b3a74b640274ec83a5b7d",
+      "size": "30315283"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "henry",
+      "handguard",
+      "henry repeating arms",
+      "c:disable-comments",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f53ce791824dfaf47fafef6cdc43f28f.webp"
+    },
+    "title": "Henry H001 (H1) Traditional Handguards"
+  },
+  "value_type": "stream"
+}
