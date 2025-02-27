@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG2Prtsn_9#6",
+  "claim_id": "65399845b2b76bd6aa52f08c842d02b1a0372012",
+  "claim_op": "create",
+  "confirmations": 563784,
+  "height": 1490186,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1490186,
+    "creation_height": 1490186,
+    "creation_timestamp": 1705168902,
+    "effective_amount": "0.001",
+    "expiration_height": 3592586,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1490432
+  },
+  "name": "HG2Prtsn_9",
+  "normalized_name": "hg2prtsn_9",
+  "nout": 0,
+  "permanent_url": "lbry://HG2Prtsn_9#65399845b2b76bd6aa52f08c842d02b1a0372012",
+  "short_url": "lbry://HG2Prtsn_9#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1705168902,
+  "txid": "6336d59e30b0358cadb5188e9321b8fa09512d0a777148328bd843f84d8d3b00",
+  "type": "claim",
+  "value": {
+    "description": "HG-2 (Partisan-9): Laffs Dynamics\n\nHandguard for the Partisan-9. Has 24 vents for cooling during extended firing strings. Overlaps the Partisan-9 integrated suppressor 4 outer screws to \nallow for the handguard to extend to roughly half the suppressor's length. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 70%+\nSupport Material Percentage: 20% \n\nPrint the handguard on it front face. \n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@TheGatalog-HybridDesigns:0/Partisan-9_Release-v1.0:7)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1705168815",
+    "source": {
+      "hash": "927822d1c4878f740a3ac18c7e5a04c603034b739ed52e27fd6eae1608cbf75fd3eed7cbb4446a08468d78fbfc8a8e01",
+      "media_type": "application/zip",
+      "name": "HG-2 (Partisan-9).zip",
+      "sd_hash": "574fc9871e2f7d3e9f05ffe0dc1492f2c7944f6178a2521fe295866f737e02da95f55cf781168a6ee5ca3be42d32fb25",
+      "size": "2089483"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "partisan-9",
+      "pcc",
+      "handguard"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/528d77bf64607d91dcb3663ea7539e36.webp"
+    },
+    "title": "HG-2 (Partisan-9)"
+  },
+  "value_type": "stream"
+}
