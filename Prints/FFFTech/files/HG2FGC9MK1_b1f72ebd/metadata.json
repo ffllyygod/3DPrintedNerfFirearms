@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/HG2FGC9MK1#b",
+  "claim_id": "b1f72ebdf0ced6196329670844c7c77724496e79",
+  "claim_op": "create",
+  "confirmations": 462210,
+  "height": 1591760,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1591760,
+    "creation_height": 1591760,
+    "creation_timestamp": 1719887551,
+    "effective_amount": "0.001",
+    "expiration_height": 3694160,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1625358
+  },
+  "name": "HG2FGC9MK1",
+  "normalized_name": "hg2fgc9mk1",
+  "nout": 0,
+  "permanent_url": "lbry://HG2FGC9MK1#b1f72ebdf0ced6196329670844c7c77724496e79",
+  "short_url": "lbry://HG2FGC9MK1#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1719887551,
+  "txid": "8598c64b2079a38d226d8635f582e7e88d47daa179ed85f8c696d4214b67e483",
+  "type": "claim",
+  "value": {
+    "description": "HG-2 (FGC-9 MKI): Laffs Dynamics\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 38%+\nSupport Material Percentage: 20% \n\nPrint the handguard on it front face. \n\n\n\nNotes:\n\n1) This data pack is just for printing the handguard. To get the base firearm data pack, use the following link: \n(https://odysee.com/@TheGatalog-HybridDesigns:0/FGC-9:e)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1719887270",
+    "source": {
+      "hash": "10da65cfe26aa24346daad37cc0eb544b10c2baa0d1cfc94eb9d3138a1d83b6a1b4a7a873e7c6a9e32832e2ad570f8cf",
+      "media_type": "application/zip",
+      "name": "HG-2 (FGC-9 MK1).zip",
+      "sd_hash": "f3f4cba1d5dabc60c396134a6153c5c20a54af426c7c6ac4e2ea7374c727d141e907b717395446f444710ca069f6b6c7",
+      "size": "1313198"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "fgc9",
+      "mk1",
+      "handguard",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/0c872bd14b28259d159183b9a845ea7c.webp"
+    },
+    "title": "HG-2 (FGC-9 MKI)"
+  },
+  "value_type": "stream"
+}
