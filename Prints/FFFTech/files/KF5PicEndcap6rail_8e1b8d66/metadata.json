@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/KF5PicEndcap6rail#8",
+  "claim_id": "8e1b8d66b89673ffde711ce80feca39cfcd91212",
+  "claim_op": "create",
+  "confirmations": 551934,
+  "height": 1502036,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1502036,
+    "creation_height": 1502036,
+    "creation_timestamp": 1707073559,
+    "effective_amount": "0.001",
+    "expiration_height": 3604436,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1502036
+  },
+  "name": "KF5PicEndcap6rail",
+  "normalized_name": "kf5picendcap6rail",
+  "nout": 0,
+  "permanent_url": "lbry://KF5PicEndcap6rail#8e1b8d66b89673ffde711ce80feca39cfcd91212",
+  "short_url": "lbry://KF5PicEndcap6rail#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1707073559,
+  "txid": "bf9ffb660245b50f265ae85a579c54705c4ac70aa315ef114b65ddcd9819adaf",
+  "type": "claim",
+  "value": {
+    "description": "KF5 6 Slot Picatinny Endcap: Laffs Dynamics\n\nVariant of the KF5's picatinny endcap, with an additional 2 rail slots. Made for buttstocks with larger footprints (SCAR style \nbuttstocks) or if one wishes to mount a stock lower should they use low profile iron sights. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 70%+\nSupport Material Percentage: 18%\n\n\n\nNote: This is just the endcap for the KF5 PCC, the original files can be found below: \n\nhttps://odysee.com/@TheGatalog-PrintableFramesReceivers:9/KF5:a\n\n\n\nAccreditations:\n\nIvanTheTroll: Original creator of the KF5, used the base model of the endcap for this design. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1707073501",
+    "source": {
+      "hash": "0ce8ec25019900ca4b157128c5ce97e4aefecc6da54e23095867e9b43ba3dcc88734d1eb35f8ded26e60cd8e7fd7ae84",
+      "media_type": "application/zip",
+      "name": "KF5 6 Slot Picatinny Endcap.zip",
+      "sd_hash": "33b68c76b95f1feac9a9628891ab6c90fb9a789f43b592d09a473c65f64fd63056c8efb36ecfd4a08606599c5dc22158",
+      "size": "920647"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "kf5",
+      "endcap",
+      "picatinny"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/76e0be6fca69a68622cc06f194c3a23a.webp"
+    },
+    "title": "KF5 6 Slot Picatinny Endcap"
+  },
+  "value_type": "stream"
+}
