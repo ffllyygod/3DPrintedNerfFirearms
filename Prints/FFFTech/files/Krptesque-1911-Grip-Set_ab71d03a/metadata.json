@@ -1,0 +1,114 @@
+{
+  "address": "bPuhhXmsd3euiMqJA5x8fYQxmoui2afD8P",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Krptesque-1911-Grip-Set#a",
+  "claim_id": "ab71d03a3bbc561cc1f465f9bc9a60dec5688d8e",
+  "claim_op": "update",
+  "confirmations": 847970,
+  "height": 1206024,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1206024,
+    "creation_height": 1138079,
+    "creation_timestamp": 1649085685,
+    "effective_amount": "0.001",
+    "expiration_height": 3308424,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1138079
+  },
+  "name": "Krptesque-1911-Grip-Set",
+  "normalized_name": "krptesque-1911-grip-set",
+  "nout": 0,
+  "permanent_url": "lbry://Krptesque-1911-Grip-Set#ab71d03a3bbc561cc1f465f9bc9a60dec5688d8e",
+  "short_url": "lbry://Krptesque-1911-Grip-Set#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659991267,
+  "txid": "c08a9cdc98d76fc3519ed07f41971c58986f7d4ec0c1bb9862a1721896fe7fb6",
+  "type": "claim",
+  "value": {
+    "description": "Kryptesque 1911 Grip Panels: FFFTech/FFFTechnology\n\nA grip panel set for M1911 pistols (and compatible variants) with a pattern similar to the Kryptek camo pattern. \n\n\nPrinter Used: Ender 3 V2\n \nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 20%+\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\n\nHardware Needed:\n\n4x 1911 Grip Panel Screws\n\n\nAccreditations:\n\nGW-DD: Printed and assembled the grip panels onto their 1911. Provided images of the panels by themselves, as well as on the firearm. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1649085405",
+    "source": {
+      "hash": "3d09703949b5604ecd33eab53b1b518cf2c65539223c0c77b555de6f9be0b69a28308eafd32905217e17dfb5199bd2a0",
+      "media_type": "application/zip",
+      "name": "Krptesque 1911 Grip Set.zip",
+      "sd_hash": "cecb1d4a5cd249b521bbc71d2dbb252f3704e6167dcc648569883df8f363e2637022d431f9bb29ecd5a89af5845162fa",
+      "size": "11592748"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "1911",
+      "3d printing",
+      "firearms",
+      "grips",
+      "m1911"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/b/99eb6612d8a2fa28.jpg"
+    },
+    "title": "Kryptesque 1911 Grip Panels"
+  },
+  "value_type": "stream"
+}
