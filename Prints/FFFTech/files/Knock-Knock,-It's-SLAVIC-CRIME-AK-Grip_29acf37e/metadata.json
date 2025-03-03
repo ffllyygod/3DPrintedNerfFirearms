@@ -1,0 +1,114 @@
+{
+  "address": "bDbG3D9gGxMF25sLn6rp1URD2bxFd8N91U",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Knock-Knock,-It's-SLAVIC-CRIME-AK-Grip#2",
+  "claim_id": "29acf37e3b69e812148d9830393b4b54167f1c69",
+  "claim_op": "update",
+  "confirmations": 798990,
+  "height": 1255004,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1255004,
+    "creation_height": 1255001,
+    "creation_timestamp": 1667854707,
+    "effective_amount": "0.01",
+    "expiration_height": 3357404,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1255001
+  },
+  "name": "Knock-Knock,-It's-SLAVIC-CRIME-AK-Grip",
+  "normalized_name": "knock-knock,-it's-slavic-crime-ak-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Knock-Knock,-It's-SLAVIC-CRIME-AK-Grip#29acf37e3b69e812148d9830393b4b54167f1c69",
+  "short_url": "lbry://Knock-Knock,-It's-SLAVIC-CRIME-AK-Grip#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1667855210,
+  "txid": "10ac446095b69a913840c76796fbe067ddbda097eb0e72c1738eeef2e8fef457",
+  "type": "claim",
+  "value": {
+    "description": "Knock Knock, It's SLAVIC CRIME Grip (AKM): Laffs Dynamics\n\nHey blyat! \n\nWanna be the coolest dude this side of the Gulag?\n\nWanna be the most tACtiCaL sPeTsNaZ in your \"unit\"? \n\nWell you downloaded the wrong file... go fuck yourself.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 25%+\nSupport Material Percentage: 20% \n\nPrint the grip upside-down. \n\n\n\nHardware Needed:\n\n1x OEM AK Grip Screw\n\n\n\nWarning: This is a meme grip. In the event the debil unironically mounts this to their home defense weapon with the \nbelief this'll make them a \"Top Tier Gopnik\", possible death by cringe may occur. \n\nPut this device ONLY on meme gats; don't cringe and build.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1667854869",
+    "source": {
+      "hash": "5980638bcf0c8566a1fb051927d0e6e9269db7ffe506154ed885f8f1145d7c3d3a72946405f3238118e6cc9e0edd4134",
+      "media_type": "application/zip",
+      "name": "Knock Knock, It's SLAVIC CRIME AK Grip.zip",
+      "sd_hash": "d68759a5c1e1856c49fad1dbd6c26a2c52b6258ba433be48b06f177ed07534cbcedcc71464864f88de089b77718a025a",
+      "size": "1551075"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ak",
+      "firearms",
+      "grip",
+      "meme"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/4/38530cc2dc5c3f58.png"
+    },
+    "title": "Knock Knock, It's SLAVIC CRIME Grip (AKM)"
+  },
+  "value_type": "stream"
+}
