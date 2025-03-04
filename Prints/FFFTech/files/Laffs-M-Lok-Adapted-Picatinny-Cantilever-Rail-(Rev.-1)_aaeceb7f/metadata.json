@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Laffs-M-Lok-Adapted-Picatinny-Cantilever-Rail-(Rev.-1)#a",
+  "claim_id": "aaeceb7f59d871d066ca9b6047534a9136e2308d",
+  "claim_op": "create",
+  "confirmations": 122557,
+  "height": 1931407,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1931407,
+    "creation_height": 1931407,
+    "creation_timestamp": 1767581852,
+    "effective_amount": "0.001",
+    "expiration_height": 4033807,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1932236
+  },
+  "name": "Laffs-M-Lok-Adapted-Picatinny-Cantilever-Rail-(Rev.-1)",
+  "normalized_name": "laffs-m-lok-adapted-picatinny-cantilever-rail-(rev.-1)",
+  "nout": 0,
+  "permanent_url": "lbry://Laffs-M-Lok-Adapted-Picatinny-Cantilever-Rail-(Rev.-1)#aaeceb7f59d871d066ca9b6047534a9136e2308d",
+  "short_url": "lbry://Laffs-M-Lok-Adapted-Picatinny-Cantilever-Rail-(Rev.-1)#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1767581852,
+  "txid": "651211e02d90340b8ddffe794165335cd90792daf8ac4e4dd60cb46ae73702aa",
+  "type": "claim",
+  "value": {
+    "description": "M-Lok Adapted Picatinny Cantilever Rail (Rev. 1): Laffs\n\nRevised model of the original FFFTechnology 2021 cantilever rail design. Rounded edge geometry, length reduction, and updated print settings.\n\nLegacy design is still in the data pack should anyone want the longer rail.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40mm\nWall Perimeters: 7\nInfill: 75%\nSupport Material Percentage: 20%\n\n\n\nHardware Needed: \n\n2x M5x10 Hex Screw\n\n2x M-Lok T-Nuts\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1767581807",
+    "source": {
+      "hash": "f400406b52a756bb6b42f553dfa52a93cae86e26e1893a045bb7d962196e7298623ef4afc3c18bb0d895ab840ff899b7",
+      "media_type": "application/zip",
+      "name": "Laffs M-Lok Adapted Picatinny Cantilever Rail (Rev. 1).zip",
+      "sd_hash": "dd00d2dde4635bd470bcbf41470a3e34f80b453ba8e2aeba000c3d95e4a9720e3eb419b3ed8db648b8886c16158d4290",
+      "size": "8360388"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "rail",
+      "picatinny",
+      "mlok",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/dfee7dfaf9775b7cb7c1f1f37d98ab3c.webp"
+    },
+    "title": "Laffs M-Lok Adapted Picatinny Cantilever Rail (Rev. 1)"
+  },
+  "value_type": "stream"
+}
