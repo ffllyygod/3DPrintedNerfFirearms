@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Laffs-PDW-V2-Sights#0",
+  "claim_id": "04095d660b4f9fdf5dfcb0b9cb99d08d05ccab1e",
+  "claim_op": "update",
+  "confirmations": 54029,
+  "height": 1999935,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1999935,
+    "creation_height": 1939942,
+    "creation_timestamp": 1768491955,
+    "effective_amount": "0.001",
+    "expiration_height": 4102335,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1940114
+  },
+  "name": "Laffs-PDW-V2-Sights",
+  "normalized_name": "laffs-pdw-v2-sights",
+  "nout": 0,
+  "permanent_url": "lbry://Laffs-PDW-V2-Sights#04095d660b4f9fdf5dfcb0b9cb99d08d05ccab1e",
+  "short_url": "lbry://Laffs-PDW-V2-Sights#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1774557224,
+  "txid": "d9dde6b8fd92df9192e26b9c0007d6d1d27108011ce79bcd02dfe54886491ec3",
+  "type": "claim",
+  "value": {
+    "description": "PDW Sights V2.1: Laffs\n\nUpdated concept from the original FFFTechnology/Laffs Dynamics PDW Sights released all the way back in 2021. More robust side sight protectors, reduced \nsize rear sight inserts, thicker overall sight body to resist drops and general impact forces.\n\nThree rear drift sights are available:\n\n *U Notch\n *3mm Aperture (2.1 Update)\n *4mm Aperture\n *5mm Aperture\n\n\nUpdate 2.1: Added 3mm Peep Sight, added corresponding image files to the data pack.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .14mm\nWall Thickness: .40mm\nWall Perimeters: 5+\nInfill: 40%+\nSupport Material Percentage: 16%\n\nPrint the front and rear sight mounts on their front facets.\n\n\n\nHardware Needed: \n\n1x M4x30 Hex Socketed Machine Screw/Bolt\n\n1x M4 Hex Nut (Be sure both bolt & nut are the same thread pitch.)\n\n1x M3x10 Set Screw (For the elevation adjustable front sight post)\n\n1x M2x10 Set Screw (For locking the windage adjustable rear sight)\n\n\n\nNotes: \n\n1) This design was done on Jan 5th, 2024. I'm extremely lazy, but I also think making people wait is incredibly funny. (Future Context, it's 2026 now.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1768491774",
+    "source": {
+      "hash": "8f9aefb311d6539d1d13fc75a02624e877b20ec6201a530c5bbbc410b698e67ce4d6ff16849d3c602bb22bc2588a9281",
+      "media_type": "application/zip",
+      "name": "Laffs PDW V2.1 Sights.zip",
+      "sd_hash": "d3029aa4a203b8556d50d5735ee82c88a05cd2cbeab7760cdb61ff64f2a315cde8171680f2dd0eebca401628bfee3a73",
+      "size": "10204302"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-comments",
+      "3d printing",
+      "firearms",
+      "pdw",
+      "sights",
+      "v2"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/bf84f8e03ee80b9bf65ce7ee035d4aab.webp"
+    },
+    "title": "Laffs PDW V2.1 Sights"
+  },
+  "value_type": "stream"
+}
