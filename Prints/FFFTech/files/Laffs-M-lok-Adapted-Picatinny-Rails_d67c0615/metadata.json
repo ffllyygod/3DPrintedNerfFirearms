@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Laffs-M-lok-Adapted-Picatinny-Rails#d",
+  "claim_id": "d67c06159c5e45516ac188def97cea71ad4a4cf7",
+  "claim_op": "create",
+  "confirmations": 122598,
+  "height": 1931366,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1931366,
+    "creation_height": 1931366,
+    "creation_timestamp": 1767576545,
+    "effective_amount": "0.001",
+    "expiration_height": 4033766,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1931384
+  },
+  "name": "Laffs-M-lok-Adapted-Picatinny-Rails",
+  "normalized_name": "laffs-m-lok-adapted-picatinny-rails",
+  "nout": 0,
+  "permanent_url": "lbry://Laffs-M-lok-Adapted-Picatinny-Rails#d67c06159c5e45516ac188def97cea71ad4a4cf7",
+  "short_url": "lbry://Laffs-M-lok-Adapted-Picatinny-Rails#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1767576545,
+  "txid": "d3cd44ebd5609bc8f1ad78d993cee19d05b7504cd8439162dc3928210ebc49a1",
+  "type": "claim",
+  "value": {
+    "description": "M-Lok Adapted Picatinny Rails: Laffs\n\nOriginally had a pack of rails released on Thingiverse years ago; they shadowbanned my work and I forgot to migrate the design to LBRY/Odysee \nbefore repurposing the original drive, losing the data.\n\nRemade the rail design.\n\nRounded edge corners so users don't accidentally jam their hands into hard polymer edges of the rails.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7\nInfill: 50%+\nSupport Material Percentage: 22%\n\n\n\nHardware Needed: \n\n2x M5x10 Hex Screw\n\n2x M-Lok T-Nuts\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1767576002",
+    "source": {
+      "hash": "92ac6f0ce7934ddc0f6974b2af30bcbbd91a4df16e482cb95ca76c749b6f1f97433b420a0d7741d3449c3ff9783788cd",
+      "media_type": "application/zip",
+      "name": "Laffs M-lok Adapted Picatinny Rails.zip",
+      "sd_hash": "eb6397782cd0c7e53a58365c6be42d15ddc0a2a0afb59325678ba6609a3b3cbc655f87f24a57becee1c2420b84e3893a",
+      "size": "4273600"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mlok",
+      "picatinny",
+      "rail",
+      "c:disable-comments",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/b07f94d381b86e8c8052d1a1d1e79529.webp"
+    },
+    "title": "Laffs M-lok Adapted Picatinny Rails"
+  },
+  "value_type": "stream"
+}
