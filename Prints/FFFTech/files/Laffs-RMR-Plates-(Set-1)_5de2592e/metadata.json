@@ -1,0 +1,117 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Laffs-RMR-Plates-(Set-1)#5",
+  "claim_id": "5de2592ea4c3c3cc8495d8b560382eea92a49331",
+  "claim_op": "create",
+  "confirmations": 124292,
+  "height": 1929672,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1929672,
+    "creation_height": 1929672,
+    "creation_timestamp": 1767405745,
+    "effective_amount": "0.001",
+    "expiration_height": 4032072,
+    "is_controlling": false,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1931438
+  },
+  "name": "Laffs-RMR-Plates-(Set-1)",
+  "normalized_name": "laffs-rmr-plates-(set-1)",
+  "nout": 0,
+  "permanent_url": "lbry://Laffs-RMR-Plates-(Set-1)#5de2592ea4c3c3cc8495d8b560382eea92a49331",
+  "short_url": "lbry://Laffs-RMR-Plates-(Set-1)#5",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1767405745,
+  "txid": "0c506ba6e4163f444ba6fdb3712b5ae32703bdff1a7873d4ac857063c2695c6d",
+  "type": "claim",
+  "value": {
+    "description": "RMR Plates (Set 1): Laffs\n\n3D printable plates, compatible with RMR footprint optic cut pistol slides.\n\nTested on Gen 3 KM Tactical Glock clone slides.\n\n\nComes in five variants:\n\n *Filler Plate\n *Picatinny Railed\n *Left Side Charging Plate\n *Right Side Charging Plate\n *Ambi Charging Plate\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 54C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 50%\n\nMaterial Flow: 100%\n\n\n\nCredits:\n\nVirgil: Requested plates for use with their Gen 3 Glock clone. Function tested the left side charging plate.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1767406434",
+    "source": {
+      "hash": "84ced754acaf79a105c16e3874004b40eeed2d1ed9465478c921d33880f26cdfc9b110105711bb53d38befc8e3748667",
+      "media_type": "application/zip",
+      "name": "Laffs RMR Plates (Set 1).zip",
+      "sd_hash": "4fd1737d9f026c455e1f49934c100b9d5a024539361f78c054f60aa4937e703a5e286b6c8a260c3613f30e387fb7c72d",
+      "size": "5787579"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "glock",
+      "rmr",
+      "optic",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-comments",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3883c4fe4662591d5a84e837c327e095.webp"
+    },
+    "title": "Laffs RMR Plates (Set 1)"
+  },
+  "value_type": "stream"
+}
