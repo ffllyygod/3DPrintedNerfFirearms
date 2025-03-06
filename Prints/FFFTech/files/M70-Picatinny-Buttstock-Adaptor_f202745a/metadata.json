@@ -1,0 +1,114 @@
+{
+  "address": "bKEEwyg2sj59rYfiHLWaUikkP53bRgpDQq",
+  "amount": "0.0001",
+  "canonical_url": "lbry://@FFFTech#3/M70-Picatinny-Buttstock-Adaptor#f",
+  "claim_id": "f202745a82a4d092b2b485803004c99d583577ea",
+  "claim_op": "update",
+  "confirmations": 849559,
+  "height": 1204435,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1204435,
+    "creation_height": 1180556,
+    "creation_timestamp": 1655899657,
+    "effective_amount": "0.0001",
+    "expiration_height": 3306835,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1180556
+  },
+  "name": "M70-Picatinny-Buttstock-Adaptor",
+  "normalized_name": "m70-picatinny-buttstock-adaptor",
+  "nout": 0,
+  "permanent_url": "lbry://M70-Picatinny-Buttstock-Adaptor#f202745a82a4d092b2b485803004c99d583577ea",
+  "short_url": "lbry://M70-Picatinny-Buttstock-Adaptor#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659737517,
+  "txid": "9fb383d66ac67b456a64655c7077f8d4dd56abe5afa1dedcfe40853aed1ae6aa",
+  "type": "claim",
+  "value": {
+    "description": "M70 Picatinny Buttstock Adaptor: FFFTech/FFFTechnology\n\nA 4 slot picatinny adaptor for Zastava (AKA Yugo) M70 AK variants. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 25%+\nMaterial Flow: 100%\nSupport Material Percentage: 16%\n\n\n\nHardware Needed:\n\n1x M8x30 Bolt, 1mm fine thread pitch (NOT 1.25mm)\n\n1x M8 Washer, 15mm OD (Optional)\n\n2x M4x12mm (Or M4x15mm) Bolts\n\n2x M4 Nuts",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1655899562",
+    "source": {
+      "hash": "5be5a10d5b27719e55307c18e91c0edfeabd6a62892059180dce6adb84d33b940070d7639bdc7e9025a347ecb6e540d8",
+      "media_type": "application/zip",
+      "name": "M70 Picatinny Buttstock Adaptor.zip",
+      "sd_hash": "c19e373d1f89ca1d65b58a0139609b243d8dd82990a05f2a4b6b23dd16585b7a317a7e35de6e9ff8c763933b63bf2197",
+      "size": "8191524"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ak",
+      "firearms",
+      "m70",
+      "picatinny"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/a/0fd9f479ad95c364.jpg"
+    },
+    "title": "M70 Picatinny Buttstock Adaptor"
+  },
+  "value_type": "stream"
+}
