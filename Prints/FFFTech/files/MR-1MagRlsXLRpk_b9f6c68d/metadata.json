@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/MR-1MagRlsXLRpk#b",
+  "claim_id": "b9f6c68d3a0d7e237c2f630297fb6b81a8e0ea9c",
+  "claim_op": "create",
+  "confirmations": 430436,
+  "height": 1623534,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1623534,
+    "creation_height": 1623534,
+    "creation_timestamp": 1724419864,
+    "effective_amount": "0.001",
+    "expiration_height": 3725934,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1623640
+  },
+  "name": "MR-1MagRlsXLRpk",
+  "normalized_name": "mr-1magrlsxlrpk",
+  "nout": 0,
+  "permanent_url": "lbry://MR-1MagRlsXLRpk#b9f6c68d3a0d7e237c2f630297fb6b81a8e0ea9c",
+  "short_url": "lbry://MR-1MagRlsXLRpk#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1724419864,
+  "txid": "00fe18ca65bfe60112f8a3afabf306f72058ca6a0ccdd2452ce8d5ee9e2b2891",
+  "type": "claim",
+  "value": {
+    "description": "MR-1 (The Big Mac) (XL REPACK): Laffs Dynamics\n\nMagazine release for The Big Mac, MAC-10 3DP SMG platform. Wide, rounded square design with ridging for positive engagement when dropping \na mag from the firearm. \n\n\nUpdate: XL magazine release design variant has been added to the data pack. Dimensions for the shelf on the mag release have been raised to \nfix bolt riding over rounds in the magazine. Updated manufacture parameters. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 50%+\nSupport Material Percentage: 20%\n\nPrint the back plate right side up.\n\n\nThe base files for The Big Mac (MAC-10) can be found here: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/TheBigMac:7\n\n\n\nCredit: \n\nGuttercheese: Notified prior issue of the bolt riding over rounds from the magazine seating too low in the firearm frame due to a low shelf \non the magazine release design. Provided images with measurement data.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1724419678",
+    "source": {
+      "hash": "b5cb0f68eef93c103f26e6f75862793f43f197d100367a06f326b8b5823b3abf0fceed5145e3b434cc452672aad8cc5b",
+      "media_type": "application/zip",
+      "name": "MR-1 (The Big Mac) (XL REPACK).zip",
+      "sd_hash": "cf1f21e7ad2172a1c40f1cce60345664a8dde3fac365dccf048a3e7a95bb45afaf6a675e01a510158cb5334cb7c85705",
+      "size": "1717180"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mac10",
+      "mag release",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "the big mac"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3e71068be0cf35aed0aaa10b9573baf8.webp"
+    },
+    "title": "MR-1 (The Big Mac) (XL REPACK)"
+  },
+  "value_type": "stream"
+}
