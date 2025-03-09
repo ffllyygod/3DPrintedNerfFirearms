@@ -1,0 +1,114 @@
+{
+  "address": "bPKF9bDzhF2rEZcS56rypspmBhbkkbNrz4",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Modern-Slav-Padded-Grip#d",
+  "claim_id": "da470d35f5483b76b41731785247d38735ba750b",
+  "claim_op": "update",
+  "confirmations": 761081,
+  "height": 1292900,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1292900,
+    "creation_height": 1292899,
+    "creation_timestamp": 1673627467,
+    "effective_amount": "0.01",
+    "expiration_height": 3395300,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1292899
+  },
+  "name": "Modern-Slav-Padded-Grip",
+  "normalized_name": "modern-slav-padded-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Modern-Slav-Padded-Grip#da470d35f5483b76b41731785247d38735ba750b",
+  "short_url": "lbry://Modern-Slav-Padded-Grip#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1673628247,
+  "txid": "43c9f5c746a431d8285ee3b84b93dcaa2b4261696f85df096d56b8f7a6458d5e",
+  "type": "claim",
+  "value": {
+    "description": "Modern Slav Padded AKM Grip: Laffs Dynamics\n\nFront padded variant of the original Laffs Dynamics Modern Slav AKM Grip.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 36%+\n\nPrint the grip upside down\n\n\n\nHardware Needed:\n\n1x OEM AK Grip Screw",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1673627785",
+    "source": {
+      "hash": "3a6a9576175f7a0de7fee38e17bb0e0e56e2fe14a76a51afc59416da41224399ad50d322a19800a5cb7de7753969a34f",
+      "media_type": "application/zip",
+      "name": "Modern Slav Padded Grip.zip",
+      "sd_hash": "064d5779d0d8978c0d5bd3853b57fb72983461458cf350ff8882ec16432801bda6f904ae315c926e01ec7396bef6fa71",
+      "size": "1404010"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ak",
+      "firearms",
+      "grip",
+      "slav"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/3/e274557c28c5179a.png"
+    },
+    "title": "Modern Slav Padded AKM Grip"
+  },
+  "value_type": "stream"
+}
