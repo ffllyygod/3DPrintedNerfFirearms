@@ -1,0 +1,107 @@
+{
+  "address": "bKE25v7WApVnXA2UAF2BpHRXQvb2UxaWVS",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Neo-1911-Micro-Camo-Grip-Set#7",
+  "claim_id": "7bb8fe5a765c66042e227c70dd435178ee6d0b9a",
+  "claim_op": "create",
+  "confirmations": 805993,
+  "height": 1248001,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1248001,
+    "creation_height": 1248001,
+    "creation_timestamp": 1666730169,
+    "effective_amount": "0.01",
+    "expiration_height": 3350401,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1248001
+  },
+  "name": "Neo-1911-Micro-Camo-Grip-Set",
+  "normalized_name": "neo-1911-micro-camo-grip-set",
+  "nout": 0,
+  "permanent_url": "lbry://Neo-1911-Micro-Camo-Grip-Set#7bb8fe5a765c66042e227c70dd435178ee6d0b9a",
+  "short_url": "lbry://Neo-1911-Micro-Camo-Grip-Set#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1666730169,
+  "txid": "ce59f9c16731fdc1ea599bcf62ecccf025ef9f3ed9bf009abe56cda401ccd42e",
+  "type": "claim",
+  "value": {
+    "description": "Neo Micro Camo 1911 Grip Panels: Laffs Dynamics\n\nA modern styled set of grip panels for 1911 pistols. Less rounded contours, more angular than traditional designs.\n\nHas a fine grainy texture to the flat facets.\n\n\n\nPrinter Used: Ender 3 V2\n \nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 20%+\nSupport Material Percentage: 18%\n\n\n\nHardware Needed:\n\n4x 1911 Grip Panel Screws\n\n\n\nAccreditations:\n\nProSpaceDog: Printed and assembled the grip panels onto their 1911. Provided images of the panels by themselves, \nas well as on the firearm.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1666730145",
+    "source": {
+      "hash": "7bf5b2286e2fd2aed49c98e6dad717c19116f662027de58b42f3df81b8dc2ca858c0269fe4feb40df279fa148bc339b0",
+      "media_type": "application/zip",
+      "name": "Neo 1911 Micro Camo Grip Set.zip",
+      "sd_hash": "9669fd2dd9d0e84d68ede09e98b18ee2b1a692163af931e478153fed93dc136403c4a22989caede7940fe1674f7e9233",
+      "size": "19229574"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/4/6f7b16a7ef9670df.png"
+    },
+    "title": "Neo Micro Camo 1911 Grip Panels"
+  },
+  "value_type": "stream"
+}
