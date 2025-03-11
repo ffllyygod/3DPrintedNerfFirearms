@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/OKZOOMER,RdgSwpGrpPnls#6",
+  "claim_id": "6b55d3db6b7f63d5b24439c79aee833c9b27de02",
+  "claim_op": "create",
+  "confirmations": 428016,
+  "height": 1625954,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1625954,
+    "creation_height": 1625954,
+    "creation_timestamp": 1724761867,
+    "effective_amount": "0.001",
+    "expiration_height": 3728354,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1762685
+  },
+  "name": "OKZOOMER,RdgSwpGrpPnls",
+  "normalized_name": "okzoomer,rdgswpgrppnls",
+  "nout": 0,
+  "permanent_url": "lbry://OKZOOMER,RdgSwpGrpPnls#6b55d3db6b7f63d5b24439c79aee833c9b27de02",
+  "short_url": "lbry://OKZOOMER,RdgSwpGrpPnls#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1724761867,
+  "txid": "d51352ca2d90e2437f036bf26fcda74af7a387da0170f1979d27e90d925c6970",
+  "type": "claim",
+  "value": {
+    "description": "Ridge Swept Grip Panels (OK Zoomer): Laffs\n\nGrip panels for the OK Zoomer 3D printed pistol frame. Has deep, horizontal ridges sweep to the rear of the panels.. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Perimeters: 7+ \nInfill: 65%+\nSupport Material Percentage: 18%\n\n\n\nBase OK Zoomer pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/OK-ZOOMER:b\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nGhostgunsrspooky & Uberclay: Creators of the OK Zoomer pistol frame.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1724761709",
+    "source": {
+      "hash": "a6547f17c79098af5db49c896b46659ed82326afeec2c1faf4e21f82d6c80c6f83b8187e4e555d859bd0cb1799abcaba",
+      "media_type": "application/zip",
+      "name": "OK Zoomer Ridge Swept Panels.zip",
+      "sd_hash": "13f97cba3dc2c493de0eca547def31069039de9debfb42d2dc6cfec2d29a5bfa4ac324e9f16583cf4f65af0c05267df0",
+      "size": "2751106"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ok zoomer",
+      "grip panels",
+      "ridge swept",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d47358fee0a6e686931c0480340aed2e.webp"
+    },
+    "title": "Ridge Swept Grip Panels (OK Zoomer)"
+  },
+  "value_type": "stream"
+}
