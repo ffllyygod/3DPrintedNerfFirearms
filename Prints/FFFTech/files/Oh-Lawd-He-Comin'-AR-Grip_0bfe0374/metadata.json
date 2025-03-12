@@ -1,0 +1,114 @@
+{
+  "address": "bCrCm3MXqAcao4Rt5oRemuxAPTpKyfkREH",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Oh-Lawd-He-Comin'-AR-Grip#0",
+  "claim_id": "0bfe0374454f4816a3ac7de4374a1bccb557087c",
+  "claim_op": "create",
+  "confirmations": 779751,
+  "height": 1274243,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1274243,
+    "creation_height": 1274243,
+    "creation_timestamp": 1670850944,
+    "effective_amount": "0.01",
+    "expiration_height": 3376643,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1274243
+  },
+  "name": "Oh-Lawd-He-Comin'-AR-Grip",
+  "normalized_name": "oh-lawd-he-comin'-ar-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Oh-Lawd-He-Comin'-AR-Grip#0bfe0374454f4816a3ac7de4374a1bccb557087c",
+  "short_url": "lbry://Oh-Lawd-He-Comin'-AR-Grip#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1670850944,
+  "txid": "fbd6a8e767f5c43ccfc09412d8f8ca8719e3b457427e73f82b1c741c95179ce7",
+  "type": "claim",
+  "value": {
+    "description": "Oh Lawd He Comin' Grips (AR-15): Laff Dynamics\n\nOh lawdy... I've done it again... D:\n\nIm getting down with the thiCCnes! I like to see them pack'n wagon in the back!\n\nThe grip is just a heck'n chonker at an overall width of 31.3mm. Even my canonically smol hands can't handle that :O\n\nGawd DaYMN! \n\n\nComes in two variants:\n\n *Standard\n *Ridged\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 30%\nSupport Material Percentage: 18% \n\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1670850771",
+    "source": {
+      "hash": "421c19a8ec47eba5b1c02304a4e235bec478627fc5ae404f8790dcd971be2bbb5c3b84e2145e5a5dcc4684bbed48d211",
+      "media_type": "application/zip",
+      "name": "Oh Lawd He Comin' AR Grip.zip",
+      "sd_hash": "d2ce5edfac73e69831d44eb69f49c97ee8f2c8f92f090e26bc3591832c232f27e950a0879ff6f091050dff16e34d643d",
+      "size": "7052089"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "grip",
+      "thick",
+      "thicc"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/7/7e283319db51628f.png"
+    },
+    "title": "Oh Lawd He Comin' Grips (AR-15)"
+  },
+  "value_type": "stream"
+}
