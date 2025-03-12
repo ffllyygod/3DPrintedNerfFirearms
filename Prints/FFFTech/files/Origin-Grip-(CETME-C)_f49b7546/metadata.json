@@ -1,0 +1,114 @@
+{
+  "address": "bMe8wqJdUxdJpLjzA7NcotQrgQkGSv9TNw",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Origin-Grip-(CETME-C)#f",
+  "claim_id": "f49b7546cff444a7f8fa87bbe1fe28526af10d03",
+  "claim_op": "create",
+  "confirmations": 794407,
+  "height": 1259587,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1259587,
+    "creation_height": 1259587,
+    "creation_timestamp": 1668590434,
+    "effective_amount": "0.01",
+    "expiration_height": 3361987,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1259587
+  },
+  "name": "Origin-Grip-(CETME-C)",
+  "normalized_name": "origin-grip-(cetme-c)",
+  "nout": 0,
+  "permanent_url": "lbry://Origin-Grip-(CETME-C)#f49b7546cff444a7f8fa87bbe1fe28526af10d03",
+  "short_url": "lbry://Origin-Grip-(CETME-C)#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1668590434,
+  "txid": "33b84b676793fb6ea7e66ed7135450d20026a471297c044d21876767cddcb51f",
+  "type": "claim",
+  "value": {
+    "description": "Origin Grip (CETME-C): Laffs Dynamics\n\nFirst of Laffs Dynamics made CETME-C grips. Finger grooved front section with a rounded backstrap. \n\nMax width: 29.4mm\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\nPrint the grip upside-down. \n\n\n\nHardware Needed:\n\n1x CETME Grip Screw",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1668590334",
+    "source": {
+      "hash": "d402af67101d38d08d987e312b64dc446ca2a7fb378de474dfc031993b446575c00061208601c56bbe0847b76f9d8e45",
+      "media_type": "application/zip",
+      "name": "Origin Grip (CETME C).zip",
+      "sd_hash": "eeb40c9b2f42a9ce21efc28ee1087ccfc31adf494e0aac2a3454aef789bd35c344d7b59126d7571010522a93fa1ead28",
+      "size": "1309839"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "cetme",
+      "grip",
+      "origin"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/b/7a6b4bd3f43c3388.png"
+    },
+    "title": "Origin Grip (CETME-C)"
+  },
+  "value_type": "stream"
+}
