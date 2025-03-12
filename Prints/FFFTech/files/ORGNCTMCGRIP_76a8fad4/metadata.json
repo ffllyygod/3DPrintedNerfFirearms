@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/ORGNCTMCGRIP#7",
+  "claim_id": "76a8fad4eb2de6d5f12f463bced585d4b957ce21",
+  "claim_op": "create",
+  "confirmations": 602820,
+  "height": 1451150,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1451150,
+    "creation_height": 1451150,
+    "creation_timestamp": 1698915228,
+    "effective_amount": "0.001",
+    "expiration_height": 3553550,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1451150
+  },
+  "name": "ORGNCTMCGRIP",
+  "normalized_name": "orgnctmcgrip",
+  "nout": 0,
+  "permanent_url": "lbry://ORGNCTMCGRIP#76a8fad4eb2de6d5f12f463bced585d4b957ce21",
+  "short_url": "lbry://ORGNCTMCGRIP#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1698915228,
+  "txid": "20d1179c3c6aaa396daf8b631e06e0d77a602c76df0c1162bec6d5043276ad87",
+  "type": "claim",
+  "value": {
+    "description": "Ridged variant of the original Laffs Dynamics CETME C Origin Grip. At this rate you never gonna drop that heavy bitch even if you try. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 60%+\nSupport Material Percentage: 18%\n\nPrint the grip upside-down. \n\n\n\nNote: The original Laffs Dynamics CETME C Origin Grip can be found here: https://defcad.com/library/50ea47d0-2916-49ad-9da4-46e0d7e43c85/\n\n\n\nHardware Needed:\n\n1x CETME Grip Screw",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1698914974",
+    "source": {
+      "hash": "c0f87b27580ee81b2e141425653094160ff0d7196262976a6cd1607ce35b61a3fac8e99e1edc0b89dd59f21563beca38",
+      "media_type": "application/zip",
+      "name": "Origin Ridged Grip (CETME C).zip",
+      "sd_hash": "6e3cac27d6d366cb77b9d459ec4a70cf237518a38f0129f1bcac84648c5ac4265001a71299ee0bb6980dd9bd9a75c9e8",
+      "size": "3510262"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "grip",
+      "cetme c",
+      "cetme"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/593d6cce70c30500845747c1ae717ee8.webp"
+    },
+    "title": "Origin Ridged Grip (CETME-C)"
+  },
+  "value_type": "stream"
+}
