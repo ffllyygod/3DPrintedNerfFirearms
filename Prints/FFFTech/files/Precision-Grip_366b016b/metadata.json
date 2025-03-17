@@ -1,0 +1,114 @@
+{
+  "address": "bTG1BTrA92nSVRoF1x5RekZ8FQJYB88yq6",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Precision-Grip#3",
+  "claim_id": "366b016b1ac558837b08701ac9473529f06ed7aa",
+  "claim_op": "create",
+  "confirmations": 989728,
+  "height": 1064266,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1064266,
+    "creation_height": 1064266,
+    "creation_timestamp": 1637253980,
+    "effective_amount": "0.01",
+    "expiration_height": 3166666,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1064266
+  },
+  "name": "Precision-Grip",
+  "normalized_name": "precision-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Precision-Grip#366b016b1ac558837b08701ac9473529f06ed7aa",
+  "short_url": "lbry://Precision-Grip#3",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1637253980,
+  "txid": "ec344c16d886f211b73ce608feba18c9cefaa95fc3c82d6b7a8225c5da1c9503",
+  "type": "claim",
+  "value": {
+    "description": "Precision Grip (AR-15): FFFTech/FFFTechnology\n\nA design created mimicking the PSG-1's grip. Has a palm rest that can be adjusted vertically, and also can be \nadjusted for different pitch and roll angles. The top of the grip area has thumb rests that extend 9mm forward. \nHas wide finger grooves. \n\n\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 216C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 4\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 20% \n\n(Support material only needed for finger grooves, underside of thumb rests, and through bolt slots.)\n\n\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring\n\n1x M5x40 Hex Socketed Machine Screw/Bolt\n\n1x M5 Hex Nut (Be sure both bolt & nut are the same thread pitch.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1637253878",
+    "source": {
+      "hash": "ef5071e8bf420ffba46c88e90e63a0db17c4e7d3c9c332bb43496a77b660920b4f2b4e31d261234d25d57ce4950d4afb",
+      "media_type": "application/zip",
+      "name": "Precision Grip.zip",
+      "sd_hash": "21522409aeb980ba2f9a55b59e623aadfd97f4df93a1c7fe9658afe8e2e8cf3964e03f816dccaef09bee21e369f23724",
+      "size": "13089374"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "precision",
+      "grip",
+      "ar-15"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/0/53e3e5b7a1fdaea4.jpg"
+    },
+    "title": "Precision Grip (AR-15)"
+  },
+  "value_type": "stream"
+}
