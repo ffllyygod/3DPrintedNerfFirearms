@@ -1,0 +1,114 @@
+{
+  "address": "bJQ1Zd4richExVZHok5951nhMuBnLnySvH",
+  "amount": "0.0001",
+  "canonical_url": "lbry://@FFFTech#3/RDR-T1-Minimal-Mount#e",
+  "claim_id": "e9ec55d3523edbe208dbe0959f89044b4a0f00ff",
+  "claim_op": "update",
+  "confirmations": 849562,
+  "height": 1204432,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1204432,
+    "creation_height": 1183711,
+    "creation_timestamp": 1656409481,
+    "effective_amount": "0.0001",
+    "expiration_height": 3306832,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1183711
+  },
+  "name": "RDR-T1-Minimal-Mount",
+  "normalized_name": "rdr-t1-minimal-mount",
+  "nout": 0,
+  "permanent_url": "lbry://RDR-T1-Minimal-Mount#e9ec55d3523edbe208dbe0959f89044b4a0f00ff",
+  "short_url": "lbry://RDR-T1-Minimal-Mount#e",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659737229,
+  "txid": "0f6271f500631b182553da8562057ccc28773440963bf13db9ff4ce00d801c1b",
+  "type": "claim",
+  "value": {
+    "description": "RDR T1 Minimal Mount: FFFTech/FFFTechnology\n\nA mount for red dot optics that use the common Aimpoint T1 mounting footprint, similar in design to the original \n3FTech RDR T1. \n\nA cut down variant, quicker to print. Best for use with cheaper optics, no doubt less surface area for the clamp to \ninterface with the side of the rail most likely will not hold zero as well for heavier optics. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40mm\nWall Perimeters: 6+\nInfill: 25%+\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\nPrint the mount/riser upside-down\n\n\n\nHardware Needed: \n\n1x M5x30 Hex Socketed Machine Screw/Bolt\n\n1x M5 Hex Nut (Be sure both bolt & nut are the same thread pitch.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1656409416",
+    "source": {
+      "hash": "886b4afb14425c5df9709a8ed680a61a1671027ea96e667e975cbb54a5f553b2ed2010f7477e3a3baf18fc9fa70bc229",
+      "media_type": "application/zip",
+      "name": "RDR T1 Minimal Mount.zip",
+      "sd_hash": "63338ab3d7bc4bd5a9f22a016646f45faba9b9201625e33c38124492da967bedfd5f7ddcb74600907563ee2636d494a8",
+      "size": "3998765"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "aimpoint",
+      "firearms",
+      "optics",
+      "t1"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/9/9ef0251e74d3c97a.jpg"
+    },
+    "title": "RDR T1 Minimal Mount"
+  },
+  "value_type": "stream"
+}
