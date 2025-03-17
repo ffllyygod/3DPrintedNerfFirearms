@@ -1,0 +1,114 @@
+{
+  "address": "bWGLeNoR2U7s3NVvjF2jsr3Suh1mRRx5DQ",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Precision-Grip-Lite#b",
+  "claim_id": "ba715625dc1ebcf490297248d5e92f11c6fb0d0b",
+  "claim_op": "update",
+  "confirmations": 847975,
+  "height": 1206019,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1206019,
+    "creation_height": 1065784,
+    "creation_timestamp": 1637495077,
+    "effective_amount": "0.01",
+    "expiration_height": 3308419,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1065784
+  },
+  "name": "Precision-Grip-Lite",
+  "normalized_name": "precision-grip-lite",
+  "nout": 0,
+  "permanent_url": "lbry://Precision-Grip-Lite#ba715625dc1ebcf490297248d5e92f11c6fb0d0b",
+  "short_url": "lbry://Precision-Grip-Lite#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659990469,
+  "txid": "65476b8e2ca46775794b8f94ae8272f3a8bf536c73f83ef3fa930c1a0b33f258",
+  "type": "claim",
+  "value": {
+    "description": "Precision Grip Lite V1.2.1 (AR-15): FFFTech/FFFTechnology\n\nA reduced material version of the original Precision Grip design. Retains the thumb rests and the \nfinger grooves. The palm rest is omitted, and the grip length is shorter for reduced weight. \n\nThree variants are available: \n\n *Standard\n *Non Grooved, Standard\n *Non Grooved, Cross Cut\n\n\nUpdate: Non-Grooved design variants added, document updated with Ender 3 V2 print parameters.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5*\nInfill: 20%*\nInfill Pattern: Gyroid\nMaterial Flow: 100%\n\nSupport Material Percentage: 20% \n\n(Support material only needed for finger grooves and underside of thumb rests)\n\n\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring\n\n\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1652776831",
+    "source": {
+      "hash": "2c20966012a91d25012091c47c8e8d2088b8770e90ec1b524991561da4cf48fc1180702e5a989f621f344728e2636b65",
+      "media_type": "application/zip",
+      "name": "Precision Grip Lite V1.2.1.zip",
+      "sd_hash": "59af8b520ff87b45aad82ca832c9f2337ae4737d2c814adf2a4d076bf79f11a64f271a9a81312a9e530e99f226679f7e",
+      "size": "8726784"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ar15",
+      "firearms",
+      "grip",
+      "precision"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/e/0ced588b8cece6a7.jpg"
+    },
+    "title": "Precision Grip Lite (AR-15) V1.2.1"
+  },
+  "value_type": "stream"
+}
