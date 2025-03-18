@@ -1,0 +1,114 @@
+{
+  "address": "bTVjGwgnuQqKtrL1Hvt4cdbeFbER2fTYXZ",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Raven-Padded-AKM-Grip#c",
+  "claim_id": "c01a536b8b2c70d78e60e80df9f8ba7cb81405d6",
+  "claim_op": "create",
+  "confirmations": 755415,
+  "height": 1298566,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1298566,
+    "creation_height": 1298566,
+    "creation_timestamp": 1674488378,
+    "effective_amount": "0.001",
+    "expiration_height": 3400966,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1501362
+  },
+  "name": "Raven-Padded-AKM-Grip",
+  "normalized_name": "raven-padded-akm-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Raven-Padded-AKM-Grip#c01a536b8b2c70d78e60e80df9f8ba7cb81405d6",
+  "short_url": "lbry://Raven-Padded-AKM-Grip#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1674488378,
+  "txid": "d605af93fc76d32830fd9bfe8d375371ca58c67609ad7713e96d15fc2889f7e8",
+  "type": "claim",
+  "value": {
+    "description": "Raven AKM Padded Grip: Laffs Dynamics\n\nFront padded variant of the original Laffs Dynamics Raven AKM Grip.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 35%+\n\nPrint the grip upside down\n\n\n\nHardware Needed:\n\n1x OEM AK Grip Screw",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1674488191",
+    "source": {
+      "hash": "33d436fec94748bef07e5ad2ad9f8e17770c1b5a7deaf0e8a811e781ab72d636e71191df2204f49ade9445c1a733a421",
+      "media_type": "application/zip",
+      "name": "Raven Padded AKM Grip.zip",
+      "sd_hash": "d08a97e97af88847bd025d7f9058aec9d375907faad6ec5db73b1dcf67ff478e62fd5cc9e5bc65b8bd526d1611d60fb9",
+      "size": "2409067"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "grip",
+      "ak",
+      "akm"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/7/ee9a259ba7e21216.png"
+    },
+    "title": "Raven AKM Padded Grip"
+  },
+  "value_type": "stream"
+}
