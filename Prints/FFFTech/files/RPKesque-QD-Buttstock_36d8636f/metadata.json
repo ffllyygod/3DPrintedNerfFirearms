@@ -1,0 +1,114 @@
+{
+  "address": "bFxJLCyHmBxCKntrzJyii8cczedA3jgWRw",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/RPKesque-QD-Buttstock#3",
+  "claim_id": "36d8636fe65e59347ceef500df1bdd449332fac3",
+  "claim_op": "update",
+  "confirmations": 605292,
+  "height": 1448678,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1448678,
+    "creation_height": 1287071,
+    "creation_timestamp": 1672770992,
+    "effective_amount": "0.01",
+    "expiration_height": 3551078,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1287071
+  },
+  "name": "RPKesque-QD-Buttstock",
+  "normalized_name": "rpkesque-qd-buttstock",
+  "nout": 0,
+  "permanent_url": "lbry://RPKesque-QD-Buttstock#36d8636fe65e59347ceef500df1bdd449332fac3",
+  "short_url": "lbry://RPKesque-QD-Buttstock#3",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1698519763,
+  "txid": "23a0109d58066fbd1858bb1d642154436b724a631a0b9ea4d608a9784e584dff",
+  "type": "claim",
+  "value": {
+    "description": "FBS-4-QD (AKM) V1.0.2: Laffs Dynamics\n\nFixed stock for AKMs, designed to mimic the aesthetics and feel of original FBS-4 (AKM). Has four QD sling sockets. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 6+\nInfill: 32%+\nSupport Material Percentage: 18%\n\n\n\nAccreditations:\n\nRK Spookware: Requested the design. Gave design parameters. Printed then test fitted the buttstock onto their AKM pattern \nrifle. \n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1698519687",
+    "source": {
+      "hash": "d46366b427111e903bed41af998e8b02942dce863b9f0c6c612921bdb3df6cc1e66c86cbe5e379b3b948dda7f0f7c29d",
+      "media_type": "application/zip",
+      "name": "FBS-4-QD (AKM) V1.0.2.zip",
+      "sd_hash": "a6f86215ef9584edf850beaa21f50cc500ccb173055fc1c29734549cc09b18e9b9691597347bfc966e2c3403d9942c20",
+      "size": "2603033"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "guns",
+      "ak",
+      "buttstock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7b0c6c7a5bbc3d9dbc28bd2fc6cb0b2f.webp"
+    },
+    "title": "FBS-4-QD (AKM) V1.0.2"
+  },
+  "value_type": "stream"
+}
