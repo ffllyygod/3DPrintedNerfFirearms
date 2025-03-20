@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Rimfire-Redirectinator-9000#0",
+  "claim_id": "0b37978d71b0e28b71411ef872e67257f0787aeb",
+  "claim_op": "update",
+  "confirmations": 118877,
+  "height": 1935093,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1935093,
+    "creation_height": 1758315,
+    "creation_timestamp": 1743159885,
+    "effective_amount": "0.001",
+    "expiration_height": 4037493,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1758502
+  },
+  "name": "Rimfire-Redirectinator-9000",
+  "normalized_name": "rimfire-redirectinator-9000",
+  "nout": 0,
+  "permanent_url": "lbry://Rimfire-Redirectinator-9000#0b37978d71b0e28b71411ef872e67257f0787aeb",
+  "short_url": "lbry://Rimfire-Redirectinator-9000#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1767972893,
+  "txid": "ad7a093259df35cd38e7ad8137d86bb13cb8168366cc2e6434f37da20fb4eb06",
+  "type": "claim",
+  "value": {
+    "description": "Rimfire Redirectinator 9000: Laffs Dynamics\n\nBEHOLD\n\nDR.LAFFSALOTS REDIRECTINATOR... 9000!!!!!\n\nA 1/2x28 threaded tiny flashcan for rimfire short barreled firearms. \n\nTested with a Beretta 21A Bobcat Covert; having such a short barrel (2.4in) it was the perfect testbed for attempting to reduce flash. \n\nComes with a 3D printable hand wrench for easy installation and removal of the muzzle device. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 80%+\nSupport Material Percentage: 18%\n\n\n\nCredits: \n\nPunished_DP_Roberts: Test fired a Beretta 21A Covert with the flashcan design, provided video footage and visual feedback of design's performance. \n\n\n\nNote: This was meant to be uploaded almost a year ago. Idk how I somehow publicly released the XL variant, yet forgot the release this as the original",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1743159758",
+    "source": {
+      "hash": "f1e90ef8e10a12a4c867fb17bf127e2dfb5f5f7e8e29a416ac043bf0a86bf8d2f65d0d7aee1c34d3042211b279f97e62",
+      "media_type": "application/zip",
+      "name": "Rimfire Redirectinator 9000.zip",
+      "sd_hash": "644a5b1e38f432ac865403079bf66e8dc0684c2f148d0642aa73576819a1d7e16541ed66b9a589b3da9667bec50ead89",
+      "size": "30018039"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "muzzle device",
+      "flash suppressor",
+      "rimfire",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/566af4e16f9722d2f6bc783dd569601c.webp"
+    },
+    "title": "Rimfire Redirectinator 9000"
+  },
+  "value_type": "stream"
+}
