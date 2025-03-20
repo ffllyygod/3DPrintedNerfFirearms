@@ -1,0 +1,113 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/RimRedirect9000XL#c",
+  "claim_id": "cb0b0521a59b15635d8625c002168e84d15c91f8",
+  "claim_op": "create",
+  "confirmations": 487718,
+  "height": 1566252,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1566252,
+    "creation_height": 1566252,
+    "creation_timestamp": 1716212143,
+    "effective_amount": "0.001",
+    "expiration_height": 3668652,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1566514
+  },
+  "name": "RimRedirect9000XL",
+  "normalized_name": "rimredirect9000xl",
+  "nout": 0,
+  "permanent_url": "lbry://RimRedirect9000XL#cb0b0521a59b15635d8625c002168e84d15c91f8",
+  "short_url": "lbry://RimRedirect9000XL#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1716212143,
+  "txid": "aef88448613d21c58abb6d943dd157940b3e68963350eb001780a477f608cbec",
+  "type": "claim",
+  "value": {
+    "description": "Rimfire Redirectinator 9000 XL: Laffs Dynamics\n\nA 1/2x28 threaded flashcan for rimfire firearms. Extra large version of the original Laffs Dynamics Rimfire Redirectinator 9000. \n\nComes with a 3D printable hand wrench for easy installation and removal of the muzzle device. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 80%+\nSupport Material Percentage: 18%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1716211998",
+    "source": {
+      "hash": "69136efa9c21faf4a62d4171f35ead8abde7b5cb4a8d4128c0b0b05f5b50c3e9b56e9f3b3058a68bd0ba7b48b2aad132",
+      "media_type": "application/zip",
+      "name": "Rimfire Redirectinator 9000 XL.zip",
+      "sd_hash": "f986f7f2526d3411b2acf803e5688c746594cda8dfe5ea70cb48472183300a3029fbfbf5b44273dbecf55d5706b549bf",
+      "size": "3448269"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "flash can",
+      "muzzle device"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/99c4ac77506fd22fe95a32a800a441e0.webp"
+    },
+    "title": "Rimfire Redirectinator 9000 XL"
+  },
+  "value_type": "stream"
+}
