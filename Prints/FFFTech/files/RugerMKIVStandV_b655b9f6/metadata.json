@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/RugerMKIVStandV#b",
+  "claim_id": "b655b9f6ed3f8adbe7c7b50ecce676776999b302",
+  "claim_op": "create",
+  "confirmations": 515758,
+  "height": 1538212,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1538212,
+    "creation_height": 1538212,
+    "creation_timestamp": 1712350551,
+    "effective_amount": "0.001",
+    "expiration_height": 3640612,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1538417
+  },
+  "name": "RugerMKIVStandV",
+  "normalized_name": "rugermkivstandv",
+  "nout": 0,
+  "permanent_url": "lbry://RugerMKIVStandV#b655b9f6ed3f8adbe7c7b50ecce676776999b302",
+  "short_url": "lbry://RugerMKIVStandV#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1712350551,
+  "txid": "9d7983da514f865cc0d82150249fd2f70bf92acbc9b54280283df8a743cb033f",
+  "type": "claim",
+  "value": {
+    "description": "Flying V Pistol Stand (Ruger MKIV): Laffs Dynamics\n\nBase stand for display of a Ruger MkIV handgun. Kinda inspired by the shape of a flying V guitar whilst i was absolutely blitzed out of my mind. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 6+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1712350439",
+    "source": {
+      "hash": "e2927518c621a685b02e2ba7779786f4988826aa1c4e4800d9d8a83fbb2586f1fbab1a4871e95a78179c38a11dd9d621",
+      "media_type": "application/zip",
+      "name": "Flying V Pistol Stand (Ruger MKIV).zip",
+      "sd_hash": "98ce18a101f32b1250bf039ba381d9ab2c28036981b59a96e2b220cc827e20f69807bdb28de6452f8c6ea7de1b2f92d3",
+      "size": "707760"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "stand",
+      "flying v",
+      "ruger"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/0b65db7f8dd96c29738c0bab68a7511f.webp"
+    },
+    "title": "Flying V Pistol Stand (Ruger MKIV)"
+  },
+  "value_type": "stream"
+}
