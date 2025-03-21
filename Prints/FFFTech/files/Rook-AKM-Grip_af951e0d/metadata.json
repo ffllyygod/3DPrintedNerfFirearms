@@ -1,0 +1,114 @@
+{
+  "address": "bWxY55ZLaqWfK8RUVtgyRoHCPLSqxAMaQU",
+  "amount": "0.1",
+  "canonical_url": "lbry://@FFFTech#3/Rook-AKM-Grip#a",
+  "claim_id": "af951e0d7e854a77b74313cc172064c896d6d297",
+  "claim_op": "update",
+  "confirmations": 851547,
+  "height": 1202447,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1202447,
+    "creation_height": 1166070,
+    "creation_timestamp": 1653574693,
+    "effective_amount": "0.1",
+    "expiration_height": 3304847,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1166070
+  },
+  "name": "Rook-AKM-Grip",
+  "normalized_name": "rook-akm-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Rook-AKM-Grip#af951e0d7e854a77b74313cc172064c896d6d297",
+  "short_url": "lbry://Rook-AKM-Grip#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659419060,
+  "txid": "304bd6fb78de60a11580493fc1c5b31ddf6d6d5c8f8387255c4893fa4985b453",
+  "type": "claim",
+  "value": {
+    "description": "Rook AKM Grip V1.1: FFFTech/FFFTechnology\n\nAn AKM grip with a straight backstrap and frontal section. Has ridges down the front, with an outwards extended toe. \n\nA thumb rest is modeled into the left side of the grip. (See Note Below)\n\nOverall thickness is 25.2mm\n\n\nUpdate V1.1: Removed reinforcements. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 4+\nInfill: 25%+\nInfill Pattern: Gyroid\nMaterial Flow: 100%\n\nPrint the grip upside down\n\n\n\nHardware Needed:\n\n1x OEM AK Grip Screw\n\n\n\nNotes:\n\n1) For left handed shooters, simply use the \"Mirror\" setting in your preferred slicer software, so the thumb rest is \non the right side of the grip.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1658834687",
+    "source": {
+      "hash": "d48d1e9f87dbfbbabadcf8fe2fdab8c1cb94c422819bea90955a15e8143e0eab0a40df7ff2e784e852d2787e08ec4405",
+      "media_type": "application/zip",
+      "name": "Rook AKM Grip V1.1.zip",
+      "sd_hash": "333bc361b77ff0bdf99331b21a45a7cea3ada71bfdce5c0aaff8e6af220691b5fb3bd5e63dad829240b5cbc0f405ed5f",
+      "size": "4907598"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ak",
+      "ak47",
+      "firearms",
+      "grip"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/092b6b7626e9997fb69a69e9a5b4041b.webp"
+    },
+    "title": "Rook AKM Grip V1.1"
+  },
+  "value_type": "stream"
+}
