@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Scorpion-Print-Grip-Panels-(Heritage-RR)#9",
+  "claim_id": "96693fe6297fac504abc56406b3ff75757481c48",
+  "claim_op": "update",
+  "confirmations": 288087,
+  "height": 1765883,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1765883,
+    "creation_height": 1765882,
+    "creation_timestamp": 1744217220,
+    "effective_amount": "0.001",
+    "expiration_height": 3868283,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1767319
+  },
+  "name": "Scorpion-Print-Grip-Panels-(Heritage-RR)",
+  "normalized_name": "scorpion-print-grip-panels-(heritage-rr)",
+  "nout": 0,
+  "permanent_url": "lbry://Scorpion-Print-Grip-Panels-(Heritage-RR)#96693fe6297fac504abc56406b3ff75757481c48",
+  "short_url": "lbry://Scorpion-Print-Grip-Panels-(Heritage-RR)#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1744217342,
+  "txid": "b346bfeda692043170e4e25c090a154d95d3d2c316e784a1f76da4bbdc1c5068",
+  "type": "claim",
+  "value": {
+    "description": "Scorpion Print Heritage Rough Rider Grip Panels: Laffs Dynamics\n\nGrip panels for the Heritage Rough Rider revolver, with a scorpion print embossed into each panel side.\n\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 50%",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1744217213",
+    "source": {
+      "hash": "cee89336001f02da7a6e5c91bdc2bc76306968e97127011db6104c2445f9ec8059c0b738ae798ff523b18a28219280f6",
+      "media_type": "application/zip",
+      "name": "Scorpion Print Grip Panels (Heritage RR).zip",
+      "sd_hash": "945a87ce825501b10949a21342662b7d99962c694ffa8b3e19b27156c7cd54e5d5c6cf65bf8aa30f006c4cec4a2886fa",
+      "size": "13623749"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "heritage",
+      "rough rider",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments",
+      "grip"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/9e3a524c26e1bf9f4880307e364cd8d0.webp"
+    },
+    "title": "Scorpion Print Heritage Rough Rider Grip Panels"
+  },
+  "value_type": "stream"
+}
