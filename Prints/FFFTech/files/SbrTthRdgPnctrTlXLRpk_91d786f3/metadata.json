@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/SbrTthRdgPnctrTlXLRpk#9",
+  "claim_id": "91d786f33767f93d61e19e67fb1862479393297e",
+  "claim_op": "create",
+  "confirmations": 431505,
+  "height": 1622465,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1622465,
+    "creation_height": 1622465,
+    "creation_timestamp": 1724264239,
+    "effective_amount": "0.001",
+    "expiration_height": 3724865,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1622615
+  },
+  "name": "SbrTthRdgPnctrTlXLRpk",
+  "normalized_name": "sbrtthrdgpnctrtlxlrpk",
+  "nout": 0,
+  "permanent_url": "lbry://SbrTthRdgPnctrTlXLRpk#91d786f33767f93d61e19e67fb1862479393297e",
+  "short_url": "lbry://SbrTthRdgPnctrTlXLRpk#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1724264239,
+  "txid": "bfbe6aa57ac9cdd79b01d1b9d137dad411ab1786a1dfc18ccd9f892d5b10edb7",
+  "type": "claim",
+  "value": {
+    "description": "\"Sabre Tooth\" Ridged Puncture Tool (XL REPACK): Laffs Dynamics\n\nA tool for puncturing soft flesh sections such as the human neck, stomach, under the ribcage, etc. \n\nCurved for reaching under and around boney sections such as the spine and ribs. \n\nAdded ridging along the edges of the tool, as I found it to be easy for ones hand to slip down the tapered end if one's \nhands are wet. \n\n\nUpdate: Added XL model variant to the data pack.\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 65%+\n\nCredit: StayFree3DP: Requested the design. Gave design parameters. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1724264164",
+    "source": {
+      "hash": "8d056ce5490414724cb8fac0b04edd33f9f485e1b8d75dda22e7741af65e3b9c4d04dd4c8362048b625a376f338e6b53",
+      "media_type": "application/zip",
+      "name": "Sabre Tooth Ridged (XL Repack).zip",
+      "sd_hash": "cf9faf39272660aeeeb6817e2f617576f2a64f4fe9c3b0cd246a98f10aadb61cfb1deb5b6c851a8c43b2283887390ad2",
+      "size": "3684049"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "melee",
+      "sabre tooth",
+      "puncture",
+      "ridged",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/912e140d9ce365584d60fa05f486b4a2.webp"
+    },
+    "title": "\"Sabre Tooth\" Ridged Puncture Tool (XL REPACK)"
+  },
+  "value_type": "stream"
+}
