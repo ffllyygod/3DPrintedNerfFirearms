@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Slipstream-Grip-V2-(Scorpion-Evo-3)#a",
+  "claim_id": "abe9ada778fd84412dbaa7a245da21d7bcc4d578",
+  "claim_op": "create",
+  "confirmations": 114265,
+  "height": 1939699,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1939699,
+    "creation_height": 1939699,
+    "creation_timestamp": 1768464558,
+    "effective_amount": "0.001",
+    "expiration_height": 4042099,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1939699
+  },
+  "name": "Slipstream-Grip-V2-(Scorpion-Evo-3)",
+  "normalized_name": "slipstream-grip-v2-(scorpion-evo-3)",
+  "nout": 0,
+  "permanent_url": "lbry://Slipstream-Grip-V2-(Scorpion-Evo-3)#abe9ada778fd84412dbaa7a245da21d7bcc4d578",
+  "short_url": "lbry://Slipstream-Grip-V2-(Scorpion-Evo-3)#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1768464558,
+  "txid": "9b721d92ec72365dc10d79e635ef6df3c60820849daa7e2d7802defc5cde9dc8",
+  "type": "claim",
+  "value": {
+    "description": "Slipstream Grip V2 (CZ Scorpion Evo 3): Laffs\n\nSecond version of the original Slipstream Grip made in 2022. Utilizing design geometry from both the original Slipstream Grip and the more recent \nEvo Edgerunner Grip. \n\nComes in two variants.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 6\nInfill: 60%\nSupport Material Percentage: 18%\n\nPrint the grip upside-down.\n\n\n\nHardware Required:\n\n1x M4x30mm Bolt (Can be ground down to 28mm so it doesn't stick out the side)\n\n1x M4 Hex Nut",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1768464343",
+    "source": {
+      "hash": "35a7e087605db8bd19c7e7f24fbec11f365edcc40797bc1ca03122119924d78c05f627e9af881f641166172fc1133ec0",
+      "media_type": "application/zip",
+      "name": "Slipstream Grip V2 (Scorpion Evo 3).zip",
+      "sd_hash": "0f14f519102658f4904540b04d67a004cdf918f8a9b72c105f62e0aaa4721b189a2ec9e617736fb4255d6d8538df99ff",
+      "size": "16384957"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "scorpion",
+      "grip",
+      "slipstream",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d415305aa897632c1569569d19742964.webp"
+    },
+    "title": "Slipstream Grip V2 (Scorpion Evo 3)"
+  },
+  "value_type": "stream"
+}
