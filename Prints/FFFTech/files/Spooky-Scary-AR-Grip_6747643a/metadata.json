@@ -1,0 +1,114 @@
+{
+  "address": "bSfXw52aeVV3RXKhQ8cMXx8FRMPFCpnPxk",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Spooky-Scary-AR-Grip#6",
+  "claim_id": "6747643a41ee359eae56f344f6757a84337148a0",
+  "claim_op": "create",
+  "confirmations": 750006,
+  "height": 1303975,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1303975,
+    "creation_height": 1303975,
+    "creation_timestamp": 1675353930,
+    "effective_amount": "0.01",
+    "expiration_height": 3406375,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1303975
+  },
+  "name": "Spooky-Scary-AR-Grip",
+  "normalized_name": "spooky-scary-ar-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Spooky-Scary-AR-Grip#6747643a41ee359eae56f344f6757a84337148a0",
+  "short_url": "lbry://Spooky-Scary-AR-Grip#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1675353930,
+  "txid": "b3b13734772dc45ae4326cb5100e287138770ce76beb8663aebd7bfcc7774aab",
+  "type": "claim",
+  "value": {
+    "description": "Spooky Scary Grip (AR-15): Laffs Dynamics \n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 30%\nSupport Material Percentage: 18% \n\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1675353821",
+    "source": {
+      "hash": "467484dcfaa1e5ac6bedca8cfc10a23460c8b6ad42562ad709aebeecd686877de5d61dfe8d1b426b9657efb15d11ae7d",
+      "media_type": "application/zip",
+      "name": "Spooky Scary AR Grip.zip",
+      "sd_hash": "841caa9a3e814c1b637b7905fec3c9746afebaf9f7e9ef2d49c6b8ee22333cb301f7c79eefc82ec98c129cc7a163dcb7",
+      "size": "1069341"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "grip",
+      "ar15",
+      "ar-15"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/a/9db0f807470c809a.png"
+    },
+    "title": "Spooky Scary Grip (AR-15)"
+  },
+  "value_type": "stream"
+}
