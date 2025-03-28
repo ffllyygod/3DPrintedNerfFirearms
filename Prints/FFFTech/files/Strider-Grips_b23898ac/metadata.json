@@ -1,0 +1,113 @@
+{
+  "address": "bFz12hwYduJUZkTZSMw9UxMzM9L76UorvS",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Strider-Grips#b",
+  "claim_id": "b23898ac37ba0af7f1f31d94012e8a93231bb778",
+  "claim_op": "create",
+  "confirmations": 848356,
+  "height": 1205638,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1205638,
+    "creation_height": 1205638,
+    "creation_timestamp": 1659929059,
+    "effective_amount": "0.001",
+    "expiration_height": 3308038,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1205638
+  },
+  "name": "Strider-Grips",
+  "normalized_name": "strider-grips",
+  "nout": 0,
+  "permanent_url": "lbry://Strider-Grips#b23898ac37ba0af7f1f31d94012e8a93231bb778",
+  "short_url": "lbry://Strider-Grips#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659929059,
+  "txid": "86ef51586d3e03c4e82dc5b62464566327bb1ebb97947bfa8a5825ec2597b2fa",
+  "type": "claim",
+  "value": {
+    "description": "Strider Grip (AR-15): Laffs Dynamics\n\nA swept back, full length AR-15 grip with an extended toe to avoid hand slippage. Swells out from 22.3mm to 28.1mm. \n\nTwo variants are available:\n\n *Basic\n *Ridge Padded\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 25%\nInfill Pattern: Gyroid\nSupport Material Percentage: 18% \n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1659928927",
+    "source": {
+      "hash": "e99a1dd9951fc6d4d8e70c0ea34c5feeaac93d9900d0abadccaacbd13de125a1347f083f0bc409ed7e6dee793070a88b",
+      "media_type": "application/zip",
+      "name": "Strider Grips.zip",
+      "sd_hash": "e6ddb21f26c45120064492072dc33f95afbdae55599fbb8931fde6d0414d5e3dd300aa115a4ba31e2afd80b504fe85c0",
+      "size": "6528929"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "grip",
+      "laffs"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/c/2453ebb12e5b7118.png"
+    },
+    "title": "Strider Grip (AR-15)"
+  },
+  "value_type": "stream"
+}
