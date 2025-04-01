@@ -1,0 +1,114 @@
+{
+  "address": "bGgztqtrTSwteQGNWAXYUzRvuoZZdrmvgx",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Tidal-Wave-AFG#9",
+  "claim_id": "9a9ccb1ca7120fa2a50dc489ab9c5d6bce6bdd28",
+  "claim_op": "update",
+  "confirmations": 787598,
+  "height": 1266396,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1266396,
+    "creation_height": 1062139,
+    "creation_timestamp": 1636915282,
+    "effective_amount": "0.01",
+    "expiration_height": 3368796,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1062139
+  },
+  "name": "Tidal-Wave-AFG",
+  "normalized_name": "tidal-wave-afg",
+  "nout": 0,
+  "permanent_url": "lbry://Tidal-Wave-AFG#9a9ccb1ca7120fa2a50dc489ab9c5d6bce6bdd28",
+  "short_url": "lbry://Tidal-Wave-AFG#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1669647524,
+  "txid": "0cbfa6cfe84e168dbf53fa91cc052a8f12ddda9c3f0cedab9636901976d27d2f",
+  "type": "claim",
+  "value": {
+    "description": "Tidal Wave M-Lok AFG V1.0.1: FFFTech/FFFTechnology\n\nA basic curved angled foregrip with a handstop towards the front. Has deep ridging along the curved section. \n\nUpdate: Changed header title to include \"M-Lok\".\n\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 216C \nBed: 56C \nFirst Layer Print Height: .18mm \nStandard Layer Height: .14mm\nWall Thickness: .40mm\nWall Perimeters: 4 - 5\nInfill: 20%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 26%\n\nPrint the AFG upside down.\n\n\nHardware Needed: \n\n2x M5x10 Hex Socketed Machine Screw/Bolt\n\n2x M-Lok T-Nuts (Be sure both bolt & nut are the same thread pitch.)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1636915214",
+    "source": {
+      "hash": "938c0ff8ec215077355a12bc0c033af8a39c398a022bd08ca6fc9c4e2929d9a400d94556194550c4f58a2868f7ffecca",
+      "media_type": "application/zip",
+      "name": "Tidal Wave AFG V1.0.1.zip",
+      "sd_hash": "9a57ee4cd69e7b8692117acf78898931a6be964b6735f3407b8a08a934f7491623bc05eb87ffc6d232aa154197a99769",
+      "size": "4532811"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "afg",
+      "angled foregrip",
+      "firearms",
+      "m-lok"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/4/3a10075a35346912.jpg"
+    },
+    "title": "Tidal Wave Angled Foregrip V1.0.1"
+  },
+  "value_type": "stream"
+}
