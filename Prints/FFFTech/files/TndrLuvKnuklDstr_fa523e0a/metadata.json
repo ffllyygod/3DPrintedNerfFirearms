@@ -1,0 +1,113 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/TndrLuvKnuklDstr#f",
+  "claim_id": "fa523e0a6c2897787147d6856a70c54eec75dc69",
+  "claim_op": "create",
+  "confirmations": 487666,
+  "height": 1566304,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1566304,
+    "creation_height": 1566304,
+    "creation_timestamp": 1716219365,
+    "effective_amount": "0.001",
+    "expiration_height": 3668704,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1566325
+  },
+  "name": "TndrLuvKnuklDstr",
+  "normalized_name": "tndrluvknukldstr",
+  "nout": 0,
+  "permanent_url": "lbry://TndrLuvKnuklDstr#fa523e0a6c2897787147d6856a70c54eec75dc69",
+  "short_url": "lbry://TndrLuvKnuklDstr#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1716219365,
+  "txid": "dbfc708c4d97289c25b98de9ab55a12be20c4dae004b598f6817738e6ae3ede7",
+  "type": "claim",
+  "value": {
+    "description": "\"Tender Love\" Knuckleduster V1.0.1: Laffs\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 7\nInfill: 75% ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1716218792",
+    "source": {
+      "hash": "ddb19338a89a0e28c2a92d3c4f08fd8b8c10fd8054e8848228d3433474181784ad896769f245bb674f36259695d93905",
+      "media_type": "application/zip",
+      "name": "Tender Love Knuckleduster V1.0.1.zip",
+      "sd_hash": "ad8221abe2adbee8a74d4c7e4f714b0cd6f9bd08bc9aecfdb7b682b95a465e4280c4d2d812e094bb280055b84e64fbcd",
+      "size": "2867399"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "knuckleduster",
+      "tenderize",
+      "melee"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/cacee4a6c9a71783d6cb7d7026c72c9c.webp"
+    },
+    "title": "\"Tender Love\" Knuckleduster"
+  },
+  "value_type": "stream"
+}
