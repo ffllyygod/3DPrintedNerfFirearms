@@ -1,0 +1,112 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/UAMD-1M#7",
+  "claim_id": "7740c21bcc3e58b90b8ee6c32e8605fcf3a03753",
+  "claim_op": "create",
+  "confirmations": 663082,
+  "height": 1390899,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1390899,
+    "creation_height": 1390899,
+    "creation_timestamp": 1689273909,
+    "effective_amount": "25.001",
+    "expiration_height": 3493299,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "25.0",
+    "take_over_height": 1391701
+  },
+  "name": "UAMD-1M",
+  "normalized_name": "uamd-1m",
+  "nout": 0,
+  "permanent_url": "lbry://UAMD-1M#7740c21bcc3e58b90b8ee6c32e8605fcf3a03753",
+  "short_url": "lbry://UAMD-1M#7",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431077,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1689273909,
+  "txid": "2a4ecbb1681f583be157744b335d497bdccd0b978d8ad00ffcb51ce625356cd0",
+  "type": "claim",
+  "value": {
+    "description": "UAMD-1M: Laffs Dynamics\n\nUndectectable Additive Manufactured Dagger. \n\nA curved spine 3DP dagger. Simple to print and use. Melt it down after \"use\" ;) \n\nSmaller version of the UAMD-1. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 50%+\n\n\n\nIt may not kill'm, but to be honest, I'd rather they suffer. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1689273851",
+    "source": {
+      "hash": "7280c77c58bd66a52cf030c9afbea9b3a5baea876786d086be76fc61517b8b5cdd171d1a90f2293d2ef043dcec60482b",
+      "media_type": "application/zip",
+      "name": "UAMD-1M.zip",
+      "sd_hash": "562b300c3d91cee3e86dda58585aa8791493ff5a2827c1f7b90ea154cc4f41c3f14026d35718346452c527b1d1e0241d",
+      "size": "868348"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "dagger",
+      "melee"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/0e1321031f979dcc458b5b7f352b41e6.webp"
+    },
+    "title": "UAMD-1M"
+  },
+  "value_type": "stream"
+}
