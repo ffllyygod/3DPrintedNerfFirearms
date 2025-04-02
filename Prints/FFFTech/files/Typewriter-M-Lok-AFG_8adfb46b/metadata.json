@@ -1,0 +1,114 @@
+{
+  "address": "bJAGpbHjNpNWaRrwtiBb1rQeveTdc6JzV5",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Typewriter-M-Lok-AFG#8",
+  "claim_id": "8adfb46b14848646e4a33e8e7371d504b8a54d3e",
+  "claim_op": "update",
+  "confirmations": 847971,
+  "height": 1206023,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1206023,
+    "creation_height": 1140084,
+    "creation_timestamp": 1649404953,
+    "effective_amount": "0.001",
+    "expiration_height": 3308423,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1140084
+  },
+  "name": "Typewriter-M-Lok-AFG",
+  "normalized_name": "typewriter-m-lok-afg",
+  "nout": 0,
+  "permanent_url": "lbry://Typewriter-M-Lok-AFG#8adfb46b14848646e4a33e8e7371d504b8a54d3e",
+  "short_url": "lbry://Typewriter-M-Lok-AFG#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1659990697,
+  "txid": "79f21c6938c986148f5ad95a56ca8cfafc7c90c5d0bd00b4d160a88e23893f9f",
+  "type": "claim",
+  "value": {
+    "description": "Typewriter M-Lok AFG: FFFTech/FFFTechnology\n\nAn M-Lok angled foregrip, similar size and overall geometry as the Thompson Model 1928's foregrip. \n\nRequires 4 full non-populated M-Lok slots to mount. \n\nComes in three variants: \n\n *Standard\n *Ridged\n *Panel Ribbed\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm - .20mm\nWall Thickness: .40mm\nWall Perimeters: 5+\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\nPrint the AFG upside down.\n\nUse support blockers; as the inside of the foregrip is semi-hollow. \n\n\n\nHardware Needed: \n\n3x M5x10 Hex Socketed Machine Screw/Bolt\n\n3x M-Lok T-Nuts (Be sure both bolt & nut are the same thread pitch.)\n\n\n\nNotes:\n\n1) This has been designed as an AFG, intended to be used on smaller weapons such as PDWs and pistols to \naid in safely controlling the weapon during firing. As of 2022; AFGs (Angled Foregrips) are still legal \nto use on handguns. \n\n\n\nAccreditations:\n\nSheridan: Requested a similar design to be made; which inspired this design's creation. Provided a base model \nto work from, aiding in creating this design's overall dimensions to be similar to the Model 1928's foregrip. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1649404912",
+    "source": {
+      "hash": "57a1cf12e7523ddea8bb094877309fc09a48b4c762dbd8e89287eeef6f337251af040b8d979a50b3602c37b5aec64d01",
+      "media_type": "application/zip",
+      "name": "Typewriter M-Lok AFG.zip",
+      "sd_hash": "e328fd16213956398803ef81fda8360a3aa9444c990284e62e03a052247fef4c380436c6f6046038da2266cd190e509c",
+      "size": "11472797"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "afg",
+      "firearms",
+      "mlok",
+      "thompson"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/7/360e0e59e128d213.jpg"
+    },
+    "title": "Typewriter M-Lok AFG"
+  },
+  "value_type": "stream"
+}
