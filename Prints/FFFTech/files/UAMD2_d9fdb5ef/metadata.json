@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/UAMD2#d",
+  "claim_id": "d9fdb5effd77fc3d6300cdf0b91158b5f073d799",
+  "claim_op": "create",
+  "confirmations": 425333,
+  "height": 1628637,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1628637,
+    "creation_height": 1628637,
+    "creation_timestamp": 1725131246,
+    "effective_amount": "0.001",
+    "expiration_height": 3731037,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1628722
+  },
+  "name": "UAMD2",
+  "normalized_name": "uamd2",
+  "nout": 0,
+  "permanent_url": "lbry://UAMD2#d9fdb5effd77fc3d6300cdf0b91158b5f073d799",
+  "short_url": "lbry://UAMD2#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1725131246,
+  "txid": "099005b118dbfe508d2182638ec9e20e45afdb2be446dac60fd33ef19cd3403f",
+  "type": "claim",
+  "value": {
+    "description": "UAMD-2: Laffs\n\nUndectectable Additive Manufactured Dagger. Second model.\n\nA angled spine 3DP dagger with a wide, tanto styled blade tip. Simple to print and use. Melt it down after use.\n\n20mm longer than the UAMD-1; has a 24mm wide blade for a wider wound cavity. Due to a wider blade, this design is more for stomach/under the ribcage \nuse, unlike Model 1's more slender blade for getting between ribs. Tradeoff simply being Model 2 should be more durable and less chance of bending.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+ (More durable if printed in CF Nylon, though melting it down after use would be a bit more difficult.)\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 50%+\n\n\n\nNote: Yes, ik, its small. (165mm) That be the idea you dorks >.> ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1725131006",
+    "source": {
+      "hash": "a4f8b4f6001c65276c46e31ad666e6913371f9b639b4af5cf8eafdc450b324b7ca17acc4921869106e427869a6e2706a",
+      "media_type": "application/zip",
+      "name": "UAMD-2.zip",
+      "sd_hash": "c9097aafde97674c1e72904598a0fbab5a6f45a88010c1c2aaddb6613f03993bff59bdaa7d25b50e3af9d1f102329b45",
+      "size": "277893"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "melee",
+      "undetectable",
+      "dagger",
+      "uamd-2",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/fa1ae2d8615361f208aa1f5877207f19.webp"
+    },
+    "title": "UAMD-2"
+  },
+  "value_type": "stream"
+}
