@@ -1,0 +1,113 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/UAMD_1_Srtd#b",
+  "claim_id": "b12f594a5e74f7e05d01e8daf96f0d690469a06c",
+  "claim_op": "create",
+  "confirmations": 539194,
+  "height": 1514776,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1514776,
+    "creation_height": 1514776,
+    "creation_timestamp": 1709117286,
+    "effective_amount": "0.001",
+    "expiration_height": 3617176,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1514913
+  },
+  "name": "UAMD_1_Srtd",
+  "normalized_name": "uamd_1_srtd",
+  "nout": 0,
+  "permanent_url": "lbry://UAMD_1_Srtd#b12f594a5e74f7e05d01e8daf96f0d690469a06c",
+  "short_url": "lbry://UAMD_1_Srtd#b",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1709117286,
+  "txid": "13aa72b66ea3a87bfbb6d6e7a35843c302804901865fce4c50248af78de88ddd",
+  "type": "claim",
+  "value": {
+    "description": "UAMD-1-Srtd: Laffs Dynamics\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 50%+\n\n\n\nI'm sure someone out there would question adding serrations to an undetectable polymer dagger design. \n\nI'll be blunt, if you don't kill a fucker with an initial stab, perhaps sawing into their flesh will help the process along. It's not about long lasting \ndurability.\n\nIt's about finishing the job. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1709117011",
+    "source": {
+      "hash": "128719c6c33e1b788eef5c912e15d3ee9154b761ddd25184fc79406c586e66b9e3b8d3c39c5211d53b2cbc3b45fa050e",
+      "media_type": "application/zip",
+      "name": "UAMD-1-Srtd.zip",
+      "sd_hash": "80b52c93bde8bbe28c16a9733016ee58075a889dea802c05fbc4de04ed8c676aea6b6e6f86f7d6fd0b74338f89509d83",
+      "size": "1800162"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "dagger",
+      "serrated",
+      "undetectable"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6e696d9ffaa7e9adeb7636a4fe495e8f.webp"
+    },
+    "title": "UAMD-1-Srtd"
+  },
+  "value_type": "stream"
+}
