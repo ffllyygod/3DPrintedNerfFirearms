@@ -1,0 +1,114 @@
+{
+  "address": "baQ6kdstNiqEbKRFm1u8wBj136uGJLmGUy",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/VFG-001-C#3",
+  "claim_id": "3c02dbffdcd781545fe40bde72b95a10974217d4",
+  "claim_op": "update",
+  "confirmations": 808160,
+  "height": 1245834,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1245834,
+    "creation_height": 1146853,
+    "creation_timestamp": 1650489452,
+    "effective_amount": "0.001",
+    "expiration_height": 3348234,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1146853
+  },
+  "name": "VFG-001-C",
+  "normalized_name": "vfg-001-c",
+  "nout": 0,
+  "permanent_url": "lbry://VFG-001-C#3c02dbffdcd781545fe40bde72b95a10974217d4",
+  "short_url": "lbry://VFG-001-C#3",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1666383463,
+  "txid": "b35da08c34a3782e1d090b22769c24ece1207608e1a36a3feb578e72fdc82a80",
+  "type": "claim",
+  "value": {
+    "description": "VFG 001-C V1.1.1: Laffs Dynamics\n\nA compact version of the VFG 001.\n\nComes in three variants: \n\n *Standard\n *Ridged\n *Perforated\n\n\nUpdate V1.1.1: Tightened picatinny rail slot tolerances. Relabeled designer's brand.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .14mm - .16mm\nWall Thickness: .40 \nWall Perimeters: 5+\nInfill: 20%+\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18%\n\nPrint the VFG upside-down. \n\n\n\nHardware Required:\n\n1x M4x30mm Bolt (Can be ground down to 28mm, so it doesn't stick out the side)\n\n1x M4 Hex Nut",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1666383279",
+    "source": {
+      "hash": "c9ab9014290f31b76404ce12b09fd0fffdc752cadcd91eec0d6b21817657efe355fadce32b345f2453008cac85912e02",
+      "media_type": "application/zip",
+      "name": "VFG 001-C V1.1.1.zip",
+      "sd_hash": "0e3c39aec20222c8f460d288750a4c2154438a89ff8b6b637f51b43546cf12727eabd25c2172e93ddf4cd603fb037671",
+      "size": "9401329"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "compact",
+      "firearms",
+      "grip",
+      "vfg"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/1/df0de9191aa82da4.jpg"
+    },
+    "title": "VFG 001-C V1.1.1"
+  },
+  "value_type": "stream"
+}
