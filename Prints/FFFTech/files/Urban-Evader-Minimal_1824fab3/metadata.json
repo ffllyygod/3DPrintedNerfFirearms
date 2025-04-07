@@ -1,0 +1,114 @@
+{
+  "address": "bMAK13w8k3BV8q1yHMSEdU511DxaZ7vWwu",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Urban-Evader-Minimal#1",
+  "claim_id": "1824fab35c3978eaff424282fab10bb967cbb2f6",
+  "claim_op": "create",
+  "confirmations": 847038,
+  "height": 1206956,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1206956,
+    "creation_height": 1206956,
+    "creation_timestamp": 1660140458,
+    "effective_amount": "0.001",
+    "expiration_height": 3309356,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1347442
+  },
+  "name": "Urban-Evader-Minimal",
+  "normalized_name": "urban-evader-minimal",
+  "nout": 0,
+  "permanent_url": "lbry://Urban-Evader-Minimal#1824fab35c3978eaff424282fab10bb967cbb2f6",
+  "short_url": "lbry://Urban-Evader-Minimal#1",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1660140458,
+  "txid": "671c1267c4c2550c91c403212f4b2414b8a30a7854be2825d2dd0108ee22b350",
+  "type": "claim",
+  "value": {
+    "description": "\"Urban Evader\" Minimal Adjustable Carbine Buttstock: Laffs Dynamics\n\nA minimalist variant of the original Laffs Dynamics Urban Evader Carbine Buttstock. \n\n\nThis buttstock is designed for Milspec Carbine Buffer Tubes only. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .2mm\nWall Perimeters: 6+\nInfill: 25%+\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 16%\n\n\n\nHardware Needed:\n\n1x Compression Spring 3/8in x 3/4in\n\n1x M3x20 Set Screw / 3mm x 20mm Roll Pin\n\n\n\nAccreditations:\n\nProSpaceDog: Created similar locking latch geometry from his adjustable buttstock design.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1660140385",
+    "source": {
+      "hash": "d458124f98215869368f47bf675434d31cf7d5ae26fc49174185a9378e1d37573129058aeb9fb6b6dee27836274c1124",
+      "media_type": "application/zip",
+      "name": "Urban Evader Minimal.zip",
+      "sd_hash": "e04ad308db39aafa7ebfd9c249d8f44ea0dc52699b6ad7458342f79a2e17450c394e24144854d736b60c083b343a989c",
+      "size": "3566398"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "buttstock",
+      "ar15",
+      "ar-15"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/8/abce8a9044ae171e.png"
+    },
+    "title": "\"Urban Evader\" Minimal Adjustable Carbine Buttstock"
+  },
+  "value_type": "stream"
+}
