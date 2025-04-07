@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/V1-PR-Handguard-(MP5K)#9",
+  "claim_id": "9866bf62a1c06585adbcf608935a35075f6df037",
+  "claim_op": "update",
+  "confirmations": 283615,
+  "height": 1770355,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1770355,
+    "creation_height": 1336951,
+    "creation_timestamp": 1680640617,
+    "effective_amount": "0.001",
+    "expiration_height": 3872755,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1340806
+  },
+  "name": "V1-PR-Handguard-(MP5K)",
+  "normalized_name": "v1-pr-handguard-(mp5k)",
+  "nout": 0,
+  "permanent_url": "lbry://V1-PR-Handguard-(MP5K)#9866bf62a1c06585adbcf608935a35075f6df037",
+  "short_url": "lbry://V1-PR-Handguard-(MP5K)#9",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431066,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1744844168,
+  "txid": "33051d033d79e1b3ca96dfbae40e0f87232dcfca76ab1ad0ee6b2536fa1d07f5",
+  "type": "claim",
+  "value": {
+    "description": "HG-1 (MP5K) (REPACK): Laffs Dynamics\n\nFirst of the Laffs Dynamics 3D printed MP5K handguards. \n\n\nTwo variants are available:\n\n *Standard, Picatinny Rail\n *Non-Railed\n\n\nUpdate: Non-Railed design variant has been added to the data pack.\n\n\n\nFilament Recommended: Glass Filled Nylon, Carbon Fiber Nylon\n\nPrint Settings:\n\nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm - .16mm\nWall Thickness: .40 \nWall Perimeters: 8+\nInfill: 60%+\nSupport Material Percentage: 20%\n\nPrint the handguard on it's rear face. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1744844102",
+    "source": {
+      "hash": "1a7274987ebadf912db3148658ade9201f6a36332ac720301cda6296a8ed65d9c26c40d2fa52f30c59e3cb648a77e046",
+      "media_type": "application/zip",
+      "name": "HG-1 (MP5K) (REPACK).zip",
+      "sd_hash": "d076ddc56d08c482ef63db31f9d340be70d9c9c3a254011768954445ceb60966cb4b11f4ae29b820983d3c0c6363709a",
+      "size": "9977815"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "mp5k",
+      "3d printing",
+      "handguard",
+      "mp5",
+      "pdw",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3369a503d1915908dd1d03c05feb7020.webp"
+    },
+    "title": "HG-1 (MP5K) (REPACK)"
+  },
+  "value_type": "stream"
+}
