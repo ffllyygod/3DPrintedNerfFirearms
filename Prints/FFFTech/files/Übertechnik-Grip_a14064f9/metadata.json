@@ -1,0 +1,114 @@
+{
+  "address": "bFV99KmKf7DrRovdqn7EPNbbwWtSuL869F",
+  "amount": "0.01",
+  "canonical_url": "lbry://@FFFTech#3/Übertechnik-Grip#a",
+  "claim_id": "a14064f95407330bd7e974da77357e731eb6e125",
+  "claim_op": "create",
+  "confirmations": 987076,
+  "height": 1066918,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1066918,
+    "creation_height": 1066918,
+    "creation_timestamp": 1637677498,
+    "effective_amount": "0.01",
+    "expiration_height": 3169318,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1066918
+  },
+  "name": "Übertechnik-Grip",
+  "normalized_name": "übertechnik-grip",
+  "nout": 0,
+  "permanent_url": "lbry://Übertechnik-Grip#a14064f95407330bd7e974da77357e731eb6e125",
+  "short_url": "lbry://Übertechnik-Grip#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431090,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1637677498,
+  "txid": "85a95d9ab6a0a0a23a060903f402a4aedb02e7c0d0eafa66e86d8088ad17b34e",
+  "type": "claim",
+  "value": {
+    "description": "Übertechnik Grip (AR-15): FFFTech/FFFTechnology\n\nA grip that utilizes the palm pad on the Balance Mini Grip, but has been relocated to the front section, and has \nbeen split into two separate pads. Has rounded backstrap with a straight front section. \n\n\nPrinter Used: Monoprice Maker Select Plus\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40 \nWall Perimeters: 4-5\nInfill: 25%\nInfill Pattern: Gyroid\nMaterial Flow: 100%\nSupport Material Percentage: 18% (Use tree supports; only needed for the top/rear of the grip.)\n\n\nHardware Needed:\n\n1x Allen Head Screw, 1/4-28 x 1\"\n\n1x Steel Star Washer\n\n1x Safety Selector Detent Pin\n\n1x Safety Selector Detent Spring\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "release_time": "1637677398",
+    "source": {
+      "hash": "62624b3d2b92ebfffe98482e4a0ac3eef3c2af1251ca3b51d410fe1b30f4d86db6e93e3d1907599e080ea1d6d35344e8",
+      "media_type": "application/zip",
+      "name": "Übertechnik Grip.zip",
+      "sd_hash": "fdf8d1aa09303ae24f2b857a948b1b56be24c37f75d3cb7412677e010430514f3b4d18005386fea0adac2aa950f0b31b",
+      "size": "4334096"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "guns",
+      "ar15",
+      "grip"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/b/c95b1290f5f86e4e.jpg"
+    },
+    "title": "Übertechnik Grip (AR-15)"
+  },
+  "value_type": "stream"
+}
