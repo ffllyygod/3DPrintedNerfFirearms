@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Zenitcopy_3D-6L_Skeletonized#f",
+  "claim_id": "fb77185cf0dc92280b3bf4567a289de544c2c3b3",
+  "claim_op": "update",
+  "confirmations": 213422,
+  "height": 1840542,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1840542,
+    "creation_height": 1390896,
+    "creation_timestamp": 1689273706,
+    "effective_amount": "25.001",
+    "expiration_height": 3942942,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "25.0",
+    "take_over_height": 1390896
+  },
+  "name": "Zenitcopy_3D-6L_Skeletonized",
+  "normalized_name": "zenitcopy_3d-6l_skeletonized",
+  "nout": 0,
+  "permanent_url": "lbry://Zenitcopy_3D-6L_Skeletonized#fb77185cf0dc92280b3bf4567a289de544c2c3b3",
+  "short_url": "lbry://Zenitcopy_3D-6L_Skeletonized#f",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755221628,
+  "txid": "2c17dba58606f6f88d799244f930f12d6177e3da03ec8d5a845c065f6f72368c",
+  "type": "claim",
+  "value": {
+    "description": "Zenitcopy 3D-6L Skeletonized M-Lok Handstop V1.1: Laffs\n\nVariant of the original Laffs Dynamics Zenitcopy 3D-6L handstop. (Itself being a copy of the Zenitco RK-6L)\n\nSkeletonized for max style points, and for that .01oz weight savings you just HAD to have... \n\n\nUpdate V1.1: Thickened inside walls by 1mm, (Including lower skeletonized struts.) reduced designer's logo size, shortened M-Lok interface by .25mm.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 7+\nInfill: 50%+\nSupport Material Percentage: 18%\n\n\n\nHardware Needed:\n\n1x M5x10 Hex Socketed Machine Screw/Bolt\n\n1x M-Lok T-Nut (Be sure both bolt & nut are the same thread pitch.)\n\n\n\nOriginal Zenticopy 3D-6L can be found here: https://odysee.com/@FFFTech:3/Zenitcopy-3D-6L:e\n\nTougher SLS Nylon Zenitcope 3D-6L can be purchased here: https://www.avesrails.com/Zenitcope-3D-6L-M-LOK-Handstop_p_89.html",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1755221606",
+    "source": {
+      "hash": "a3809df0e5663427e0ee7225952fa460a0437c98de40a9884f4442d68526a653a4f589ce87208a7e12c6e5e1729e6893",
+      "media_type": "application/zip",
+      "name": "Zenitcopy 3D-6L Skeletonized V1.1.zip",
+      "sd_hash": "c1a600b2ac30f8c1aa0110e1fb9077623b23b477233bb16e1a1f307f4dbecaaa737179b47810835125ac35d4aa537cb2",
+      "size": "1678950"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "copy",
+      "mlok",
+      "handstop",
+      "c:disable-slimes-comments",
+      "c:disable-slimes-video",
+      "c:disable-reactions-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/52c8dae9600be03973966fdf8a245d82.webp"
+    },
+    "title": "Zenitcopy 3D-6L Skeletonized V1.1"
+  },
+  "value_type": "stream"
+}
