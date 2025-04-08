@@ -1,0 +1,119 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@FFFTech#3/Zenitcopy-3D-6#6",
+  "claim_id": "66b7774cb79e6d3a637b90fb05b901c92985a843",
+  "claim_op": "update",
+  "confirmations": 53901,
+  "height": 2000063,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2000063,
+    "creation_height": 2000053,
+    "creation_timestamp": 1774568752,
+    "effective_amount": "0.001",
+    "expiration_height": 4102463,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 2000053
+  },
+  "name": "Zenitcopy-3D-6",
+  "normalized_name": "zenitcopy-3d-6",
+  "nout": 0,
+  "permanent_url": "lbry://Zenitcopy-3D-6#66b7774cb79e6d3a637b90fb05b901c92985a843",
+  "short_url": "lbry://Zenitcopy-3D-6#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@FFFTech#3",
+    "claim_id": "36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "claim_op": "update",
+    "confirmations": 431060,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 229,
+      "creation_height": 919504,
+      "creation_timestamp": 1614298621,
+      "effective_amount": "105.241",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "105.24",
+      "take_over_height": 919504
+    },
+    "name": "@FFFTech",
+    "normalized_name": "@ffftech",
+    "nout": 0,
+    "permanent_url": "lbry://@FFFTech#36cf80fee91cd0a9097c289f8b44f64ded595fba",
+    "short_url": "lbry://@FFFTech#3",
+    "timestamp": 1724332350,
+    "txid": "d77a8fa3e5dcb46943fe1174c28f57e4b7e8b180e490b16a84db195078055bc2",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/5743eec62f251dd3e67c38b263cdcd21.webp"
+      },
+      "description": "\n",
+      "languages": [
+        "en"
+      ],
+      "public_key": "037c3a34fa8e357c8676f65c885dc41ee2b4343bb98bce06ea59224a3077207f02",
+      "public_key_id": "bKnzwq4Yc7ZCALLkxJEzYuYcG7vf7vcuux",
+      "tags": [
+        "3d printed",
+        "3d printing",
+        "firearms",
+        "guns",
+        "c:disable-slimes-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3431b3f64b3119c5cd320c21f455cac3.webp"
+      },
+      "title": "Laffs Dynamics"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1774569926,
+  "txid": "3b2d661fd46dad50e8271efd0f7de4e6fbf5775526e6a1edf47969f95cd22556",
+  "type": "claim",
+  "value": {
+    "description": "Zenitcopy 3D-6 Picatinny Handstop: Laffs Dynamics\n\nOh shit. It's 2026, getting anything made in russia is STILL a bitch and a half ordeal. You ain't got no horse in this war, but U.S. Customs just \nstraight yoinked your ruski merch and are gonna flip it for some SWEET SWEET gas monies. \n\nF U C K\n\nWell with this design, you can have that same feel of Russian weapon accessories, without bribing the bois, letting them diddle your fiddle and \nrock your cock.\n\nThe Zenitcopy 3D-6 is similar in geometry and size to the Zenitco RK-6.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 56C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .12mm\nWall Thickness: .40 \nWall Perimeters: 6+\nInfill: 50%+\nSupport Material Percentage: 20%\n\n\n\nHardware Needed:\n\n2x M4x30 Hex Socketed Bolt\n\n2x M4 Nut (Be sure both bolt & nut are the same thread pitch.)\n\n\n\nThe M-Lok 3DP clone of the RK-6L can be found here: https://odysee.com/@FFFTech:3/Zenitcopy-3D-6L:e",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1774568746",
+    "source": {
+      "hash": "0aea62bdbfea8c9d86b934c2556b173e45cca8a63687f8d7a822bca59f3c1f7b38e7a4c46daa813d0885e58995e4fe7b",
+      "media_type": "application/zip",
+      "name": "Zenitcopy 3D-6.zip",
+      "sd_hash": "8d01977ed0f2c78e16f72d4e4abd99db203b8631a5dbd15ff68bc573e79c6b669b84f1f2e07c258f62913cc602662cac",
+      "size": "4154573"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "zenitco",
+      "handstop",
+      "copy",
+      "c:disable-comments",
+      "c:disable-reactions-video",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/8051a29d0a5dd8e41f00fa8565a100fb.webp"
+    },
+    "title": "Zenitcopy 3D-6"
+  },
+  "value_type": "stream"
+}
