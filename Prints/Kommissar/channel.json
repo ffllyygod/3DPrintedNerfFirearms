@@ -1,0 +1,38 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c",
+  "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+  "claim_op": "update",
+  "confirmations": 650967,
+  "has_signing_key": false,
+  "height": 1403042,
+  "meta": {
+    "activation_height": 1407074,
+    "claims_in_channel": 30,
+    "creation_height": 1403041,
+    "creation_timestamp": 1691214466,
+    "effective_amount": "0.001",
+    "expiration_height": 3505442,
+    "is_controlling": false,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1172396
+  },
+  "name": "@Kommissar",
+  "normalized_name": "@kommissar",
+  "nout": 0,
+  "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+  "short_url": "lbry://@Kommissar#c",
+  "timestamp": 1691214810,
+  "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+  "type": "claim",
+  "value": {
+    "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+    "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+    }
+  },
+  "value_type": "channel"
+}
