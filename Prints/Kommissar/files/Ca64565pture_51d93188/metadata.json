@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Ca64565pture#5",
+  "claim_id": "51d931880bfd8d213b5eb87604d36cccff960f69",
+  "claim_op": "create",
+  "confirmations": 211105,
+  "height": 1842904,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1842904,
+    "creation_height": 1842904,
+    "creation_timestamp": 1755554704,
+    "effective_amount": "0.001",
+    "expiration_height": 3945304,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1842904
+  },
+  "name": "Ca64565pture",
+  "normalized_name": "ca64565pture",
+  "nout": 0,
+  "permanent_url": "lbry://Ca64565pture#51d931880bfd8d213b5eb87604d36cccff960f69",
+  "short_url": "lbry://Ca64565pture#5",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755554704,
+  "txid": "56071fd0c957b44db7c4fcaca184ba689186fa1844fd36eed0c8d1fc530ce5e6",
+  "type": "claim",
+  "value": {
+    "description": "Bro Kamikaze wants my Models so badly to resell, like Nigga make your own damn models then maybe you'd actually have something worth selling but instead you take free models and MAYBE SOMETIMES remix them, but like bro that fucking Skreee remix is hot fucking ass, like you beveled the fucking edges but left the main body round and added some stupid ass tab on the back right of it, which makes you so you can no longer even put the slide with the switch on without taking off the switch in the first place.",
+    "image": {
+      "height": 722,
+      "width": 1128
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1755554682",
+    "source": {
+      "hash": "ca890d9464eae1cc7a88cef3d43b05a8b98fa455a89af11fb4baffab67b513a5a90f8103494fff2205cf80cdf0417c68",
+      "media_type": "image/png",
+      "name": "Ca64ture.PNG",
+      "sd_hash": "6bbb1894c7fcfeb1764165975ace43d23aeddb949a5c99e0a0904290bc4f87e9fd7da7ef546fff56f72b586a42080ea5",
+      "size": "540096"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/e385730f404fe7333c4494da4993181f.webp"
+    },
+    "title": "My Three-piece (One-Piece-clone) compared to hot garbage "
+  },
+  "value_type": "stream"
+}
