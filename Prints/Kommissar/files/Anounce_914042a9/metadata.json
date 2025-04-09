@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Anounce#9",
+  "claim_id": "914042a92444f436daac61b5512ebaba41357fd5",
+  "claim_op": "update",
+  "confirmations": 148693,
+  "height": 1905316,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1909348,
+    "creation_height": 1905256,
+    "creation_timestamp": 1764542240,
+    "effective_amount": "0.001",
+    "expiration_height": 4007716,
+    "is_controlling": false,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 760308
+  },
+  "name": "Anounce",
+  "normalized_name": "anounce",
+  "nout": 0,
+  "permanent_url": "lbry://Anounce#914042a92444f436daac61b5512ebaba41357fd5",
+  "short_url": "lbry://Anounce#9",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1764550435,
+  "txid": "ab1ab8c4d6639e925fa7ff16e0b85d93cf7a49b42988bb406cbb030d46bcea87",
+  "type": "claim",
+  "value": {
+    "description": "I'm no longer making the glock pack, ya'll are like vultures and I cannot model everyday like I used to, my environment is not stable but it will be within the next 6 months where i would be able to basically model as long as i want after work which i cannot currently do, my friend NNW asked for the turnkey / ar-15 type selector model and he will be uploading it on his channel so go follow NNW, he's in my featured channels section on my odysee profile, and unlike everyone elses Turnkey which is just a ripoff of gas_sells broken ass one, his will be complete with all the correct parts, goodbye for now but go download that model when he drops it which I think will be soon\n\nhttps://odysee.com/@NNWDevelopment:1?view=home",
+    "image": {
+      "height": 512,
+      "width": 512
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1764542095",
+    "source": {
+      "hash": "9a0fda32732213aefb6d9045fb67261f466d577e63648471f75340b402d6073981d5c40588bc48747c2d9c1dc31852f7",
+      "media_type": "image/png",
+      "name": "Black.png",
+      "sd_hash": "07f191e484c5cc4832a22e6b06c17874aa0571f216513eb67f3c2e9adb23c6a8da347b1792b9d14f96b3181532a95a22",
+      "size": "2235"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6ed5391d2f00a48389569ca54afb6887.webp"
+    },
+    "title": "Announcement "
+  },
+  "value_type": "stream"
+}
