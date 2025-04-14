@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Capt432ure#1",
+  "claim_id": "1f876e02b07804977301aacadba40bddcd0e2398",
+  "claim_op": "create",
+  "confirmations": 211771,
+  "height": 1842238,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1842238,
+    "creation_height": 1842238,
+    "creation_timestamp": 1755463808,
+    "effective_amount": "0.001",
+    "expiration_height": 3944638,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1842238
+  },
+  "name": "Capt432ure",
+  "normalized_name": "capt432ure",
+  "nout": 0,
+  "permanent_url": "lbry://Capt432ure#1f876e02b07804977301aacadba40bddcd0e2398",
+  "short_url": "lbry://Capt432ure#1",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755463808,
+  "txid": "5d42f418306f1a96b08866b05f759fd43119d5e875ee99bd08665346c571c5b6",
+  "type": "claim",
+  "value": {
+    "description": "Almost fixed this model, just need to rework the pin and screw and shit.",
+    "image": {
+      "height": 287,
+      "width": 619
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1755463852",
+    "source": {
+      "hash": "eaf46c751742573e450adb267707355939519724a449916f0b00c4df2ef86b19ff1ea8e87c6a42cc6f523d36d3c15d77",
+      "media_type": "image/png",
+      "name": "Capt432ure.PNG",
+      "sd_hash": "85d4cffbeb58aea31147a08ecc3e65efb113bd97347d8e3bb6dd8cb643d3dfb8ad6a6bcf39f9346f7909619ac541ae31",
+      "size": "116080"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/93c0f901854e9e8ff2d1819f0e13e13c.webp"
+    },
+    "title": "Fixed (almost)"
+  },
+  "value_type": "stream"
+}
