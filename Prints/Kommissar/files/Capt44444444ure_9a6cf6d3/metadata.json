@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Capt44444444ure#9",
+  "claim_id": "9a6cf6d39b0f95a156471fc8f49a357ca4493be7",
+  "claim_op": "create",
+  "confirmations": 210525,
+  "height": 1843484,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1843484,
+    "creation_height": 1843484,
+    "creation_timestamp": 1755641756,
+    "effective_amount": "0.001",
+    "expiration_height": 3945884,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1843484
+  },
+  "name": "Capt44444444ure",
+  "normalized_name": "capt44444444ure",
+  "nout": 0,
+  "permanent_url": "lbry://Capt44444444ure#9a6cf6d39b0f95a156471fc8f49a357ca4493be7",
+  "short_url": "lbry://Capt44444444ure#9",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755641756,
+  "txid": "40df627b22998a559801d800f6edf4a306160bf0f7cb8056fa71529d4a0e617f",
+  "type": "claim",
+  "value": {
+    "description": "My rounded Sear (not Bass Remix I made)",
+    "image": {
+      "height": 558,
+      "width": 965
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1755641687",
+    "source": {
+      "hash": "c15e309c38812665201ad9dda3001dfbd0fe91e815c702d71673d29ee1c9261161b7e69501690d4c90d74295d766f8d2",
+      "media_type": "image/png",
+      "name": "Capt44444444ure.PNG",
+      "sd_hash": "f0bde4cf5edfca663560f8aa6ea2fec432d7bf52dd949ae1080101c3e9f3b0748516970af49e37c2f53653acf1934d2c",
+      "size": "344773"
+    },
+    "stream_type": "image",
+    "tags": [
+      "glock switch",
+      "autosear",
+      "sear",
+      "gswitch",
+      "switch"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/55cbd9f2fc72b74891b2c0e6cd069d5e.webp"
+    },
+    "title": "My rounded Sear (not Bass Remix I made)"
+  },
+  "value_type": "stream"
+}
