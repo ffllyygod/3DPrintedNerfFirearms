@@ -1,0 +1,98 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Capt424ure#b",
+  "claim_id": "b13d5119c18866ab22b5008073dd34236accc02f",
+  "claim_op": "create",
+  "confirmations": 214214,
+  "height": 1839795,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1839795,
+    "creation_height": 1839795,
+    "creation_timestamp": 1755116088,
+    "effective_amount": "0.001",
+    "expiration_height": 3942195,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1839795
+  },
+  "name": "Capt424ure",
+  "normalized_name": "capt424ure",
+  "nout": 0,
+  "permanent_url": "lbry://Capt424ure#b13d5119c18866ab22b5008073dd34236accc02f",
+  "short_url": "lbry://Capt424ure#b",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755116088,
+  "txid": "a30232be15aaaaee176b467abb352bf666dada0c788a97ffb55c03875d0f0686",
+  "type": "claim",
+  "value": {
+    "description": "Bruh, they DMCA'd me for the fucking name I shit you not, they saw the name of the company in the title and Copyrighted it when there is milions of youtube videos of people literally having the pistols name in the title, like are they stupid or is this some random going around acting like (unknown handgun company that the switches go on)",
+    "image": {
+      "height": 160,
+      "width": 1280
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1755116068",
+    "source": {
+      "hash": "48fd3c4a99dd3a6cc976aa90872f86d185041f0c7ca0a0adf04cd662fecca421522267fe53eaef07e9db13fe18d1b0c2",
+      "media_type": "image/png",
+      "name": "Capt424ure.PNG",
+      "sd_hash": "6868a8e1b9239343372e0e9d19193e614ae13f09f21e6116e337cb44f7ed7a9a9b337fdcad09cfeac0768bc0c11382ac",
+      "size": "33775"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "gswitch",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/9c93844176d67e1d087c127008b3ad21.webp"
+    },
+    "title": "I got DMCA from a certain company that my switches are for"
+  },
+  "value_type": "stream"
+}
