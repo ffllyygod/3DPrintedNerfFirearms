@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Captu546re#e",
+  "claim_id": "ed56c4c7fff1fb2d0b9e1f47b4bd1f827765e39c",
+  "claim_op": "update",
+  "confirmations": 225191,
+  "height": 1828818,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1828818,
+    "creation_height": 1828794,
+    "creation_timestamp": 1753560047,
+    "effective_amount": "0.001",
+    "expiration_height": 3931218,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1828794
+  },
+  "name": "Captu546re",
+  "normalized_name": "captu546re",
+  "nout": 0,
+  "permanent_url": "lbry://Captu546re#ed56c4c7fff1fb2d0b9e1f47b4bd1f827765e39c",
+  "short_url": "lbry://Captu546re#e",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1753563174,
+  "txid": "f291bb92190b57313782f97e93e1929067cee1ea5010007aa29a16b4b5d1a26e",
+  "type": "claim",
+  "value": {
+    "description": "Bro is trying to scam his buyers, also wanted my model to resell (He just uploaded a three-piece which is the \"SEGS\" model from defcad)",
+    "image": {
+      "height": 594,
+      "width": 757
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1753560118",
+    "source": {
+      "hash": "f79556c18fb9974eabd96662c6bc0c7823b85b45c282d3df3938d7d3c4140560d79bde279b09929aaed3320a1cddb848",
+      "media_type": "image/png",
+      "name": "Captu546re.PNG",
+      "sd_hash": "ef85b99d4f8fbb18d0728c6dd714e994ada4db281bf236e17d949aa76d7312d9d026e880ce0da202d6a016a75212a528",
+      "size": "190743"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "glock switch",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/84d05b8f063e97f2281c41f9314281a8.webp"
+    },
+    "title": "Kamikaze is a fucking resell scammer. (He just uploaded a three-piece which is the \"SEGS\" model from defcad)"
+  },
+  "value_type": "stream"
+}
