@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Choose-which-1pc-you-like-more#a",
+  "claim_id": "a491d7d7310ca09604e9e97dc3c98b05bd408a7c",
+  "claim_op": "create",
+  "confirmations": 74120,
+  "height": 1979889,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1979889,
+    "creation_height": 1979889,
+    "creation_timestamp": 1772516236,
+    "effective_amount": "0.001",
+    "expiration_height": 4082289,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1979889
+  },
+  "name": "Choose-which-1pc-you-like-more",
+  "normalized_name": "choose-which-1pc-you-like-more",
+  "nout": 0,
+  "permanent_url": "lbry://Choose-which-1pc-you-like-more#a491d7d7310ca09604e9e97dc3c98b05bd408a7c",
+  "short_url": "lbry://Choose-which-1pc-you-like-more#a",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1772516236,
+  "txid": "3e187ee60361787d8e6b1ffe760c21bf72d3301718411b72dd3fd0a8ce2a350b",
+  "type": "claim",
+  "value": {
+    "description": "The one on the right has a higher selector and isn't curved as much, it was more common than the one on the left, which has a lower selector and is more curved, the two picture below give examples of what they look like in action, do you prefer my lower selector version or the higher selector version?",
+    "image": {
+      "height": 834,
+      "width": 1433
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1772513654",
+    "source": {
+      "hash": "0d179518dd8801058dc0da913ff6306447f77d4434b326adee516bbc207eb180c65128619d4cb4c089736efd08cdc4eb",
+      "media_type": "image/png",
+      "name": "4324342.png",
+      "sd_hash": "d1bdd718795a4c0d5dccef882daccd1b4ac2126d73d7cad11a11e408ee449019297094dc22893263461e2b46823e2815",
+      "size": "870582"
+    },
+    "stream_type": "image",
+    "tags": [
+      "glock",
+      "switch",
+      "glock switch",
+      "auto sear",
+      "autosear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d03de2b274184963dc47972ac0340621.webp"
+    },
+    "title": "Choose which one-piece you like more"
+  },
+  "value_type": "stream"
+}
