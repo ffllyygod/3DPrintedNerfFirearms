@@ -1,0 +1,97 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Captur43e#f",
+  "claim_id": "fb8073ada8bcb56ae37c986ec114ecfcfe33e00e",
+  "claim_op": "update",
+  "confirmations": 225611,
+  "height": 1828398,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1828398,
+    "creation_height": 1826676,
+    "creation_timestamp": 1753255635,
+    "effective_amount": "0.001",
+    "expiration_height": 3930798,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1826676
+  },
+  "name": "Captur43e",
+  "normalized_name": "captur43e",
+  "nout": 0,
+  "permanent_url": "lbry://Captur43e#fb8073ada8bcb56ae37c986ec114ecfcfe33e00e",
+  "short_url": "lbry://Captur43e#f",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1753504819,
+  "txid": "04d4742bcbcf912e6824bdd100735833e4e689a08f74b5d0e9c23befb2b3af48",
+  "type": "claim",
+  "value": {
+    "image": {
+      "height": 520,
+      "width": 996
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1753255307",
+    "source": {
+      "hash": "4471e84471d9ea8b19756eacc36c2db6735a98b1fff614f260e41bba6837327269f8a525cbd9d18466f99afc1e0fc1b8",
+      "media_type": "image/png",
+      "name": "Captur43e.PNG",
+      "sd_hash": "88920910a035e0a240f2905e6c1e8adbb2e873d891b09361c081059357746bd50d76ece96a92a22f3888d0118c4a4c1e",
+      "size": "190715"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "auto sear",
+      "autosear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/616d304c2018db7a65a09467aca16b8c.webp"
+    },
+    "title": "WIP Single-piece Glock Switch autosear"
+  },
+  "value_type": "stream"
+}
