@@ -1,0 +1,95 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#5",
+  "claim_id": "518f656ba35b93198604314a4505c82423ba9fd4",
+  "claim_op": "create",
+  "confirmations": 223395,
+  "height": 1830614,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1830614,
+    "creation_height": 1830614,
+    "creation_timestamp": 1753818620,
+    "effective_amount": "0.001",
+    "expiration_height": 3933014,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 2003962
+  },
+  "name": "Kamikaze-stupid-ahh-stolen-non-selectable-one-piece",
+  "normalized_name": "kamikaze-stupid-ahh-stolen-non-selectable-one-piece",
+  "nout": 0,
+  "permanent_url": "lbry://Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#518f656ba35b93198604314a4505c82423ba9fd4",
+  "short_url": "lbry://Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#5",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1753818620,
+  "txid": "d303c413bbb8e5ba47c7e8b19f46c719eb9c17a2c3532cfba25296134b7e9c29",
+  "type": "claim",
+  "value": {
+    "description": "This goofy mf is trying to sell FREE files to people that he had no part in making lol, bro is a bum charging like $50 per file, so I just recreated his goofy ass one-piece which is basically just the original model with a fucking cylinder through it lol, I'm just gonna remake all of the shitty models he's posting for sell, for Free :) (they are almost all the fucking Segs file from defcad)",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1753818588",
+    "source": {
+      "hash": "6dc96f9158c8ff0f1f0b926d1b80e1d973c6bd31dfc8229bf074de89b5ed0b3e159138a4c6d349ec2c07c49c8e28b358",
+      "media_type": "application/zip",
+      "name": "Kamikaze-goofy-ass-one-piece.zip",
+      "sd_hash": "08f427a13ee21a0f421d32639dd8e9ef2ea20bd475b81bc73c26b5ee6c6c6690c563c0355f03c2602cac9ec1bfd2038a",
+      "size": "30529"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "switch",
+      "glock switch",
+      "glock",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ede1ca45e788e1a0e8e4d35fde09ec4c.webp"
+    },
+    "title": "Kamikaze goofy non-selectable one-piece sear"
+  },
+  "value_type": "stream"
+}
