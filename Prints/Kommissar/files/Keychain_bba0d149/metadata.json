@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Keychain#b",
+  "claim_id": "bba0d14930c4036eb95435c0fbc7411ca40976e4",
+  "claim_op": "create",
+  "confirmations": 160006,
+  "height": 1894003,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1894003,
+    "creation_height": 1894003,
+    "creation_timestamp": 1763108277,
+    "effective_amount": "0.001",
+    "expiration_height": 3996403,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1894003
+  },
+  "name": "Keychain",
+  "normalized_name": "keychain",
+  "nout": 0,
+  "permanent_url": "lbry://Keychain#bba0d14930c4036eb95435c0fbc7411ca40976e4",
+  "short_url": "lbry://Keychain#b",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1763108277,
+  "txid": "fb831e09751ebda6881e9e94fbcb809d11ebbaf9dd75617f7a15fe0989aeb707",
+  "type": "claim",
+  "value": {
+    "description": "This is the Keychain Auto sear, completely functional, and a cool keychain.",
+    "image": {
+      "height": 781,
+      "width": 1024
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1763104542",
+    "source": {
+      "hash": "d8c7d1dd38d2e4433383f78d17319a98e986b3fb75700df6d3fa21f288ab28dba4fc5db167801a2c0e1df898a520b2b8",
+      "media_type": "image/png",
+      "name": "correct-2.png",
+      "sd_hash": "d9ef90bb3d52673dbf36bf48a4289e40e039002a5e95fd037ffcccc49d3a14cb898270cc4c99ea964ec6a43def36e418",
+      "size": "959436"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "glock switch",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/0d9feda5d3db964c81db21a19dffef19.webp"
+    },
+    "title": "Keychain Switch"
+  },
+  "value_type": "stream"
+}
