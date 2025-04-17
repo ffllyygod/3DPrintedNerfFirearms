@@ -1,0 +1,95 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#b",
+  "claim_id": "bce6e9c75035f8639b3f8ee270bf07e874daf60f",
+  "claim_op": "update",
+  "confirmations": 211194,
+  "height": 1842815,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1842815,
+    "creation_height": 1842812,
+    "creation_timestamp": 1755543403,
+    "effective_amount": "0.001",
+    "expiration_height": 3945215,
+    "is_controlling": false,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1852346
+  },
+  "name": "Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))",
+  "normalized_name": "pin-glock-switch-(original-is-made-by-empirecaddesignz-(v3))",
+  "nout": 0,
+  "permanent_url": "lbry://Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#bce6e9c75035f8639b3f8ee270bf07e874daf60f",
+  "short_url": "lbry://Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#b",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755543671,
+  "txid": "e47963df90965ae59ecf5bcc2312400cfab782b889f69967e7b5a1fe0b85021d",
+  "type": "claim",
+  "value": {
+    "description": "This is a Glock Switch model made by EmpireCadDesignz on Defcad, and this clown Kamikaze is trying to sell it for $50, just download it for free here.\n\nYou can also purchase a dowel pin: https://www.mcmaster.com/91595A953/  here\n\nDon't buy from Kamikaze, his models are literally mostly free, he also recently botted followers and started liking all his posts, that's why he randomly grew 9 followers and suspiciously now has 9 likes on all of his posts and thought we wouldn't notice lol\n",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1755543379",
+    "source": {
+      "hash": "8e157956ea663fe53dd5c5579915b3335dd4769e727a22af09596a9665171f267060c94b6755a78f4408aca225692792",
+      "media_type": "application/zip",
+      "name": "Glock_Auto_Sear.zip",
+      "sd_hash": "e6938cb50ee384b62f20f477cf654799fd22795c4b5ad2c09f05c875618c7aa6bf33bf5d815ea4246d4b946619f421f0",
+      "size": "54800"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "switch",
+      "glock switch",
+      "glock",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/fe7ee3ec4a9289b633418547f1b5130d.webp"
+    },
+    "title": "G-Switch retained by pin (Original is made by EmpireCadDesignz (v3))"
+  },
+  "value_type": "stream"
+}
