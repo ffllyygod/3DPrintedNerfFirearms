@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Kommissar's-FSSG#5",
+  "claim_id": "562b48f4a4f6c3a1e62238689d986587d836400e",
+  "claim_op": "create",
+  "confirmations": 165014,
+  "height": 1888995,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1888995,
+    "creation_height": 1888995,
+    "creation_timestamp": 1762467640,
+    "effective_amount": "0.001",
+    "expiration_height": 3991395,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1888995
+  },
+  "name": "Kommissar's-FSSG",
+  "normalized_name": "kommissar's-fssg",
+  "nout": 0,
+  "permanent_url": "lbry://Kommissar's-FSSG#562b48f4a4f6c3a1e62238689d986587d836400e",
+  "short_url": "lbry://Kommissar's-FSSG#5",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1762467640,
+  "txid": "c66f3c2c23bcf69b460547eeabb206fcb748910f6ba6b143f52fcd8e87f7dd08",
+  "type": "claim",
+  "value": {
+    "description": "Here's my copy of the Original Glock switch and by far my favorite design, it's my take on it, I've made upgrades while not affecting how it works in anyway, it still works and moves exactly like the original, I used a mix of the public blueprints and pictures of the actual manufactured version, the blueprints are actually quite wrong, I may make a dedicated 1:1 copy later on but the only difference between the manufactured one and mine is the body curvature, there is 3 main FSSG versions I've found, with mine I copied the LeonTechnologies one, this is the newer one they offer, It has more of a curve compared to the Gen 2 FSSG which has more of a straight angle downwards, Upgrades I've changed from the original is I added bevels on the part that attaches to the Glock and I've also added the firing pin spring channel so it holds onto the Switch better as on most one-piece designs it's basically just a fucking suggestion with how shallow they are.",
+    "image": {
+      "height": 814,
+      "width": 1216
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1762463868",
+    "source": {
+      "hash": "08e793189f21fc54b267870403bacc7df9ec1c53f1066d6f60ce972df00445521d530e8c027cc3c043accf875c2561e0",
+      "media_type": "image/png",
+      "name": "Kommissar's-FSSG.png",
+      "sd_hash": "2a83662d5b683b0b0104137b98cbaa9c79bb4f664ea9b8adfbe560646ce011383831ef8f21cafa99cacb1a5c1698325c",
+      "size": "989935"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "glock switch",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3f417938c1c9d69c700c7673421c2f91.webp"
+    },
+    "title": "Kommissar's-FSSG"
+  },
+  "value_type": "stream"
+}
