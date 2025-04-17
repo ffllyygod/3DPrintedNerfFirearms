@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Kommissar's-custom#d",
+  "claim_id": "d69f3aca26f409b94730821ebf142e708b183bc2",
+  "claim_op": "create",
+  "confirmations": 168025,
+  "height": 1885984,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1885984,
+    "creation_height": 1885984,
+    "creation_timestamp": 1762074866,
+    "effective_amount": "0.001",
+    "expiration_height": 3988384,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1885984
+  },
+  "name": "Kommissar's-custom",
+  "normalized_name": "kommissar's-custom",
+  "nout": 0,
+  "permanent_url": "lbry://Kommissar's-custom#d69f3aca26f409b94730821ebf142e708b183bc2",
+  "short_url": "lbry://Kommissar's-custom#d",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1762074866,
+  "txid": "6f8db27725533357c30a50a87ada36224f06c05539e050254f0b75a60ce62efb",
+  "type": "claim",
+  "value": {
+    "description": "I was making the Glock FSSG when I made the curve incorrectly, some people still liked the curve of this switch which is not the same as the original so i'm just calling it my custom switch, including a low-profile version",
+    "image": {
+      "height": 724,
+      "width": 662
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1762074424",
+    "source": {
+      "hash": "99d4aafbe3358638da9aa85ab607e6cbda9ade62fd478e0ec7b7b93fb62ad9bd88c79c168bbebee20f87058c719a92c4",
+      "media_type": "image/png",
+      "name": "Untit3232led.png",
+      "sd_hash": "040b14ebb5b12b38e5c2e24f39c59bd90fa403f986138a8c4062675a9a10b36a00883f588fd377ebf990cc7f37a89697",
+      "size": "352932"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "autosear",
+      "auto sear",
+      "gswitch"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f53b77b6cbb43ac2eec68f26eb5bc115.webp"
+    },
+    "title": "Kommissar's custom switch."
+  },
+  "value_type": "stream"
+}
