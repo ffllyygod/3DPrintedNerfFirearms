@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Three-piece-(one-piece-clone)#8",
+  "claim_id": "80f6f8a6f0589980eef3d0234a490826c1028591",
+  "claim_op": "create",
+  "confirmations": 221820,
+  "height": 1832189,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1832189,
+    "creation_height": 1832189,
+    "creation_timestamp": 1754048000,
+    "effective_amount": "0.001",
+    "expiration_height": 3934589,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1832189
+  },
+  "name": "Three-piece-(one-piece-clone)",
+  "normalized_name": "three-piece-(one-piece-clone)",
+  "nout": 0,
+  "permanent_url": "lbry://Three-piece-(one-piece-clone)#80f6f8a6f0589980eef3d0234a490826c1028591",
+  "short_url": "lbry://Three-piece-(one-piece-clone)#8",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1754048000,
+  "txid": "caf4c5cc4282bfe8f25dcf8e203962d35ee607ae65ae0e3506f89521b8635164",
+  "type": "claim",
+  "value": {
+    "description": "Finished it, I have multiple different kinds with different bevels, like one that's rounded but without the side and bottom cut, then one that's with the side cuts but no bottom cut, ect.",
+    "image": {
+      "height": 474,
+      "width": 917
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1754047853",
+    "source": {
+      "hash": "07dc13732e11b1d4f8788adb637a21cb6355f0601eb42600c9501176a430819bea0538e64c56be87a5013f08c4eac514",
+      "media_type": "image/png",
+      "name": "Three-piece (one-piece-clone).PNG",
+      "sd_hash": "72f9cca88f60fbe94bb378acd950d7977905e68a2937b7716a332f408d0adfa12506590cd6b6a327914c1c13436a661c",
+      "size": "289516"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock switch",
+      "glock",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6b89ab837411fda99f2235b4c1815fe0.webp"
+    },
+    "title": "Three-piece (one-piece-clone)"
+  },
+  "value_type": "stream"
+}
