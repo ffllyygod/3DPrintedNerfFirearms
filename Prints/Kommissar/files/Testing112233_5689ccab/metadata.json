@@ -1,0 +1,100 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Testing112233#5",
+  "claim_id": "5689ccab0d10e6ad2e41d29114969422864430ac",
+  "claim_op": "create",
+  "confirmations": 207240,
+  "height": 1846769,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1846769,
+    "creation_height": 1846769,
+    "creation_timestamp": 1756157377,
+    "effective_amount": "0.001",
+    "expiration_height": 3949169,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1846769
+  },
+  "name": "Testing112233",
+  "normalized_name": "testing112233",
+  "nout": 0,
+  "permanent_url": "lbry://Testing112233#5689ccab0d10e6ad2e41d29114969422864430ac",
+  "short_url": "lbry://Testing112233#5",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1756157377,
+  "txid": "d57940b8512fc714637ccb4301c80f6a3bcd3ad1983d7a81392f4e86c18c449c",
+  "type": "claim",
+  "value": {
+    "description": "This video does not display me, it displays a FFL/SOT testing the model I fixed.",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1756156678",
+    "source": {
+      "hash": "0d893135765a713ab08820f55ef7a8657038811ec84f7dadbf1af3433adf99ce60b28281395e90d134b9082dd8f2d50c",
+      "media_type": "video/mp4",
+      "name": "20250825_135107 (1).mp4",
+      "sd_hash": "0db896fa9a28a5fe1d0e6f39653cd42f2cceb391e2b1330d9d7550b47637d00e765537b716bba4a7ebda05508a0d40f6",
+      "size": "6395618"
+    },
+    "stream_type": "video",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/55dc7ccf2da50cd1faecb97f8a7d0d97.webp"
+    },
+    "title": "AR style Glock Switch Test #3 (Success) ",
+    "video": {
+      "duration": 22,
+      "height": 608,
+      "width": 480
+    }
+  },
+  "value_type": "stream"
+}
