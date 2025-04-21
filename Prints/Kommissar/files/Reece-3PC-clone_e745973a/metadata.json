@@ -1,0 +1,95 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Reece-3PC-clone#e",
+  "claim_id": "e745973a9d1d888e6eb5c77bab6b3d0d6a130465",
+  "claim_op": "update",
+  "confirmations": 78356,
+  "height": 1975653,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1975653,
+    "creation_height": 1975649,
+    "creation_timestamp": 1772068196,
+    "effective_amount": "0.001",
+    "expiration_height": 4078053,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1990253
+  },
+  "name": "Reece-3PC-clone",
+  "normalized_name": "reece-3pc-clone",
+  "nout": 0,
+  "permanent_url": "lbry://Reece-3PC-clone#e745973a9d1d888e6eb5c77bab6b3d0d6a130465",
+  "short_url": "lbry://Reece-3PC-clone#e",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1772068457,
+  "txid": "359b639b29befacdbf81e479fd7e6b340b1f6aba1ad05eef8f02262aeb55c779",
+  "type": "claim",
+  "value": {
+    "description": "These are usually manufactured by a guy named Reece, you've probably seen these in some youtube videos, he isn't the inventor though but his are the most popular as they are made of Stainless steel with a PVD finish (they would look better if polished first, he doesn't polish them so you can still see the gay ass machine markings) I made this pretty quickly if enough of you want it I'll make a .Step, don't buy shitty made models from people. especially that queer kamikoala",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1772064600",
+    "source": {
+      "hash": "c839c2a16dd23f9ca6e469501faed135438767a9f3f02feee376ee6c70f33933d7f727fa1445be1abcc25358b2523c00",
+      "media_type": "application/zip",
+      "name": "Reece 3PC clone.zip",
+      "sd_hash": "0c292f695580dbc5fde0f1539961ca88d426b9f6704bf0c8fd2e4fb6796b98d9f355fcd83a3193a8355298ffa9bd48f9",
+      "size": "159823"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock",
+      "switch"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/15cbfdac5af2be7cb7d37cb2f1159319.webp"
+    },
+    "title": "Reece Three-Piece Clone"
+  },
+  "value_type": "stream"
+}
