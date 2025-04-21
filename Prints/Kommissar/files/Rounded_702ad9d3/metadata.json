@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Rounded#7",
+  "claim_id": "702ad9d389e096c6cf498325f8600055d4f40c0a",
+  "claim_op": "create",
+  "confirmations": 221820,
+  "height": 1832189,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1832189,
+    "creation_height": 1832189,
+    "creation_timestamp": 1754048000,
+    "effective_amount": "0.001",
+    "expiration_height": 3934589,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1867808
+  },
+  "name": "Rounded",
+  "normalized_name": "rounded",
+  "nout": 0,
+  "permanent_url": "lbry://Rounded#702ad9d389e096c6cf498325f8600055d4f40c0a",
+  "short_url": "lbry://Rounded#7",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1754048000,
+  "txid": "0157c1be7f22c7d7e689811f36b2aadc7ff50caea1125b875ad1dc1b25a305fb",
+  "type": "claim",
+  "value": {
+    "description": "I actually messed up my rounded sear, it wasn't rounded evenly and I wasn't trying to go back and fix it so heres my remix of the BAS Switch",
+    "image": {
+      "height": 644,
+      "width": 950
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1754047944",
+    "source": {
+      "hash": "4fb3a6e8d2e309045c5ffba9ddf4000682a28c0752bb6f1d5294ca6b4d3c6606348f14ee6d55dcb8eef4b2ca1e8f423e",
+      "media_type": "image/png",
+      "name": "Rounded.PNG",
+      "sd_hash": "e04c38571ce36078482507bdbe08f6d8a21aa4f42bac634ad2239f23a06ecee8a8befa957d0ec9ef174d045627d3cf7f",
+      "size": "411400"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "glock",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a2cbb43f1f80ba765c0a6fc33a076e7c.webp"
+    },
+    "title": "Finished Rounded Sear"
+  },
+  "value_type": "stream"
+}
