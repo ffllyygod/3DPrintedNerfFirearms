@@ -1,0 +1,163 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.01",
+  "canonical_url": "lbry://@Kommissar#c/glonkselector180#9",
+  "claim_id": "9568010dcf43e59ada7be5612f74dd99da3915a1",
+  "claim_op": "create",
+  "confirmations": 211097,
+  "height": 1842912,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1842941,
+    "creation_height": 1842912,
+    "creation_timestamp": 1755556353,
+    "effective_amount": "0.01",
+    "expiration_height": 3945312,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1842941
+  },
+  "name": "glonkselector180",
+  "normalized_name": "glonkselector180",
+  "nout": 0,
+  "permanent_url": "lbry://glonkselector180#9568010dcf43e59ada7be5612f74dd99da3915a1",
+  "reposted_claim": {
+    "address": "baqcLVnF3iYspxrKNkYE1shfsRr4iWUi5t",
+    "amount": "0.001",
+    "canonical_url": "lbry://@NNWDevelopment#1/glonkselector180#c",
+    "claim_id": "c4a3ab4cbc26f4b6bb4510442f4af639fa6f0615",
+    "claim_op": "update",
+    "confirmations": 211607,
+    "height": 1842402,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842402,
+      "creation_height": 1841984,
+      "creation_timestamp": 1755429517,
+      "effective_amount": "0.001",
+      "expiration_height": 3944802,
+      "is_controlling": false,
+      "reposted": 2,
+      "support_amount": "0.0",
+      "take_over_height": 1842941
+    },
+    "name": "glonkselector180",
+    "normalized_name": "glonkselector180",
+    "nout": 0,
+    "permanent_url": "lbry://glonkselector180#c4a3ab4cbc26f4b6bb4510442f4af639fa6f0615",
+    "short_url": "lbry://glonkselector180#c",
+    "signing_channel": {
+      "address": "baqcLVnF3iYspxrKNkYE1shfsRr4iWUi5t",
+      "amount": "0.001",
+      "canonical_url": "lbry://@NNWDevelopment#1",
+      "claim_id": "1d0741d30a03f076fe4b586c075c3beb2ce39013",
+      "claim_op": "update",
+      "confirmations": 144304,
+      "has_signing_key": false,
+      "height": 1909705,
+      "meta": {
+        "activation_height": 1909705,
+        "claims_in_channel": 10,
+        "creation_height": 1829069,
+        "creation_timestamp": 1753599834,
+        "effective_amount": "0.001",
+        "expiration_height": 4012105,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1829069
+      },
+      "name": "@NNWDevelopment",
+      "normalized_name": "@nnwdevelopment",
+      "nout": 0,
+      "permanent_url": "lbry://@NNWDevelopment#1d0741d30a03f076fe4b586c075c3beb2ce39013",
+      "short_url": "lbry://@NNWDevelopment#1",
+      "timestamp": 1765084224,
+      "txid": "07aea01ab8987cb58fbe0ced1cc70fff772946d300f6eca80e8f2d399c410bb2",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/9fe66eea19318fd753a42ff8bfac9e66.webp"
+        },
+        "public_key": "03ec159d7a889384dc1b4b2b5ea49367bf860032cb79160e6ec2e2fe6c3e7579c4",
+        "public_key_id": "bVDgt1dHXXe1k8GsEzWm9Z21bxnNKAtQyb",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/9aeb86876cadf147661cd3a4282ec538.webp"
+        },
+        "title": "NNWDev"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755486626,
+    "txid": "72331dd5e316ef8dcb252f117531dac6a00a9bc1d2adde95678f9499abd951ae",
+    "type": "claim",
+    "value": {
+      "description": "s180, a 180 degree selector for 3pc glock auto sears\n\nthis selector replaces your normal push selector with a flip selector.\nthe selector will be flush against the right side of your slide with the knob facing towards\nthe barrel when in FA mode, when in semi automatic mode the selector knob will be facing you\nselector also has a \"auto\" label to signify what mode its in\n\n\nmake sure you're an ffl sot0702 if your gonna make this.... lol",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755429309",
+      "source": {
+        "hash": "c972b415df84663abdf7dc95e906fdb51b9f243eb08e64976b995429549e0330899aced11dc8d734abdccd1950ca0729",
+        "media_type": "model/stl",
+        "name": "s180.stl",
+        "sd_hash": "a59c3938e911929f2ed0324f948d75e21ab9b5f2e587856e3ae95ec642e41d685e531a1194be0fbef65105da029c9b64",
+        "size": "134084"
+      },
+      "stream_type": "model",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/712b94df64e1f7363f262c60bdaadc88.webp"
+      },
+      "title": "s180 for glock"
+    },
+    "value_type": "stream"
+  },
+  "short_url": "lbry://glonkselector180#9",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1755556353,
+  "txid": "3edc4c9a77424bf0dcfe09e644b43a06401541f138a9239381ea649f9fc14241",
+  "type": "claim",
+  "value": {
+    "claim_hash": "FQZv+jn2Si9EEEW7tvQmvEyro8Q="
+  },
+  "value_type": "repost"
+}
