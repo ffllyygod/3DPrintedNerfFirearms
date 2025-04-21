@@ -1,0 +1,97 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/Screenshot-2-11-2026#5",
+  "claim_id": "59e6db53221e3a4e8e9bba4c7bfc55962d21886c",
+  "claim_op": "update",
+  "confirmations": 90791,
+  "height": 1963218,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1963218,
+    "creation_height": 1963186,
+    "creation_timestamp": 1770838630,
+    "effective_amount": "0.001",
+    "expiration_height": 4065618,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1963186
+  },
+  "name": "Screenshot-2-11-2026",
+  "normalized_name": "screenshot-2-11-2026",
+  "nout": 0,
+  "permanent_url": "lbry://Screenshot-2-11-2026#59e6db53221e3a4e8e9bba4c7bfc55962d21886c",
+  "short_url": "lbry://Screenshot-2-11-2026#5",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1770840897,
+  "txid": "6350d81eb77d730b97456f2065e368daba4897763ef54e9db4bef9f81b8604bf",
+  "type": "claim",
+  "value": {
+    "description": "Yesterday I found this page claiming to sell Glock switch models, however the first post looks fucking butchered by AI and the second one is supposed to be a keychain model, someone in his comments claimed it was me, I've already said multiple times I will never sell a model, I get people on my discord all the time asking to buy models and I decline, this page is NOT me, I will never sell any models and this guy's models might not even be real, because if you look at his first post that shit looks 100% AI generated, always verify things before buying from sketchy people.\n\nI've also showed how our models are different and my models often have a deep hole for the recoil spring, however his look shallow",
+    "image": {
+      "height": 781,
+      "width": 1816
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1770835093",
+    "source": {
+      "hash": "087ae3ef50529bc03f8278acd0203dccffd468b36353b87bc5295c2cd128bb11414abd0442e98e0086d4718741556704",
+      "media_type": "image/png",
+      "name": "Screenshot-2-11-2026.png",
+      "sd_hash": "1da8df92ff1396049bca9d35df99d5b490f82eae603c202db34ce226de913a5f4c7baf7739caf4c762d218510b65dbc5",
+      "size": "1834993"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "glock switch"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/df4d2094b68cf771cd746d77117f128c.webp"
+    },
+    "title": "Golden Tigers switches probably aren't real."
+  },
+  "value_type": "stream"
+}
