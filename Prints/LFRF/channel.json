@@ -1,0 +1,56 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d",
+  "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+  "claim_op": "update",
+  "confirmations": 431066,
+  "has_signing_key": false,
+  "height": 1622904,
+  "meta": {
+    "activation_height": 1622904,
+    "claims_in_channel": 21,
+    "creation_height": 1355884,
+    "creation_timestamp": 1683668912,
+    "effective_amount": "0.001",
+    "expiration_height": 3725304,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1355884
+  },
+  "name": "@LFRF",
+  "normalized_name": "@lfrf",
+  "nout": 0,
+  "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+  "short_url": "lbry://@LFRF#d",
+  "timestamp": 1724332350,
+  "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+  "type": "claim",
+  "value": {
+    "cover": {
+      "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+    },
+    "languages": [
+      "en"
+    ],
+    "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+    "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "frames",
+      "receivers",
+      "3dp",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+    },
+    "title": "Laffs Dynamics: Receivers & Frames"
+  },
+  "value_type": "channel"
+}
