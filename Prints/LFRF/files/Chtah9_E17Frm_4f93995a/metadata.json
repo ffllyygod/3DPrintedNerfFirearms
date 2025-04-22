@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/Chtah9_E17Frm#4",
+  "claim_id": "4f93995ab3b66c213b3a48f0141752ea31ea932f",
+  "claim_op": "create",
+  "confirmations": 539217,
+  "height": 1514754,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1514754,
+    "creation_height": 1514754,
+    "creation_timestamp": 1709113957,
+    "effective_amount": "0.001",
+    "expiration_height": 3617154,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1537467
+  },
+  "name": "Chtah9_E17Frm",
+  "normalized_name": "chtah9_e17frm",
+  "nout": 0,
+  "permanent_url": "lbry://Chtah9_E17Frm#4f93995ab3b66c213b3a48f0141752ea31ea932f",
+  "short_url": "lbry://Chtah9_E17Frm#4",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1709113957,
+  "txid": "726a8b96a14c03fa22cbe1e2a041160085e57850d99706574009fe517506e864",
+  "type": "claim",
+  "value": {
+    "description": "Cheetah-9 E-17 Frame: Laffs Dynamics\n\nFrame variant for the DIY hybrid PDW/SMG Cheetah-9. \n\nHas a recontoured grip for user comfort, large trigger guard, flaired magwell for ease of reloads, and a recessed mag release section.\n\nGrip section is designed for Glock 17 magazines, or any glock doublestack 9mm mags of larger capacity. \n\n\n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\nBase Cheetah-9 files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-HybridDesigns:0/CHEETAH-9-SMG-V1:e\n\n\n\nAccreditations: \n\nProfessor Parabellum: Creator of the Cheetah-9; used their frame as a base for this design. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1709113909",
+    "source": {
+      "hash": "3a1c45b41f995f864a57d43d2468149b98603f358eba95a2a3c467ab7380c78138e98bd2b5e6e3845425ff1053f09dc9",
+      "media_type": "application/zip",
+      "name": "Cheetah-9 E-17 Frame.zip",
+      "sd_hash": "cffcf9b20f4837908c081113785187fe59e44d532b7c7636ba4e802af024dc1e25f8e5d6658e5a8688853fb0180d5ec7",
+      "size": "2086462"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "diy",
+      "cheetah 9",
+      "smg"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/8c78dc64ec7549378e46e82772f9ee9d.webp"
+    },
+    "title": "Cheetah-9 E-17 Frame"
+  },
+  "value_type": "stream"
+}
