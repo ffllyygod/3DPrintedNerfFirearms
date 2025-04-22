@@ -1,0 +1,100 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/vid32#3",
+  "claim_id": "303a35945cbf2ef21b7af6b30e56f0a3e2a3c3de",
+  "claim_op": "create",
+  "confirmations": 148618,
+  "height": 1905391,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1905391,
+    "creation_height": 1905391,
+    "creation_timestamp": 1764559167,
+    "effective_amount": "0.001",
+    "expiration_height": 4007791,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1905391
+  },
+  "name": "vid32",
+  "normalized_name": "vid32",
+  "nout": 0,
+  "permanent_url": "lbry://vid32#303a35945cbf2ef21b7af6b30e56f0a3e2a3c3de",
+  "short_url": "lbry://vid32#3",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1764559167,
+  "txid": "1cc34a766d884475cecf75bb033a9508e276b7a3da08516b2c47a660d637f89c",
+  "type": "claim",
+  "value": {
+    "description": "This was a SLS printed FSSG prototype, works good, I didn't even think about this needing to be injection molded so I would actually have to loosen the tolerance as I made the tolerance the same as on the metal ones, anyway the nice lady sanded down the selector but it flips smoothly and nice, on this one the disconnectors pin hole was too tight causing it to not tilt in both modes, that's why it goes straight when in full-auto mode, this has already been fixed.",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1764555477",
+    "source": {
+      "hash": "90bb5ab8ff8c24d5d8c1be5f94032d795ca8d476e267fe8aece30cd06db3b05b00c818f33fca25aa6812c42ed1f80798",
+      "media_type": "video/mp4",
+      "name": "vid32.mp4",
+      "sd_hash": "703d6fe979470a0922e4718237feb3c8ca600e1fad87575958429562cadf2199661eb9b0f252063c76dc9c566e17339f",
+      "size": "69503178"
+    },
+    "stream_type": "video",
+    "tags": [
+      "switch",
+      "glock switch",
+      "autosear",
+      "auto sear",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a6e9925dd9b29ea3d3c038e675053f6a.webp"
+    },
+    "title": "SLS printed FSSG prototype (vid from tester)",
+    "video": {
+      "duration": 168,
+      "height": 848,
+      "width": 480
+    }
+  },
+  "value_type": "stream"
+}
