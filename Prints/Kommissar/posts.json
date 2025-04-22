@@ -1,0 +1,3013 @@
+[
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Choose-which-1pc-you-like-more#a",
+    "claim_id": "a491d7d7310ca09604e9e97dc3c98b05bd408a7c",
+    "claim_op": "create",
+    "confirmations": 74120,
+    "height": 1979889,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1979889,
+      "creation_height": 1979889,
+      "creation_timestamp": 1772516236,
+      "effective_amount": "0.001",
+      "expiration_height": 4082289,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1979889
+    },
+    "name": "Choose-which-1pc-you-like-more",
+    "normalized_name": "choose-which-1pc-you-like-more",
+    "nout": 0,
+    "permanent_url": "lbry://Choose-which-1pc-you-like-more#a491d7d7310ca09604e9e97dc3c98b05bd408a7c",
+    "short_url": "lbry://Choose-which-1pc-you-like-more#a",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1772516236,
+    "txid": "3e187ee60361787d8e6b1ffe760c21bf72d3301718411b72dd3fd0a8ce2a350b",
+    "type": "claim",
+    "value": {
+      "description": "The one on the right has a higher selector and isn't curved as much, it was more common than the one on the left, which has a lower selector and is more curved, the two picture below give examples of what they look like in action, do you prefer my lower selector version or the higher selector version?",
+      "image": {
+        "height": 834,
+        "width": 1433
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1772513654",
+      "source": {
+        "hash": "0d179518dd8801058dc0da913ff6306447f77d4434b326adee516bbc207eb180c65128619d4cb4c089736efd08cdc4eb",
+        "media_type": "image/png",
+        "name": "4324342.png",
+        "sd_hash": "d1bdd718795a4c0d5dccef882daccd1b4ac2126d73d7cad11a11e408ee449019297094dc22893263461e2b46823e2815",
+        "size": "870582"
+      },
+      "stream_type": "image",
+      "tags": [
+        "glock",
+        "switch",
+        "glock switch",
+        "auto sear",
+        "autosear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/d03de2b274184963dc47972ac0340621.webp"
+      },
+      "title": "Choose which one-piece you like more"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Reece-3PC-clone#e",
+    "claim_id": "e745973a9d1d888e6eb5c77bab6b3d0d6a130465",
+    "claim_op": "update",
+    "confirmations": 78356,
+    "height": 1975653,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1975653,
+      "creation_height": 1975649,
+      "creation_timestamp": 1772068196,
+      "effective_amount": "0.001",
+      "expiration_height": 4078053,
+      "is_controlling": false,
+      "reposted": 2,
+      "support_amount": "0.0",
+      "take_over_height": 1990253
+    },
+    "name": "Reece-3PC-clone",
+    "normalized_name": "reece-3pc-clone",
+    "nout": 0,
+    "permanent_url": "lbry://Reece-3PC-clone#e745973a9d1d888e6eb5c77bab6b3d0d6a130465",
+    "short_url": "lbry://Reece-3PC-clone#e",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1772068457,
+    "txid": "359b639b29befacdbf81e479fd7e6b340b1f6aba1ad05eef8f02262aeb55c779",
+    "type": "claim",
+    "value": {
+      "description": "These are usually manufactured by a guy named Reece, you've probably seen these in some youtube videos, he isn't the inventor though but his are the most popular as they are made of Stainless steel with a PVD finish (they would look better if polished first, he doesn't polish them so you can still see the gay ass machine markings) I made this pretty quickly if enough of you want it I'll make a .Step, don't buy shitty made models from people. especially that queer kamikoala",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1772064600",
+      "source": {
+        "hash": "c839c2a16dd23f9ca6e469501faed135438767a9f3f02feee376ee6c70f33933d7f727fa1445be1abcc25358b2523c00",
+        "media_type": "application/zip",
+        "name": "Reece 3PC clone.zip",
+        "sd_hash": "0c292f695580dbc5fde0f1539961ca88d426b9f6704bf0c8fd2e4fb6796b98d9f355fcd83a3193a8355298ffa9bd48f9",
+        "size": "159823"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock",
+        "switch"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15cbfdac5af2be7cb7d37cb2f1159319.webp"
+      },
+      "title": "Reece Three-Piece Clone"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Screenshot-2-11-2026#5",
+    "claim_id": "59e6db53221e3a4e8e9bba4c7bfc55962d21886c",
+    "claim_op": "update",
+    "confirmations": 90791,
+    "height": 1963218,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1963218,
+      "creation_height": 1963186,
+      "creation_timestamp": 1770838630,
+      "effective_amount": "0.001",
+      "expiration_height": 4065618,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1963186
+    },
+    "name": "Screenshot-2-11-2026",
+    "normalized_name": "screenshot-2-11-2026",
+    "nout": 0,
+    "permanent_url": "lbry://Screenshot-2-11-2026#59e6db53221e3a4e8e9bba4c7bfc55962d21886c",
+    "short_url": "lbry://Screenshot-2-11-2026#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1770840897,
+    "txid": "6350d81eb77d730b97456f2065e368daba4897763ef54e9db4bef9f81b8604bf",
+    "type": "claim",
+    "value": {
+      "description": "Yesterday I found this page claiming to sell Glock switch models, however the first post looks fucking butchered by AI and the second one is supposed to be a keychain model, someone in his comments claimed it was me, I've already said multiple times I will never sell a model, I get people on my discord all the time asking to buy models and I decline, this page is NOT me, I will never sell any models and this guy's models might not even be real, because if you look at his first post that shit looks 100% AI generated, always verify things before buying from sketchy people.\n\nI've also showed how our models are different and my models often have a deep hole for the recoil spring, however his look shallow",
+      "image": {
+        "height": 781,
+        "width": 1816
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1770835093",
+      "source": {
+        "hash": "087ae3ef50529bc03f8278acd0203dccffd468b36353b87bc5295c2cd128bb11414abd0442e98e0086d4718741556704",
+        "media_type": "image/png",
+        "name": "Screenshot-2-11-2026.png",
+        "sd_hash": "1da8df92ff1396049bca9d35df99d5b490f82eae603c202db34ce226de913a5f4c7baf7739caf4c762d218510b65dbc5",
+        "size": "1834993"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/df4d2094b68cf771cd746d77117f128c.webp"
+      },
+      "title": "Golden Tigers switches probably aren't real."
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Kamikaze's-keychain-won't-work,-FYI.#b",
+    "claim_id": "ba3903f6003068560825dea83870a737831bddf7",
+    "claim_op": "create",
+    "confirmations": 114308,
+    "height": 1939701,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1939701,
+      "creation_height": 1939701,
+      "creation_timestamp": 1768464644,
+      "effective_amount": "0.001",
+      "expiration_height": 4042101,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1939701
+    },
+    "name": "Kamikaze's-keychain-won't-work,-FYI.",
+    "normalized_name": "kamikaze's-keychain-won't-work,-fyi.",
+    "nout": 0,
+    "permanent_url": "lbry://Kamikaze's-keychain-won't-work,-FYI.#ba3903f6003068560825dea83870a737831bddf7",
+    "short_url": "lbry://Kamikaze's-keychain-won't-work,-FYI.#b",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1768464644,
+    "txid": "4f4f07102a71e2f7b51ea3d82570d149fd9a27c221c7ffcf0bd09d7e5ae362d7",
+    "type": "claim",
+    "value": {
+      "description": "He claims this is a 3d scan of a keychain Glock autosear, which I believe however it looks like the one in the picture to the left of my post and not the actual ones with the big backs (BBL switch fr) however he claims he has videos of the switch working, which is false, his keychain design and the 3d scan of it will not work, as pictured below is the inside of a Glock slide, you can see the backplate slot and how a 90 degree angle autosear would not work and be pushed down significantly low, never buy models without verifying the work first, but I recommend just not buying models in general from these weird shady people like Gas_sell and Kamikaze, I will never sell a model, anyways it will not work, I tried to tell Kamikaze it wouldn't work and he blocked me lol, but as seen in the pictures pretty much all of them are round or were squared but they got Dremel rounded for function, his one-piece I also doubt will work, and its not a good clone either tbh.",
+      "image": {
+        "height": 891,
+        "width": 1129
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1768461080",
+      "source": {
+        "hash": "5e128bb98ac0f5b044f59d22e0dbc86d3c1f9db0b2bf20130d3072de356eea22ead79eb6eba85d588dfcb8103befec4f",
+        "media_type": "image/jpeg",
+        "name": "chainny.jpeg",
+        "sd_hash": "3475cc89a049770ef9d325a36daafff93a655195ca4deacd10d696f8c4f8614574e7f1fe12c3bfc8f2ee99eea07657d8",
+        "size": "1075108"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "autosear",
+        "auto sear",
+        "glock switch",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74722b0a1298e79d22f2b96bc840e70d.webp"
+      },
+      "title": "Kamikaze's keychain won't work, FYI."
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/vid32#3",
+    "claim_id": "303a35945cbf2ef21b7af6b30e56f0a3e2a3c3de",
+    "claim_op": "create",
+    "confirmations": 148618,
+    "height": 1905391,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1905391,
+      "creation_height": 1905391,
+      "creation_timestamp": 1764559167,
+      "effective_amount": "0.001",
+      "expiration_height": 4007791,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1905391
+    },
+    "name": "vid32",
+    "normalized_name": "vid32",
+    "nout": 0,
+    "permanent_url": "lbry://vid32#303a35945cbf2ef21b7af6b30e56f0a3e2a3c3de",
+    "short_url": "lbry://vid32#3",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1764559167,
+    "txid": "1cc34a766d884475cecf75bb033a9508e276b7a3da08516b2c47a660d637f89c",
+    "type": "claim",
+    "value": {
+      "description": "This was a SLS printed FSSG prototype, works good, I didn't even think about this needing to be injection molded so I would actually have to loosen the tolerance as I made the tolerance the same as on the metal ones, anyway the nice lady sanded down the selector but it flips smoothly and nice, on this one the disconnectors pin hole was too tight causing it to not tilt in both modes, that's why it goes straight when in full-auto mode, this has already been fixed.",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1764555477",
+      "source": {
+        "hash": "90bb5ab8ff8c24d5d8c1be5f94032d795ca8d476e267fe8aece30cd06db3b05b00c818f33fca25aa6812c42ed1f80798",
+        "media_type": "video/mp4",
+        "name": "vid32.mp4",
+        "sd_hash": "703d6fe979470a0922e4718237feb3c8ca600e1fad87575958429562cadf2199661eb9b0f252063c76dc9c566e17339f",
+        "size": "69503178"
+      },
+      "stream_type": "video",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/a6e9925dd9b29ea3d3c038e675053f6a.webp"
+      },
+      "title": "SLS printed FSSG prototype (vid from tester)",
+      "video": {
+        "duration": 168,
+        "height": 848,
+        "width": 480
+      }
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Anounce#9",
+    "claim_id": "914042a92444f436daac61b5512ebaba41357fd5",
+    "claim_op": "update",
+    "confirmations": 148693,
+    "height": 1905316,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1909348,
+      "creation_height": 1905256,
+      "creation_timestamp": 1764542240,
+      "effective_amount": "0.001",
+      "expiration_height": 4007716,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 760308
+    },
+    "name": "Anounce",
+    "normalized_name": "anounce",
+    "nout": 0,
+    "permanent_url": "lbry://Anounce#914042a92444f436daac61b5512ebaba41357fd5",
+    "short_url": "lbry://Anounce#9",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1764550435,
+    "txid": "ab1ab8c4d6639e925fa7ff16e0b85d93cf7a49b42988bb406cbb030d46bcea87",
+    "type": "claim",
+    "value": {
+      "description": "I'm no longer making the glock pack, ya'll are like vultures and I cannot model everyday like I used to, my environment is not stable but it will be within the next 6 months where i would be able to basically model as long as i want after work which i cannot currently do, my friend NNW asked for the turnkey / ar-15 type selector model and he will be uploading it on his channel so go follow NNW, he's in my featured channels section on my odysee profile, and unlike everyone elses Turnkey which is just a ripoff of gas_sells broken ass one, his will be complete with all the correct parts, goodbye for now but go download that model when he drops it which I think will be soon\n\nhttps://odysee.com/@NNWDevelopment:1?view=home",
+      "image": {
+        "height": 512,
+        "width": 512
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1764542095",
+      "source": {
+        "hash": "9a0fda32732213aefb6d9045fb67261f466d577e63648471f75340b402d6073981d5c40588bc48747c2d9c1dc31852f7",
+        "media_type": "image/png",
+        "name": "Black.png",
+        "sd_hash": "07f191e484c5cc4832a22e6b06c17874aa0571f216513eb67f3c2e9adb23c6a8da347b1792b9d14f96b3181532a95a22",
+        "size": "2235"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/6ed5391d2f00a48389569ca54afb6887.webp"
+      },
+      "title": "Announcement "
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Keychain#b",
+    "claim_id": "bba0d14930c4036eb95435c0fbc7411ca40976e4",
+    "claim_op": "create",
+    "confirmations": 160006,
+    "height": 1894003,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1894003,
+      "creation_height": 1894003,
+      "creation_timestamp": 1763108277,
+      "effective_amount": "0.001",
+      "expiration_height": 3996403,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1894003
+    },
+    "name": "Keychain",
+    "normalized_name": "keychain",
+    "nout": 0,
+    "permanent_url": "lbry://Keychain#bba0d14930c4036eb95435c0fbc7411ca40976e4",
+    "short_url": "lbry://Keychain#b",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1763108277,
+    "txid": "fb831e09751ebda6881e9e94fbcb809d11ebbaf9dd75617f7a15fe0989aeb707",
+    "type": "claim",
+    "value": {
+      "description": "This is the Keychain Auto sear, completely functional, and a cool keychain.",
+      "image": {
+        "height": 781,
+        "width": 1024
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1763104542",
+      "source": {
+        "hash": "d8c7d1dd38d2e4433383f78d17319a98e986b3fb75700df6d3fa21f288ab28dba4fc5db167801a2c0e1df898a520b2b8",
+        "media_type": "image/png",
+        "name": "correct-2.png",
+        "sd_hash": "d9ef90bb3d52673dbf36bf48a4289e40e039002a5e95fd037ffcccc49d3a14cb898270cc4c99ea964ec6a43def36e418",
+        "size": "959436"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/0d9feda5d3db964c81db21a19dffef19.webp"
+      },
+      "title": "Keychain Switch"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Kommissar's-FSSG#5",
+    "claim_id": "562b48f4a4f6c3a1e62238689d986587d836400e",
+    "claim_op": "create",
+    "confirmations": 165014,
+    "height": 1888995,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1888995,
+      "creation_height": 1888995,
+      "creation_timestamp": 1762467640,
+      "effective_amount": "0.001",
+      "expiration_height": 3991395,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1888995
+    },
+    "name": "Kommissar's-FSSG",
+    "normalized_name": "kommissar's-fssg",
+    "nout": 0,
+    "permanent_url": "lbry://Kommissar's-FSSG#562b48f4a4f6c3a1e62238689d986587d836400e",
+    "short_url": "lbry://Kommissar's-FSSG#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1762467640,
+    "txid": "c66f3c2c23bcf69b460547eeabb206fcb748910f6ba6b143f52fcd8e87f7dd08",
+    "type": "claim",
+    "value": {
+      "description": "Here's my copy of the Original Glock switch and by far my favorite design, it's my take on it, I've made upgrades while not affecting how it works in anyway, it still works and moves exactly like the original, I used a mix of the public blueprints and pictures of the actual manufactured version, the blueprints are actually quite wrong, I may make a dedicated 1:1 copy later on but the only difference between the manufactured one and mine is the body curvature, there is 3 main FSSG versions I've found, with mine I copied the LeonTechnologies one, this is the newer one they offer, It has more of a curve compared to the Gen 2 FSSG which has more of a straight angle downwards, Upgrades I've changed from the original is I added bevels on the part that attaches to the Glock and I've also added the firing pin spring channel so it holds onto the Switch better as on most one-piece designs it's basically just a fucking suggestion with how shallow they are.",
+      "image": {
+        "height": 814,
+        "width": 1216
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1762463868",
+      "source": {
+        "hash": "08e793189f21fc54b267870403bacc7df9ec1c53f1066d6f60ce972df00445521d530e8c027cc3c043accf875c2561e0",
+        "media_type": "image/png",
+        "name": "Kommissar's-FSSG.png",
+        "sd_hash": "2a83662d5b683b0b0104137b98cbaa9c79bb4f664ea9b8adfbe560646ce011383831ef8f21cafa99cacb1a5c1698325c",
+        "size": "989935"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3f417938c1c9d69c700c7673421c2f91.webp"
+      },
+      "title": "Kommissar's-FSSG"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Kommissar's-custom#d",
+    "claim_id": "d69f3aca26f409b94730821ebf142e708b183bc2",
+    "claim_op": "create",
+    "confirmations": 168025,
+    "height": 1885984,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1885984,
+      "creation_height": 1885984,
+      "creation_timestamp": 1762074866,
+      "effective_amount": "0.001",
+      "expiration_height": 3988384,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1885984
+    },
+    "name": "Kommissar's-custom",
+    "normalized_name": "kommissar's-custom",
+    "nout": 0,
+    "permanent_url": "lbry://Kommissar's-custom#d69f3aca26f409b94730821ebf142e708b183bc2",
+    "short_url": "lbry://Kommissar's-custom#d",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1762074866,
+    "txid": "6f8db27725533357c30a50a87ada36224f06c05539e050254f0b75a60ce62efb",
+    "type": "claim",
+    "value": {
+      "description": "I was making the Glock FSSG when I made the curve incorrectly, some people still liked the curve of this switch which is not the same as the original so i'm just calling it my custom switch, including a low-profile version",
+      "image": {
+        "height": 724,
+        "width": 662
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1762074424",
+      "source": {
+        "hash": "99d4aafbe3358638da9aa85ab607e6cbda9ade62fd478e0ec7b7b93fb62ad9bd88c79c168bbebee20f87058c719a92c4",
+        "media_type": "image/png",
+        "name": "Untit3232led.png",
+        "sd_hash": "040b14ebb5b12b38e5c2e24f39c59bd90fa403f986138a8c4062675a9a10b36a00883f588fd377ebf990cc7f37a89697",
+        "size": "352932"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "autosear",
+        "auto sear",
+        "gswitch"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/f53b77b6cbb43ac2eec68f26eb5bc115.webp"
+      },
+      "title": "Kommissar's custom switch."
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capture#146",
+    "claim_id": "1468aca739ae872d6e61ee5786134c9a8232ceb6",
+    "claim_op": "update",
+    "confirmations": 183472,
+    "height": 1870537,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1874569,
+      "creation_height": 1870341,
+      "creation_timestamp": 1759775628,
+      "effective_amount": "0.001",
+      "expiration_height": 3972937,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 924164
+    },
+    "name": "Capture",
+    "normalized_name": "capture",
+    "nout": 0,
+    "permanent_url": "lbry://Capture#1468aca739ae872d6e61ee5786134c9a8232ceb6",
+    "short_url": "lbry://Capture#146",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1759805358,
+    "txid": "adf4a617a9fafc343edff5f5315257e0dbc6117c48c5c35ebb22620d5de7baa2",
+    "type": "claim",
+    "value": {
+      "image": {
+        "height": 538,
+        "width": 524
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1759775396",
+      "source": {
+        "hash": "f00cdbd18939e7b7a64ccf1fdf8d1c0d9d5a8887b7003d51a096cb492bce293d58f67944d70618fd000103551f1a0e88",
+        "media_type": "image/png",
+        "name": "Capture.PNG",
+        "sd_hash": "01ddf94c2877a95d053cf9a4bd3c92085c33e9da7e6de2f256a213778319d79b30f42726350cdcaa7b8df4aba1f2f37e",
+        "size": "198390"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/7cfcd84fd0eff833f6c121e0cd3571e0.webp"
+      },
+      "title": "G-18 style selector, will probably use the G keychain switch body for best look"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Testing112233#5",
+    "claim_id": "5689ccab0d10e6ad2e41d29114969422864430ac",
+    "claim_op": "create",
+    "confirmations": 207240,
+    "height": 1846769,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1846769,
+      "creation_height": 1846769,
+      "creation_timestamp": 1756157377,
+      "effective_amount": "0.001",
+      "expiration_height": 3949169,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1846769
+    },
+    "name": "Testing112233",
+    "normalized_name": "testing112233",
+    "nout": 0,
+    "permanent_url": "lbry://Testing112233#5689ccab0d10e6ad2e41d29114969422864430ac",
+    "short_url": "lbry://Testing112233#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1756157377,
+    "txid": "d57940b8512fc714637ccb4301c80f6a3bcd3ad1983d7a81392f4e86c18c449c",
+    "type": "claim",
+    "value": {
+      "description": "This video does not display me, it displays a FFL/SOT testing the model I fixed.",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1756156678",
+      "source": {
+        "hash": "0d893135765a713ab08820f55ef7a8657038811ec84f7dadbf1af3433adf99ce60b28281395e90d134b9082dd8f2d50c",
+        "media_type": "video/mp4",
+        "name": "20250825_135107 (1).mp4",
+        "sd_hash": "0db896fa9a28a5fe1d0e6f39653cd42f2cceb391e2b1330d9d7550b47637d00e765537b716bba4a7ebda05508a0d40f6",
+        "size": "6395618"
+      },
+      "stream_type": "video",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/55dc7ccf2da50cd1faecb97f8a7d0d97.webp"
+      },
+      "title": "AR style Glock Switch Test #3 (Success) ",
+      "video": {
+        "duration": 22,
+        "height": 608,
+        "width": 480
+      }
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capt44444444ure#9",
+    "claim_id": "9a6cf6d39b0f95a156471fc8f49a357ca4493be7",
+    "claim_op": "create",
+    "confirmations": 210525,
+    "height": 1843484,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1843484,
+      "creation_height": 1843484,
+      "creation_timestamp": 1755641756,
+      "effective_amount": "0.001",
+      "expiration_height": 3945884,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1843484
+    },
+    "name": "Capt44444444ure",
+    "normalized_name": "capt44444444ure",
+    "nout": 0,
+    "permanent_url": "lbry://Capt44444444ure#9a6cf6d39b0f95a156471fc8f49a357ca4493be7",
+    "short_url": "lbry://Capt44444444ure#9",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755641756,
+    "txid": "40df627b22998a559801d800f6edf4a306160bf0f7cb8056fa71529d4a0e617f",
+    "type": "claim",
+    "value": {
+      "description": "My rounded Sear (not Bass Remix I made)",
+      "image": {
+        "height": 558,
+        "width": 965
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755641687",
+      "source": {
+        "hash": "c15e309c38812665201ad9dda3001dfbd0fe91e815c702d71673d29ee1c9261161b7e69501690d4c90d74295d766f8d2",
+        "media_type": "image/png",
+        "name": "Capt44444444ure.PNG",
+        "sd_hash": "f0bde4cf5edfca663560f8aa6ea2fec432d7bf52dd949ae1080101c3e9f3b0748516970af49e37c2f53653acf1934d2c",
+        "size": "344773"
+      },
+      "stream_type": "image",
+      "tags": [
+        "glock switch",
+        "autosear",
+        "sear",
+        "gswitch",
+        "switch"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/55cbd9f2fc72b74891b2c0e6cd069d5e.webp"
+      },
+      "title": "My rounded Sear (not Bass Remix I made)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/reinforced-disconnectorv4#8",
+    "claim_id": "8c1071ec88b07f4ebf862941a82857ebd02e38df",
+    "claim_op": "create",
+    "confirmations": 211042,
+    "height": 1842967,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842967,
+      "creation_height": 1842967,
+      "creation_timestamp": 1755563810,
+      "effective_amount": "0.001",
+      "expiration_height": 3945367,
+      "is_controlling": false,
+      "reposted": 2,
+      "support_amount": "0.0",
+      "take_over_height": 1866966
+    },
+    "name": "reinforced-disconnectorv4",
+    "normalized_name": "reinforced-disconnectorv4",
+    "nout": 0,
+    "permanent_url": "lbry://reinforced-disconnectorv4#8c1071ec88b07f4ebf862941a82857ebd02e38df",
+    "short_url": "lbry://reinforced-disconnectorv4#8",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755563810,
+    "txid": "16fc8400667bd6f362e494379ceceaee0e33e4705b486967fe1e2bdcd0243aa9",
+    "type": "claim",
+    "value": {
+      "description": "This is the Disconnector for the popular glock switch files, the issue with the originals are they are thin and meant to be made in metal and work good in metal, for 3d printing you want to use this, I just added a thickened part and it works perfectly.",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755563670",
+      "source": {
+        "hash": "679c96a33f12738c68bac089e2322b2c0f2eb9cffa65b65ff4861b589935105a6a78a2fd1a486f537ef7bc67c85d3128",
+        "media_type": "model/stl",
+        "name": "reinforced-disconnectorv4.stl",
+        "sd_hash": "4f5ec774882779deb6d0e6951ca3622d0a77ffeebc2772f4d4f97e82a39c16caea465a93c98259c45d173cce90eaf05a",
+        "size": "58984"
+      },
+      "stream_type": "model",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/0313a10a1bc6a4c89159bc2f69815561.webp"
+      },
+      "title": "reinforced-disconnectorv4"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.01",
+    "canonical_url": "lbry://@Kommissar#c/glonkselector180#9",
+    "claim_id": "9568010dcf43e59ada7be5612f74dd99da3915a1",
+    "claim_op": "create",
+    "confirmations": 211097,
+    "height": 1842912,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842941,
+      "creation_height": 1842912,
+      "creation_timestamp": 1755556353,
+      "effective_amount": "0.01",
+      "expiration_height": 3945312,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1842941
+    },
+    "name": "glonkselector180",
+    "normalized_name": "glonkselector180",
+    "nout": 0,
+    "permanent_url": "lbry://glonkselector180#9568010dcf43e59ada7be5612f74dd99da3915a1",
+    "reposted_claim": {
+      "address": "baqcLVnF3iYspxrKNkYE1shfsRr4iWUi5t",
+      "amount": "0.001",
+      "canonical_url": "lbry://@NNWDevelopment#1/glonkselector180#c",
+      "claim_id": "c4a3ab4cbc26f4b6bb4510442f4af639fa6f0615",
+      "claim_op": "update",
+      "confirmations": 211607,
+      "height": 1842402,
+      "is_channel_signature_valid": true,
+      "meta": {
+        "activation_height": 1842402,
+        "creation_height": 1841984,
+        "creation_timestamp": 1755429517,
+        "effective_amount": "0.001",
+        "expiration_height": 3944802,
+        "is_controlling": false,
+        "reposted": 2,
+        "support_amount": "0.0",
+        "take_over_height": 1842941
+      },
+      "name": "glonkselector180",
+      "normalized_name": "glonkselector180",
+      "nout": 0,
+      "permanent_url": "lbry://glonkselector180#c4a3ab4cbc26f4b6bb4510442f4af639fa6f0615",
+      "short_url": "lbry://glonkselector180#c",
+      "signing_channel": {
+        "address": "baqcLVnF3iYspxrKNkYE1shfsRr4iWUi5t",
+        "amount": "0.001",
+        "canonical_url": "lbry://@NNWDevelopment#1",
+        "claim_id": "1d0741d30a03f076fe4b586c075c3beb2ce39013",
+        "claim_op": "update",
+        "confirmations": 144304,
+        "has_signing_key": false,
+        "height": 1909705,
+        "meta": {
+          "activation_height": 1909705,
+          "claims_in_channel": 10,
+          "creation_height": 1829069,
+          "creation_timestamp": 1753599834,
+          "effective_amount": "0.001",
+          "expiration_height": 4012105,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1829069
+        },
+        "name": "@NNWDevelopment",
+        "normalized_name": "@nnwdevelopment",
+        "nout": 0,
+        "permanent_url": "lbry://@NNWDevelopment#1d0741d30a03f076fe4b586c075c3beb2ce39013",
+        "short_url": "lbry://@NNWDevelopment#1",
+        "timestamp": 1765084224,
+        "txid": "07aea01ab8987cb58fbe0ced1cc70fff772946d300f6eca80e8f2d399c410bb2",
+        "type": "claim",
+        "value": {
+          "cover": {
+            "url": "https://thumbs.odycdn.com/9fe66eea19318fd753a42ff8bfac9e66.webp"
+          },
+          "public_key": "03ec159d7a889384dc1b4b2b5ea49367bf860032cb79160e6ec2e2fe6c3e7579c4",
+          "public_key_id": "bVDgt1dHXXe1k8GsEzWm9Z21bxnNKAtQyb",
+          "thumbnail": {
+            "url": "https://thumbs.odycdn.com/9aeb86876cadf147661cd3a4282ec538.webp"
+          },
+          "title": "NNWDev"
+        },
+        "value_type": "channel"
+      },
+      "timestamp": 1755486626,
+      "txid": "72331dd5e316ef8dcb252f117531dac6a00a9bc1d2adde95678f9499abd951ae",
+      "type": "claim",
+      "value": {
+        "description": "s180, a 180 degree selector for 3pc glock auto sears\n\nthis selector replaces your normal push selector with a flip selector.\nthe selector will be flush against the right side of your slide with the knob facing towards\nthe barrel when in FA mode, when in semi automatic mode the selector knob will be facing you\nselector also has a \"auto\" label to signify what mode its in\n\n\nmake sure you're an ffl sot0702 if your gonna make this.... lol",
+        "languages": [
+          "en"
+        ],
+        "license": "None",
+        "release_time": "1755429309",
+        "source": {
+          "hash": "c972b415df84663abdf7dc95e906fdb51b9f243eb08e64976b995429549e0330899aced11dc8d734abdccd1950ca0729",
+          "media_type": "model/stl",
+          "name": "s180.stl",
+          "sd_hash": "a59c3938e911929f2ed0324f948d75e21ab9b5f2e587856e3ae95ec642e41d685e531a1194be0fbef65105da029c9b64",
+          "size": "134084"
+        },
+        "stream_type": "model",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/712b94df64e1f7363f262c60bdaadc88.webp"
+        },
+        "title": "s180 for glock"
+      },
+      "value_type": "stream"
+    },
+    "short_url": "lbry://glonkselector180#9",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755556353,
+    "txid": "3edc4c9a77424bf0dcfe09e644b43a06401541f138a9239381ea649f9fc14241",
+    "type": "claim",
+    "value": {
+      "claim_hash": "FQZv+jn2Si9EEEW7tvQmvEyro8Q="
+    },
+    "value_type": "repost"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Ca64565pture#5",
+    "claim_id": "51d931880bfd8d213b5eb87604d36cccff960f69",
+    "claim_op": "create",
+    "confirmations": 211105,
+    "height": 1842904,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842904,
+      "creation_height": 1842904,
+      "creation_timestamp": 1755554704,
+      "effective_amount": "0.001",
+      "expiration_height": 3945304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1842904
+    },
+    "name": "Ca64565pture",
+    "normalized_name": "ca64565pture",
+    "nout": 0,
+    "permanent_url": "lbry://Ca64565pture#51d931880bfd8d213b5eb87604d36cccff960f69",
+    "short_url": "lbry://Ca64565pture#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755554704,
+    "txid": "56071fd0c957b44db7c4fcaca184ba689186fa1844fd36eed0c8d1fc530ce5e6",
+    "type": "claim",
+    "value": {
+      "description": "Bro Kamikaze wants my Models so badly to resell, like Nigga make your own damn models then maybe you'd actually have something worth selling but instead you take free models and MAYBE SOMETIMES remix them, but like bro that fucking Skreee remix is hot fucking ass, like you beveled the fucking edges but left the main body round and added some stupid ass tab on the back right of it, which makes you so you can no longer even put the slide with the switch on without taking off the switch in the first place.",
+      "image": {
+        "height": 722,
+        "width": 1128
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755554682",
+      "source": {
+        "hash": "ca890d9464eae1cc7a88cef3d43b05a8b98fa455a89af11fb4baffab67b513a5a90f8103494fff2205cf80cdf0417c68",
+        "media_type": "image/png",
+        "name": "Ca64ture.PNG",
+        "sd_hash": "6bbb1894c7fcfeb1764165975ace43d23aeddb949a5c99e0a0904290bc4f87e9fd7da7ef546fff56f72b586a42080ea5",
+        "size": "540096"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/e385730f404fe7333c4494da4993181f.webp"
+      },
+      "title": "My Three-piece (One-Piece-clone) compared to hot garbage "
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capt3554ure#0",
+    "claim_id": "02a3bb59e113a682df4778e4ef761ae1ff87d3d6",
+    "claim_op": "update",
+    "confirmations": 211138,
+    "height": 1842871,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842871,
+      "creation_height": 1842860,
+      "creation_timestamp": 1755549046,
+      "effective_amount": "0.001",
+      "expiration_height": 3945271,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1842860
+    },
+    "name": "Capt3554ure",
+    "normalized_name": "capt3554ure",
+    "nout": 0,
+    "permanent_url": "lbry://Capt3554ure#02a3bb59e113a682df4778e4ef761ae1ff87d3d6",
+    "short_url": "lbry://Capt3554ure#0",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755550314,
+    "txid": "bfd3d7f3fc6870dec7a4fa33e97ccfff5e03ba3cf11e5db5f615e39603a9c0aa",
+    "type": "claim",
+    "value": {
+      "description": "The files are literally 1:1 identical, and apparently bro doesn't know how the disconnector works if he's saying mine \"Doesn't work\" when they are fucking identical, anything with a selector that has a thinner part to move the disconnector with and has a thick and long enough disconnector is going to work, this guy is off some crazy ass copium\n\nAlso the original is made by EmpireCadDesignz not him so idk what the fuck he's claiming lol",
+      "image": {
+        "height": 727,
+        "width": 1731
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755548993",
+      "source": {
+        "hash": "090ba7772738b0897f7cc6e3901e0eb15c9a947b35c4ef63ac309833ecf3176bae59adf203d6943bb6e5dd95d47836a9",
+        "media_type": "image/png",
+        "name": "Capt3554ure.PNG",
+        "sd_hash": "0f82cb8199716a87fb9ec5516758dd90080ce8809bf6d7e3d81aa7ce814e7c4bcc51c02505936bda8fa8f4ac27d25280",
+        "size": "952010"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/788d2f7c5dfe0f8c97c7d861d19fb785.webp"
+      },
+      "title": "Bro is acting like the files are different lol"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#b",
+    "claim_id": "bce6e9c75035f8639b3f8ee270bf07e874daf60f",
+    "claim_op": "update",
+    "confirmations": 211194,
+    "height": 1842815,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842815,
+      "creation_height": 1842812,
+      "creation_timestamp": 1755543403,
+      "effective_amount": "0.001",
+      "expiration_height": 3945215,
+      "is_controlling": false,
+      "reposted": 3,
+      "support_amount": "0.0",
+      "take_over_height": 1852346
+    },
+    "name": "Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))",
+    "normalized_name": "pin-glock-switch-(original-is-made-by-empirecaddesignz-(v3))",
+    "nout": 0,
+    "permanent_url": "lbry://Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#bce6e9c75035f8639b3f8ee270bf07e874daf60f",
+    "short_url": "lbry://Pin-glock-switch-(Original-is-made-by-EmpireCadDesignz-(v3))#b",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755543671,
+    "txid": "e47963df90965ae59ecf5bcc2312400cfab782b889f69967e7b5a1fe0b85021d",
+    "type": "claim",
+    "value": {
+      "description": "This is a Glock Switch model made by EmpireCadDesignz on Defcad, and this clown Kamikaze is trying to sell it for $50, just download it for free here.\n\nYou can also purchase a dowel pin: https://www.mcmaster.com/91595A953/  here\n\nDon't buy from Kamikaze, his models are literally mostly free, he also recently botted followers and started liking all his posts, that's why he randomly grew 9 followers and suspiciously now has 9 likes on all of his posts and thought we wouldn't notice lol\n",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755543379",
+      "source": {
+        "hash": "8e157956ea663fe53dd5c5579915b3335dd4769e727a22af09596a9665171f267060c94b6755a78f4408aca225692792",
+        "media_type": "application/zip",
+        "name": "Glock_Auto_Sear.zip",
+        "sd_hash": "e6938cb50ee384b62f20f477cf654799fd22795c4b5ad2c09f05c875618c7aa6bf33bf5d815ea4246d4b946619f421f0",
+        "size": "54800"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "switch",
+        "glock switch",
+        "glock",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/fe7ee3ec4a9289b633418547f1b5130d.webp"
+      },
+      "title": "G-Switch retained by pin (Original is made by EmpireCadDesignz (v3))"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capt432ure#1",
+    "claim_id": "1f876e02b07804977301aacadba40bddcd0e2398",
+    "claim_op": "create",
+    "confirmations": 211771,
+    "height": 1842238,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1842238,
+      "creation_height": 1842238,
+      "creation_timestamp": 1755463808,
+      "effective_amount": "0.001",
+      "expiration_height": 3944638,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1842238
+    },
+    "name": "Capt432ure",
+    "normalized_name": "capt432ure",
+    "nout": 0,
+    "permanent_url": "lbry://Capt432ure#1f876e02b07804977301aacadba40bddcd0e2398",
+    "short_url": "lbry://Capt432ure#1",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755463808,
+    "txid": "5d42f418306f1a96b08866b05f759fd43119d5e875ee99bd08665346c571c5b6",
+    "type": "claim",
+    "value": {
+      "description": "Almost fixed this model, just need to rework the pin and screw and shit.",
+      "image": {
+        "height": 287,
+        "width": 619
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755463852",
+      "source": {
+        "hash": "eaf46c751742573e450adb267707355939519724a449916f0b00c4df2ef86b19ff1ea8e87c6a42cc6f523d36d3c15d77",
+        "media_type": "image/png",
+        "name": "Capt432ure.PNG",
+        "sd_hash": "85d4cffbeb58aea31147a08ecc3e65efb113bd97347d8e3bb6dd8cb643d3dfb8ad6a6bcf39f9346f7909619ac541ae31",
+        "size": "116080"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "auto sear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/93c0f901854e9e8ff2d1819f0e13e13c.webp"
+      },
+      "title": "Fixed (almost)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Lil-goobner2#5",
+    "claim_id": "52636d9d2256f4793e56d31f6ff8d665ea08977c",
+    "claim_op": "create",
+    "confirmations": 214191,
+    "height": 1839818,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1839818,
+      "creation_height": 1839818,
+      "creation_timestamp": 1755119306,
+      "effective_amount": "0.001",
+      "expiration_height": 3942218,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1839818
+    },
+    "name": "Lil-goobner2",
+    "normalized_name": "lil-goobner2",
+    "nout": 0,
+    "permanent_url": "lbry://Lil-goobner2#52636d9d2256f4793e56d31f6ff8d665ea08977c",
+    "short_url": "lbry://Lil-goobner2#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755119306,
+    "txid": "f04735c69748ab8db91696f422cd9b00a2d88cae613cb2088e8cd6c0cf3b0299",
+    "type": "claim",
+    "value": {
+      "description": "Bum ahh handgun company DMCA'ing me",
+      "image": {
+        "height": 782,
+        "width": 1228
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755119186",
+      "source": {
+        "hash": "460d270a28b550e07ef640ff32e3250077b49c2bfb7dc0149d22482be031043f8116f85eab40c191ad7ea9172721aa25",
+        "media_type": "image/png",
+        "name": "Lil-goobner.PNG",
+        "sd_hash": "1953c88c9d02dc4ec501dbb67e4a7917ea33ac4d14a2cabb419a867d2c46525089e524d091d39f94ebbbf5f42e4b1323",
+        "size": "639898"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "gswitch",
+        "autosear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/53c331624349dd31143a8896ad530516.webp"
+      },
+      "title": "One-piece (Old before I beveled the edges like in my other post) (REPOST CAUSE OF DMCA)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capture434#0",
+    "claim_id": "0c7959952c2743404313ab571d76a281ce3668fe",
+    "claim_op": "create",
+    "confirmations": 214194,
+    "height": 1839815,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1839815,
+      "creation_height": 1839815,
+      "creation_timestamp": 1755118913,
+      "effective_amount": "0.001",
+      "expiration_height": 3942215,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1839815
+    },
+    "name": "Capture434",
+    "normalized_name": "capture434",
+    "nout": 0,
+    "permanent_url": "lbry://Capture434#0c7959952c2743404313ab571d76a281ce3668fe",
+    "short_url": "lbry://Capture434#0",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755118913,
+    "txid": "258d391bbc8bfc8a4a44d5ef5cfc653b8a9cf175937b80ea876f171051b1e8ab",
+    "type": "claim",
+    "value": {
+      "description": "A Certain handgun company that these models I make go on has been DMCA'ing mine and other peoples posts, so just reuploading without saying their bum ahh name",
+      "image": {
+        "height": 497,
+        "width": 1338
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755118950",
+      "source": {
+        "hash": "dd35320bbe9b1503f61a02a7e48942a7f5103e59cfa0468dc1682c0741b9058ee3e6c7babb57a98c06fd36e326a40739",
+        "media_type": "image/png",
+        "name": "Capture434.PNG",
+        "sd_hash": "db9bbed125849a79cac5eaa83fd25b4bdbe8dd39e8ee56dc1d249caeae46dda19002eccb0b5f6b040a1b023d86199a63",
+        "size": "279863"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "autosear",
+        "auto sear",
+        "gswitch"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/616d304c2018db7a65a09467aca16b8c.webp"
+      },
+      "title": "My First model of the \"Cheap\" single-piece"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capt424ure#b",
+    "claim_id": "b13d5119c18866ab22b5008073dd34236accc02f",
+    "claim_op": "create",
+    "confirmations": 214214,
+    "height": 1839795,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1839795,
+      "creation_height": 1839795,
+      "creation_timestamp": 1755116088,
+      "effective_amount": "0.001",
+      "expiration_height": 3942195,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1839795
+    },
+    "name": "Capt424ure",
+    "normalized_name": "capt424ure",
+    "nout": 0,
+    "permanent_url": "lbry://Capt424ure#b13d5119c18866ab22b5008073dd34236accc02f",
+    "short_url": "lbry://Capt424ure#b",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1755116088,
+    "txid": "a30232be15aaaaee176b467abb352bf666dada0c788a97ffb55c03875d0f0686",
+    "type": "claim",
+    "value": {
+      "description": "Bruh, they DMCA'd me for the fucking name I shit you not, they saw the name of the company in the title and Copyrighted it when there is milions of youtube videos of people literally having the pistols name in the title, like are they stupid or is this some random going around acting like (unknown handgun company that the switches go on)",
+      "image": {
+        "height": 160,
+        "width": 1280
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1755116068",
+      "source": {
+        "hash": "48fd3c4a99dd3a6cc976aa90872f86d185041f0c7ca0a0adf04cd662fecca421522267fe53eaef07e9db13fe18d1b0c2",
+        "media_type": "image/png",
+        "name": "Capt424ure.PNG",
+        "sd_hash": "6868a8e1b9239343372e0e9d19193e614ae13f09f21e6116e337cb44f7ed7a9a9b337fdcad09cfeac0768bc0c11382ac",
+        "size": "33775"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "gswitch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/9c93844176d67e1d087c127008b3ad21.webp"
+      },
+      "title": "I got DMCA from a certain company that my switches are for"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Rounded#7",
+    "claim_id": "702ad9d389e096c6cf498325f8600055d4f40c0a",
+    "claim_op": "create",
+    "confirmations": 221820,
+    "height": 1832189,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1832189,
+      "creation_height": 1832189,
+      "creation_timestamp": 1754048000,
+      "effective_amount": "0.001",
+      "expiration_height": 3934589,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1867808
+    },
+    "name": "Rounded",
+    "normalized_name": "rounded",
+    "nout": 0,
+    "permanent_url": "lbry://Rounded#702ad9d389e096c6cf498325f8600055d4f40c0a",
+    "short_url": "lbry://Rounded#7",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1754048000,
+    "txid": "0157c1be7f22c7d7e689811f36b2aadc7ff50caea1125b875ad1dc1b25a305fb",
+    "type": "claim",
+    "value": {
+      "description": "I actually messed up my rounded sear, it wasn't rounded evenly and I wasn't trying to go back and fix it so heres my remix of the BAS Switch",
+      "image": {
+        "height": 644,
+        "width": 950
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1754047944",
+      "source": {
+        "hash": "4fb3a6e8d2e309045c5ffba9ddf4000682a28c0752bb6f1d5294ca6b4d3c6606348f14ee6d55dcb8eef4b2ca1e8f423e",
+        "media_type": "image/png",
+        "name": "Rounded.PNG",
+        "sd_hash": "e04c38571ce36078482507bdbe08f6d8a21aa4f42bac634ad2239f23a06ecee8a8befa957d0ec9ef174d045627d3cf7f",
+        "size": "411400"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "autosear",
+        "glock",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/a2cbb43f1f80ba765c0a6fc33a076e7c.webp"
+      },
+      "title": "Finished Rounded Sear"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Three-piece-(one-piece-clone)#8",
+    "claim_id": "80f6f8a6f0589980eef3d0234a490826c1028591",
+    "claim_op": "create",
+    "confirmations": 221820,
+    "height": 1832189,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1832189,
+      "creation_height": 1832189,
+      "creation_timestamp": 1754048000,
+      "effective_amount": "0.001",
+      "expiration_height": 3934589,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1832189
+    },
+    "name": "Three-piece-(one-piece-clone)",
+    "normalized_name": "three-piece-(one-piece-clone)",
+    "nout": 0,
+    "permanent_url": "lbry://Three-piece-(one-piece-clone)#80f6f8a6f0589980eef3d0234a490826c1028591",
+    "short_url": "lbry://Three-piece-(one-piece-clone)#8",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1754048000,
+    "txid": "caf4c5cc4282bfe8f25dcf8e203962d35ee607ae65ae0e3506f89521b8635164",
+    "type": "claim",
+    "value": {
+      "description": "Finished it, I have multiple different kinds with different bevels, like one that's rounded but without the side and bottom cut, then one that's with the side cuts but no bottom cut, ect.",
+      "image": {
+        "height": 474,
+        "width": 917
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1754047853",
+      "source": {
+        "hash": "07dc13732e11b1d4f8788adb637a21cb6355f0601eb42600c9501176a430819bea0538e64c56be87a5013f08c4eac514",
+        "media_type": "image/png",
+        "name": "Three-piece (one-piece-clone).PNG",
+        "sd_hash": "72f9cca88f60fbe94bb378acd950d7977905e68a2937b7716a332f408d0adfa12506590cd6b6a327914c1c13436a661c",
+        "size": "289516"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "glock",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/6b89ab837411fda99f2235b4c1815fe0.webp"
+      },
+      "title": "Three-piece (one-piece-clone)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Finished-one-piece#e",
+    "claim_id": "eb5401174058c45ba52a77275a88fd1925bb755d",
+    "claim_op": "create",
+    "confirmations": 221820,
+    "height": 1832189,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1832189,
+      "creation_height": 1832189,
+      "creation_timestamp": 1754048000,
+      "effective_amount": "0.001",
+      "expiration_height": 3934589,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1867808
+    },
+    "name": "Finished-one-piece",
+    "normalized_name": "finished-one-piece",
+    "nout": 0,
+    "permanent_url": "lbry://Finished-one-piece#eb5401174058c45ba52a77275a88fd1925bb755d",
+    "short_url": "lbry://Finished-one-piece#e",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1754048000,
+    "txid": "1566af1c068e215a6e53d3cc04e6065fb6bef9520ed63bf3413ae3a0d29403cc",
+    "type": "claim",
+    "value": {
+      "description": "Finished it, I have multiple different kinds with different bevels, like one that's rounded but without the side and bottom cut, then one that's with the side cuts but no bottom cut, ect.",
+      "image": {
+        "height": 697,
+        "width": 1002
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1754047813",
+      "source": {
+        "hash": "5df00eaab9a9ebf6849c421951066f5c75243b47d721b407beb0db80bd81d999d00e9d79ca0c414ca991aca2f2be1236",
+        "media_type": "image/png",
+        "name": "Finished-one-piece.PNG",
+        "sd_hash": "7310b8c34f78de6f1e5536d1386a423f421199a0dd6169cfc1d71aa9516bdb68a9c3fbba7f77fbcb10fc165059fbc4c1",
+        "size": "457623"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "glock",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/340a6da2fb12aad2783a782b0532e64a.webp"
+      },
+      "title": "Finished-one-piece"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#5",
+    "claim_id": "518f656ba35b93198604314a4505c82423ba9fd4",
+    "claim_op": "create",
+    "confirmations": 223395,
+    "height": 1830614,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1830614,
+      "creation_height": 1830614,
+      "creation_timestamp": 1753818620,
+      "effective_amount": "0.001",
+      "expiration_height": 3933014,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 2003962
+    },
+    "name": "Kamikaze-stupid-ahh-stolen-non-selectable-one-piece",
+    "normalized_name": "kamikaze-stupid-ahh-stolen-non-selectable-one-piece",
+    "nout": 0,
+    "permanent_url": "lbry://Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#518f656ba35b93198604314a4505c82423ba9fd4",
+    "short_url": "lbry://Kamikaze-stupid-ahh-stolen-non-selectable-one-piece#5",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753818620,
+    "txid": "d303c413bbb8e5ba47c7e8b19f46c719eb9c17a2c3532cfba25296134b7e9c29",
+    "type": "claim",
+    "value": {
+      "description": "This goofy mf is trying to sell FREE files to people that he had no part in making lol, bro is a bum charging like $50 per file, so I just recreated his goofy ass one-piece which is basically just the original model with a fucking cylinder through it lol, I'm just gonna remake all of the shitty models he's posting for sell, for Free :) (they are almost all the fucking Segs file from defcad)",
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753818588",
+      "source": {
+        "hash": "6dc96f9158c8ff0f1f0b926d1b80e1d973c6bd31dfc8229bf074de89b5ed0b3e159138a4c6d349ec2c07c49c8e28b358",
+        "media_type": "application/zip",
+        "name": "Kamikaze-goofy-ass-one-piece.zip",
+        "sd_hash": "08f427a13ee21a0f421d32639dd8e9ef2ea20bd475b81bc73c26b5ee6c6c6690c563c0355f03c2602cac9ec1bfd2038a",
+        "size": "30529"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "switch",
+        "glock switch",
+        "glock",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/ede1ca45e788e1a0e8e4d35fde09ec4c.webp"
+      },
+      "title": "Kamikaze goofy non-selectable one-piece sear"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Lil-goobner#9",
+    "claim_id": "968c4eabf97abd0120ebb10fc648df34521c42c1",
+    "claim_op": "create",
+    "confirmations": 224571,
+    "height": 1829438,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1829438,
+      "creation_height": 1829438,
+      "creation_timestamp": 1753650116,
+      "effective_amount": "0.001",
+      "expiration_height": 3931838,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1829438
+    },
+    "name": "Lil-goobner",
+    "normalized_name": "lil-goobner",
+    "nout": 0,
+    "permanent_url": "lbry://Lil-goobner#968c4eabf97abd0120ebb10fc648df34521c42c1",
+    "short_url": "lbry://Lil-goobner#9",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753650116,
+    "txid": "ebd30d39f85949bd44009612d9b5e08ee56230ed5eb82a4734974e51a2b69d56",
+    "type": "claim",
+    "value": {
+      "description": "THESE ARE ONLY MODELS, ALL MODELS WILL BE RELEASED FOR FREE, I DO NOT SELL ANYTHING OR ANY PHYSICAL OBJECTS",
+      "image": {
+        "height": 782,
+        "width": 1228
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753650163",
+      "source": {
+        "hash": "460d270a28b550e07ef640ff32e3250077b49c2bfb7dc0149d22482be031043f8116f85eab40c191ad7ea9172721aa25",
+        "media_type": "image/png",
+        "name": "Lil-goobner.PNG",
+        "sd_hash": "869095ebec2864df4e854c42640c451038af03c439dd16a0399b714e56f1e144118c5cc0717b740a154bee9255292791",
+        "size": "639898"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock switch",
+        "glock",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/53c331624349dd31143a8896ad530516.webp"
+      },
+      "title": "One-piece glock switch model complete, (will bevel the edges later, working on keychain model rn)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/photo_2025-07-07_18-18-22#4",
+    "claim_id": "4ea0124dec2109f138bbd635ce0da62eee49979d",
+    "claim_op": "create",
+    "confirmations": 225193,
+    "height": 1828816,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1828816,
+      "creation_height": 1828816,
+      "creation_timestamp": 1753562807,
+      "effective_amount": "0.001",
+      "expiration_height": 3931216,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1867913
+    },
+    "name": "photo_2025-07-07_18-18-22",
+    "normalized_name": "photo_2025-07-07_18-18-22",
+    "nout": 0,
+    "permanent_url": "lbry://photo_2025-07-07_18-18-22#4ea0124dec2109f138bbd635ce0da62eee49979d",
+    "short_url": "lbry://photo_2025-07-07_18-18-22#4",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753562807,
+    "txid": "5f3b67786500b8b0f1f0e68d7411c7e008166b3f6ecaaf1ec865c0b8e0022624",
+    "type": "claim",
+    "value": {
+      "description": "Will be releasing along in my glock-switch pack, currently just have to get the selector dimensions right as Palladium accidently uploaded it with a wonky selector size, everything is fine though and I will fix the model.",
+      "image": {
+        "height": 383,
+        "width": 483
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753562825",
+      "source": {
+        "hash": "9250f5e552b9247834ecd1c854cbff8e3e102c3619b67442e97e99fb3f9908ea7ae2427cb02e1a5561f8b061d5ffc73e",
+        "media_type": "image/jpeg",
+        "name": "photo_2025-07-07_18-18-22.jpg",
+        "sd_hash": "a7fcf656614fe115e51550b358c39a01b0bd89a32e067eb699a7d56f446d25eddaf1c7dd69adcaed8c0ecb84b5e562e9",
+        "size": "8140"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/a336e2b005eb2acdc2622e5a5c92097f.webp"
+      },
+      "title": "I got the Palladium AR-15 selector switch"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Captu546re#e",
+    "claim_id": "ed56c4c7fff1fb2d0b9e1f47b4bd1f827765e39c",
+    "claim_op": "update",
+    "confirmations": 225191,
+    "height": 1828818,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1828818,
+      "creation_height": 1828794,
+      "creation_timestamp": 1753560047,
+      "effective_amount": "0.001",
+      "expiration_height": 3931218,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1828794
+    },
+    "name": "Captu546re",
+    "normalized_name": "captu546re",
+    "nout": 0,
+    "permanent_url": "lbry://Captu546re#ed56c4c7fff1fb2d0b9e1f47b4bd1f827765e39c",
+    "short_url": "lbry://Captu546re#e",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753563174,
+    "txid": "f291bb92190b57313782f97e93e1929067cee1ea5010007aa29a16b4b5d1a26e",
+    "type": "claim",
+    "value": {
+      "description": "Bro is trying to scam his buyers, also wanted my model to resell (He just uploaded a three-piece which is the \"SEGS\" model from defcad)",
+      "image": {
+        "height": 594,
+        "width": 757
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753560118",
+      "source": {
+        "hash": "f79556c18fb9974eabd96662c6bc0c7823b85b45c282d3df3938d7d3c4140560d79bde279b09929aaed3320a1cddb848",
+        "media_type": "image/png",
+        "name": "Captu546re.PNG",
+        "sd_hash": "ef85b99d4f8fbb18d0728c6dd714e994ada4db281bf236e17d949aa76d7312d9d026e880ce0da202d6a016a75212a528",
+        "size": "190743"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "glock",
+        "glock switch",
+        "autosear",
+        "auto sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/84d05b8f063e97f2281c41f9314281a8.webp"
+      },
+      "title": "Kamikaze is a fucking resell scammer. (He just uploaded a three-piece which is the \"SEGS\" model from defcad)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Captur43e#f",
+    "claim_id": "fb8073ada8bcb56ae37c986ec114ecfcfe33e00e",
+    "claim_op": "update",
+    "confirmations": 225611,
+    "height": 1828398,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1828398,
+      "creation_height": 1826676,
+      "creation_timestamp": 1753255635,
+      "effective_amount": "0.001",
+      "expiration_height": 3930798,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1826676
+    },
+    "name": "Captur43e",
+    "normalized_name": "captur43e",
+    "nout": 0,
+    "permanent_url": "lbry://Captur43e#fb8073ada8bcb56ae37c986ec114ecfcfe33e00e",
+    "short_url": "lbry://Captur43e#f",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753504819,
+    "txid": "04d4742bcbcf912e6824bdd100735833e4e689a08f74b5d0e9c23befb2b3af48",
+    "type": "claim",
+    "value": {
+      "image": {
+        "height": 520,
+        "width": 996
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753255307",
+      "source": {
+        "hash": "4471e84471d9ea8b19756eacc36c2db6735a98b1fff614f260e41bba6837327269f8a525cbd9d18466f99afc1e0fc1b8",
+        "media_type": "image/png",
+        "name": "Captur43e.PNG",
+        "sd_hash": "88920910a035e0a240f2905e6c1e8adbb2e873d891b09361c081059357746bd50d76ece96a92a22f3888d0118c4a4c1e",
+        "size": "190715"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "auto sear",
+        "autosear",
+        "glock"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/616d304c2018db7a65a09467aca16b8c.webp"
+      },
+      "title": "WIP Single-piece Glock Switch autosear"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c/Capt43ure#4",
+    "claim_id": "47b0c3fa71e54b225d27ed06991fe532b3af21c9",
+    "claim_op": "create",
+    "confirmations": 228958,
+    "height": 1825051,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1825051,
+      "creation_height": 1825051,
+      "creation_timestamp": 1753021057,
+      "effective_amount": "0.001",
+      "expiration_height": 3927451,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1825051
+    },
+    "name": "Capt43ure",
+    "normalized_name": "capt43ure",
+    "nout": 0,
+    "permanent_url": "lbry://Capt43ure#47b0c3fa71e54b225d27ed06991fe532b3af21c9",
+    "short_url": "lbry://Capt43ure#4",
+    "signing_channel": {
+      "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+      "amount": "0.001",
+      "canonical_url": "lbry://@Kommissar#c",
+      "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "claim_op": "update",
+      "confirmations": 650967,
+      "has_signing_key": false,
+      "height": 1403042,
+      "meta": {
+        "activation_height": 1407074,
+        "claims_in_channel": 30,
+        "creation_height": 1403041,
+        "creation_timestamp": 1691214466,
+        "effective_amount": "0.001",
+        "expiration_height": 3505442,
+        "is_controlling": false,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1172396
+      },
+      "name": "@Kommissar",
+      "normalized_name": "@kommissar",
+      "nout": 0,
+      "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+      "short_url": "lbry://@Kommissar#c",
+      "timestamp": 1691214810,
+      "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+      "type": "claim",
+      "value": {
+        "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+        "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+        }
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1753021057,
+    "txid": "567bb7fad86d08d6a0a2bc0f4a30125afe4fff721aebd069f3742720c82f7ad4",
+    "type": "claim",
+    "value": {
+      "description": "One-piece ones, Rounded selector and WIP one-piece selector i'm working on (has alot to go), Three piece ones that look similar to the one-piece, rounded Three-piece, slanted one-piece/Three-piece type thing",
+      "image": {
+        "height": 697,
+        "width": 1006
+      },
+      "languages": [
+        "en"
+      ],
+      "license": "None",
+      "release_time": "1753020242",
+      "source": {
+        "hash": "7a615d97548f09e0cb3d26dcc18bcd9b523c68b4e521e373b420f629ea5fc481857abe456d4303ad79a70bc38802003e",
+        "media_type": "image/png",
+        "name": "Capt43ure.PNG",
+        "sd_hash": "0e931fa91887f809241041da052640b903fe4d3153d9a0b38ead7fc36bbe60fc7146b399f9ac92ece02d1ec49653d224",
+        "size": "517642"
+      },
+      "stream_type": "image",
+      "tags": [
+        "switch",
+        "sear",
+        "auto sear",
+        "autosear",
+        "auto-sear"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/f4ebdbaea93e9c9987da7709fc0ed461.webp"
+      },
+      "title": "A few WIP glock switch models i'm working on"
+    },
+    "value_type": "stream"
+  }
+]
