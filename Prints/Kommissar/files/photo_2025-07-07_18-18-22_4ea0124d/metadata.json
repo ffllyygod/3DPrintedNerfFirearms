@@ -1,0 +1,99 @@
+{
+  "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+  "amount": "0.001",
+  "canonical_url": "lbry://@Kommissar#c/photo_2025-07-07_18-18-22#4",
+  "claim_id": "4ea0124dec2109f138bbd635ce0da62eee49979d",
+  "claim_op": "create",
+  "confirmations": 225193,
+  "height": 1828816,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1828816,
+    "creation_height": 1828816,
+    "creation_timestamp": 1753562807,
+    "effective_amount": "0.001",
+    "expiration_height": 3931216,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1867913
+  },
+  "name": "photo_2025-07-07_18-18-22",
+  "normalized_name": "photo_2025-07-07_18-18-22",
+  "nout": 0,
+  "permanent_url": "lbry://photo_2025-07-07_18-18-22#4ea0124dec2109f138bbd635ce0da62eee49979d",
+  "short_url": "lbry://photo_2025-07-07_18-18-22#4",
+  "signing_channel": {
+    "address": "bRDj7kLxRRZA1r6uMNeGqbWkQy34KJVwAc",
+    "amount": "0.001",
+    "canonical_url": "lbry://@Kommissar#c",
+    "claim_id": "c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "claim_op": "update",
+    "confirmations": 650967,
+    "has_signing_key": false,
+    "height": 1403042,
+    "meta": {
+      "activation_height": 1407074,
+      "claims_in_channel": 30,
+      "creation_height": 1403041,
+      "creation_timestamp": 1691214466,
+      "effective_amount": "0.001",
+      "expiration_height": 3505442,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1172396
+    },
+    "name": "@Kommissar",
+    "normalized_name": "@kommissar",
+    "nout": 0,
+    "permanent_url": "lbry://@Kommissar#c1f48c75ab1a673109bac9537f1d88ff5ac01ffc",
+    "short_url": "lbry://@Kommissar#c",
+    "timestamp": 1691214810,
+    "txid": "9114221b106d96bf10a4632ffb51382ae787751b9cdf3e6d207a5b10ac4f7235",
+    "type": "claim",
+    "value": {
+      "public_key": "0309135ecaa73f7484c6f5357bf9877762b296e68869caf10916f29620dfebd573",
+      "public_key_id": "bNbNjSwNTaKuajRLBvp7HFXBgQZJGn3JfG",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/15eabbebbbec86d4c475200a813b5573.webp"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1753562807,
+  "txid": "5f3b67786500b8b0f1f0e68d7411c7e008166b3f6ecaaf1ec865c0b8e0022624",
+  "type": "claim",
+  "value": {
+    "description": "Will be releasing along in my glock-switch pack, currently just have to get the selector dimensions right as Palladium accidently uploaded it with a wonky selector size, everything is fine though and I will fix the model.",
+    "image": {
+      "height": 383,
+      "width": 483
+    },
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1753562825",
+    "source": {
+      "hash": "9250f5e552b9247834ecd1c854cbff8e3e102c3619b67442e97e99fb3f9908ea7ae2427cb02e1a5561f8b061d5ffc73e",
+      "media_type": "image/jpeg",
+      "name": "photo_2025-07-07_18-18-22.jpg",
+      "sd_hash": "a7fcf656614fe115e51550b358c39a01b0bd89a32e067eb699a7d56f446d25eddaf1c7dd69adcaed8c0ecb84b5e562e9",
+      "size": "8140"
+    },
+    "stream_type": "image",
+    "tags": [
+      "switch",
+      "glock",
+      "glock switch",
+      "autosear",
+      "auto sear"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a336e2b005eb2acdc2622e5a5c92097f.webp"
+    },
+    "title": "I got the Palladium AR-15 selector switch"
+  },
+  "value_type": "stream"
+}
