@@ -1,0 +1,117 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/JAG-19-Frame#c",
+  "claim_id": "cd694a2265273a735b1bc919574284538178069d",
+  "claim_op": "update",
+  "confirmations": 142345,
+  "height": 1911626,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1911626,
+    "creation_height": 1911618,
+    "creation_timestamp": 1765319827,
+    "effective_amount": "0.001",
+    "expiration_height": 4014026,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1911618
+  },
+  "name": "JAG-19-Frame",
+  "normalized_name": "jag-19-frame",
+  "nout": 0,
+  "permanent_url": "lbry://JAG-19-Frame#cd694a2265273a735b1bc919574284538178069d",
+  "short_url": "lbry://JAG-19-Frame#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1765320645,
+  "txid": "c1ee7381c201a97689eba741d2a1f56f333e082091cdbb2d9f679167c3d1c42d",
+  "type": "claim",
+  "value": {
+    "description": "JAG-19 (Just Another Glock) Frame: Laffs\n\n\"Just Another Glock\" frame. For those that just need a basic frame. Not meant to stand out, simple as it comes.\n\nPart of the JAG Pistol Frame line, utilizes Glock 19 length compatible slides; utilizes Glock 19 sized magazines.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD19.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-FMDA-DD19.2-3D-Printable-Glock-Frame:0\n\n\n\nThe original JAG-17 full sized frame can be found here:\n\nOdysee: https://odysee.com/@LFRF:d/JAG17GlkFrm:0\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD192-Rail-Kit-_p_29.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD19.2. Used the internals of the DD19.2 frame for the foundation of this design.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1765319740",
+    "source": {
+      "hash": "465ae98e149fe6f0e67bed38cab44318e9775d7ad5e63a643c98c9771e3aac870bc19b13a65cf1d1df87a513268b4660",
+      "media_type": "application/zip",
+      "name": "JAG 19.zip",
+      "sd_hash": "c6a2b606c8b953cace1c03dba2e9534cad85b178f9b8c1fdac0c51af18d9b4b5ba62526604394d1d833325e094e3620b",
+      "size": "6756571"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "jag",
+      "glock 19",
+      "frame",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-comments",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/fc58243566f08e3937df2a5d9e1f8fed.webp"
+    },
+    "title": "JAG-19 Frame"
+  },
+  "value_type": "stream"
+}
