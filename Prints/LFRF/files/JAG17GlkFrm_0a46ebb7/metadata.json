@@ -1,0 +1,117 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/JAG17GlkFrm#0",
+  "claim_id": "0a46ebb7185fbc41e7586bc4cd77634cecd0773d",
+  "claim_op": "update",
+  "confirmations": 142431,
+  "height": 1911540,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1911540,
+    "creation_height": 1538215,
+    "creation_timestamp": 1712350956,
+    "effective_amount": "0.001",
+    "expiration_height": 4013940,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1538215
+  },
+  "name": "JAG17GlkFrm",
+  "normalized_name": "jag17glkfrm",
+  "nout": 0,
+  "permanent_url": "lbry://JAG17GlkFrm#0a46ebb7185fbc41e7586bc4cd77634cecd0773d",
+  "short_url": "lbry://JAG17GlkFrm#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1765310799,
+  "txid": "75d8b2eaed3f67b2fcbb3c9e01fafe6ea78d4cba38a77661683f1f9e952a2cb4",
+  "type": "claim",
+  "value": {
+    "description": "JAG-17 (Just Another Glock) Frame V1.1: Laffs Dynamics\n\n\"Just Another Glock\" frame. Literally does nothing new. Basic bitch design, minimalist. For the man that just needs a basic frame, and nothing \nmore. Doesn't stand out from the million other 3DP glock frames, and frankly it's not meant to. No picatinny rail, cuz let's be honest; lot of \nyou don't even run a weapon light on your corpo made handgats anyway.\n\nAfter all, it's Just Another Glock. \n\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD17.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/FMDA-DD17.2:7\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD172-Rail-Kit-_p_28.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD17.2 Used the internals of the DD17.2 frame for the foundation of this design.\n\nAvesRails: Supplied the Glock 17 rail hardware for the design.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1753457855",
+    "source": {
+      "hash": "d76d0e38db82b7019f9bd68ef7cad908d9c02d13645654cb3959b402174ec7945319156b48fb3091ec2c175f16b68f49",
+      "media_type": "application/zip",
+      "name": "JAG-17 V1.1.zip",
+      "sd_hash": "112317ed6180a75b3858de0eb34b8a250144271028382d8945ab4a68223290b83947f07fb1df1bac19acdf4f9270c9a2",
+      "size": "14812644"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "glock",
+      "frame",
+      "glock 17",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-comments",
+      "c:disable-comments"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ca611662928641b7667a08c2c9c90045.webp"
+    },
+    "title": "JAG-17 Frame V1.1"
+  },
+  "value_type": "stream"
+}
