@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/LOKZ-1#d",
+  "claim_id": "d3cd985819965d8b70139ececf47501aaf196922",
+  "claim_op": "create",
+  "confirmations": 582755,
+  "height": 1471216,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1471216,
+    "creation_height": 1471216,
+    "creation_timestamp": 1702132706,
+    "effective_amount": "0.001",
+    "expiration_height": 3573616,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1471216
+  },
+  "name": "LOKZ-1",
+  "normalized_name": "lokz-1",
+  "nout": 0,
+  "permanent_url": "lbry://LOKZ-1#d3cd985819965d8b70139ececf47501aaf196922",
+  "short_url": "lbry://LOKZ-1#d",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1702132706,
+  "txid": "7e680d88ea6d52be728e15f06b06d4a59046b6d6dd5f815242f2b3e0da15b5d4",
+  "type": "claim",
+  "value": {
+    "description": "LOKZ-1 Frame (OK Zoomer): Laffs Dynamics\n\nVariant of the OK Zoomer pistol frame, a 3DP version of the Ruger SR45. \n\nRestyled variant with ridging down the grip backstrap, added text to the pistol dust cover, and a restructured picatinny rail.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 80%+\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase OK Zoomer pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/OK-ZOOMER:b\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nGhostgunsrspooky & Uberclay: Creators of the OK Zoomer pistol frame; used the base frame model from their design release.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1702132601",
+    "source": {
+      "hash": "2495e6887b02da0c8a5f7168954306e9228a9b6c97e79c05a6814841b42603b7a5b7c1b4ed3ef857c23448f70a84a5f0",
+      "media_type": "application/zip",
+      "name": "LOKZ-1 Frame (OK Zoomer).zip",
+      "sd_hash": "ff70608b153f918841d76f4e6e6c1b10d6a8687265c05e675b738feea6579a96862af1512fcb93f2c178f7b036c0cb95",
+      "size": "6319158"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "zoomer",
+      "sr45",
+      "ruger"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/01039863b6aafb5ee719b84621d4f4e2.webp"
+    },
+    "title": "LOKZ-1 Frame (OK Zoomer)"
+  },
+  "value_type": "stream"
+}
