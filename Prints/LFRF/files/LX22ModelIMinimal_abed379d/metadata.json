@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/LX22ModelIMinimal#a",
+  "claim_id": "abed379da5088bf47a873a5f4d3c7cec4b688628",
+  "claim_op": "update",
+  "confirmations": 448423,
+  "height": 1605548,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1605548,
+    "creation_height": 1549546,
+    "creation_timestamp": 1713865863,
+    "effective_amount": "0.001",
+    "expiration_height": 3707948,
+    "is_controlling": false,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1607963
+  },
+  "name": "LX22ModelIMinimal",
+  "normalized_name": "lx22modeliminimal",
+  "nout": 0,
+  "permanent_url": "lbry://LX22ModelIMinimal#abed379da5088bf47a873a5f4d3c7cec4b688628",
+  "short_url": "lbry://LX22ModelIMinimal#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1721849670,
+  "txid": "4350ee10b95f304fe40d61c0fb3b9096df794d5a6eca40479181d83814e88c16",
+  "type": "claim",
+  "value": {
+    "description": "L-X22 Model I, Minimal (10/22) Receiver: Laffs Dynamics\n\nMinimalist version of the original Laffs Dynamics L-X22 (10/22) rifle receiver. \n\nCreated for ease of manufacture if one simply wants a barebones 10/22 compatible receiver for recreational use. \n\nSlightly less material than the original design, less support material is needed, less to go wrong during printing.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 58C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7+\nInfill: 75%+\nSupport Material Percentage: 25% \n\nPrint the receiver upside-down.\n\n\n\nHardware Needed: \n\n1x Barrel\n\n1x Ruger 10/22 Receiver Takedown Screw\n\n1x V Block \n\n2x V Block Bolts\n\n1x Buffer Pin\n\n1x Complete Trigger Pack\n\n2x Trigger Pack Retaining Pins\n\n1x Complete Bolt Assembly\n\n1x Charging Handle/ Guide Rod Assembly\n\n\n\nAssembly: (READ NOTES BELOW BEFORE ASSEMBLY INSTRUCTIONS)\n\n1) Remove all printed support material\n\n2) Sand the bolt raceway and barrel channel. \n\n3) After sanding the barrel channel, press the barrel shank into the receiver. \n\n4) Install the charging handle and bolt. This is the best time to apply lubricant to the bolt and raceway. \n\n5) With the bolt fully forward, check to be sure the extractor matches the notch in the side of the barrel shank. If not,\nslightly pull barrel outwards, twist until the extractor & notch match, then press back in. \n\n6) Install the trigger pack, and press in the retaining pins. \n\n7) Press the buffer pin though the back of the receiver.\n\n8) Place the V Block on the barrel, and drive the bolts through the block, into the channels. Apply blue loctite beforehand.\n\n9) Install the complete receiver assembly into a 10/22 stock/chassis. Drive the takedown screw from the bottom of the stock, \nand into the receiver. \n\n10) Install a compatible magazine, then function check. Be sure a round feeds from the magazine, and extracts from the chamber. \n\n11) Take time to dry cycle the bolt around ~ 100 times to aid in break in.\n\n\n\nThe original L-X22 reciever can be found here: \n\nhttps://defcad.com/library/1d381674-593d-49c9-a5d5-ad1fd150c139/\n\n(Free on Odysee) https://odysee.com/@LFRF:d/LX22:c",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1721849486",
+    "source": {
+      "hash": "4eee20be3152a9cdf25b43c49a5305f7edae63569a87866f0129eebae678e563d44982b4ae7427d6cb31b89f52d76124",
+      "media_type": "application/zip",
+      "name": "L-X22 Model I, Minimal.zip",
+      "sd_hash": "3d61a37eae1286850291078cad0df5f70349769134811acfe8a51ef229dbd4d88f809847fa71b149b9287ad358f25168",
+      "size": "1993700"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "10-22",
+      "minimal",
+      "ruger",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/4b19688dfea479ec55e0a34233623f44.webp"
+    },
+    "title": "L-X22 Model I, Minimal (10/22) Receiver"
+  },
+  "value_type": "stream"
+}
