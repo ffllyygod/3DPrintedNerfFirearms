@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/LX22#c",
+  "claim_id": "cb2bc730659ef1c109e0a0c17b9111b82554e284",
+  "claim_op": "create",
+  "confirmations": 504429,
+  "height": 1549542,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1549542,
+    "creation_height": 1549542,
+    "creation_timestamp": 1713865346,
+    "effective_amount": "0.001",
+    "expiration_height": 3651942,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1714179
+  },
+  "name": "LX22",
+  "normalized_name": "lx22",
+  "nout": 0,
+  "permanent_url": "lbry://LX22#cb2bc730659ef1c109e0a0c17b9111b82554e284",
+  "short_url": "lbry://LX22#c",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1713865346,
+  "txid": "56b2f87b8a81825a11e040486fd024196662cf89c2930dfbe9489a86bb80c858",
+  "type": "claim",
+  "value": {
+    "description": "L-X22 (10/22) Receivers V1.2.2: Laffs Dynamics\n\n(Reuploaded from main channel, design originally created in 2021.)\n\n\n\nA series of receivers, compatible with OEM and most aftermarket 10/22 parts. \n\nModels:\n\n*Model I: Designed with a recessed channel down it's center to allow the use of iron sights.\n\n*Model O: Designed to be used with optics. A 1913 Picatinny rail is attached to the receiver top. \n\n\nBoth models have a reinforced variant, denoted with an R. (Ex. Model I-R) These models have channels in the sides of the receiver \nthat allow for the use of 12-24 threaded nuts to be pressed into the path of driven V Block bolts. The use of metal nuts allows for \nretightening of the V Block bolts repetitively, and allow the proper use of blue loctite. \n\nUsers of other 3DP 10/22 variants have noted that when they would have to retighten the bolts, after a number of times the plastic \nthreads in the receiver sheared; permanently damaging the receiver, and the user wouldn't be able to retighten the block and barrel. \n\n\nFeatures:\n\n*Enlarged ejection port, for reliable... well that's self explanatory.\n\n*Looser tolerances (.2mm space) between the bolt and it's raceway; to allow for continuous operation when heavily fouled from dirty\nammo.\n\n*Shorter in length magwell (Front mag catch is closer to the trigger pack's mag retention plunger.) for a tighter fit; less mag \nwobble that could cause a misfeed or failure to feed. \n\n\nUpdate V1.2.2: Updated manufacture parameters to current standards. Changed designer's name. Removed redundant files.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 58C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7+\nInfill: 75%+\nSupport Material Percentage: 25% \n\nPrint the receiver (and 1913 rail if applicable) upside-down.\n\nPrint the receiver on a raft.\n\nIf printing one of the reinforced models, use support blockers in your slicer, specifically in the v block nut and bolt channels.\n\n\n\nHardware Needed: \n\n1x Barrel\n\n1x Ruger 10/22 Receiver Takedown Screw\n\n1x V Block \n\n2x V Block Bolts\n\n2x 12-24 threaded nuts (If Applicable)\n\n1x Buffer Pin\n\n1x Complete Trigger Pack\n\n2x Trigger Pack Retaining Pins\n\n1x Complete Bolt Assembly\n\n1x Charging Handle/ Guide Rod Assembly\n\n∞x Magazines\n\nGorilla Glue (If Applicable)\n\n\n\nAssembly: (READ NOTES BELOW BEFORE ASSEMBLY INSTRUCTIONS)\n\n1) Remove all printed support material\n\n2) Sand the bolt raceway and barrel channel. \n\n3) (Skip to step 6 if printing Model I) Apply epoxy/Clear Gorilla Glue to rail mount slots on top of the receiver.\n\n4) Press the Picatinny rail onto the top of the receiver, into it's indexing slots. \n\n5) Clamp for a minimum 3 hours. Full cure wait time is 24 hours. \n\n6) After sanding the barrel channel, press the barrel shank into the receiver. \n\n7) Install the charging handle and bolt. This is the best time to apply lubricant to the bolt and raceway. \n\n8) With the bolt fully forward, check to be sure the extractor matches the notch in the side of the barrel shank. If not,\nslightly pull barrel outwards, twist until the extractor & notch match, then press back in. \n\n9) Install the trigger pack, and press in the retaining pins. \n\n10) Press the buffer pin though the back of the receiver.\n\n11) (Skip to step 12 if printing basic models, without the denoted R) Press the 12-24 threaded nuts into the channels on \neach side of the receiver. Visually inspect the holes line up from bolt channel to nut. \n\n12) Place the V Block on the barrel, and drive the bolts through the block, into the channels. Regardless of model variant, \napply blue loctite beforehand.\n\n13) Install the complete receiver assembly into a 10/22 stock/chassis. Drive the takedown screw from the bottom of the stock, \nand into the receiver. \n\n14) Install a compatible magazine, then function check. Be sure a round feeds from the magazine, and extracts from the chamber. \n\n\n\nNotes: \n\n1) Models I-R & O-R are recommended for extended use, (Firing several hundred - thousands of rounds) whilst basic Models I - O is \nmeant for light use (Taking few shots whilst small game hunting and the like.)\n\n2) Take time to dry cycle the bolt around ~ 100 times to aid in break in.\n\n\n(Credits in txt doc)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1713865248",
+    "source": {
+      "hash": "75cb08beccd7eaecf8f9cf3d987f2be3be95b506fed1c56def8f668e67f018e07da7f35d610d26dfa58f2b3e7b219d83",
+      "media_type": "application/zip",
+      "name": "L-X22 Receivers V1.2.2.zip",
+      "sd_hash": "5bf19da23cb8034ca36fdcbb673c123f9937f1097b035ea332ad4232f12d27b0dde893770a131114f1d74dc775882a95",
+      "size": "81923750"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "10-22",
+      "ruger",
+      "receiver"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a07ddac90f1bf6d83df3d7fd962985a4.webp"
+    },
+    "title": "L-X22 (10/22) Receivers V1.2.2 (2021 Design)"
+  },
+  "value_type": "stream"
+}
