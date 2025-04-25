@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/SL1-PDW#1",
+  "claim_id": "147945ad4abfca1cdb43bb6d181e39221357075e",
+  "claim_op": "create",
+  "confirmations": 696901,
+  "height": 1357070,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1360423,
+    "creation_height": 1357070,
+    "creation_timestamp": 1683857278,
+    "effective_amount": "0.001",
+    "expiration_height": 3459470,
+    "is_controlling": false,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1249746
+  },
+  "name": "SL1-PDW",
+  "normalized_name": "sl1-pdw",
+  "nout": 0,
+  "permanent_url": "lbry://SL1-PDW#147945ad4abfca1cdb43bb6d181e39221357075e",
+  "short_url": "lbry://SL1-PDW#1",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1683857278,
+  "txid": "d03e29700458e30b50e573d4cec3e61a9aac5e8e77faf209dc49d306d7d2afb4",
+  "type": "claim",
+  "value": {
+    "description": "SL1 PDW: Laffs Dynamics\n\nVariant of the Swarmtech Scarab, a Mac11 based PDW/Pistol, aesthetics inspired by the B+T TP9 and the HK MP7.\n\n\n\nDesign Variant Features:\n\n*Thickened and elongated lower dust cover. \n\n*Elongated picatinny rail. \n\n*The trigger guard has been enlarged for use with gloves. \n\n*Grip toe has been shaven down to be flush with the curvature. \n\n*Grip backstrap has reduced amount of ridges. \n\n*Reduced original designer logo size, added modifier designer's logo.\n\n*Added caliber info into the right side of the frame. \n\n\n\nHardware list, print settings, and assembly instructions are contained in the README PDF file provided.\n\nNote: The provided PDF is taken directly from the original design's file pack. Print parameters such as orientation \nof the print on a build plate may vary. \n\nIt's HIGHLY recommended you use a printer with a Z axis build height of at least 300mm. \n\nThis file pack is for the frame and top covers only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\n\n\nBase Scarab files can be found on DefCAD & Odysee: \n\nDefCAD: https://defcad.com/library/b7966581-87a3-4f20-8fa2-627c6f8392a4/\n\nOdysee: https://open.lbry.com/@AreWeCoolYet:7/TheScarab:8\n\n\n\nAccreditations:\n\nSwarmtech: Creator of the Scarab pistol/PDW; used the base frame model from their design release. Provided hardware \ninfo. Provided images for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1683857088",
+    "source": {
+      "hash": "7230c026bcf86b0ba3121dd948d9ac1551b0d236fd557ae743a2ffd622a889fe8df4b73c69027bde2420eda1da8c2301",
+      "media_type": "application/zip",
+      "name": "SL1 PDW.zip",
+      "sd_hash": "7b418f5124e21f88c258801e48f96fa473f1f2079c3d6e279d98c546e895082139f19a17f903f4de70331a9a9106ddcd",
+      "size": "23803739"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "scarab",
+      "pdw",
+      "frame"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7b51b4e9142ed811e699f540764dcacb.webp"
+    },
+    "title": "SL1 PDW"
+  },
+  "value_type": "stream"
+}
