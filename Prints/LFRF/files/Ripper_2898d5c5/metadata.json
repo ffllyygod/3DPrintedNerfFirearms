@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/Ripper#2",
+  "claim_id": "2898d5c5fdd154b9eafbc3b0cf3c08ff66dad96c",
+  "claim_op": "update",
+  "confirmations": 656341,
+  "height": 1397630,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1397630,
+    "creation_height": 1396827,
+    "creation_timestamp": 1690220839,
+    "effective_amount": "0.001",
+    "expiration_height": 3500030,
+    "is_controlling": false,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1459720
+  },
+  "name": "Ripper",
+  "normalized_name": "ripper",
+  "nout": 0,
+  "permanent_url": "lbry://Ripper#2898d5c5fdd154b9eafbc3b0cf3c08ff66dad96c",
+  "short_url": "lbry://Ripper#2",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1690348575,
+  "txid": "f87c7cad10a9ac8b84b6c17a70cdf1d4b5c5beb76380b41c4512c53876eedaeb",
+  "type": "claim",
+  "value": {
+    "description": "Ripper PDW Frame: Laffs Dynamics\n\n\nHardware list, print settings, and assembly instructions are contained in the README PDF file provided. Hardware required \nfor the top cover will NOT be needed.\n\nNote: The provided PDF is taken directly from the original design's file pack. Print parameters such as orientation \nof the print on a build plate may vary. \n\nIt's HIGHLY recommended you use a printer with a Z axis build height of at least 300mm. \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\n\n\nBase Scarab files can be found on Odysee: \n\nOdysee: https://open.lbry.com/@AreWeCoolYet:7/TheScarab:8\n\n\n\nAccreditations:\n\nSwarmtech: Creator of the Scarab pistol/PDW; used the base frame model from their design release. Provided hardware \ninfo. Provided images for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1690220608",
+    "source": {
+      "hash": "e7161b6d8ab4b1ba63845080c1ad4cd6fbca9c06593ed3410a2cbe22ecd40910fdf951b9df58fe2a5dffcd480c76e081",
+      "media_type": "application/zip",
+      "name": "Ripper PDW.zip",
+      "sd_hash": "5f65906fbb840713b16b03897fd9c709c77df85168e569f1cc3d20e70104811f72f9c4bb8b94ffda61140c42564e0dea",
+      "size": "25898788"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mac11",
+      "pdw",
+      "smg"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/5c91e7574b1e565984965f3e8c666bca.webp"
+    },
+    "title": "Ripper PDW Frame"
+  },
+  "value_type": "stream"
+}
