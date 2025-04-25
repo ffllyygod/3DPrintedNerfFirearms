@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/McGangBang#a",
+  "claim_id": "a58f78384253c221ca95999b5f7d11b3595faf0d",
+  "claim_op": "create",
+  "confirmations": 504445,
+  "height": 1549526,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1549526,
+    "creation_height": 1549526,
+    "creation_timestamp": 1713863758,
+    "effective_amount": "0.001",
+    "expiration_height": 3651926,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1710132
+  },
+  "name": "McGangBang",
+  "normalized_name": "mcgangbang",
+  "nout": 0,
+  "permanent_url": "lbry://McGangBang#a58f78384253c221ca95999b5f7d11b3595faf0d",
+  "short_url": "lbry://McGangBang#a",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1713863758,
+  "txid": "05fa2b3a2c85d5c2f476c62f1a3d4078ecc19849ccb007e4ad334d0470cda8a3",
+  "type": "claim",
+  "value": {
+    "description": "The McGangBang: Laffs Dynamics\n\nVariant of The Big Mac frame (MAC-10).\n\nHas an additional slot of picatinny rail, as well as added scalloped slots. Overall the frame has added material for extra strength. \n\nRibs wrap around the front and sides of the grip for better retention and strength from cracking. An enlarged trigger guard has be added for \nease of use with gloves.\n\nAdditional material has been added at the front of the frame to facilitate a 1in. nylon strap, used as a makeshift foregrip just as the actual \nMac-10 submachine gun. \n\n\n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; links provided \nin the below text.\n\n\nAdded Hardware:\n\n1x M5x40mm Chicago Screw Set\n\n1x 1in Wide Nylon Stip (Recommended Length: 120mm)\n\n\n\nBase Big Mac files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/TheBigMac:7\n\n\n\nAccreditations:\n\nUberclay: Creator of The Big Mac frame. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1713863704",
+    "source": {
+      "hash": "195a53ac57d06ef61bc6a6489d247e3688b78a419611b59a7a414555833cc78262fe3db438e43cfc1357c73ee79a3bfc",
+      "media_type": "application/zip",
+      "name": "The McGangBang (The Big Mac).zip",
+      "sd_hash": "8d38d6ef3366882c4ba3e5d02261762debbcb211eab9cd84a871f9e581c169ae0882e4999d619e30ae59776d67f4d62a",
+      "size": "10432301"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "mac 10",
+      "mcgangbang",
+      "pdw"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f18d5e34962432e3412d3fda0f771d9d.webp"
+    },
+    "title": "The McGangBang"
+  },
+  "value_type": "stream"
+}
