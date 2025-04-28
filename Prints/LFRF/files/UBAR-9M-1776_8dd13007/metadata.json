@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/UBAR-9M-1776#8",
+  "claim_id": "8dd13007ed0d1dce68eb675b9a31d2b320c91c0e",
+  "claim_op": "create",
+  "confirmations": 667864,
+  "height": 1386107,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1386107,
+    "creation_height": 1386107,
+    "creation_timestamp": 1688503446,
+    "effective_amount": "0.001",
+    "expiration_height": 3488507,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1386107
+  },
+  "name": "UBAR-9M-1776",
+  "normalized_name": "ubar-9m-1776",
+  "nout": 0,
+  "permanent_url": "lbry://UBAR-9M-1776#8dd13007ed0d1dce68eb675b9a31d2b320c91c0e",
+  "short_url": "lbry://UBAR-9M-1776#8",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1688503446,
+  "txid": "7159316c372cc9d405dcfd14876518356393363bb5797c13402f34f4f5f82d97",
+  "type": "claim",
+  "value": {
+    "description": "UBAR-9M-1776: Laffs Dynamics\n\nNo Quarter.\n\nVariant of the UBAR-9M. Stripes along the sides of the magwell, stars as fire selection indicators. \n\nA blunt msg to the modern tyrants can be seen every time you crack open your weapon for cleaning :3\n\nPrinted in black.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1688503392",
+    "source": {
+      "hash": "724dc195a088af8aa00a0826947939e51bee24941c25241a7d1a4f7e8d142083c970b9b9af075a08113d3d3e05a99459",
+      "media_type": "application/zip",
+      "name": "UBAR-9M-1776.zip",
+      "sd_hash": "db19a469446ebade938102a640a46141449309ae78533e76d51c57b09f01cf38b9469d55387661d3595f2f85a85bd782",
+      "size": "4396476"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "1776",
+      "ubar",
+      "no quarter"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/2c4d6b3eeb509a7b7b7a507829eddbf8.webp"
+    },
+    "title": "UBAR-9M-1776"
+  },
+  "value_type": "stream"
+}
