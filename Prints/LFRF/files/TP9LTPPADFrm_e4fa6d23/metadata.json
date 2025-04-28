@@ -1,0 +1,118 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/TP9LTPPADFrm#e",
+  "claim_id": "e4fa6d23579bad8cee501459119ebb1198396726",
+  "claim_op": "create",
+  "confirmations": 462206,
+  "height": 1591765,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1591765,
+    "creation_height": 1591765,
+    "creation_timestamp": 1719888112,
+    "effective_amount": "0.001",
+    "expiration_height": 3694165,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1591803
+  },
+  "name": "TP9LTPPADFrm",
+  "normalized_name": "tp9ltppadfrm",
+  "nout": 0,
+  "permanent_url": "lbry://TP9LTPPADFrm#e4fa6d23579bad8cee501459119ebb1198396726",
+  "short_url": "lbry://TP9LTPPADFrm#e",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1719888112,
+  "txid": "a250fd6d6c3d8438030a92910fb83c6fa462a2bfa4aa1f0df14bcf5bd72b4994",
+  "type": "claim",
+  "value": {
+    "description": "LTP Padded Frame (Canik TP9): Laffs Dynamics\n\nVariant of the Uberclay's Bozkurt pistol frame, a 3DP version of the Canik TP9 pistol. Mostly aesthetic changes. \n\n*Added material to the picatinny rail.\n*Squared off the front of the pic rail.\n*Scalloped the pic rail slots.\n*Elongated the trigger guard by 6mm. (Squeeze in some gloved fingies)\n*Added aesthetic \"padding\" on the front and sides of the grip section.\n*Added semi-wrapped ridging along the bottom half of the backstap.\n*Added material to the rear of the frame. \n\nOverall, this was more for my own purposes, but I decided to release this in case any weirdo wanted a similar look from the base frame.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; link provided in the below text.\n\n\n\nBase Bozkurt pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-Bozkurt-Canik-TP9:c\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nUberclay: Creator of the Bozkurt pistol frame; used the base frame model from their design release.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1719888022",
+    "source": {
+      "hash": "123f8a5b154c2b03acff85e0ead1031fc8dada95875499b8e3b12e600bd7780203c5b277c1295df38a5027397509c723",
+      "media_type": "application/zip",
+      "name": "LTP Frame, Padded (Canik TP9).zip",
+      "sd_hash": "23d96523924f0236a9d0482bed9ad3d8d650c0fff1dec890555513e6f7e9291ad50bcf7774428dc51b65ea1a7532381b",
+      "size": "4459101"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "frame",
+      "canik",
+      "tp9",
+      "c:disable-reactions-comments",
+      "c:disable-slimes-video",
+      "c:disable-slimes-comments",
+      "c:disable-reactions-video"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7a08c2fcc140fe5a55ea8fdf6f4b57eb.webp"
+    },
+    "title": "LTP Padded Frame (Canik TP9)"
+  },
+  "value_type": "stream"
+}
