@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/UBAR-9M-USA#0",
+  "claim_id": "01e6bc75396953cf2808f18b36e09cec40f21ab5",
+  "claim_op": "create",
+  "confirmations": 667867,
+  "height": 1386104,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1386104,
+    "creation_height": 1386104,
+    "creation_timestamp": 1688503281,
+    "effective_amount": "0.001",
+    "expiration_height": 3488504,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1386104
+  },
+  "name": "UBAR-9M-USA",
+  "normalized_name": "ubar-9m-usa",
+  "nout": 0,
+  "permanent_url": "lbry://UBAR-9M-USA#01e6bc75396953cf2808f18b36e09cec40f21ab5",
+  "short_url": "lbry://UBAR-9M-USA#0",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1688503281,
+  "txid": "15dcb38349c9337712d82636ce80863955e5d725c4f042a28655a556bd532010",
+  "type": "claim",
+  "value": {
+    "description": "UBAR-9M-USA: Laffs Dynamics\n\nBE THE AMERICAN THE JAPANESE THINK YOU ARE!!!\n\nPatriotic variant of the UBAR-9M. The whole shabang. Stripes along the sides of the magwell, stars as fire selection indicators. \n\nA cute lil msg to the modern redcoats can be seen every time you crack open your weapon for cleaning :3\n\nPrint it in red filament, paint with white and blue. \n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1688503177",
+    "source": {
+      "hash": "608284e44b4073240ece13eee0e426d9e8747c881f9e7ae09cb0a59313c5530ef605ff6b71dd11c6d5d8542de822c2f3",
+      "media_type": "application/zip",
+      "name": "UBAR-9M-USA.zip",
+      "sd_hash": "0c6d0e991c456481d1fe3797c42a4a5d36a5b498c2a29571d2ed468d1a2a10392b97c4373673a18722af884e6acee344",
+      "size": "4342747"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ubar",
+      "usa",
+      "freedom"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3287609e08b95993259fc482370af1fe.webp"
+    },
+    "title": "UBAR-9M-USA"
+  },
+  "value_type": "stream"
+}
