@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/3011-Build-Package#e",
+  "claim_id": "e606025dc0a91658d3d0e9d41aa895beb5a7e8c3",
+  "claim_op": "update",
+  "confirmations": 798673,
+  "height": 1258669,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1258669,
+    "creation_height": 1055061,
+    "creation_timestamp": 1635786788,
+    "effective_amount": "83.9566655",
+    "expiration_height": 3361069,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "83.9466655",
+    "take_over_height": 1055061
+  },
+  "name": "3011-Build-Package",
+  "normalized_name": "3011-build-package",
+  "nout": 0,
+  "permanent_url": "lbry://3011-Build-Package#e606025dc0a91658d3d0e9d41aa895beb5a7e8c3",
+  "short_url": "lbry://3011-Build-Package#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1668443056,
+  "txid": "677e93f1916cc1c8a834e0fea446313862bc02814f911ca3334ca52b1d5793d7",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe 3011 - 3D Printable 1911 Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1635786515",
+    "source": {
+      "hash": "9577415b62231886e58416aeaae46166d121083998b0c0b49553ef1555f39859ffdf0962eaebe8ede2b2950c59d7d26e",
+      "media_type": "application/zip",
+      "name": "3011 Build Package Rev2.zip",
+      "sd_hash": "f9eceab3fa8cd72e2000f54361afc222e007cae44530eac59b07db48241c49cfd0352330b1890c530f7c77b7208a407d",
+      "size": "65142322"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/5/621b547c5c676bb7.jpg"
+    },
+    "title": "The 3011 - 3D Printable 1911 Frame"
+  },
+  "value_type": "stream"
+}
