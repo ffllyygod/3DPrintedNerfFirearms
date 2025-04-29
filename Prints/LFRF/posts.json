@@ -1,0 +1,2431 @@
+[
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG-34-Frame#f",
+    "claim_id": "fb91cee44bd12d7a67a9be501a3c0f60eba550a0",
+    "claim_op": "create",
+    "confirmations": 4199,
+    "height": 2049772,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 2049772,
+      "creation_height": 2049772,
+      "creation_timestamp": 1780190298,
+      "effective_amount": "0.001",
+      "expiration_height": 4152172,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 2049772
+    },
+    "name": "JAG-34-Frame",
+    "normalized_name": "jag-34-frame",
+    "nout": 0,
+    "permanent_url": "lbry://JAG-34-Frame#fb91cee44bd12d7a67a9be501a3c0f60eba550a0",
+    "short_url": "lbry://JAG-34-Frame#f",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1780190298,
+    "txid": "0c35cfe6cfe4f4678331893db97b57e3ad8999ad2b73cb47cec0cbbc7ff74007",
+    "type": "claim",
+    "value": {
+      "description": "JAG-34 (Just Another Glock) Frame: Laffs\n\n\"Just Another Glock\" frame. For those that just need a basic frame. Not meant to stand out, simple as it comes.\n\nPart of the JAG Pistol Frame line, utilizes Glock 34 length compatible slides; with the frame utilizing Glock 17 sized magazines. \n\nBig boi gun for big boi shootouts.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 7+ \nInfill: 80%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD17.2, (Just a longer slide and barrel.) and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/FMDA-DD17.2:7\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD172-Rail-Kit-_p_28.html\n\n\n\nAccreditations:\n\nProSpaceDog: Used the measurements of his glock clone frame model for this design. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1780190343",
+      "source": {
+        "hash": "d5a1c03184c94bf28291846ac51c10ea6837e2d3b36a316210eb064a608ed94404640c9121e8e9cea398a1663eddfda3",
+        "media_type": "application/zip",
+        "name": "JAG 34.zip",
+        "sd_hash": "36fa4972ada5080fb676f9f560195a41dad13da79aec2a249a2540057a259cd174b8a72da381cbe2199ef5ffd7c51f19",
+        "size": "6864765"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "jag",
+        "glock",
+        "frame",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-comments",
+        "c:disable-comments",
+        "c:disable-slimes-video",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/fd9d7749aaa342726a3e91985b27af9a.webp"
+      },
+      "title": "JAG 34 Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG-96-Frame#e",
+    "claim_id": "ec6923a0047d7aadd899f7b8e1b1fb858dc9bafb",
+    "claim_op": "create",
+    "confirmations": 4199,
+    "height": 2049772,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 2049772,
+      "creation_height": 2049772,
+      "creation_timestamp": 1780190298,
+      "effective_amount": "0.001",
+      "expiration_height": 4152172,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 2049772
+    },
+    "name": "JAG-96-Frame",
+    "normalized_name": "jag-96-frame",
+    "nout": 0,
+    "permanent_url": "lbry://JAG-96-Frame#ec6923a0047d7aadd899f7b8e1b1fb858dc9bafb",
+    "short_url": "lbry://JAG-96-Frame#e",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1780190298,
+    "txid": "82dd953110bf93b6fdd40dd971fc4a463b5f6a731523ef1ff851053e94bfd5fa",
+    "type": "claim",
+    "value": {
+      "description": "JAG-96 (Just Another Glock) Frame: Laffs\n\n\"Just Another Glock\" frame. For those that just need a basic frame. Not meant to stand out, simple as it comes.\n\nPart of the JAG Pistol Frame line, utilizes Glock 19 length compatible slides; with the frame utilizing Glock 26 sized magazines. Similar concept to \nthe Glock 45 overall size.\n\nA subcompact grip with a useable, but short sight radius.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 7+ \nInfill: 80%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD19.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-FMDA-DD19.2-3D-Printable-Glock-Frame:0\n\n\n\nThe JAG-19 compact frame can be found here:\n\nOdysee: https://odysee.com/@LFRF:d/JAG-19-Frame:c\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD192-Rail-Kit-_p_29.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD19.2. Used the internals of the DD19.2 frame for the foundation of this design.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1780190203",
+      "source": {
+        "hash": "b855ae20a662bb869aeb85e956a6f7deb4380fd5e4986763f330e884d9c64eb6cb016dd340b8b2861703564d760585db",
+        "media_type": "application/zip",
+        "name": "JAG 96.zip",
+        "sd_hash": "af78c97d01f4ec069fbb74c4e0d403489567b787ebe91a0c21ebcab8fa49d69e85e98f2165b62c6f64ae5e357acf429f",
+        "size": "4926420"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "jag",
+        "glock",
+        "frame",
+        "c:disable-reactions-video",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-comments",
+        "c:disable-reactions-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/37b0dc86860cb970f58d7b95f52e73a0.webp"
+      },
+      "title": "JAG 96 Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/Imperium-Bolter-Receiver-(M20-Torrent)#d",
+    "claim_id": "df8824ed1654356ed787fa7ab1fdda5d68eb4be0",
+    "claim_op": "create",
+    "confirmations": 56654,
+    "height": 1997317,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1997317,
+      "creation_height": 1997317,
+      "creation_timestamp": 1774298975,
+      "effective_amount": "0.001",
+      "expiration_height": 4099717,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1998804
+    },
+    "name": "Imperium-Bolter-Receiver-(M20-Torrent)",
+    "normalized_name": "imperium-bolter-receiver-(m20-torrent)",
+    "nout": 0,
+    "permanent_url": "lbry://Imperium-Bolter-Receiver-(M20-Torrent)#df8824ed1654356ed787fa7ab1fdda5d68eb4be0",
+    "short_url": "lbry://Imperium-Bolter-Receiver-(M20-Torrent)#d",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1774298975,
+    "txid": "24e2f6ee1a9986d4667d8003bd12536d1a92e3388da2f4b2fc6d43952d0ce644",
+    "type": "claim",
+    "value": {
+      "description": "Imperium Bolter Receiver (M20 Torrent): Laffs Dynamics\n\nWarhammer 40K aesthetic variant of the M20 Torrent receiver.\n\nHas an enlarged trigger guard for a thick gloved index finger to reach within, (Original design was already large.) added material around the front of \nthe receiver, the Imperium of Man emblem has been added to both sides, a relief cut into the magazine well, and material added around the trigger pivot \npin points.\n\n\n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; link provided \nin the below text.\n\nBase M20 Torrent files can be found on Odysee: \n\nOdysee: https://odysee.com/@ProSpaceDog:b/M20-Torrent:d\n\n\n\nAccreditations:\n\nProSpaceDog: Creator of the M20 Torrent. (MAC-11 based PDW)",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+      "release_time": "1774298886",
+      "source": {
+        "hash": "f74bf52720879be6b6004a8902244e084bb80bd759340da5887531e9678240fe080ef5402da73dfc670534c1f92ab88b",
+        "media_type": "application/zip",
+        "name": "Imperium Bolter Receiver (M20 Torrent).zip",
+        "sd_hash": "4d9a2b7507e374b24f1f08d9258d00dd139bdad2ff9a4c2f919cf2f86213769d512ab6244d5038e2aabf26ca6268bbd8",
+        "size": "6992311"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "m20 torrent",
+        "warhammer 40k",
+        "bolter",
+        "c:disable-comments",
+        "c:disable-reactions-video",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/55fe11b13d5a1a75143a348d3409f461.webp"
+      },
+      "title": "Imperium Bolter Receiver (M20 Torrent)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG-97-Frame#0",
+    "claim_id": "0f88fa253caa122f3e5a0a6deee9b08cbe6f66de",
+    "claim_op": "update",
+    "confirmations": 142345,
+    "height": 1911626,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1911626,
+      "creation_height": 1911624,
+      "creation_timestamp": 1765320375,
+      "effective_amount": "0.001",
+      "expiration_height": 4014026,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1911624
+    },
+    "name": "JAG-97-Frame",
+    "normalized_name": "jag-97-frame",
+    "nout": 0,
+    "permanent_url": "lbry://JAG-97-Frame#0f88fa253caa122f3e5a0a6deee9b08cbe6f66de",
+    "short_url": "lbry://JAG-97-Frame#0",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1765320645,
+    "txid": "35d64b6402bb6afbf701058f23d6414d308494af73f75d30c0dadff8a605881d",
+    "type": "claim",
+    "value": {
+      "description": "JAG-97 (Just Another Glock) Frame: Laffs\n\n\"Just Another Glock\" frame. For those that just need a basic frame. Not meant to stand out, simple as it comes.\n\nPart of the JAG Pistol Frame line, utilizes Glock 19 length compatible slides; with the frame utilizing Glock 17 sized magazines. Similar concept to \nthe Glock 45 overall size.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD19.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-FMDA-DD19.2-3D-Printable-Glock-Frame:0\n\n\n\nThe JAG-19 compact frame can be found here:\n\nOdysee: https://odysee.com/@LFRF:d/JAG-19-Frame:c\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD192-Rail-Kit-_p_29.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD19.2. Used the internals of the DD19.2 frame for the foundation of this design.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1765320047",
+      "source": {
+        "hash": "356a76623f467fd175204635c54f069dc7a1dc5105dde10a1c298220a72a9a66232555725f0514469564e2b3d2e3b45e",
+        "media_type": "application/zip",
+        "name": "JAG 97.zip",
+        "sd_hash": "2a9170572caf52235f4c3453ca61b95fdd43d856b834172cbedf32688031901996445943923500e87c5b7ca09f28c4c4",
+        "size": "6430111"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "glock",
+        "frame",
+        "jag",
+        "c:disable-comments",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/1e197b9a29ad24f15332494d89b95ffb.webp"
+      },
+      "title": "JAG-97 Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG-19-Frame#c",
+    "claim_id": "cd694a2265273a735b1bc919574284538178069d",
+    "claim_op": "update",
+    "confirmations": 142345,
+    "height": 1911626,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1911626,
+      "creation_height": 1911618,
+      "creation_timestamp": 1765319827,
+      "effective_amount": "0.001",
+      "expiration_height": 4014026,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1911618
+    },
+    "name": "JAG-19-Frame",
+    "normalized_name": "jag-19-frame",
+    "nout": 0,
+    "permanent_url": "lbry://JAG-19-Frame#cd694a2265273a735b1bc919574284538178069d",
+    "short_url": "lbry://JAG-19-Frame#c",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1765320645,
+    "txid": "c1ee7381c201a97689eba741d2a1f56f333e082091cdbb2d9f679167c3d1c42d",
+    "type": "claim",
+    "value": {
+      "description": "JAG-19 (Just Another Glock) Frame: Laffs\n\n\"Just Another Glock\" frame. For those that just need a basic frame. Not meant to stand out, simple as it comes.\n\nPart of the JAG Pistol Frame line, utilizes Glock 19 length compatible slides; utilizes Glock 19 sized magazines.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD19.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-FMDA-DD19.2-3D-Printable-Glock-Frame:0\n\n\n\nThe original JAG-17 full sized frame can be found here:\n\nOdysee: https://odysee.com/@LFRF:d/JAG17GlkFrm:0\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD192-Rail-Kit-_p_29.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD19.2. Used the internals of the DD19.2 frame for the foundation of this design.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1765319740",
+      "source": {
+        "hash": "465ae98e149fe6f0e67bed38cab44318e9775d7ad5e63a643c98c9771e3aac870bc19b13a65cf1d1df87a513268b4660",
+        "media_type": "application/zip",
+        "name": "JAG 19.zip",
+        "sd_hash": "c6a2b606c8b953cace1c03dba2e9534cad85b178f9b8c1fdac0c51af18d9b4b5ba62526604394d1d833325e094e3620b",
+        "size": "6756571"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "jag",
+        "glock 19",
+        "frame",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-comments",
+        "c:disable-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/fc58243566f08e3937df2a5d9e1f8fed.webp"
+      },
+      "title": "JAG-19 Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG79GlkFrm#7",
+    "claim_id": "7f85b098146b8415bac0202b0be092e0c3aec5e3",
+    "claim_op": "update",
+    "confirmations": 142431,
+    "height": 1911540,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1911540,
+      "creation_height": 1705586,
+      "creation_timestamp": 1735998139,
+      "effective_amount": "0.001",
+      "expiration_height": 4013940,
+      "is_controlling": false,
+      "reposted": 2,
+      "support_amount": "0.0",
+      "take_over_height": 1705863
+    },
+    "name": "JAG79GlkFrm",
+    "normalized_name": "jag79glkfrm",
+    "nout": 0,
+    "permanent_url": "lbry://JAG79GlkFrm#7f85b098146b8415bac0202b0be092e0c3aec5e3",
+    "short_url": "lbry://JAG79GlkFrm#7",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1765310799,
+    "txid": "4bc92ccb5f9189d6f971f701eedebdec86cc6be03cf4e1693063650c304ff577",
+    "type": "claim",
+    "value": {
+      "description": "JAG-79 (Just Another Glock) Frame V1.1: Laffs\n\n\"Just Another Glock\" frame. Does nothing new. For those that just need a basic frame. Doesn't stand out from the tons of other 3DP glock frames, and \nfrankly it's not meant to. No picatinny rail, cuz to be frank, the lot of you don't even have a light on your corpo made pistolas anyway.\n\nVariant of the original Laffs Dynamics JAG-17 frame, the JAG-79 design features a shortened grip section for use of common Glock 19 15rd magazines. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD17.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/FMDA-DD17.2:7\n\n\n\nThe original JAG-17 full sized frame can be found here:\n\nOdysee: https://odysee.com/@LFRF:d/JAG17GlkFrm:0\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD172-Rail-Kit-_p_28.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD17.2 Used the internals of the DD17.2 frame for the foundation of this design.\n\nAvesRails: Supplied the Glock 17 rail hardware for the design.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1753457991",
+      "source": {
+        "hash": "cd18e0e14e0ab0131e3455681a2acfb64be9293c510b62b0aeb775c7717b08e19c016c212b5174dedbcf26c97adefc53",
+        "media_type": "application/zip",
+        "name": "JAG-79 V1.1.zip",
+        "sd_hash": "91c9fda1057004181662e357f9a04235f9ca4916dc6c1285268cf5a585cd3f6da28244a5a4618cf7eadbea9689460600",
+        "size": "5218388"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "glock",
+        "frame",
+        "jag-79",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-comments",
+        "c:disable-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3b216d62653db425ead87703d9ffc4de.webp"
+      },
+      "title": "JAG-79 Frame V1.1"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/JAG17GlkFrm#0",
+    "claim_id": "0a46ebb7185fbc41e7586bc4cd77634cecd0773d",
+    "claim_op": "update",
+    "confirmations": 142431,
+    "height": 1911540,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1911540,
+      "creation_height": 1538215,
+      "creation_timestamp": 1712350956,
+      "effective_amount": "0.001",
+      "expiration_height": 4013940,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1538215
+    },
+    "name": "JAG17GlkFrm",
+    "normalized_name": "jag17glkfrm",
+    "nout": 0,
+    "permanent_url": "lbry://JAG17GlkFrm#0a46ebb7185fbc41e7586bc4cd77634cecd0773d",
+    "short_url": "lbry://JAG17GlkFrm#0",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1765310799,
+    "txid": "75d8b2eaed3f67b2fcbb3c9e01fafe6ea78d4cba38a77661683f1f9e952a2cb4",
+    "type": "claim",
+    "value": {
+      "description": "JAG-17 (Just Another Glock) Frame V1.1: Laffs Dynamics\n\n\"Just Another Glock\" frame. Literally does nothing new. Basic bitch design, minimalist. For the man that just needs a basic frame, and nothing \nmore. Doesn't stand out from the million other 3DP glock frames, and frankly it's not meant to. No picatinny rail, cuz let's be honest; lot of \nyou don't even run a weapon light on your corpo made handgats anyway.\n\nAfter all, it's Just Another Glock. \n\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nSupport Material Percentage: 18%\n\n\n\nParts list and assembly instructions are identical with the DD17.2, and can be found here:\n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/FMDA-DD17.2:7\n\n\n\nRails for this frame can be found here: \n\nAves: https://www.avesrails.com/FMDA-DD172-Rail-Kit-_p_28.html\n\n\n\nAccreditations:\n\nDeterrence Dispensed: Creators of the DD17.2 Used the internals of the DD17.2 frame for the foundation of this design.\n\nAvesRails: Supplied the Glock 17 rail hardware for the design.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1753457855",
+      "source": {
+        "hash": "d76d0e38db82b7019f9bd68ef7cad908d9c02d13645654cb3959b402174ec7945319156b48fb3091ec2c175f16b68f49",
+        "media_type": "application/zip",
+        "name": "JAG-17 V1.1.zip",
+        "sd_hash": "112317ed6180a75b3858de0eb34b8a250144271028382d8945ab4a68223290b83947f07fb1df1bac19acdf4f9270c9a2",
+        "size": "14812644"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "glock",
+        "frame",
+        "glock 17",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-comments",
+        "c:disable-comments"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/ca611662928641b7667a08c2c9c90045.webp"
+      },
+      "title": "JAG-17 Frame V1.1"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/LX22ModelIMinimal#a",
+    "claim_id": "abed379da5088bf47a873a5f4d3c7cec4b688628",
+    "claim_op": "update",
+    "confirmations": 448423,
+    "height": 1605548,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1605548,
+      "creation_height": 1549546,
+      "creation_timestamp": 1713865863,
+      "effective_amount": "0.001",
+      "expiration_height": 3707948,
+      "is_controlling": false,
+      "reposted": 3,
+      "support_amount": "0.0",
+      "take_over_height": 1607963
+    },
+    "name": "LX22ModelIMinimal",
+    "normalized_name": "lx22modeliminimal",
+    "nout": 0,
+    "permanent_url": "lbry://LX22ModelIMinimal#abed379da5088bf47a873a5f4d3c7cec4b688628",
+    "short_url": "lbry://LX22ModelIMinimal#a",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1721849670,
+    "txid": "4350ee10b95f304fe40d61c0fb3b9096df794d5a6eca40479181d83814e88c16",
+    "type": "claim",
+    "value": {
+      "description": "L-X22 Model I, Minimal (10/22) Receiver: Laffs Dynamics\n\nMinimalist version of the original Laffs Dynamics L-X22 (10/22) rifle receiver. \n\nCreated for ease of manufacture if one simply wants a barebones 10/22 compatible receiver for recreational use. \n\nSlightly less material than the original design, less support material is needed, less to go wrong during printing.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C \nBed: 58C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7+\nInfill: 75%+\nSupport Material Percentage: 25% \n\nPrint the receiver upside-down.\n\n\n\nHardware Needed: \n\n1x Barrel\n\n1x Ruger 10/22 Receiver Takedown Screw\n\n1x V Block \n\n2x V Block Bolts\n\n1x Buffer Pin\n\n1x Complete Trigger Pack\n\n2x Trigger Pack Retaining Pins\n\n1x Complete Bolt Assembly\n\n1x Charging Handle/ Guide Rod Assembly\n\n\n\nAssembly: (READ NOTES BELOW BEFORE ASSEMBLY INSTRUCTIONS)\n\n1) Remove all printed support material\n\n2) Sand the bolt raceway and barrel channel. \n\n3) After sanding the barrel channel, press the barrel shank into the receiver. \n\n4) Install the charging handle and bolt. This is the best time to apply lubricant to the bolt and raceway. \n\n5) With the bolt fully forward, check to be sure the extractor matches the notch in the side of the barrel shank. If not,\nslightly pull barrel outwards, twist until the extractor & notch match, then press back in. \n\n6) Install the trigger pack, and press in the retaining pins. \n\n7) Press the buffer pin though the back of the receiver.\n\n8) Place the V Block on the barrel, and drive the bolts through the block, into the channels. Apply blue loctite beforehand.\n\n9) Install the complete receiver assembly into a 10/22 stock/chassis. Drive the takedown screw from the bottom of the stock, \nand into the receiver. \n\n10) Install a compatible magazine, then function check. Be sure a round feeds from the magazine, and extracts from the chamber. \n\n11) Take time to dry cycle the bolt around ~ 100 times to aid in break in.\n\n\n\nThe original L-X22 reciever can be found here: \n\nhttps://defcad.com/library/1d381674-593d-49c9-a5d5-ad1fd150c139/\n\n(Free on Odysee) https://odysee.com/@LFRF:d/LX22:c",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1721849486",
+      "source": {
+        "hash": "4eee20be3152a9cdf25b43c49a5305f7edae63569a87866f0129eebae678e563d44982b4ae7427d6cb31b89f52d76124",
+        "media_type": "application/zip",
+        "name": "L-X22 Model I, Minimal.zip",
+        "sd_hash": "3d61a37eae1286850291078cad0df5f70349769134811acfe8a51ef229dbd4d88f809847fa71b149b9287ad358f25168",
+        "size": "1993700"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "10-22",
+        "minimal",
+        "ruger",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/4b19688dfea479ec55e0a34233623f44.webp"
+      },
+      "title": "L-X22 Model I, Minimal (10/22) Receiver"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/TP9LTPPADFrm#e",
+    "claim_id": "e4fa6d23579bad8cee501459119ebb1198396726",
+    "claim_op": "create",
+    "confirmations": 462206,
+    "height": 1591765,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1591765,
+      "creation_height": 1591765,
+      "creation_timestamp": 1719888112,
+      "effective_amount": "0.001",
+      "expiration_height": 3694165,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1591803
+    },
+    "name": "TP9LTPPADFrm",
+    "normalized_name": "tp9ltppadfrm",
+    "nout": 0,
+    "permanent_url": "lbry://TP9LTPPADFrm#e4fa6d23579bad8cee501459119ebb1198396726",
+    "short_url": "lbry://TP9LTPPADFrm#e",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1719888112,
+    "txid": "a250fd6d6c3d8438030a92910fb83c6fa462a2bfa4aa1f0df14bcf5bd72b4994",
+    "type": "claim",
+    "value": {
+      "description": "LTP Padded Frame (Canik TP9): Laffs Dynamics\n\nVariant of the Uberclay's Bozkurt pistol frame, a 3DP version of the Canik TP9 pistol. Mostly aesthetic changes. \n\n*Added material to the picatinny rail.\n*Squared off the front of the pic rail.\n*Scalloped the pic rail slots.\n*Elongated the trigger guard by 6mm. (Squeeze in some gloved fingies)\n*Added aesthetic \"padding\" on the front and sides of the grip section.\n*Added semi-wrapped ridging along the bottom half of the backstap.\n*Added material to the rear of the frame. \n\nOverall, this was more for my own purposes, but I decided to release this in case any weirdo wanted a similar look from the base frame.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 90%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; link provided in the below text.\n\n\n\nBase Bozkurt pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/The-Bozkurt-Canik-TP9:c\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nUberclay: Creator of the Bozkurt pistol frame; used the base frame model from their design release.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1719888022",
+      "source": {
+        "hash": "123f8a5b154c2b03acff85e0ead1031fc8dada95875499b8e3b12e600bd7780203c5b277c1295df38a5027397509c723",
+        "media_type": "application/zip",
+        "name": "LTP Frame, Padded (Canik TP9).zip",
+        "sd_hash": "23d96523924f0236a9d0482bed9ad3d8d650c0fff1dec890555513e6f7e9291ad50bcf7774428dc51b65ea1a7532381b",
+        "size": "4459101"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frame",
+        "canik",
+        "tp9",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/7a08c2fcc140fe5a55ea8fdf6f4b57eb.webp"
+      },
+      "title": "LTP Padded Frame (Canik TP9)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/LX22#c",
+    "claim_id": "cb2bc730659ef1c109e0a0c17b9111b82554e284",
+    "claim_op": "create",
+    "confirmations": 504429,
+    "height": 1549542,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1549542,
+      "creation_height": 1549542,
+      "creation_timestamp": 1713865346,
+      "effective_amount": "0.001",
+      "expiration_height": 3651942,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1714179
+    },
+    "name": "LX22",
+    "normalized_name": "lx22",
+    "nout": 0,
+    "permanent_url": "lbry://LX22#cb2bc730659ef1c109e0a0c17b9111b82554e284",
+    "short_url": "lbry://LX22#c",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1713865346,
+    "txid": "56b2f87b8a81825a11e040486fd024196662cf89c2930dfbe9489a86bb80c858",
+    "type": "claim",
+    "value": {
+      "description": "L-X22 (10/22) Receivers V1.2.2: Laffs Dynamics\n\n(Reuploaded from main channel, design originally created in 2021.)\n\n\n\nA series of receivers, compatible with OEM and most aftermarket 10/22 parts. \n\nModels:\n\n*Model I: Designed with a recessed channel down it's center to allow the use of iron sights.\n\n*Model O: Designed to be used with optics. A 1913 Picatinny rail is attached to the receiver top. \n\n\nBoth models have a reinforced variant, denoted with an R. (Ex. Model I-R) These models have channels in the sides of the receiver \nthat allow for the use of 12-24 threaded nuts to be pressed into the path of driven V Block bolts. The use of metal nuts allows for \nretightening of the V Block bolts repetitively, and allow the proper use of blue loctite. \n\nUsers of other 3DP 10/22 variants have noted that when they would have to retighten the bolts, after a number of times the plastic \nthreads in the receiver sheared; permanently damaging the receiver, and the user wouldn't be able to retighten the block and barrel. \n\n\nFeatures:\n\n*Enlarged ejection port, for reliable... well that's self explanatory.\n\n*Looser tolerances (.2mm space) between the bolt and it's raceway; to allow for continuous operation when heavily fouled from dirty\nammo.\n\n*Shorter in length magwell (Front mag catch is closer to the trigger pack's mag retention plunger.) for a tighter fit; less mag \nwobble that could cause a misfeed or failure to feed. \n\n\nUpdate V1.2.2: Updated manufacture parameters to current standards. Changed designer's name. Removed redundant files.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C \nBed: 58C \nFirst Layer Print Height: .20mm \nStandard Layer Height: .16mm\nWall Thickness: .40mm\nWall Perimeters: 7+\nInfill: 75%+\nSupport Material Percentage: 25% \n\nPrint the receiver (and 1913 rail if applicable) upside-down.\n\nPrint the receiver on a raft.\n\nIf printing one of the reinforced models, use support blockers in your slicer, specifically in the v block nut and bolt channels.\n\n\n\nHardware Needed: \n\n1x Barrel\n\n1x Ruger 10/22 Receiver Takedown Screw\n\n1x V Block \n\n2x V Block Bolts\n\n2x 12-24 threaded nuts (If Applicable)\n\n1x Buffer Pin\n\n1x Complete Trigger Pack\n\n2x Trigger Pack Retaining Pins\n\n1x Complete Bolt Assembly\n\n1x Charging Handle/ Guide Rod Assembly\n\n∞x Magazines\n\nGorilla Glue (If Applicable)\n\n\n\nAssembly: (READ NOTES BELOW BEFORE ASSEMBLY INSTRUCTIONS)\n\n1) Remove all printed support material\n\n2) Sand the bolt raceway and barrel channel. \n\n3) (Skip to step 6 if printing Model I) Apply epoxy/Clear Gorilla Glue to rail mount slots on top of the receiver.\n\n4) Press the Picatinny rail onto the top of the receiver, into it's indexing slots. \n\n5) Clamp for a minimum 3 hours. Full cure wait time is 24 hours. \n\n6) After sanding the barrel channel, press the barrel shank into the receiver. \n\n7) Install the charging handle and bolt. This is the best time to apply lubricant to the bolt and raceway. \n\n8) With the bolt fully forward, check to be sure the extractor matches the notch in the side of the barrel shank. If not,\nslightly pull barrel outwards, twist until the extractor & notch match, then press back in. \n\n9) Install the trigger pack, and press in the retaining pins. \n\n10) Press the buffer pin though the back of the receiver.\n\n11) (Skip to step 12 if printing basic models, without the denoted R) Press the 12-24 threaded nuts into the channels on \neach side of the receiver. Visually inspect the holes line up from bolt channel to nut. \n\n12) Place the V Block on the barrel, and drive the bolts through the block, into the channels. Regardless of model variant, \napply blue loctite beforehand.\n\n13) Install the complete receiver assembly into a 10/22 stock/chassis. Drive the takedown screw from the bottom of the stock, \nand into the receiver. \n\n14) Install a compatible magazine, then function check. Be sure a round feeds from the magazine, and extracts from the chamber. \n\n\n\nNotes: \n\n1) Models I-R & O-R are recommended for extended use, (Firing several hundred - thousands of rounds) whilst basic Models I - O is \nmeant for light use (Taking few shots whilst small game hunting and the like.)\n\n2) Take time to dry cycle the bolt around ~ 100 times to aid in break in.\n\n\n(Credits in txt doc)",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1713865248",
+      "source": {
+        "hash": "75cb08beccd7eaecf8f9cf3d987f2be3be95b506fed1c56def8f668e67f018e07da7f35d610d26dfa58f2b3e7b219d83",
+        "media_type": "application/zip",
+        "name": "L-X22 Receivers V1.2.2.zip",
+        "sd_hash": "5bf19da23cb8034ca36fdcbb673c123f9937f1097b035ea332ad4232f12d27b0dde893770a131114f1d74dc775882a95",
+        "size": "81923750"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "10-22",
+        "ruger",
+        "receiver"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/a07ddac90f1bf6d83df3d7fd962985a4.webp"
+      },
+      "title": "L-X22 (10/22) Receivers V1.2.2 (2021 Design)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/McGangBang#a",
+    "claim_id": "a58f78384253c221ca95999b5f7d11b3595faf0d",
+    "claim_op": "create",
+    "confirmations": 504445,
+    "height": 1549526,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1549526,
+      "creation_height": 1549526,
+      "creation_timestamp": 1713863758,
+      "effective_amount": "0.001",
+      "expiration_height": 3651926,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1710132
+    },
+    "name": "McGangBang",
+    "normalized_name": "mcgangbang",
+    "nout": 0,
+    "permanent_url": "lbry://McGangBang#a58f78384253c221ca95999b5f7d11b3595faf0d",
+    "short_url": "lbry://McGangBang#a",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1713863758,
+    "txid": "05fa2b3a2c85d5c2f476c62f1a3d4078ecc19849ccb007e4ad334d0470cda8a3",
+    "type": "claim",
+    "value": {
+      "description": "The McGangBang: Laffs Dynamics\n\nVariant of The Big Mac frame (MAC-10).\n\nHas an additional slot of picatinny rail, as well as added scalloped slots. Overall the frame has added material for extra strength. \n\nRibs wrap around the front and sides of the grip for better retention and strength from cracking. An enlarged trigger guard has be added for \nease of use with gloves.\n\nAdditional material has been added at the front of the frame to facilitate a 1in. nylon strap, used as a makeshift foregrip just as the actual \nMac-10 submachine gun. \n\n\n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; links provided \nin the below text.\n\n\nAdded Hardware:\n\n1x M5x40mm Chicago Screw Set\n\n1x 1in Wide Nylon Stip (Recommended Length: 120mm)\n\n\n\nBase Big Mac files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/TheBigMac:7\n\n\n\nAccreditations:\n\nUberclay: Creator of The Big Mac frame. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1713863704",
+      "source": {
+        "hash": "195a53ac57d06ef61bc6a6489d247e3688b78a419611b59a7a414555833cc78262fe3db438e43cfc1357c73ee79a3bfc",
+        "media_type": "application/zip",
+        "name": "The McGangBang (The Big Mac).zip",
+        "sd_hash": "8d38d6ef3366882c4ba3e5d02261762debbcb211eab9cd84a871f9e581c169ae0882e4999d619e30ae59776d67f4d62a",
+        "size": "10432301"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "mac 10",
+        "mcgangbang",
+        "pdw"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/f18d5e34962432e3412d3fda0f771d9d.webp"
+      },
+      "title": "The McGangBang"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/Chtah9_E17Frm#4",
+    "claim_id": "4f93995ab3b66c213b3a48f0141752ea31ea932f",
+    "claim_op": "create",
+    "confirmations": 539217,
+    "height": 1514754,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1514754,
+      "creation_height": 1514754,
+      "creation_timestamp": 1709113957,
+      "effective_amount": "0.001",
+      "expiration_height": 3617154,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1537467
+    },
+    "name": "Chtah9_E17Frm",
+    "normalized_name": "chtah9_e17frm",
+    "nout": 0,
+    "permanent_url": "lbry://Chtah9_E17Frm#4f93995ab3b66c213b3a48f0141752ea31ea932f",
+    "short_url": "lbry://Chtah9_E17Frm#4",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1709113957,
+    "txid": "726a8b96a14c03fa22cbe1e2a041160085e57850d99706574009fe517506e864",
+    "type": "claim",
+    "value": {
+      "description": "Cheetah-9 E-17 Frame: Laffs Dynamics\n\nFrame variant for the DIY hybrid PDW/SMG Cheetah-9. \n\nHas a recontoured grip for user comfort, large trigger guard, flaired magwell for ease of reloads, and a recessed mag release section.\n\nGrip section is designed for Glock 17 magazines, or any glock doublestack 9mm mags of larger capacity. \n\n\n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\nBase Cheetah-9 files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-HybridDesigns:0/CHEETAH-9-SMG-V1:e\n\n\n\nAccreditations: \n\nProfessor Parabellum: Creator of the Cheetah-9; used their frame as a base for this design. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1709113909",
+      "source": {
+        "hash": "3a1c45b41f995f864a57d43d2468149b98603f358eba95a2a3c467ab7380c78138e98bd2b5e6e3845425ff1053f09dc9",
+        "media_type": "application/zip",
+        "name": "Cheetah-9 E-17 Frame.zip",
+        "sd_hash": "cffcf9b20f4837908c081113785187fe59e44d532b7c7636ba4e802af024dc1e25f8e5d6658e5a8688853fb0180d5ec7",
+        "size": "2086462"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "diy",
+        "cheetah 9",
+        "smg"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/8c78dc64ec7549378e46e82772f9ee9d.webp"
+      },
+      "title": "Cheetah-9 E-17 Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR_LFS#a",
+    "claim_id": "a31a1d363c9f007ac113aaf72d980eb859367092",
+    "claim_op": "create",
+    "confirmations": 551937,
+    "height": 1502034,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1502034,
+      "creation_height": 1502034,
+      "creation_timestamp": 1707073427,
+      "effective_amount": "0.001",
+      "expiration_height": 3604434,
+      "is_controlling": false,
+      "reposted": 2,
+      "support_amount": "0.0",
+      "take_over_height": 1612824
+    },
+    "name": "UBAR_LFS",
+    "normalized_name": "ubar_lfs",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR_LFS#a31a1d363c9f007ac113aaf72d980eb859367092",
+    "short_url": "lbry://UBAR_LFS#a",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1707073427,
+    "txid": "c84922f33455a41676dc16d4cf65f33de58d78179da06a07437f08217c84e679",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-LFS: Laffs Dynamics\n\nQoL improved variant of the original UBAR AR-15 3DP lower receiver. \n\nHas H&K style fire selector markings, an opened up trigger guard, and lightening cuts in the magwell for less material usage during printing. \n\nA small amount of material is removed from the rear of the receiver to allow for full tang AR grips to be utilized. \n\nIn the original UBAR design, the inside top section of the trigger guard (Where the trigger meets the receiver.) was wide open; this has been closed \noff to keep debris from entering the fire control group. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 60%+\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/UBAR-Rev1:e\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nIvan: Lead designer of the UBAR/UBolt V2 AR Lower Receiver; used his base model to create this variant. \n\nRK Spookware: Provided base hardware for AR lower receiver. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1707073290",
+      "source": {
+        "hash": "3cc2e7876d5ff454aa653aaec644cdeedb5d6a282bf04ff8663e48f262beb8a82eb4404a04c16582496a4df9a3ff535b",
+        "media_type": "application/zip",
+        "name": "UBAR-LFS.zip",
+        "sd_hash": "d2a427ccdcc20193e1a9bd9c3770b9f0ffd858afd146f60b35a9b6ceb2cacb620b0174bbbb0ace44efa34f277dd77054",
+        "size": "6832908"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "ubar",
+        "ar-15",
+        "reciever"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/2488206a072c38fe4ddee9c96b4efd83.webp"
+      },
+      "title": "UBAR-LFS"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/LOKZ-1#d",
+    "claim_id": "d3cd985819965d8b70139ececf47501aaf196922",
+    "claim_op": "create",
+    "confirmations": 582755,
+    "height": 1471216,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1471216,
+      "creation_height": 1471216,
+      "creation_timestamp": 1702132706,
+      "effective_amount": "0.001",
+      "expiration_height": 3573616,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1471216
+    },
+    "name": "LOKZ-1",
+    "normalized_name": "lokz-1",
+    "nout": 0,
+    "permanent_url": "lbry://LOKZ-1#d3cd985819965d8b70139ececf47501aaf196922",
+    "short_url": "lbry://LOKZ-1#d",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1702132706,
+    "txid": "7e680d88ea6d52be728e15f06b06d4a59046b6d6dd5f815242f2b3e0da15b5d4",
+    "type": "claim",
+    "value": {
+      "description": "LOKZ-1 Frame (OK Zoomer): Laffs Dynamics\n\nVariant of the OK Zoomer pistol frame, a 3DP version of the Ruger SR45. \n\nRestyled variant with ridging down the grip backstrap, added text to the pistol dust cover, and a restructured picatinny rail.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 218C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 80%+\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase OK Zoomer pistol frame files can be found on Odysee: \n\nOdysee: https://odysee.com/@TheGatalog-PrintableFramesReceivers:9/OK-ZOOMER:b\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nAccreditations:\n\nGhostgunsrspooky & Uberclay: Creators of the OK Zoomer pistol frame; used the base frame model from their design release.",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1702132601",
+      "source": {
+        "hash": "2495e6887b02da0c8a5f7168954306e9228a9b6c97e79c05a6814841b42603b7a5b7c1b4ed3ef857c23448f70a84a5f0",
+        "media_type": "application/zip",
+        "name": "LOKZ-1 Frame (OK Zoomer).zip",
+        "sd_hash": "ff70608b153f918841d76f4e6e6c1b10d6a8687265c05e675b738feea6579a96862af1512fcb93f2c178f7b036c0cb95",
+        "size": "6319158"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "zoomer",
+        "sr45",
+        "ruger"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/01039863b6aafb5ee719b84621d4f4e2.webp"
+      },
+      "title": "LOKZ-1 Frame (OK Zoomer)"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/Ripper#2",
+    "claim_id": "2898d5c5fdd154b9eafbc3b0cf3c08ff66dad96c",
+    "claim_op": "update",
+    "confirmations": 656341,
+    "height": 1397630,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1397630,
+      "creation_height": 1396827,
+      "creation_timestamp": 1690220839,
+      "effective_amount": "0.001",
+      "expiration_height": 3500030,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1459720
+    },
+    "name": "Ripper",
+    "normalized_name": "ripper",
+    "nout": 0,
+    "permanent_url": "lbry://Ripper#2898d5c5fdd154b9eafbc3b0cf3c08ff66dad96c",
+    "short_url": "lbry://Ripper#2",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1690348575,
+    "txid": "f87c7cad10a9ac8b84b6c17a70cdf1d4b5c5beb76380b41c4512c53876eedaeb",
+    "type": "claim",
+    "value": {
+      "description": "Ripper PDW Frame: Laffs Dynamics\n\n\nHardware list, print settings, and assembly instructions are contained in the README PDF file provided. Hardware required \nfor the top cover will NOT be needed.\n\nNote: The provided PDF is taken directly from the original design's file pack. Print parameters such as orientation \nof the print on a build plate may vary. \n\nIt's HIGHLY recommended you use a printer with a Z axis build height of at least 300mm. \n\nThis file pack is for the frame only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\n\n\nBase Scarab files can be found on Odysee: \n\nOdysee: https://open.lbry.com/@AreWeCoolYet:7/TheScarab:8\n\n\n\nAccreditations:\n\nSwarmtech: Creator of the Scarab pistol/PDW; used the base frame model from their design release. Provided hardware \ninfo. Provided images for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1690220608",
+      "source": {
+        "hash": "e7161b6d8ab4b1ba63845080c1ad4cd6fbca9c06593ed3410a2cbe22ecd40910fdf951b9df58fe2a5dffcd480c76e081",
+        "media_type": "application/zip",
+        "name": "Ripper PDW.zip",
+        "sd_hash": "5f65906fbb840713b16b03897fd9c709c77df85168e569f1cc3d20e70104811f72f9c4bb8b94ffda61140c42564e0dea",
+        "size": "25898788"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "mac11",
+        "pdw",
+        "smg"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/5c91e7574b1e565984965f3e8c666bca.webp"
+      },
+      "title": "Ripper PDW Frame"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR-9M-1776#8",
+    "claim_id": "8dd13007ed0d1dce68eb675b9a31d2b320c91c0e",
+    "claim_op": "create",
+    "confirmations": 667864,
+    "height": 1386107,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1386107,
+      "creation_height": 1386107,
+      "creation_timestamp": 1688503446,
+      "effective_amount": "0.001",
+      "expiration_height": 3488507,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1386107
+    },
+    "name": "UBAR-9M-1776",
+    "normalized_name": "ubar-9m-1776",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR-9M-1776#8dd13007ed0d1dce68eb675b9a31d2b320c91c0e",
+    "short_url": "lbry://UBAR-9M-1776#8",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1688503446,
+    "txid": "7159316c372cc9d405dcfd14876518356393363bb5797c13402f34f4f5f82d97",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-9M-1776: Laffs Dynamics\n\nNo Quarter.\n\nVariant of the UBAR-9M. Stripes along the sides of the magwell, stars as fire selection indicators. \n\nA blunt msg to the modern tyrants can be seen every time you crack open your weapon for cleaning :3\n\nPrinted in black.\n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1688503392",
+      "source": {
+        "hash": "724dc195a088af8aa00a0826947939e51bee24941c25241a7d1a4f7e8d142083c970b9b9af075a08113d3d3e05a99459",
+        "media_type": "application/zip",
+        "name": "UBAR-9M-1776.zip",
+        "sd_hash": "db19a469446ebade938102a640a46141449309ae78533e76d51c57b09f01cf38b9469d55387661d3595f2f85a85bd782",
+        "size": "4396476"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "1776",
+        "ubar",
+        "no quarter"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/2c4d6b3eeb509a7b7b7a507829eddbf8.webp"
+      },
+      "title": "UBAR-9M-1776"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR-9M-USA#0",
+    "claim_id": "01e6bc75396953cf2808f18b36e09cec40f21ab5",
+    "claim_op": "create",
+    "confirmations": 667867,
+    "height": 1386104,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1386104,
+      "creation_height": 1386104,
+      "creation_timestamp": 1688503281,
+      "effective_amount": "0.001",
+      "expiration_height": 3488504,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1386104
+    },
+    "name": "UBAR-9M-USA",
+    "normalized_name": "ubar-9m-usa",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR-9M-USA#01e6bc75396953cf2808f18b36e09cec40f21ab5",
+    "short_url": "lbry://UBAR-9M-USA#0",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1688503281,
+    "txid": "15dcb38349c9337712d82636ce80863955e5d725c4f042a28655a556bd532010",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-9M-USA: Laffs Dynamics\n\nBE THE AMERICAN THE JAPANESE THINK YOU ARE!!!\n\nPatriotic variant of the UBAR-9M. The whole shabang. Stripes along the sides of the magwell, stars as fire selection indicators. \n\nA cute lil msg to the modern redcoats can be seen every time you crack open your weapon for cleaning :3\n\nPrint it in red filament, paint with white and blue. \n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1688503177",
+      "source": {
+        "hash": "608284e44b4073240ece13eee0e426d9e8747c881f9e7ae09cb0a59313c5530ef605ff6b71dd11c6d5d8542de822c2f3",
+        "media_type": "application/zip",
+        "name": "UBAR-9M-USA.zip",
+        "sd_hash": "0c6d0e991c456481d1fe3797c42a4a5d36a5b498c2a29571d2ed468d1a2a10392b97c4373673a18722af884e6acee344",
+        "size": "4342747"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "ubar",
+        "usa",
+        "freedom"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/3287609e08b95993259fc482370af1fe.webp"
+      },
+      "title": "UBAR-9M-USA"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR-9M#5",
+    "claim_id": "5485df6e0354fd379c5ab11a4e3112e00ab25281",
+    "claim_op": "create",
+    "confirmations": 696894,
+    "height": 1357077,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1357080,
+      "creation_height": 1357077,
+      "creation_timestamp": 1683858221,
+      "effective_amount": "0.001",
+      "expiration_height": 3459477,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1356967
+    },
+    "name": "UBAR-9M",
+    "normalized_name": "ubar-9m",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR-9M#5485df6e0354fd379c5ab11a4e3112e00ab25281",
+    "short_url": "lbry://UBAR-9M#5",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1683858221,
+    "txid": "d36b602113d0af9165c6b6e0c13145191a005830fde7d777d385b6737638bcaa",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-9M: Laffs Dynamics\n\nMinimalist, lightweight variant of the RK Spookware UBAR-9, a AR-15 based lower receiver for chambering the 9x19mm cartridge. Has \nmaterial cut away from the sides of the magwell, as well as material removed in front of it. \n\n\nThe magwell has been opened up significantly for further weight reduction, as well as making it even easier to reload in a shorter \ntimeframe. \n\nA small amount of material is removed from the rear receiver to allow for full tang AR grips to be utilized. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1683858146",
+      "source": {
+        "hash": "757f1035fbad13dcc74b6bb6126e003aff9f2fd85ee70bd7b73f54ab2e2c47a04e82560ae2361a2fb7806ceef2c701cd",
+        "media_type": "application/zip",
+        "name": "UBAR-9M.zip",
+        "sd_hash": "eba875c3c7fc77a7c203e0b59cfc09de9eec87695189515a367578e7fad04a0cdbd76d355bc1cb493ccafb3565253ff3",
+        "size": "5987815"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "ubar",
+        "ubar 9",
+        "receiver"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/13c2a06845fd6e82f784ddeaa2848a78.webp"
+      },
+      "title": "UBAR-9M"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR-9WC#f",
+    "claim_id": "f1a7a4a7c9ea4123b39596cefc4ada425098cf4f",
+    "claim_op": "create",
+    "confirmations": 696895,
+    "height": 1357076,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1357584,
+      "creation_height": 1357076,
+      "creation_timestamp": 1683858157,
+      "effective_amount": "0.001",
+      "expiration_height": 3459476,
+      "is_controlling": false,
+      "reposted": 1,
+      "support_amount": "0.0",
+      "take_over_height": 1340807
+    },
+    "name": "UBAR-9WC",
+    "normalized_name": "ubar-9wc",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR-9WC#f1a7a4a7c9ea4123b39596cefc4ada425098cf4f",
+    "short_url": "lbry://UBAR-9WC#f",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1683858157,
+    "txid": "b077ff0106404b8950e4316eb9b8d346c607a0635e8c0995ef46013d511afe4d",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-9WC: Laffs Dynamics\n\nVariant of the RK Spookware UBAR-9, subvariant of the UBAR-9W. (Winterized)\n\nHas a modeled in flared magwell for ease of magazine insertion, with recontoured ridges down the front section. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nDefCAD: https://defcad.com/library/b0bf3c45-de63-4f87-a1a2-d8d60a5a4406/\n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nUBAR-9W files can be found on DefCAD:\n\nDefCAD: https://defcad.com/library/e5fcd0de-7554-4384-a48e-0ce67d424285/\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided images for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1683858002",
+      "source": {
+        "hash": "e4506ac96d31372773222f71ec13f32ecd8d7107d1385ce892abdc80862219be6f9ed04feb08951a13ce8799771032eb",
+        "media_type": "application/zip",
+        "name": "UBAR-9WC.zip",
+        "sd_hash": "d2ead6be305429a9a2792b1b6b4e508c0be34360dcd0880ae4d6e89fe5c972b6ad4806b82805892dd88ed6600d2fca4c",
+        "size": "6437873"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "ubar",
+        "receiver",
+        "ubar 9"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/d3f30fa6f46511c43e73a139311a7a80.webp"
+      },
+      "title": "UBAR-9WC"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/UBAR-9W-V1.0.1#6",
+    "claim_id": "63a0ec9e94d550efd0a50445abff050c6d29d5dd",
+    "claim_op": "create",
+    "confirmations": 696897,
+    "height": 1357074,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1357074,
+      "creation_height": 1357074,
+      "creation_timestamp": 1683858015,
+      "effective_amount": "0.001",
+      "expiration_height": 3459474,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1357074
+    },
+    "name": "UBAR-9W-V1.0.1",
+    "normalized_name": "ubar-9w-v1.0.1",
+    "nout": 0,
+    "permanent_url": "lbry://UBAR-9W-V1.0.1#63a0ec9e94d550efd0a50445abff050c6d29d5dd",
+    "short_url": "lbry://UBAR-9W-V1.0.1#6",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1683858015,
+    "txid": "92656579448d7f5ff6af6e58d39a1adc2a05647a4ab41e42a066dde701611f7c",
+    "type": "claim",
+    "value": {
+      "description": "UBAR-9W V1.0.1 (Winterized): Laffs Dynamics\n\nVariant of the RK Spookware UBAR-9, a AR-15 based lower receiver for chambering the 9x19mm cartridge. Uses double stack 9mm \nGlock magazines.\n\nDesign Variant Features: \n\n*Enlarged front of the trigger guard for use with gloves.\n\n*Removed material behind trigger guard.\n\n*Rounded the front section of the magwell.\n\n*Added wrapped ridges down the front of the magwell.\n\n*Added modifier designer's logo.\n\n*Strengthened the mag release hinge point.\n\n*Added channels within the magwell for less friction during insertion/removal.\n\n\nUpdate V1.0.1: Redesignated design nomenclature.\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nDefCAD: https://defcad.com/library/b0bf3c45-de63-4f87-a1a2-d8d60a5a4406/\n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided images for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1683857885",
+      "source": {
+        "hash": "001914b57fba817ad3d795dfbbb5b929ed8e700381c0fd71d0e301b05d5f919ce630ecc21a7e7a18c7c1b8a8aca45ba2",
+        "media_type": "application/zip",
+        "name": "UBAR-9W V1.0.1.zip",
+        "sd_hash": "8197ad4e2b4901a2c4c3ef50d7efb79d20d377c0ee566c2b2a55ac9fd255ef89f6fa587c11f19d5e401c4ff93a2c130c",
+        "size": "41761275"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "ubar",
+        "receiver",
+        "ubar 9"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/114c1da7607688c253d576577df74aa3.webp"
+      },
+      "title": "UBAR-9W V1.0.1"
+    },
+    "value_type": "stream"
+  },
+  {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d/SL1-PDW#1",
+    "claim_id": "147945ad4abfca1cdb43bb6d181e39221357075e",
+    "claim_op": "create",
+    "confirmations": 696901,
+    "height": 1357070,
+    "is_channel_signature_valid": true,
+    "meta": {
+      "activation_height": 1360423,
+      "creation_height": 1357070,
+      "creation_timestamp": 1683857278,
+      "effective_amount": "0.001",
+      "expiration_height": 3459470,
+      "is_controlling": false,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1249746
+    },
+    "name": "SL1-PDW",
+    "normalized_name": "sl1-pdw",
+    "nout": 0,
+    "permanent_url": "lbry://SL1-PDW#147945ad4abfca1cdb43bb6d181e39221357075e",
+    "short_url": "lbry://SL1-PDW#1",
+    "signing_channel": {
+      "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+      "amount": "0.001",
+      "canonical_url": "lbry://@LFRF#d",
+      "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+      "claim_op": "update",
+      "confirmations": 431067,
+      "has_signing_key": false,
+      "height": 1622904,
+      "meta": {
+        "activation_height": 1622904,
+        "claims_in_channel": 21,
+        "creation_height": 1355884,
+        "creation_timestamp": 1683668912,
+        "effective_amount": "0.001",
+        "expiration_height": 3725304,
+        "is_controlling": true,
+        "reposted": 0,
+        "support_amount": "0.0",
+        "take_over_height": 1355884
+      },
+      "name": "@LFRF",
+      "normalized_name": "@lfrf",
+      "nout": 0,
+      "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+      "short_url": "lbry://@LFRF#d",
+      "timestamp": 1724332350,
+      "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+      "type": "claim",
+      "value": {
+        "cover": {
+          "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+        "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+        "tags": [
+          "3d printing",
+          "firearms",
+          "frames",
+          "receivers",
+          "3dp",
+          "c:disable-reactions-comments",
+          "c:disable-slimes-video",
+          "c:disable-slimes-comments",
+          "c:disable-reactions-video"
+        ],
+        "thumbnail": {
+          "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+        },
+        "title": "Laffs Dynamics: Receivers & Frames"
+      },
+      "value_type": "channel"
+    },
+    "timestamp": 1683857278,
+    "txid": "d03e29700458e30b50e573d4cec3e61a9aac5e8e77faf209dc49d306d7d2afb4",
+    "type": "claim",
+    "value": {
+      "description": "SL1 PDW: Laffs Dynamics\n\nVariant of the Swarmtech Scarab, a Mac11 based PDW/Pistol, aesthetics inspired by the B+T TP9 and the HK MP7.\n\n\n\nDesign Variant Features:\n\n*Thickened and elongated lower dust cover. \n\n*Elongated picatinny rail. \n\n*The trigger guard has been enlarged for use with gloves. \n\n*Grip toe has been shaven down to be flush with the curvature. \n\n*Grip backstrap has reduced amount of ridges. \n\n*Reduced original designer logo size, added modifier designer's logo.\n\n*Added caliber info into the right side of the frame. \n\n\n\nHardware list, print settings, and assembly instructions are contained in the README PDF file provided.\n\nNote: The provided PDF is taken directly from the original design's file pack. Print parameters such as orientation \nof the print on a build plate may vary. \n\nIt's HIGHLY recommended you use a printer with a Z axis build height of at least 300mm. \n\nThis file pack is for the frame and top covers only. Other printed part files will need to be downloaded from the base \ndesign release; links provided in the below text.\n\n\n\nBase Scarab files can be found on DefCAD & Odysee: \n\nDefCAD: https://defcad.com/library/b7966581-87a3-4f20-8fa2-627c6f8392a4/\n\nOdysee: https://open.lbry.com/@AreWeCoolYet:7/TheScarab:8\n\n\n\nAccreditations:\n\nSwarmtech: Creator of the Scarab pistol/PDW; used the base frame model from their design release. Provided hardware \ninfo. Provided images for reference. ",
+      "languages": [
+        "en"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "release_time": "1683857088",
+      "source": {
+        "hash": "7230c026bcf86b0ba3121dd948d9ac1551b0d236fd557ae743a2ffd622a889fe8df4b73c69027bde2420eda1da8c2301",
+        "media_type": "application/zip",
+        "name": "SL1 PDW.zip",
+        "sd_hash": "7b418f5124e21f88c258801e48f96fa473f1f2079c3d6e279d98c546e895082139f19a17f903f4de70331a9a9106ddcd",
+        "size": "23803739"
+      },
+      "stream_type": "binary",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "scarab",
+        "pdw",
+        "frame"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/7b51b4e9142ed811e699f540764dcacb.webp"
+      },
+      "title": "SL1 PDW"
+    },
+    "value_type": "stream"
+  }
+]
