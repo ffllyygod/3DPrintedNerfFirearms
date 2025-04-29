@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/UBAR-9W-V1.0.1#6",
+  "claim_id": "63a0ec9e94d550efd0a50445abff050c6d29d5dd",
+  "claim_op": "create",
+  "confirmations": 696897,
+  "height": 1357074,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1357074,
+    "creation_height": 1357074,
+    "creation_timestamp": 1683858015,
+    "effective_amount": "0.001",
+    "expiration_height": 3459474,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1357074
+  },
+  "name": "UBAR-9W-V1.0.1",
+  "normalized_name": "ubar-9w-v1.0.1",
+  "nout": 0,
+  "permanent_url": "lbry://UBAR-9W-V1.0.1#63a0ec9e94d550efd0a50445abff050c6d29d5dd",
+  "short_url": "lbry://UBAR-9W-V1.0.1#6",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1683858015,
+  "txid": "92656579448d7f5ff6af6e58d39a1adc2a05647a4ab41e42a066dde701611f7c",
+  "type": "claim",
+  "value": {
+    "description": "UBAR-9W V1.0.1 (Winterized): Laffs Dynamics\n\nVariant of the RK Spookware UBAR-9, a AR-15 based lower receiver for chambering the 9x19mm cartridge. Uses double stack 9mm \nGlock magazines.\n\nDesign Variant Features: \n\n*Enlarged front of the trigger guard for use with gloves.\n\n*Removed material behind trigger guard.\n\n*Rounded the front section of the magwell.\n\n*Added wrapped ridges down the front of the magwell.\n\n*Added modifier designer's logo.\n\n*Strengthened the mag release hinge point.\n\n*Added channels within the magwell for less friction during insertion/removal.\n\n\nUpdate V1.0.1: Redesignated design nomenclature.\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nDefCAD: https://defcad.com/library/b0bf3c45-de63-4f87-a1a2-d8d60a5a4406/\n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided images for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1683857885",
+    "source": {
+      "hash": "001914b57fba817ad3d795dfbbb5b929ed8e700381c0fd71d0e301b05d5f919ce630ecc21a7e7a18c7c1b8a8aca45ba2",
+      "media_type": "application/zip",
+      "name": "UBAR-9W V1.0.1.zip",
+      "sd_hash": "8197ad4e2b4901a2c4c3ef50d7efb79d20d377c0ee566c2b2a55ac9fd255ef89f6fa587c11f19d5e401c4ff93a2c130c",
+      "size": "41761275"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ubar",
+      "receiver",
+      "ubar 9"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/114c1da7607688c253d576577df74aa3.webp"
+    },
+    "title": "UBAR-9W V1.0.1"
+  },
+  "value_type": "stream"
+}
