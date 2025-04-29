@@ -1,0 +1,114 @@
+{
+  "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+  "amount": "0.001",
+  "canonical_url": "lbry://@LFRF#d/UBAR-9M#5",
+  "claim_id": "5485df6e0354fd379c5ab11a4e3112e00ab25281",
+  "claim_op": "create",
+  "confirmations": 696894,
+  "height": 1357077,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1357080,
+    "creation_height": 1357077,
+    "creation_timestamp": 1683858221,
+    "effective_amount": "0.001",
+    "expiration_height": 3459477,
+    "is_controlling": false,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1356967
+  },
+  "name": "UBAR-9M",
+  "normalized_name": "ubar-9m",
+  "nout": 0,
+  "permanent_url": "lbry://UBAR-9M#5485df6e0354fd379c5ab11a4e3112e00ab25281",
+  "short_url": "lbry://UBAR-9M#5",
+  "signing_channel": {
+    "address": "bDnuvGKRrVhSP7WDVAErP987zLyyPurqhi",
+    "amount": "0.001",
+    "canonical_url": "lbry://@LFRF#d",
+    "claim_id": "dd68c6462214461c2a33855cc59c7498014883c5",
+    "claim_op": "update",
+    "confirmations": 431067,
+    "has_signing_key": false,
+    "height": 1622904,
+    "meta": {
+      "activation_height": 1622904,
+      "claims_in_channel": 21,
+      "creation_height": 1355884,
+      "creation_timestamp": 1683668912,
+      "effective_amount": "0.001",
+      "expiration_height": 3725304,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1355884
+    },
+    "name": "@LFRF",
+    "normalized_name": "@lfrf",
+    "nout": 0,
+    "permanent_url": "lbry://@LFRF#dd68c6462214461c2a33855cc59c7498014883c5",
+    "short_url": "lbry://@LFRF#d",
+    "timestamp": 1724332350,
+    "txid": "6b592f386a00f31085d1781587b81f33f0fdba7899e97e6a90c36802e70a3f6d",
+    "type": "claim",
+    "value": {
+      "cover": {
+        "url": "https://thumbs.odycdn.com/e1e93979d6fa6a047c8684ed2409a765.webp"
+      },
+      "languages": [
+        "en"
+      ],
+      "public_key": "02c24d18e4b1e75fea33ce2c934d1650928974683b08c8cd91179ac40b7de491c6",
+      "public_key_id": "bL4nzkyvNPeJvoiBakfGvWCnQbMCbc5csM",
+      "tags": [
+        "3d printing",
+        "firearms",
+        "frames",
+        "receivers",
+        "3dp",
+        "c:disable-reactions-comments",
+        "c:disable-slimes-video",
+        "c:disable-slimes-comments",
+        "c:disable-reactions-video"
+      ],
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/74b12f58fbb99c9793ec2219acf7a3f0.webp"
+      },
+      "title": "Laffs Dynamics: Receivers & Frames"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1683858221,
+  "txid": "d36b602113d0af9165c6b6e0c13145191a005830fde7d777d385b6737638bcaa",
+  "type": "claim",
+  "value": {
+    "description": "UBAR-9M: Laffs Dynamics\n\nMinimalist, lightweight variant of the RK Spookware UBAR-9, a AR-15 based lower receiver for chambering the 9x19mm cartridge. Has \nmaterial cut away from the sides of the magwell, as well as material removed in front of it. \n\n\nThe magwell has been opened up significantly for further weight reduction, as well as making it even easier to reload in a shorter \ntimeframe. \n\nA small amount of material is removed from the rear receiver to allow for full tang AR grips to be utilized. \n\n\n\nPrinter Used: Ender 3 V2\n\nFilament Used: PLA+\n\nPrint Settings:\n\nExtruder: 220C\nBed: 56C \nFirst Layer Print Height: .2mm \nStandard Layer Height: .16mm\nWall Perimeters: 8+ \nInfill: 50%+\nInfill Pattern: Gyroid\nSupport Material Percentage: 18%\n\n\n\nNotes: \n\nThis file pack is for the receiver only. Other printed part files will need to be downloaded from the base design release; \nlinks provided in the below text.\n\n\n\nBase UBAR-9 files can be found on DefCAD & Odysee: \n\nOdysee: https://odysee.com/@RKSpookware:2/UBAR9:0\n\n(Other print settings and the hardware list will be provided in the base data pack)\n\n\n\nHardware for the UBAR-9 can be bought from: https://rkspookware.com/ubar-9-lower-receiver-hardware-kit/\n\n\n\nAccreditations:\n\nRK Spookware: Creator of the UBAR-9 Receiver; used the base receiver model from their design release. Provided hardware. \nProvided video footage for reference. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "release_time": "1683858146",
+    "source": {
+      "hash": "757f1035fbad13dcc74b6bb6126e003aff9f2fd85ee70bd7b73f54ab2e2c47a04e82560ae2361a2fb7806ceef2c701cd",
+      "media_type": "application/zip",
+      "name": "UBAR-9M.zip",
+      "sd_hash": "eba875c3c7fc77a7c203e0b59cfc09de9eec87695189515a367578e7fad04a0cdbd76d355bc1cb493ccafb3565253ff3",
+      "size": "5987815"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "firearms",
+      "ubar",
+      "ubar 9",
+      "receiver"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/13c2a06845fd6e82f784ddeaa2848a78.webp"
+    },
+    "title": "UBAR-9M"
+  },
+  "value_type": "stream"
+}
