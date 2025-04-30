@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/3011DS#4",
+  "claim_id": "4d2fcd4522836bb72326eca2840842b00826ff4a",
+  "claim_op": "create",
+  "confirmations": 754196,
+  "height": 1302569,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1302569,
+    "creation_height": 1302569,
+    "creation_timestamp": 1675130584,
+    "effective_amount": "107.58376053",
+    "expiration_height": 3404969,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "107.57376053",
+    "take_over_height": 1302569
+  },
+  "name": "3011DS",
+  "normalized_name": "3011ds",
+  "nout": 0,
+  "permanent_url": "lbry://3011DS#4d2fcd4522836bb72326eca2840842b00826ff4a",
+  "short_url": "lbry://3011DS#4",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1675130584,
+  "txid": "c193d7596478fb195abb360abb33fd12a82b9ed7ceed5caf9f4b2db95f6acfb6",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe 3011 DoubleStack - a 3011 that takes RIA/Rem/PARA doublestack magazines.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1675129993",
+    "source": {
+      "hash": "b2065ab20b5134c1b055efaeec7b4df71639fe37b9d884c21fc42745c9a0a14b191c2f209cafac6e28a665cadcd5712f",
+      "media_type": "application/zip",
+      "name": "3011DS.zip",
+      "sd_hash": "fd810229dc212aaf2b1b4f8fd8c876ec6e1b79e1f753d82d77648595e6c8613ad0200f59403f7f8ed1dc9c7d99bea0dd",
+      "size": "28217920"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d7c58c55b63ee963ee007830181585da.webp"
+    },
+    "title": "The 3011 DoubleStack"
+  },
+  "value_type": "stream"
+}
