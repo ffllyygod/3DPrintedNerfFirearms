@@ -1,0 +1,93 @@
+{
+  "address": "bEh1D4KZ6tM4vvTJhQmX5tEBrAegkPTqaM",
+  "amount": "6.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/9mmSD9GlockEditionPistolFrameandDIYRailSystemFreeMenDontAsk#3",
+  "claim_id": "35de090669f12b6038eb37667259996a834b1c37",
+  "claim_op": "update",
+  "confirmations": 1111289,
+  "height": 946079,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946079,
+    "creation_height": 657334,
+    "creation_timestamp": 1572287143,
+    "effective_amount": "85.46526379",
+    "expiration_height": 3048479,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "79.46526379",
+    "take_over_height": 657334
+  },
+  "name": "9mmSD9GlockEditionPistolFrameandDIYRailSystemFreeMenDontAsk",
+  "normalized_name": "9mmsd9glockeditionpistolframeanddiyrailsystemfreemendontask",
+  "nout": 0,
+  "permanent_url": "lbry://9mmSD9GlockEditionPistolFrameandDIYRailSystemFreeMenDontAsk#35de090669f12b6038eb37667259996a834b1c37",
+  "short_url": "lbry://9mmSD9GlockEditionPistolFrameandDIYRailSystemFreeMenDontAsk#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514261,
+  "txid": "a694bbce11a9d890274c74d1b1d33d89e8051f5deffc673027c3989e4e2444f0",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nA 3D Printable SD9 Frame that takes Glock mags\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1572286787",
+    "source": {
+      "hash": "87e8d7f1e85675711faf625228bf9bc81e4f359cae225a16f33ff6bd61f25a2605ec778e7a6b5f9501a6a7734a4423cf",
+      "media_type": "application/zip",
+      "name": "9mmSD9GlockEditionPistolFrameandDIYRailSystemFreeMenDontAsk.zip",
+      "sd_hash": "0b75d53c24b4b85df3e58d91eddb174207ea9d60d2f36026361cd2dfcd8a9669a139b1c39ea07cd96df6b2f4b46fd640",
+      "size": "11983420"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/a/XeG8f0lpADDPuqLafPiL2wJF.jpg"
+    },
+    "title": "SD9 Glock Mag Conversion Frame"
+  },
+  "value_type": "stream"
+}
