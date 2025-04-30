@@ -1,0 +1,93 @@
+{
+  "address": "bHEA1thPSmAPK9DfGS3fKrcQXVSed8JENH",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/9mm-MPShieldPistolFrame-FreeMenDontAsk#1",
+  "claim_id": "14bc9eaf4cd046b4aec4c25cd3036caa9794dba8",
+  "claim_op": "update",
+  "confirmations": 1111302,
+  "height": 946066,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946066,
+    "creation_height": 577472,
+    "creation_timestamp": 1559439529,
+    "effective_amount": "283.6244841",
+    "expiration_height": 3048466,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "283.6234841",
+    "take_over_height": 577472
+  },
+  "name": "9mm-MPShieldPistolFrame-FreeMenDontAsk",
+  "normalized_name": "9mm-mpshieldpistolframe-freemendontask",
+  "nout": 0,
+  "permanent_url": "lbry://9mm-MPShieldPistolFrame-FreeMenDontAsk#14bc9eaf4cd046b4aec4c25cd3036caa9794dba8",
+  "short_url": "lbry://9mm-MPShieldPistolFrame-FreeMenDontAsk#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618512364,
+  "txid": "551366df2845d662e1a05bdffecdc6b8b0099b60129ab75086e10e99159f9d9c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\n3D printable M&P Shield Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1559439529",
+    "source": {
+      "hash": "7b530cd972439518c6474bdac542b4bbb7d3b91374095736f3f5715fcb63fd2b21c376daa45f90ce040480ddcb48ba8f",
+      "media_type": "application/zip",
+      "name": "9mm-MPShieldPistolFrame-FreeMenDontAsk.zip",
+      "sd_hash": "84f3a6f128e042d8fecebf34590702f8c000227a6fa06f79c5547620268a87d8b44ae38ab9f6b4ff4197cc4d53329e36",
+      "size": "6769558"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/0/3ghmcLa8FYHOyxmGysBHPDfV.jpg"
+    },
+    "title": "FreeMenDontAsk 3d Printable M&P Shield Frame"
+  },
+  "value_type": "stream"
+}
