@@ -1,0 +1,93 @@
+{
+  "address": "bSPybrkv4ZG8CCGM7K2kWUBnuHAa96aqm6",
+  "amount": "96.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/9mm-SR9PistolFrameandDIYRearRailSystem-FreeMenDontAsk#7",
+  "claim_id": "7c28150ea226e76f5c2796be1d16751f358ad779",
+  "claim_op": "update",
+  "confirmations": 1111290,
+  "height": 946078,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946078,
+    "creation_height": 587538,
+    "creation_timestamp": 1561061020,
+    "effective_amount": "230.48139733",
+    "expiration_height": 3048478,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "134.48139733",
+    "take_over_height": 587538
+  },
+  "name": "9mm-SR9PistolFrameandDIYRearRailSystem-FreeMenDontAsk",
+  "normalized_name": "9mm-sr9pistolframeanddiyrearrailsystem-freemendontask",
+  "nout": 0,
+  "permanent_url": "lbry://9mm-SR9PistolFrameandDIYRearRailSystem-FreeMenDontAsk#7c28150ea226e76f5c2796be1d16751f358ad779",
+  "short_url": "lbry://9mm-SR9PistolFrameandDIYRearRailSystem-FreeMenDontAsk#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514163,
+  "txid": "4a7e3c749c18a32af093575156d176315a4956a26a2817287b05b08a0aee5ec9",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\nFreeman's SR9\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1561061020",
+    "source": {
+      "hash": "420f8495c2acc0bc6b7027463050e249354e5935b7c4810edab3f67d2bd68bb9bfd7dd57bc004ba7e6418055b7c21a62",
+      "media_type": "application/zip",
+      "name": "9mm-SR9PistolFrameandDIYRearRailSystem-FreeMenDontAsk.zip",
+      "sd_hash": "3486e12678440b95561e311d3a843544e4f2ce4050ac62f85b9b7c49bf70bb6aa57537a8bd64ba5afc0f9c1fb0d2c780",
+      "size": "5423604"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/7/nf1ooGBvpF5ULSVKlTrKXUb2.jpg"
+    },
+    "title": "Freeman's SR9 - 3d Printable SR9 Frame"
+  },
+  "value_type": "stream"
+}
