@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/AR7-Camper3_v1.01_Release#7",
+  "claim_id": "7eb3e263f4aa29cc5eb7f8c56ff357267b4c758f",
+  "claim_op": "create",
+  "confirmations": 975105,
+  "height": 1082237,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1082237,
+    "creation_height": 1082237,
+    "creation_timestamp": 1640134006,
+    "effective_amount": "20.76859587",
+    "expiration_height": 3184637,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "20.76759587",
+    "take_over_height": 1082237
+  },
+  "name": "AR7-Camper3_v1.01_Release",
+  "normalized_name": "ar7-camper3_v1.01_release",
+  "nout": 0,
+  "permanent_url": "lbry://AR7-Camper3_v1.01_Release#7eb3e263f4aa29cc5eb7f8c56ff357267b4c758f",
+  "short_url": "lbry://AR7-Camper3_v1.01_Release#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1640134006,
+  "txid": "86cb72eff1b3342f7c556372ff35d3746e5e011364291d6a17eb83cc0bc8d4e2",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nVinh's AR7 Camper - 3D Printable AR7 Receiver\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1640133590",
+    "source": {
+      "hash": "54f27125bc893540bd437d1284601765511e52306d13bf28e9d31d35f9429d76dcf66eebc9cd37926eeb8ad8b80f9eb1",
+      "media_type": "application/zip",
+      "name": "AR7-Camper3_v1.01_Release.zip",
+      "sd_hash": "cee8c272cd21eabdd44bd8691f4c1e96997250cb75dad6d7968dc6652bc346e0f7fb78dde2d0e436005ab073aec4274e",
+      "size": "5089389"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/a/629064816e4bfedf.png"
+    },
+    "title": "Vinh's AR7 Camper - 3D Printable AR7 Receiver"
+  },
+  "value_type": "stream"
+}
