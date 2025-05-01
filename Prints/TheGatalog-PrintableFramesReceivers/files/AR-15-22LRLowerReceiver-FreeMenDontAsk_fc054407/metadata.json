@@ -1,0 +1,93 @@
+{
+  "address": "bUrPBP4LAooAKzCgwn9mtvMFpqG9GyAZis",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/AR-15-22LRLowerReceiver-FreeMenDontAsk#f",
+  "claim_id": "fc05440783f29a15d5511c08d21a694206c6839b",
+  "claim_op": "update",
+  "confirmations": 1111315,
+  "height": 946053,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946053,
+    "creation_height": 577552,
+    "creation_timestamp": 1559451779,
+    "effective_amount": "748.92812634",
+    "expiration_height": 3048453,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "748.92712634",
+    "take_over_height": 577552
+  },
+  "name": "AR-15-22LRLowerReceiver-FreeMenDontAsk",
+  "normalized_name": "ar-15-22lrlowerreceiver-freemendontask",
+  "nout": 0,
+  "permanent_url": "lbry://AR-15-22LRLowerReceiver-FreeMenDontAsk#fc05440783f29a15d5511c08d21a694206c6839b",
+  "short_url": "lbry://AR-15-22LRLowerReceiver-FreeMenDontAsk#f",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618510203,
+  "txid": "8e98fe521f3e0b9409cf47e7674ed5ca037f2f5682ed3f6b9c8eff0d7dfd7e79",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\n3d printable AR15 receiver, optimized for printing and made for use with .22lr uppers by FreeMenDontAsk\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1559451779",
+    "source": {
+      "hash": "a45b6f132490b79c68ff4c2c6b75603d55c6ef381153239dfa5ee00c85425306d5e547b861362597bb34e40084f99926",
+      "media_type": "application/zip",
+      "name": "AR-15-22LR_Lower_Receiver-FreeMenDontAsk.zip",
+      "sd_hash": "b6f4bfff185169a1cccc7262e28b15f516716a59d6e23ad720823416a47b893e53b9c91b6459fa7b0ad86c0aecb43b71",
+      "size": "3087938"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/f/aFlXXHFJltrctmL4w0xqaYvF.jpg"
+    },
+    "title": "FreeMenDontAsk AR-15 22lr Lower Receiver"
+  },
+  "value_type": "stream"
+}
