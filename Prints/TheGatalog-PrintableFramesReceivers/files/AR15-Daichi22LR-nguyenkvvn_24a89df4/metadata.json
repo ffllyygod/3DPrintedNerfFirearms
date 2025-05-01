@@ -1,0 +1,93 @@
+{
+  "address": "bakpqHKhfASfusNQPqWB48dqhKXeBkUv7D",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/AR15-Daichi22LR-nguyenkvvn#2",
+  "claim_id": "24a89df4a190e1bbdac83e717bf978fe43887fd4",
+  "claim_op": "update",
+  "confirmations": 1111279,
+  "height": 946089,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946089,
+    "creation_height": 891196,
+    "creation_timestamp": 1609783591,
+    "effective_amount": "264.43194072",
+    "expiration_height": 3048489,
+    "is_controlling": true,
+    "reposted": 6,
+    "support_amount": "264.43094072",
+    "take_over_height": 891196
+  },
+  "name": "AR15-Daichi22LR-nguyenkvvn",
+  "normalized_name": "ar15-daichi22lr-nguyenkvvn",
+  "nout": 0,
+  "permanent_url": "lbry://AR15-Daichi22LR-nguyenkvvn#24a89df4a190e1bbdac83e717bf978fe43887fd4",
+  "short_url": "lbry://AR15-Daichi22LR-nguyenkvvn#2",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515713,
+  "txid": "3fe75cad0c31cf260467786c15d153739254402e1d4a8ba1c1b70590ab2376cf",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Daichi 3D Printable 22lr AR15 Upper Receiver by nguyenkvvn\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1609783569",
+    "source": {
+      "hash": "c7e367e4e44b8ceb2a93ea3ba50540de8dcd567c312fe559fdc68fc4e8eddafdb6b0413db7e2f6ddfd524b1be7f33dc2",
+      "media_type": "application/zip",
+      "name": "AR15-Daichi22LR nguyenkvvn.zip",
+      "sd_hash": "1be9bdb1d7018e6ab10fe305faae972a2808ab7eb8583652d897fe49d4e5e387e5bfe0cd0f7ff5794011e802404fbc9a",
+      "size": "2587471"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/e/0f0c4c4082e2ad31.png"
+    },
+    "title": "Daichi 3D Printable 22lr AR15 Upper Receiver"
+  },
+  "value_type": "stream"
+}
