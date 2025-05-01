@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/AR-15_Mono-Poly#e",
+  "claim_id": "e561c884db4ca199c23719115196b87b1ed6d4a9",
+  "claim_op": "create",
+  "confirmations": 874526,
+  "height": 1182239,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1182239,
+    "creation_height": 1182239,
+    "creation_timestamp": 1656174119,
+    "effective_amount": "29.19269263",
+    "expiration_height": 3284639,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "29.18269263",
+    "take_over_height": 1182239
+  },
+  "name": "AR-15_Mono-Poly",
+  "normalized_name": "ar-15_mono-poly",
+  "nout": 0,
+  "permanent_url": "lbry://AR-15_Mono-Poly#e561c884db4ca199c23719115196b87b1ed6d4a9",
+  "short_url": "lbry://AR-15_Mono-Poly#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1656174119,
+  "txid": "6472db0b7f6b15171a4865fefc64329c8d07a46e1126443094920a953ffab42a",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Mono-Poly AR15 Lower Receiver - a monolithic-style AR15 lower receiver!\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1656173979",
+    "source": {
+      "hash": "630d44bc08d2fd12fd55452e0f9f47a1d22fa9fd2167998d282738eb9cbacf47f60ef0e9c47f38d65385d126e2507e03",
+      "media_type": "application/zip",
+      "name": "AR-15_Mono-Poly_v1.2-mbbi.zip",
+      "sd_hash": "fccc5b1a12cbf34c0f6d952e61fc44296e4c682b5e30a3a82bff0fd6ee149cfb420dd7baa7a9e2cd7e2b14eb4fb8078a",
+      "size": "33102876"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/342984ebe6c3dc95408cbe394b513e7e.webp"
+    },
+    "title": "The Mono-Poly AR15 Lower Receiver"
+  },
+  "value_type": "stream"
+}
