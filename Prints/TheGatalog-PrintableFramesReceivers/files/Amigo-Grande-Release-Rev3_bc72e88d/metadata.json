@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Amigo-Grande-Release-Rev3#b",
+  "claim_id": "bc72e88d1a8ceef3456e5528a05ca57213056e41",
+  "claim_op": "update",
+  "confirmations": 840479,
+  "height": 1216863,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1216863,
+    "creation_height": 1119329,
+    "creation_timestamp": 1646077243,
+    "effective_amount": "48.89447516",
+    "expiration_height": 3319263,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "48.89347516",
+    "take_over_height": 1119329
+  },
+  "name": "Amigo-Grande-Release-Rev3",
+  "normalized_name": "amigo-grande-release-rev3",
+  "nout": 0,
+  "permanent_url": "lbry://Amigo-Grande-Release-Rev3#bc72e88d1a8ceef3456e5528a05ca57213056e41",
+  "short_url": "lbry://Amigo-Grande-Release-Rev3#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1661728394,
+  "txid": "7a89bea847cec13ac75d31f7158bfaaac8259ae1016f0019ec30c3d7e313f816",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Amigo Grande - 3D Printable CETME C 308 Receiver\nAlso included is the \"Nadda Spuhr\" 3D printable Spuhr-style stock, comaptible with the Amigo Grande and standard CETME C-based builds!\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1646077138",
+    "source": {
+      "hash": "fe72791e221fb1ed64c9a62b1e1d6909ed160ae15efc72b5c0fd6c948ec442d8ff00263b72ddab034a96b5c7bd653f64",
+      "media_type": "application/zip",
+      "name": "Amigo Grande Release Rev6.zip",
+      "sd_hash": "8fe36d2e7eca8aeb2e9680305c41553a4f915d303927b2acbaf7bb7bffb9c18272d6b6ae70464fd53cc1ae789fae1b75",
+      "size": "58471459"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d66e5441c8cda519f9e97b5321309d42.jpg"
+    },
+    "title": "The Amigo Grande - 3D Printable CETME C 308 Receiver"
+  },
+  "value_type": "stream"
+}
