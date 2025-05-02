@@ -1,0 +1,93 @@
+{
+  "address": "bMHhnNHdoGaTQbm6S5anDWNbJ1V6vUVtP1",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/AndersonFirearmsWildFire#0",
+  "claim_id": "0eff48a4e6e7e65b5218f36be835a51806cbead1",
+  "claim_op": "update",
+  "confirmations": 1111286,
+  "height": 946082,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946082,
+    "creation_height": 809173,
+    "creation_timestamp": 1596664363,
+    "effective_amount": "423.08065621",
+    "expiration_height": 3048482,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "423.07965621",
+    "take_over_height": 809173
+  },
+  "name": "AndersonFirearmsWildFire",
+  "normalized_name": "andersonfirearmswildfire",
+  "nout": 0,
+  "permanent_url": "lbry://AndersonFirearmsWildFire#0eff48a4e6e7e65b5218f36be835a51806cbead1",
+  "short_url": "lbry://AndersonFirearmsWildFire#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514804,
+  "txid": "1998521d3638e9ceff0add831e63e7eabb6134e8a1570082d1da6b6d43aa7d87",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nPotatosociety's WildFire Printable AR15 Lower Receiver (Plus Extras)\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1596664006",
+    "source": {
+      "hash": "5c3a3bed6a9360cc4fcade3703a03728c254ef65b416dcb93514ef6e30e9fb4bc94f23c3da1d04455915da23c9529b53",
+      "media_type": "application/zip",
+      "name": "AndersonFirearmsWildFire.zip",
+      "sd_hash": "0a0212533b80f16cd95ffe02d6446237828aaebe14aed685d2263bf16b45cb50c6dd94e2b84cec8b64f755aa9bf9cf4c",
+      "size": "85267681"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/d/453e38de943d3581.jpg"
+    },
+    "title": "Anderson Firearms WildFire (Plus Extras)"
+  },
+  "value_type": "stream"
+}
