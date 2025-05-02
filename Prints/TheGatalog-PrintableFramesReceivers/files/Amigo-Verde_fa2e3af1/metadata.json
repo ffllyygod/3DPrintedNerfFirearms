@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Amigo-Verde#f",
+  "claim_id": "fa2e3af1c6f64ccd47f7c754a7dd794cbb5e0c0b",
+  "claim_op": "create",
+  "confirmations": 424731,
+  "height": 1632034,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1632034,
+    "creation_height": 1632034,
+    "creation_timestamp": 1725600628,
+    "effective_amount": "25.03162205",
+    "expiration_height": 3734434,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "25.03062205",
+    "take_over_height": 1632034
+  },
+  "name": "Amigo-Verde",
+  "normalized_name": "amigo-verde",
+  "nout": 0,
+  "permanent_url": "lbry://Amigo-Verde#fa2e3af1c6f64ccd47f7c754a7dd794cbb5e0c0b",
+  "short_url": "lbry://Amigo-Verde#f",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1725600628,
+  "txid": "9e116f9f763d6d1168d4630751b9a1e11b3eabe9e66c551132f4e5f30c15a222",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Amigo Verde - a 3D Printable CETME L-based build.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1725600807",
+    "source": {
+      "hash": "6b5de97f0cf66cededf36adfa2be0a3b37af9c1e2333d777408dddd0ebb86335b440a44e97c924d4879552ea39878276",
+      "media_type": "application/zip",
+      "name": "Amigo Verde.zip",
+      "sd_hash": "0fad8e59e7d7393760b36f242af13c48cd9c1a43dad4a4d844eb314480aa3d1517011397422a48ed846111bd25e97703",
+      "size": "63743289"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a4de94f1bea1b40442308043df826562.webp"
+    },
+    "title": "Amigo Verde"
+  },
+  "value_type": "stream"
+}
