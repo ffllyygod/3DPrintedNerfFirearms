@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/BidensBane_3DAR15_Upper_Receiver#e",
+  "claim_id": "e988c937c75b7235505e6f492e394a4bd3d6298e",
+  "claim_op": "create",
+  "confirmations": 887434,
+  "height": 1169331,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1169331,
+    "creation_height": 1169331,
+    "creation_timestamp": 1654097467,
+    "effective_amount": "45.66876682",
+    "expiration_height": 3271731,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "45.66776682",
+    "take_over_height": 1169650
+  },
+  "name": "BidensBane_3DAR15_Upper_Receiver",
+  "normalized_name": "bidensbane_3dar15_upper_receiver",
+  "nout": 0,
+  "permanent_url": "lbry://BidensBane_3DAR15_Upper_Receiver#e988c937c75b7235505e6f492e394a4bd3d6298e",
+  "short_url": "lbry://BidensBane_3DAR15_Upper_Receiver#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1654097467,
+  "txid": "58b8d1e888bd69ba0ed8dc9b6f313b0abce9a48beba17167244660cab25d1a0c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nBiden's Bane - a 3D Printable AR15 Upper Receiver package\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1654097212",
+    "source": {
+      "hash": "2e540bf259d2e9e30f90718e4c688db08ae2525da0ec5641cf1e051ec87245e4a8ccd2d5d738955d573f450eca61a6af",
+      "media_type": "application/zip",
+      "name": "Biden's Bane 3D Printable AR15 Upper Receiver.zip",
+      "sd_hash": "e6f6e2a8eddd0791f805f29346c3002f0006e14185ac75934639c7e6f76634aa4188c50da7eb0f7d400ee3df66325b4d",
+      "size": "59541100"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/2fbf82b5f9b249d6815253612fbe741c.jpg"
+    },
+    "title": "Biden's Bane 3D Printable AR15 Upper Receiver"
+  },
+  "value_type": "stream"
+}
