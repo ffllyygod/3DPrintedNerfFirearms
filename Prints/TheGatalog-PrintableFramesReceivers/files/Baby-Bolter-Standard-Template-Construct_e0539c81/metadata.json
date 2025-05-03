@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Baby-Bolter-Standard-Template-Construct#e",
+  "claim_id": "e0539c819b0e9b29a51e77163e1dcebe2c2c0104",
+  "claim_op": "update",
+  "confirmations": 324541,
+  "height": 1732224,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1732224,
+    "creation_height": 1700394,
+    "creation_timestamp": 1735267009,
+    "effective_amount": "0.001",
+    "expiration_height": 3834624,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1693712
+  },
+  "name": "Baby-Bolter-Standard-Template-Construct",
+  "normalized_name": "baby-bolter-standard-template-construct",
+  "nout": 0,
+  "permanent_url": "lbry://Baby-Bolter-Standard-Template-Construct#e0539c819b0e9b29a51e77163e1dcebe2c2c0104",
+  "short_url": "lbry://Baby-Bolter-Standard-Template-Construct#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1739659824,
+  "txid": "8ba17490a1316e3c96449c918dcd826d6582d7b7d949572a1618e921bf977eb9",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Baby Bolter - 3D Reinforced Printable Mac11-9 Build\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1735266848",
+    "source": {
+      "hash": "f743a639257229daa9718afcc76cdc936a77ba7457046942bc7a4346e822ac6ef4693fd1a76636b0894e8471130c0dc3",
+      "media_type": "application/zip",
+      "name": "Baby Bolter Rev3.zip",
+      "sd_hash": "86192e2690275520c0f1d094e50d518a69331c0c8418f7e958cff9592a1e4e2ee33ae6733c1c5caaf1bdc0719d84027f",
+      "size": "58297799"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/008759a0fb44d8c732437c53c7d52834.webp"
+    },
+    "title": "The Baby Bolter"
+  },
+  "value_type": "stream"
+}
