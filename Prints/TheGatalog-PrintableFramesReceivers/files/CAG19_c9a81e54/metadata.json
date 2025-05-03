@@ -1,0 +1,93 @@
+{
+  "address": "bGRZBZbVxvBM4C2UgATjSo5tR3LYXyghuU",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/CAG19#c",
+  "claim_id": "c9a81e5492f752e025b66da0769cd9c569d63e37",
+  "claim_op": "create",
+  "confirmations": 1058842,
+  "height": 998526,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 998526,
+    "creation_height": 998526,
+    "creation_timestamp": 1626816932,
+    "effective_amount": "58.09668596",
+    "expiration_height": 3100926,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "58.09568596",
+    "take_over_height": 998547
+  },
+  "name": "CAG19",
+  "normalized_name": "cag19",
+  "nout": 0,
+  "permanent_url": "lbry://CAG19#c9a81e5492f752e025b66da0769cd9c569d63e37",
+  "short_url": "lbry://CAG19#c",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1626816932,
+  "txid": "781acc1754f3b8a5603d7a786af91d10c8de9cc8d576d3321bf3e786269431f0",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe CAG19 - a 3D Printable, California Compliant Glock 19-based Carbine kit.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1626816173",
+    "source": {
+      "hash": "cba682e1e70d84957d9fe6b265eb52aebe6a6c4c015658c15ff94b682bd659185214a3e585adb5ed09b4dd85d3817f71",
+      "media_type": "application/zip",
+      "name": "CAG19.zip",
+      "sd_hash": "18e55b344efdd0a74cddbfd68112baba4436e61dad1164c089fd1eaac8ace36ccfe3121e415a63263f79a89eda08442f",
+      "size": "22648457"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/f/2ebf1cb63aa7234b.png"
+    },
+    "title": "The CAG19"
+  },
+  "value_type": "stream"
+}
