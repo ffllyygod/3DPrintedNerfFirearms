@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Bobkatz-21a#f",
+  "claim_id": "fa523467ac63509db2a1c0a1f1b0d3afdf704e08",
+  "claim_op": "create",
+  "confirmations": 981092,
+  "height": 1076250,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1076250,
+    "creation_height": 1076250,
+    "creation_timestamp": 1639173406,
+    "effective_amount": "23.83288132",
+    "expiration_height": 3178650,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "23.82288132",
+    "take_over_height": 1076250
+  },
+  "name": "Bobkatz-21a",
+  "normalized_name": "bobkatz-21a",
+  "nout": 0,
+  "permanent_url": "lbry://Bobkatz-21a#fa523467ac63509db2a1c0a1f1b0d3afdf704e08",
+  "short_url": "lbry://Bobkatz-21a#f",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1639173406,
+  "txid": "5cafeaba45767b3420a99e39ddc55f96c30385a895208c8f4ab16df14ab858c5",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Bobkatz - 3D Printable Beretta 21a Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1639173087",
+    "source": {
+      "hash": "409db8ac463f32f4a828e3c6f1384bebdc8fdd720b8c57272193bc46d0fd511bff71babfd66f518bc79d6e2d2a31beb3",
+      "media_type": "application/zip",
+      "name": "Bobkatz-21a.zip",
+      "sd_hash": "85c0afd85e25250cba7f5556accbbf46d4c6ea5230fbc7d5ffbf2e3f70344f0aebbca22ca54c7fc5d7094a3847bb7be3",
+      "size": "43271488"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/2/0fe33c60571160d4.jpg"
+    },
+    "title": "The Bobkatz - 3D Printable Beretta 21a Frame"
+  },
+  "value_type": "stream"
+}
