@@ -1,0 +1,93 @@
+{
+  "address": "bN3soRGB8jQCXC7onM8PcTVvzQ2dMm54kv",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Big-Point#d",
+  "claim_id": "d022290f0cbb711d9be9f6c6a7319a6d6b6613a7",
+  "claim_op": "update",
+  "confirmations": 1111280,
+  "height": 946088,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946088,
+    "creation_height": 856502,
+    "creation_timestamp": 1604249113,
+    "effective_amount": "110.01359475",
+    "expiration_height": 3048488,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "110.01259475",
+    "take_over_height": 856502
+  },
+  "name": "Big-Point",
+  "normalized_name": "big-point",
+  "nout": 0,
+  "permanent_url": "lbry://Big-Point#d022290f0cbb711d9be9f6c6a7319a6d6b6613a7",
+  "short_url": "lbry://Big-Point#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515673,
+  "txid": "45d1114a81d2757bf0d3a5037231ae2a2ea5392c83732a7b00e69bfe676df266",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Big Point (3D Printable 40sw/45acp Hi Point Frame) by Atmac\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1604248701",
+    "source": {
+      "hash": "0fda481c98bfd60311c2e757a99cb02a39787823bb8efdd9e59fc5c7c2777edd50094c3d4ed810169ec78829a41b6761",
+      "media_type": "application/zip",
+      "name": "Big-Point.zip",
+      "sd_hash": "756f21965bbec2fca465d78242d0a70012f258d678b570d84cbca70cb409c0eedad8acd08d5549ec30226fb57463e069",
+      "size": "2887604"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/8/3ff4db8dbb178855.jpg"
+    },
+    "title": "The Big Point (3D Printable 40sw/45acp Hi Point Frame)"
+  },
+  "value_type": "stream"
+}
