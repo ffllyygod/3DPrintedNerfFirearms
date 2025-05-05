@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Cobra40#c",
+  "claim_id": "c7a9a79f325d99c044e3a2ecb077cd9ad8443375",
+  "claim_op": "create",
+  "confirmations": 835209,
+  "height": 1221556,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1225588,
+    "creation_height": 1221556,
+    "creation_timestamp": 1662482449,
+    "effective_amount": "112.40339141",
+    "expiration_height": 3323956,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "112.40239141",
+    "take_over_height": 1225619
+  },
+  "name": "Cobra40",
+  "normalized_name": "cobra40",
+  "nout": 0,
+  "permanent_url": "lbry://Cobra40#c7a9a79f325d99c044e3a2ecb077cd9ad8443375",
+  "short_url": "lbry://Cobra40#c",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1662482449,
+  "txid": "a5baae4810b4a78a3d5807b732dc077c6a3337d7e901376913be7b50cedc12da",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Cobra 40 - 3D Printable SW40 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1662482112",
+    "source": {
+      "hash": "ddd4e5778a7967ba3515baa19d87279b8e3c7f825659222e21d3569a1a808c55fe8c0562c299754ad43251114149a223",
+      "media_type": "application/zip",
+      "name": "SW40_Cobra_40_Release.zip",
+      "sd_hash": "b34e2c04e9be762437635a5821ebf2dea172a5661f6f72ad130a91f1d080ba154f5918fe434889b584dfdfb1b74b8ee9",
+      "size": "33380641"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ad00456d2432c3604f73f3ac6c1c2c09.webp"
+    },
+    "title": "The Cobra 40 - 3D Printable SW40 Frame"
+  },
+  "value_type": "stream"
+}
