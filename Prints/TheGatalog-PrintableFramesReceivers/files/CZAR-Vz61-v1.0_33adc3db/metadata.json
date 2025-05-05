@@ -1,0 +1,93 @@
+{
+  "address": "bFq1xYSjjkLnSYU1EhVYVrHz4WDResM8je",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/CZAR-Vz61-v1.0#3",
+  "claim_id": "33adc3db9198cad6e2da0a541f73f5b3b2f9aa7c",
+  "claim_op": "update",
+  "confirmations": 735913,
+  "height": 1320852,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1320852,
+    "creation_height": 857516,
+    "creation_timestamp": 1604412146,
+    "effective_amount": "261.71914903",
+    "expiration_height": 3423252,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "261.71814903",
+    "take_over_height": 857516
+  },
+  "name": "CZAR-Vz61-v1.0",
+  "normalized_name": "czar-vz61-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://CZAR-Vz61-v1.0#33adc3db9198cad6e2da0a541f73f5b3b2f9aa7c",
+  "short_url": "lbry://CZAR-Vz61-v1.0#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1678065338,
+  "txid": "86c8a2ab78c20a08662bf0565e5f356d832efb692ae2566c38d54811d6357f49",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe CZAR v3 3D Printable Vz61 Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1678050898",
+    "source": {
+      "hash": "dfa789d626ca3b462a09fdb24b748e16e21ff0434f787e6a9c4c4cd869f835589922706ea129e3b452d1313adf3c743b",
+      "media_type": "application/zip",
+      "name": "CZAR V3.zip",
+      "sd_hash": "0c7161dad0768231579adfd8bcbc215e4960ce63b3172593e2f1620512109ea980413c758f949f6db41d166e6bc61656",
+      "size": "32992794"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d68fecdede58c8a3e69174e71c582625.webp"
+    },
+    "title": "The CZAR v3 3D Printable Vz61 Receiver"
+  },
+  "value_type": "stream"
+}
