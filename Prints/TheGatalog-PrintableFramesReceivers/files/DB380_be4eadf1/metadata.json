@@ -1,0 +1,93 @@
+{
+  "address": "bFxV2zveV7VbQmTNywvyW3DSNkTjDXsBCp",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DB380#b",
+  "claim_id": "be4eadf1c4c76f86d450e5e901e98d70b98befad",
+  "claim_op": "update",
+  "confirmations": 1111315,
+  "height": 946053,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946053,
+    "creation_height": 587538,
+    "creation_timestamp": 1561061020,
+    "effective_amount": "121.58977036",
+    "expiration_height": 3048453,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "121.58877036",
+    "take_over_height": 587538
+  },
+  "name": "DB380",
+  "normalized_name": "db380",
+  "nout": 0,
+  "permanent_url": "lbry://DB380#be4eadf1c4c76f86d450e5e901e98d70b98befad",
+  "short_url": "lbry://DB380#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618510203,
+  "txid": "a45159acedf19c5810266fef2b7ee2ba63251a95cbfc730b14114f3a6340a924",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nFreeman's DB380 by FreeMenDontAsk\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1561061020",
+    "source": {
+      "hash": "922993a76a5f682cba27b42566ed1ae91d633b9e199666bec8a207602f7306c919ef0ec1f680dd00743a085cc0eae59a",
+      "media_type": "application/zip",
+      "name": "380ACP-DB380_Pistol_Frame-FreeMenDontAsk.zip",
+      "sd_hash": "ef57969102af1cf7e7d6a28208cde17d51d574d6b721072f7c226a9b7075aa395b6f534de74e03559588ae9c95225ded",
+      "size": "3946134"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/OXqzoTxOzD5DPmBeSzA2f3CL.jpg"
+    },
+    "title": "Freeman's DB380 - 3d Printable DB380 Frame"
+  },
+  "value_type": "stream"
+}
