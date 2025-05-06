@@ -1,0 +1,99 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DBs-XDs45#7",
+  "claim_id": "7a41cdccf6d2e043e493c3bb6e993f42159cd4ac",
+  "claim_op": "create",
+  "confirmations": 134398,
+  "height": 1922342,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1922342,
+    "creation_height": 1922342,
+    "creation_timestamp": 1766587163,
+    "effective_amount": "0.001",
+    "expiration_height": 4024742,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1947073
+  },
+  "name": "DBs-XDs45",
+  "normalized_name": "dbs-xds45",
+  "nout": 0,
+  "permanent_url": "lbry://DBs-XDs45#7a41cdccf6d2e043e493c3bb6e993f42159cd4ac",
+  "short_url": "lbry://DBs-XDs45#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1766587163,
+  "txid": "e57356d82591685393b89d93255a9a6cf060c6e4ffe008fdc3a8e9031241644c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nDBs XDs45. A 3D printable XDs45 frame.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1766586978",
+    "source": {
+      "hash": "f8019dfe4ed0b2a79ad6c40973389ddb21bbd946282910e3ee845dd482759e46ba4f8a4ee0650684057ce0faa951c315",
+      "media_type": "application/zip",
+      "name": "dbS_xds.zip",
+      "sd_hash": "a379f99cc06f694456f11908fe770b1d02bf7d5058026518b1d74e66cafa966c8e3fce524be625b897922fc569074b15",
+      "size": "96122173"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3dprinting",
+      "guns",
+      "xds45",
+      "thegatalog"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/cb677aad6528ea2677784622cf619c45.webp"
+    },
+    "title": "DBs XDs45"
+  },
+  "value_type": "stream"
+}
