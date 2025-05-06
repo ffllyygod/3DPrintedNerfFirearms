@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DD43X#d",
+  "claim_id": "d4e765b32013372aef104c6fd878e4443681271d",
+  "claim_op": "create",
+  "confirmations": 874992,
+  "height": 1181773,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1181773,
+    "creation_height": 1181773,
+    "creation_timestamp": 1656096669,
+    "effective_amount": "37.75455266",
+    "expiration_height": 3284173,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "37.75355266",
+    "take_over_height": 1181827
+  },
+  "name": "DD43X",
+  "normalized_name": "dd43x",
+  "nout": 0,
+  "permanent_url": "lbry://DD43X#d4e765b32013372aef104c6fd878e4443681271d",
+  "short_url": "lbry://DD43X#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1656096669,
+  "txid": "3cc57d551473a2e2de1152574b8ac9dbe325f3a9dc2f75ae37d9fbbe6232e10f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe DD43X 3D Printable Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1656095931",
+    "source": {
+      "hash": "e8ad9d9006c59db43a3b7718970f6c4298e514be6ea5e65ea15687b7d3a88f81d7170b99bd70c32415209b9bd971910b",
+      "media_type": "application/zip",
+      "name": "DD43X Rev1.zip",
+      "sd_hash": "e261e45cd7439b9fd1054243a5f2586de3fdde17286ac1a946e8e8e9522ace151afea7b2270c62888d9019ec3bdfa748",
+      "size": "706258194"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a0a30e8a4e589ea83402ef95b3f72704.webp"
+    },
+    "title": "DD43X 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
