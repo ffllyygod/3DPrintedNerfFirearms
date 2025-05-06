@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DD43.1#6",
+  "claim_id": "6fe7dc08fc977aa7afb42aacf8d29c312b0daa48",
+  "claim_op": "create",
+  "confirmations": 932139,
+  "height": 1125203,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1125203,
+    "creation_height": 1125203,
+    "creation_timestamp": 1647017593,
+    "effective_amount": "27.71232571",
+    "expiration_height": 3227603,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "27.71132571",
+    "take_over_height": 1125203
+  },
+  "name": "DD43.1",
+  "normalized_name": "dd43.1",
+  "nout": 0,
+  "permanent_url": "lbry://DD43.1#6fe7dc08fc977aa7afb42aacf8d29c312b0daa48",
+  "short_url": "lbry://DD43.1#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1647017593,
+  "txid": "6de6d494e4187bfe0b768cd5b3c9cb0a6b64ea14829bb03a04b04d4c4ab238bc",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe DD43.1 3D Printable G43 Style Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1647016975",
+    "source": {
+      "hash": "32af69040cc426e59db725bdfff26e62907c970c265e64f8d67a38fb4301309fa6505eb6ee2b48a4861a3baf76a2c804",
+      "media_type": "application/zip",
+      "name": "DD43.1 v1.0a with ChairmanWon Remixes.zip",
+      "sd_hash": "77fa8f1c39c829d5a19c5b6b9d7a00a9332660837be3cd7f217de346a13cc30bb63684a4557c7c9cb0d6eb3e3ae92dfa",
+      "size": "395659341"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/afe5d570d889cd59e5ccba94fc345d10.png"
+    },
+    "title": "The DD43.1 3D Printable G43 Style Frame"
+  },
+  "value_type": "stream"
+}
