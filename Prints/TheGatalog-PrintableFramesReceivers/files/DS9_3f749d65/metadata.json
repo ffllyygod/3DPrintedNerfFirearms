@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DS9#3",
+  "claim_id": "3f749d6597414804510664be64038a2b6802c275",
+  "claim_op": "create",
+  "confirmations": 665147,
+  "height": 1391618,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1395650,
+    "creation_height": 1391618,
+    "creation_timestamp": 1689388470,
+    "effective_amount": "72.13129831",
+    "expiration_height": 3494018,
+    "is_controlling": true,
+    "reposted": 5,
+    "support_amount": "72.13029831",
+    "take_over_height": 1395710
+  },
+  "name": "DS9",
+  "normalized_name": "ds9",
+  "nout": 0,
+  "permanent_url": "lbry://DS9#3f749d6597414804510664be64038a2b6802c275",
+  "short_url": "lbry://DS9#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1689388470,
+  "txid": "ca9e319d02260a89890572fdc3205a062d5e5bfa562cc5b8d06b0ced546e6776",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe DS9 3D Printable AR-9 System\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1689388242",
+    "source": {
+      "hash": "20fd1aa21d0108b8d5d1966c5787db7d56ef9f2bc2c134b4f395276fe3937ed202ba5af5fc7c4ac6b00bb733517d86e3",
+      "media_type": "application/zip",
+      "name": "DS9.zip",
+      "sd_hash": "78f13b41b41b993ee51df14c90879abfad6a864fde8f74b7f0fd89a4fb684bc08b88659e539fd528c5e0b101693cdd33",
+      "size": "60330850"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f0ec3fbba6661780437672974439b5be.webp"
+    },
+    "title": "The DS9 3D Printable AR-9 System"
+  },
+  "value_type": "stream"
+}
