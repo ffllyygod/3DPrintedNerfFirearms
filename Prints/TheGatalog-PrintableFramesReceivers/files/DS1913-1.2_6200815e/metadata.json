@@ -1,0 +1,93 @@
+{
+  "address": "baFo18EPZERiK3RN6GScxabzoUPns5J2Mz",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/DS1913-1.2#6",
+  "claim_id": "6200815e5386a4419b1e354e75c21277c063780e",
+  "claim_op": "update",
+  "confirmations": 705823,
+  "height": 1350942,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1350942,
+    "creation_height": 846186,
+    "creation_timestamp": 1602597669,
+    "effective_amount": "322.37733648",
+    "expiration_height": 3453342,
+    "is_controlling": true,
+    "reposted": 13,
+    "support_amount": "322.37633648",
+    "take_over_height": 846186
+  },
+  "name": "DS1913-1.2",
+  "normalized_name": "ds1913-1.2",
+  "nout": 0,
+  "permanent_url": "lbry://DS1913-1.2#6200815e5386a4419b1e354e75c21277c063780e",
+  "short_url": "lbry://DS1913-1.2#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1682882815,
+  "txid": "9f6645127f87437165418b2371bbb37e0fd09dc36d98159e50b14e88fe64f382",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe DS1913 v2.0 - A printable lower receiver for AR15 22lr dedicated builds.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1682882336",
+    "source": {
+      "hash": "bf615d83ddf13f035675a9316c10428acff0ef2dbb6fba713abe98847834cbf95d82a32d73eca3b440cdfa3e29566b9e",
+      "media_type": "application/zip",
+      "name": "DS1913 v2.0.zip",
+      "sd_hash": "6e7c10edb00bc4c5bbc089c94a1d8b5b620340652d55aee30cebb4eb173771b9b4956e5440c221243f5753005be1ff74",
+      "size": "5408830"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/6/78ff136f7b1563f2.jpg"
+    },
+    "title": "DS1913 v2.0 - 22lr AR15 Lower"
+  },
+  "value_type": "stream"
+}
