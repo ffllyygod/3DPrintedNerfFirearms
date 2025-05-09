@@ -1,0 +1,96 @@
+{
+  "address": "bNdgynRTPq9w6H6NoHiQ7iBWi6knohtiGN",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FMDA-DD17.2#7",
+  "claim_id": "700fa1a6d578936a6ba5ef2122be5b1f472d6e86",
+  "claim_op": "update",
+  "confirmations": 1019712,
+  "height": 1037656,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1037656,
+    "creation_height": 900279,
+    "creation_timestamp": 1611244899,
+    "effective_amount": "540.02178583",
+    "expiration_height": 3140056,
+    "is_controlling": true,
+    "reposted": 9,
+    "support_amount": "540.02078583",
+    "take_over_height": 900279
+  },
+  "name": "FMDA-DD17.2",
+  "normalized_name": "fmda-dd17.2",
+  "nout": 0,
+  "permanent_url": "lbry://FMDA-DD17.2#700fa1a6d578936a6ba5ef2122be5b1f472d6e86",
+  "short_url": "lbry://FMDA-DD17.2#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1633020257,
+  "txid": "0eb32a23e0786019084f0b12d5d13ee0aaaf05cc35fd6a78b5fecf97a02a0d89",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe FMDA DD17.2 3D Printable Glock Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1611244749",
+    "source": {
+      "hash": "2fa5872d3749055bacfb13b3dcc029543de8ede5f1ce216b39a1cc7d1b503d17e34ea91ae07fba2ab75cf7a936bee700",
+      "media_type": "application/zip",
+      "name": "FMDA DD17.2 Rev5.zip",
+      "sd_hash": "21d690ef91c48902d38b9c3f0e0d1521b94d1434208b70e6299001d39c1887800a14d766220dae94691c9ac60208834c",
+      "size": "84804244"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "recommended"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/4/ad788dcccbefc155.jpg"
+    },
+    "title": "The FMDA DD17.2 3D Printable Glock Frame"
+  },
+  "value_type": "stream"
+}
