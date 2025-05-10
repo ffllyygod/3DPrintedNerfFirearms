@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FOSS-Cannon#0",
+  "claim_id": "0915286e18362273a3fec9c6de0923f7d6686887",
+  "claim_op": "update",
+  "confirmations": 722562,
+  "height": 1334780,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1334780,
+    "creation_height": 1082239,
+    "creation_timestamp": 1640134215,
+    "effective_amount": "20.27350159",
+    "expiration_height": 3437180,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "20.27250159",
+    "take_over_height": 1082239
+  },
+  "name": "FOSS-Cannon",
+  "normalized_name": "foss-cannon",
+  "nout": 0,
+  "permanent_url": "lbry://FOSS-Cannon#0915286e18362273a3fec9c6de0923f7d6686887",
+  "short_url": "lbry://FOSS-Cannon#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1680294560,
+  "txid": "33cbc149b2d67d0a835e22c418a23fe76540ffc9350f61da83a6de193fe4c9ca",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe FOSS Cannon - 3D Printable Taurus PG111G2/G2/G2C/G3C Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1640133855",
+    "source": {
+      "hash": "16d7603bf1d149a15f8a6faa28def7aebfa152105eaf576bb90d87997d3c5018cdb333576235f28ea2945a774f432519",
+      "media_type": "application/zip",
+      "name": "FOSS-Cannon-v1.3.zip",
+      "sd_hash": "51a12231a18dc17a5b49f66e4d93a36060da74f631f07534fdb2b5adb226dcaee17739b07e887f664c3526b66025fbbc",
+      "size": "247876680"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/3ca757f7737f8c52e704c803375d1be6.jpg"
+    },
+    "title": "The FOSS Cannon - 3D Printable Taurus PG111G2/G2/G2C/G3C Frame"
+  },
+  "value_type": "stream"
+}
