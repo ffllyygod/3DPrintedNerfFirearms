@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FNX940_v1.0#e",
+  "claim_id": "e7a107263bd853347eaeefc58cd42a067ec5e13b",
+  "claim_op": "create",
+  "confirmations": 920714,
+  "height": 1136628,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1136628,
+    "creation_height": 1136628,
+    "creation_timestamp": 1648851915,
+    "effective_amount": "14.18659446",
+    "expiration_height": 3239028,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "14.18559446",
+    "take_over_height": 1136628
+  },
+  "name": "FNX940_v1.0",
+  "normalized_name": "fnx940_v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://FNX940_v1.0#e7a107263bd853347eaeefc58cd42a067ec5e13b",
+  "short_url": "lbry://FNX940_v1.0#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1648851915,
+  "txid": "dd912c5a3e12604521bebbbbebdaea94406f6dcc29a450b00f5dd035c4491041",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe FNX9/40 3D Printable Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1648851713",
+    "source": {
+      "hash": "064335cacc220291219a64696763df457a8d5e0ad0b9f8710e3f9f898b59f4a34eb5f2af7d59e9d0168da7e022447098",
+      "media_type": "application/zip",
+      "name": "FNX940_v1.0.zip",
+      "sd_hash": "e88379c126580d3ee1791bc148cfae303cac01def7475a048842692514af77fe54f7917ad66bc9beaa2f519fea60cade",
+      "size": "2343954"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/46212643d0dffcde8d0d14f46f27537d.jpg"
+    },
+    "title": "The FNX9/40 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
