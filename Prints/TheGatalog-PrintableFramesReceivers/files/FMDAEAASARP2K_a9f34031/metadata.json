@@ -1,0 +1,93 @@
+{
+  "address": "baE3ZGMU9HPRSPV7T3Dyp6GsYJ2cR4rszT",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FMDAEAASARP2K#a",
+  "claim_id": "a9f340315a87d968298b971be2589011e3aae138",
+  "claim_op": "update",
+  "confirmations": 1111302,
+  "height": 946066,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946066,
+    "creation_height": 668888,
+    "creation_timestamp": 1574145214,
+    "effective_amount": "50.33164791",
+    "expiration_height": 3048466,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "50.33064791",
+    "take_over_height": 723352
+  },
+  "name": "FMDAEAASARP2K",
+  "normalized_name": "fmdaeaasarp2k",
+  "nout": 0,
+  "permanent_url": "lbry://FMDAEAASARP2K#a9f340315a87d968298b971be2589011e3aae138",
+  "short_url": "lbry://FMDAEAASARP2K#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618512364,
+  "txid": "aa2fa172a590c67c7a23db3e5ee7d4a1127fa85a265f93e9ef431339bdf9dd4f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\nFreeMan's EAA SAR P2K 3D Printable Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1574144953",
+    "source": {
+      "hash": "a07f5348d29eed342913aaec40c9e8fd9f5d9017641de0901c6093bb6cd32f6e68a16be4a63516a58799afac32970676",
+      "media_type": "application/zip",
+      "name": "FMDAEAASARP2K.zip",
+      "sd_hash": "02025012f2bf29bd68b39d37e7b08136d1a8757f753340dbd140b358e40870d1ea84baa203cdcc3f937aa6afe48f2ee3",
+      "size": "10121681"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/7/4xHZ54o54oalXCeDIjkTcIhb.jpg"
+    },
+    "title": "FreeMan's EAA SAR P2K 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
