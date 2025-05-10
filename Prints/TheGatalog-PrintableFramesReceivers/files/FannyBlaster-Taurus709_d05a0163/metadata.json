@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FannyBlaster-Taurus709#d",
+  "claim_id": "d05a0163d460be1a8505f9acbb241787ce8b504e",
+  "claim_op": "update",
+  "confirmations": 943986,
+  "height": 1113356,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1113356,
+    "creation_height": 1043629,
+    "creation_timestamp": 1633969075,
+    "effective_amount": "83.93811049",
+    "expiration_height": 3215756,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "83.93711049",
+    "take_over_height": 1043629
+  },
+  "name": "FannyBlaster-Taurus709",
+  "normalized_name": "fannyblaster-taurus709",
+  "nout": 0,
+  "permanent_url": "lbry://FannyBlaster-Taurus709#d05a0163d460be1a8505f9acbb241787ce8b504e",
+  "short_url": "lbry://FannyBlaster-Taurus709#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1645120985,
+  "txid": "6bdf582dfd58636368bbaa9a58665981920e5ee21aa27f3a94d87aa23bb4ef5d",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Fanny Blaster - a 3D Printable Taurus 709 Frame by Freeman1337\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1633967922",
+    "source": {
+      "hash": "8d73519d460e76590d87070a6ac3fbecf95625d5b70b336cc356add12751669d902cb61fd1782b3175b3745ff853bcda",
+      "media_type": "application/zip",
+      "name": "fannyblaster_stipple-pack_v1.1.zip",
+      "sd_hash": "ffa936571591e3b2e48262aebf5ff3c73b61d319648dfcc936cbb3d74022839a09c75fb899aacd88c6178cbe7007ea38",
+      "size": "206004221"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/665e6ad872c804346ed5680c0db52000.jpg"
+    },
+    "title": "The Fanny Blaster - 3D Printable Taurus 709 Frame"
+  },
+  "value_type": "stream"
+}
