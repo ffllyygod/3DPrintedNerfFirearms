@@ -1,0 +1,93 @@
+{
+  "address": "bMLHfpME6JtLUUNLAB8z4j6eaAbYR3FjDJ",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/FMDAEAAW#c",
+  "claim_id": "c58d06e8833b6561b30a1f5e93c739a154737f43",
+  "claim_op": "update",
+  "confirmations": 1111303,
+  "height": 946065,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946065,
+    "creation_height": 642401,
+    "creation_timestamp": 1569888296,
+    "effective_amount": "79.28907222",
+    "expiration_height": 3048465,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "79.28807222",
+    "take_over_height": 735442
+  },
+  "name": "FMDAEAAW",
+  "normalized_name": "fmdaeaaw",
+  "nout": 0,
+  "permanent_url": "lbry://FMDAEAAW#c58d06e8833b6561b30a1f5e93c739a154737f43",
+  "short_url": "lbry://FMDAEAAW#c",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618512048,
+  "txid": "f4eb885f5f4f335c5644bb814c76eb658022c85bfa3f6dcf13deaa3713397045",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\nFreeMan's EAA Witness 9mm 3D Printable Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1569887796",
+    "source": {
+      "hash": "e8ee916b8345409e9da1477ce6cb3adb5cee79672fa77f61c2dd7012cbd1e5c0c9e2ed48a7257c07aa540fce77d1ff62",
+      "media_type": "application/zip",
+      "name": "FMDAEAAW.zip",
+      "sd_hash": "70c7c939015ddb541a6f01a93c6be05e245e6fe738b6fe1654e4db90576391b1397e62aa0bcc1760d647acfae7998700",
+      "size": "8988740"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/4/13m9LlqOzuKFj488XpFuiVbo.jpg"
+    },
+    "title": "FreeMan's EAA Witness 9mm 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
