@@ -1,0 +1,96 @@
+{
+  "address": "ba1eybkrweTsqe39V3E5evdFHFUqLUi347",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Firebolt_Complete#1",
+  "claim_id": "135b7f2e5418c0e5910a550ad8c30ccb6a4e24c2",
+  "claim_op": "update",
+  "confirmations": 1019541,
+  "height": 1037827,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1037827,
+    "creation_height": 874314,
+    "creation_timestamp": 1607096601,
+    "effective_amount": "441.43049817",
+    "expiration_height": 3140227,
+    "is_controlling": true,
+    "reposted": 7,
+    "support_amount": "441.42949817",
+    "take_over_height": 874314
+  },
+  "name": "Firebolt_Complete",
+  "normalized_name": "firebolt_complete",
+  "nout": 0,
+  "permanent_url": "lbry://Firebolt_Complete#135b7f2e5418c0e5910a550ad8c30ccb6a4e24c2",
+  "short_url": "lbry://Firebolt_Complete#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1633047017,
+  "txid": "a88bb70a2a89f998cdc6013e07e869b0bcf0375916804e707265f41b51630274",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Firebolt V2 3D Printable AR-15 Lower Receiver System by SpookySpectre\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1607096565",
+    "source": {
+      "hash": "14cf5358ede53e11166bdf720b02b28327e6c4567b88b1b18245e10cdf3b9ff414861b30b03e92e93ef2657bb1193c13",
+      "media_type": "application/zip",
+      "name": "Firebolt 2.0.zip",
+      "sd_hash": "4d4b3ff2a90d0e9569cf3ce39735a205925cfe308eedd7e20d17d46f0ca622857325ba6b0535498db6f1207ca915bd3e",
+      "size": "56044910"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "recommended"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/3/c5f3779dbd1a1469.jpg"
+    },
+    "title": "The Firebolt V2 : 3D Printable AR-15/9/45 Lower Receiver System"
+  },
+  "value_type": "stream"
+}
