@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/GeisterPistol#e",
+  "claim_id": "e6660bf1ca7621153bc395e45f01813ab6e52913",
+  "claim_op": "update",
+  "confirmations": 456095,
+  "height": 1600670,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1600670,
+    "creation_height": 1600667,
+    "creation_timestamp": 1721164259,
+    "effective_amount": "17.6172326",
+    "expiration_height": 3703070,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "17.6162326",
+    "take_over_height": 1600667
+  },
+  "name": "GeisterPistol",
+  "normalized_name": "geisterpistol",
+  "nout": 0,
+  "permanent_url": "lbry://GeisterPistol#e6660bf1ca7621153bc395e45f01813ab6e52913",
+  "short_url": "lbry://GeisterPistol#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1721164523,
+  "txid": "bb2e2f71c147f718fc9cdd407e01a9202460f2bc6c306f62557d7c13e213f9ca",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe GeisterPistol - 3D Printable Steyr M9/M40 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1721164121",
+    "source": {
+      "hash": "9e404b64756a57505921ac43ac5c52c7a07abece5f141ec288f634c77677890b0f8c3b5943369f8cfbdd67c5fdd23091",
+      "media_type": "application/zip",
+      "name": "GeisterPistol.zip",
+      "sd_hash": "24877abff13c98414038ea588e15149a5b7f5e77842237161e7edb133b84f554a437ccd1e09928368e95969300fd22bc",
+      "size": "64850299"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/1ff540013e7244ac52e5052399a7c6f0.webp"
+    },
+    "title": "The GeisterPistol - 3D Printable Steyr M9/M40 Frame"
+  },
+  "value_type": "stream"
+}
