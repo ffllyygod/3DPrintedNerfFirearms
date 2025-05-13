@@ -1,0 +1,93 @@
+{
+  "address": "bV2v7x18aKis8URSgiVaWoKXWKvdsEBV6h",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Ivan's-Printable-10-22-Receiver#0",
+  "claim_id": "098d21107c1d9e0b9ca5b77eb4f4e2b879ff1084",
+  "claim_op": "update",
+  "confirmations": 1111286,
+  "height": 946082,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946082,
+    "creation_height": 787604,
+    "creation_timestamp": 1593207343,
+    "effective_amount": "247.75867456",
+    "expiration_height": 3048482,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "247.75767456",
+    "take_over_height": 787604
+  },
+  "name": "Ivan's-Printable-10-22-Receiver",
+  "normalized_name": "ivan's-printable-10-22-receiver",
+  "nout": 0,
+  "permanent_url": "lbry://Ivan's-Printable-10-22-Receiver#098d21107c1d9e0b9ca5b77eb4f4e2b879ff1084",
+  "short_url": "lbry://Ivan's-Printable-10-22-Receiver#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514804,
+  "txid": "427e439afc553f8c91b94f962d2c7a01e2e257d1df3de08a54be57fb80458763",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nIvan's 3D Printable 10-22 Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1593207316",
+    "source": {
+      "hash": "2af5791fa2bdf8c40c977824c18258f2088174f27db75a4d87c948ef08ecc273f3e15cae9b369a9fad84a2e109525143",
+      "media_type": "application/zip",
+      "name": "Ivan's Printable 10-22 Receiver V1.1.zip",
+      "sd_hash": "e31cbcc396086b70ade72e51c5f8d6a660769fddbf0a99260d18e63e4e37bb7950f630e2df30df6a2509f311944ea3e5",
+      "size": "25423469"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/6fc3e57d9b6c6678.jpg"
+    },
+    "title": "Ivan's 3D Printable 10-22 Receiver"
+  },
+  "value_type": "stream"
+}
