@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Invader_PDW_v2.0.0#a",
+  "claim_id": "a05e9314fe2a7706a65eab9d276382129ecbcbc7",
+  "claim_op": "update",
+  "confirmations": 973150,
+  "height": 1084192,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1084192,
+    "creation_height": 1071864,
+    "creation_timestamp": 1638469987,
+    "effective_amount": "48.32234568",
+    "expiration_height": 3186592,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "48.31234568",
+    "take_over_height": 1071864
+  },
+  "name": "Invader_PDW_v2.0.0",
+  "normalized_name": "invader_pdw_v2.0.0",
+  "nout": 0,
+  "permanent_url": "lbry://Invader_PDW_v2.0.0#a05e9314fe2a7706a65eab9d276382129ecbcbc7",
+  "short_url": "lbry://Invader_PDW_v2.0.0#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1640447172,
+  "txid": "c8e8d1267ba36c5475896ef1ce85c3f49dd71ad3bb510cd810bff3401c68a232",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Invader PDW v2 by Digital Nimbus\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1638469512",
+    "source": {
+      "hash": "83e05db1727f95d5898abd1709c7d81bb9c2045334679deed0ea432ee65be0a322337f199056f27af0de6f8cee132289",
+      "media_type": "application/zip",
+      "name": "DigitalNimbusLabs_Invader_PDW_v2.0.1.zip",
+      "sd_hash": "8114a4b97efaa9c6a8682db0189baa435e8b10017790710aa7f4377a8c81338fb9643e5c50f97f2ec68ce1f24340eca0",
+      "size": "479476735"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/e/c44e3fcdbbabf2b8.png"
+    },
+    "title": "Invader PDW v2"
+  },
+  "value_type": "stream"
+}
