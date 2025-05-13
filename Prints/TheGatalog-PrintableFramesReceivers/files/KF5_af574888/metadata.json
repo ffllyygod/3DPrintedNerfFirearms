@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/KF5#a",
+  "claim_id": "af5748883790aac0b097ffa25b2101faf3dd1640",
+  "claim_op": "create",
+  "confirmations": 723231,
+  "height": 1333534,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1333534,
+    "creation_height": 1333534,
+    "creation_timestamp": 1680096600,
+    "effective_amount": "131.77841773",
+    "expiration_height": 3435934,
+    "is_controlling": true,
+    "reposted": 10,
+    "support_amount": "131.77741773",
+    "take_over_height": 1333571
+  },
+  "name": "KF5",
+  "normalized_name": "kf5",
+  "nout": 0,
+  "permanent_url": "lbry://KF5#af5748883790aac0b097ffa25b2101faf3dd1640",
+  "short_url": "lbry://KF5#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1680096600,
+  "txid": "9391d6541f71c0ea941c8cc52ce981090200872b41f2dced19ec7d96a4a978f0",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe KF5 3D Printable MP5\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1680096376",
+    "source": {
+      "hash": "9bf81c255cc2b74f7b6ea79ea32cacf52ad2eaa759e17a98fca50588a89ff45be8494ae1284ed331363bd7bf61e84d96",
+      "media_type": "application/zip",
+      "name": "KF5 Release Package.zip",
+      "sd_hash": "7508529af4bd8bb3eeb09743fdfd99c6142283e1ece50e18d153a1676fb3555e0e5f4bbd8d80fe229c20dc788e2f22c9",
+      "size": "71273511"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/732a3d775645f042d4310a6e9cf6edf3.webp"
+    },
+    "title": "The KF5 3D Printable MP5"
+  },
+  "value_type": "stream"
+}
