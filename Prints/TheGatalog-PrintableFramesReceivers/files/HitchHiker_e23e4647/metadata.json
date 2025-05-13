@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/HitchHiker#e",
+  "claim_id": "e23e464751f668c32a1b61214a7ce74b7ceab5d0",
+  "claim_op": "update",
+  "confirmations": 425580,
+  "height": 1631185,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1631185,
+    "creation_height": 1597130,
+    "creation_timestamp": 1720658403,
+    "effective_amount": "28.14150638",
+    "expiration_height": 3733585,
+    "is_controlling": true,
+    "reposted": 6,
+    "support_amount": "28.14050638",
+    "take_over_height": 1601208
+  },
+  "name": "HitchHiker",
+  "normalized_name": "hitchhiker",
+  "nout": 0,
+  "permanent_url": "lbry://HitchHiker#e23e464751f668c32a1b61214a7ce74b7ceab5d0",
+  "short_url": "lbry://HitchHiker#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1725483798,
+  "txid": "2a0ee6b5222e8ff578811fedeb052ecd8cb56e28e1db1c3da801ff12d8d8a2ae",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe HitchHiker - a 3D printable backpack/survival rifle\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1720658233",
+    "source": {
+      "hash": "301205566865872257e38b8e3fd5c69b3b583115ab99befc841253d94b59246ff2a9ffb50133df08ad88615bca60afd1",
+      "media_type": "application/zip",
+      "name": "HitchHiker_Package_Rev3.zip",
+      "sd_hash": "908c59a0aead4d36283337e8a6554d35495fc1201ccf033df13b2f9c3a211da8b66bec2d926c2303ddce53019950ae38",
+      "size": "22041900"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ac4b9008d9b6dd58b176297d0e7e0a61.webp"
+    },
+    "title": "The HitchHiker"
+  },
+  "value_type": "stream"
+}
