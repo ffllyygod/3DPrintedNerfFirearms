@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/MERP-v1.0#5",
+  "claim_id": "52b0ad42d7c814e7b70fdf9383f6149d2def24db",
+  "claim_op": "update",
+  "confirmations": 744066,
+  "height": 1312699,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1312699,
+    "creation_height": 1312697,
+    "creation_timestamp": 1676753040,
+    "effective_amount": "118.68088376",
+    "expiration_height": 3415099,
+    "is_controlling": true,
+    "reposted": 6,
+    "support_amount": "118.67988376",
+    "take_over_height": 1312755
+  },
+  "name": "MERP-v1.0",
+  "normalized_name": "merp-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://MERP-v1.0#52b0ad42d7c814e7b70fdf9383f6149d2def24db",
+  "short_url": "lbry://MERP-v1.0#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676754159,
+  "txid": "f97b4be81c9cfdf283063533e182d8b7ca69446409c65061dcb8d35c268d9613",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe MERP - 3D Printable SIG MPX\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1676753003",
+    "source": {
+      "hash": "3795c0feaf6a5736e5d5c85893cb7c778fb8e3db75ac81156c201b3cfd05c8b33838c000d6fcb9fa3d8be90e0480212d",
+      "media_type": "application/zip",
+      "name": "MERP v1.0.zip",
+      "sd_hash": "6653e31db1a2a9bd50c440596bcccd0a23773c0ee22e9899ccee85cdb4f2ce48eb81fd4366e848c4b980e5d2e042529c",
+      "size": "4879931"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/683638a703e04efe1e155df83b88873c.webp"
+    },
+    "title": "The MERP - 3D Printable SIG MPX"
+  },
+  "value_type": "stream"
+}
