@@ -1,0 +1,100 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/MAC-Super-Safety-System#b",
+  "claim_id": "b3db778adeb16c9505a14475062262dccbe4d90d",
+  "claim_op": "create",
+  "confirmations": 264677,
+  "height": 1792063,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1792063,
+    "creation_height": 1792063,
+    "creation_timestamp": 1747923353,
+    "effective_amount": "1.0",
+    "expiration_height": 3894463,
+    "is_controlling": true,
+    "reposted": 8,
+    "support_amount": "0.0",
+    "take_over_height": 1792063
+  },
+  "name": "MAC-Super-Safety-System",
+  "normalized_name": "mac-super-safety-system",
+  "nout": 0,
+  "permanent_url": "lbry://MAC-Super-Safety-System#b3db778adeb16c9505a14475062262dccbe4d90d",
+  "short_url": "lbry://MAC-Super-Safety-System#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1747923353,
+  "txid": "b6163170eee517956396ace6c1698af5f6553e503b769a34dae69b061ffb408b",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe MAC Super Safety System - A revised MacDaddy frame with an integrated Super Safety\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1747922842",
+    "source": {
+      "hash": "f7905a7bcc13d1cc68aada39a7c7374cb12a3f9bc8daa59bfec8fea6508e3a4aa5444f56f29de7bddcad24fa54cc0ec8",
+      "media_type": "application/zip",
+      "name": "MAC Super Safety System.zip",
+      "sd_hash": "5c3e300ce817c243bcdf6dc29a7b24f2a57b0a3cea024b907889ebf080fbd31b316a07029e3efe688a001914c760166c",
+      "size": "107728214"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "macdaddy",
+      "m11",
+      "gatalog",
+      "3d printing",
+      "guns"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/ba7591ce7aaac97100f8a7ec0b354b91.webp"
+    },
+    "title": "MAC Super Safety System"
+  },
+  "value_type": "stream"
+}
