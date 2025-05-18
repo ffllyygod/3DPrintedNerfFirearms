@@ -1,0 +1,99 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/MOORE_DAKKA_V2#a",
+  "claim_id": "aa0d1441552a494dea3905917cf45e17ba0ef3cc",
+  "claim_op": "create",
+  "confirmations": 180033,
+  "height": 1876707,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1876707,
+    "creation_height": 1876707,
+    "creation_timestamp": 1760738588,
+    "effective_amount": "0.001",
+    "expiration_height": 3979107,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1877280
+  },
+  "name": "MOORE_DAKKA_V2",
+  "normalized_name": "moore_dakka_v2",
+  "nout": 0,
+  "permanent_url": "lbry://MOORE_DAKKA_V2#aa0d1441552a494dea3905917cf45e17ba0ef3cc",
+  "short_url": "lbry://MOORE_DAKKA_V2#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1760738588,
+  "txid": "8682bf2307c0300c92d77259e3410dc10d7ff640d388fa215cd2da74a3b40c52",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Moore_DakkaV2. A 3D printable M&P45 frame.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1760738315",
+    "source": {
+      "hash": "1d07d91541d48a645a04803a7cc3c512d75daf15235ceac0e14e06bfdde90dc837c06ed68fe37c30ede3b6da38f2f83c",
+      "media_type": "application/zip",
+      "name": "MOORE_DAKKA_V2.zip",
+      "sd_hash": "2afab9a60a7bc9cb99e43eaf68820a097dc0bebdb84832bd6d3b16e3e2eb962af2ab9fd25decc40beb7663a3c1e4c71f",
+      "size": "163174642"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "m&p45",
+      "moore_dakkav2"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/6ee07d29689f9f1bd5e924c3260d1d9f.webp"
+    },
+    "title": "MOORE_DAKKA_V2"
+  },
+  "value_type": "stream"
+}
