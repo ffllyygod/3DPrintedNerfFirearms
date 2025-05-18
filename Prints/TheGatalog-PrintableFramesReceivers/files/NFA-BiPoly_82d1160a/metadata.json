@@ -1,0 +1,99 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/NFA-BiPoly#8",
+  "claim_id": "82d1160ab92fa82410be9d062f56afa70fc211b1",
+  "claim_op": "create",
+  "confirmations": 235953,
+  "height": 1820787,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1820787,
+    "creation_height": 1820787,
+    "creation_timestamp": 1752341751,
+    "effective_amount": "1.0",
+    "expiration_height": 3923187,
+    "is_controlling": true,
+    "reposted": 5,
+    "support_amount": "0.0",
+    "take_over_height": 1820787
+  },
+  "name": "NFA-BiPoly",
+  "normalized_name": "nfa-bipoly",
+  "nout": 0,
+  "permanent_url": "lbry://NFA-BiPoly#82d1160ab92fa82410be9d062f56afa70fc211b1",
+  "short_url": "lbry://NFA-BiPoly#8",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1752341751,
+  "txid": "29b5b44f14ead49017037728d336ccfc17c3ecec0a116a5e15e9ed22d253215f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe NFA Bi-Poly. A 3D printable AR10, AR15, AR9.\n\nPRINTING ANYTHING IN THIS PACKAGE MAY BE A VIOLATION OF FEDERAL LAW WITHOUT PROPER LICENSURE. A SEMI-AUTO PACKAGE IS AVAILABLE SEPARATELY FOR SEMI-ONLY BUILDS.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1752340780",
+    "source": {
+      "hash": "351d73c5d0fe75dce59fc4f6b912b3bc4823edae3da48194d53de2ea30a9067624f8787bc1438d87e8a040696bae8256",
+      "media_type": "application/zip",
+      "name": "NFA BiPoly.zip",
+      "sd_hash": "093cd143a5576f14a25fb2e2198637944863148a92d8fd395d41fbcfcb8297757a3c50b63389810b80ecef72a9bf9f4c",
+      "size": "1408014706"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "ar15",
+      "gatalog"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d871aa173555ed55a401a818ed5575b7.webp"
+    },
+    "title": "NFA BiPoly"
+  },
+  "value_type": "stream"
+}
