@@ -1,0 +1,93 @@
+{
+  "address": "bLCx5XQbwsytCZVNnwrt6Fyw5h5n28XxYe",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Merlin_60-795#0",
+  "claim_id": "012459ee737afe269d3d9783f649f96ea12dcd7e",
+  "claim_op": "create",
+  "confirmations": 1051895,
+  "height": 1005473,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1005473,
+    "creation_height": 1005473,
+    "creation_timestamp": 1627919600,
+    "effective_amount": "61.00242193",
+    "expiration_height": 3107873,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "61.00142193",
+    "take_over_height": 1005473
+  },
+  "name": "Merlin_60-795",
+  "normalized_name": "merlin_60-795",
+  "nout": 0,
+  "permanent_url": "lbry://Merlin_60-795#012459ee737afe269d3d9783f649f96ea12dcd7e",
+  "short_url": "lbry://Merlin_60-795#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1627919600,
+  "txid": "b4756b7c0f1352bb6e358539968821bfe648aa18b7669048c441e14626625c77",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Merlin 3D Printable Marlin 60/795 Receiver by TJB556\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1627919259",
+    "source": {
+      "hash": "5bac4f94d977d123ce0bcf3a4e7563191dcd51437c187cde92dae5ddc642de6190fc447f1fb689de8f828e8ea2e802d0",
+      "media_type": "application/zip",
+      "name": "Merlin_60-795.zip",
+      "sd_hash": "3b79ab91472f6d262c44895baaa38e1b8f3a4b577d2bc93af7f5de674b23d5ed4a3ab879c79e059b304f904ee07ea21e",
+      "size": "13112972"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/6/7530020981022b9a.jpg"
+    },
+    "title": "The Merlin 3D Printable Marlin 60/795 Receiver"
+  },
+  "value_type": "stream"
+}
