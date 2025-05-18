@@ -1,0 +1,93 @@
+{
+  "address": "bWfsfbj1ZPnHE19PL4abQyn2rGcLMJXZxE",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Mac-Daddy-Release-v1.0#b",
+  "claim_id": "b2a31742da218ed6a64169e59469d22fa175bff4",
+  "claim_op": "update",
+  "confirmations": 1080274,
+  "height": 977094,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 977094,
+    "creation_height": 885765,
+    "creation_timestamp": 1608915747,
+    "effective_amount": "391.79873856",
+    "expiration_height": 3079494,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "391.79773856",
+    "take_over_height": 885765
+  },
+  "name": "Mac-Daddy-Release-v1.0",
+  "normalized_name": "mac-daddy-release-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://Mac-Daddy-Release-v1.0#b2a31742da218ed6a64169e59469d22fa175bff4",
+  "short_url": "lbry://Mac-Daddy-Release-v1.0#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1623426200,
+  "txid": "48a756234ec304d504f2c6553be6e9f8d00d0eb8e4c391eea90a7c4484e23b3a",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Mac Daddy by FMDA1776\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1608915721",
+    "source": {
+      "hash": "864c21b27eeb00585f63f0c1dff9cf7d4e9293f63394d707d299549d6b756b1f8d199b277078f5694ffb9f498b1dcc90",
+      "media_type": "application/zip",
+      "name": "Mac Daddy Release v1.2.zip",
+      "sd_hash": "f3de773bb5dbaad277ea3e45972a4e3e6f4168faa76c2d8a4a39d3b1946549e5890e84076b9b9b9c22ea70856aaca688",
+      "size": "39522589"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/9/1b9fe004ea229d94.jpg"
+    },
+    "title": "The Mac Daddy 3D Printable MAC11-9 Frame"
+  },
+  "value_type": "stream"
+}
