@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/OK-ZOOMER#b",
+  "claim_id": "b424363ae9db7d4331a9673bc9230cbe19372d91",
+  "claim_op": "create",
+  "confirmations": 620303,
+  "height": 1436462,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1440494,
+    "creation_height": 1436462,
+    "creation_timestamp": 1696559466,
+    "effective_amount": "38.83855072",
+    "expiration_height": 3538862,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "38.83755072",
+    "take_over_height": 1443758
+  },
+  "name": "OK-ZOOMER",
+  "normalized_name": "ok-zoomer",
+  "nout": 0,
+  "permanent_url": "lbry://OK-ZOOMER#b424363ae9db7d4331a9673bc9230cbe19372d91",
+  "short_url": "lbry://OK-ZOOMER#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1696559466,
+  "txid": "5061eafadad4f8f348cfe4c7b8999ba407b7fb84eba84dc10428710536b57f6d",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe OK ZOOMER - 3D Printable SR45 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1696559426",
+    "source": {
+      "hash": "9520709520f1759e003197020559bd1d3b8e8c39dfba18abb9239a90ead840bf05f6fa3ae182b248e91268a8190fcc7c",
+      "media_type": "application/zip",
+      "name": "OK ZOOMER.zip",
+      "sd_hash": "e65e993793bd1ec32d0a3a6e8eb74287f4596e0115009eda6da349b34c39a2539801c8ac2cd94e25374022467745570d",
+      "size": "11020828"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/2fdc7d99615e1c673db56ed47171dd1a.webp"
+    },
+    "title": "OK ZOOMER - 3D Printable SR45 Frame"
+  },
+  "value_type": "stream"
+}
