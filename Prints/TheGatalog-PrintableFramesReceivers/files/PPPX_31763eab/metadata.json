@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/PPPX#3",
+  "claim_id": "31763eab5d6c53d0523079beab0faec86e828e44",
+  "claim_op": "create",
+  "confirmations": 571858,
+  "height": 1484907,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1484907,
+    "creation_height": 1484907,
+    "creation_timestamp": 1704327672,
+    "effective_amount": "13.58554747",
+    "expiration_height": 3587307,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "13.58454747",
+    "take_over_height": 1484950
+  },
+  "name": "PPPX",
+  "normalized_name": "pppx",
+  "nout": 0,
+  "permanent_url": "lbry://PPPX#31763eab5d6c53d0523079beab0faec86e828e44",
+  "short_url": "lbry://PPPX#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1704327672,
+  "txid": "b9fb659345cd1488eee8595fbf3a4270c9beb44f337e5a423ae04d871ef56176",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe PPPX - 3D Printable Walther PPX/Creed Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1704327346",
+    "source": {
+      "hash": "478ee5e6b9450d12f46500a893ec49aeb9aebbd7eed914518ad86b76e3399c66262fed1efa1641211d9c91d47c559ee8",
+      "media_type": "application/zip",
+      "name": "PPPX.zip",
+      "sd_hash": "d1b9e2b67c4479f4a1a54cd6dff15ebcce23576179579faff81171494cb3a3d730ec0c45d77198240c642478dc3e71db",
+      "size": "11955586"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d82c145a61ae80250c95e04ed789e59e.webp"
+    },
+    "title": "The PPPX"
+  },
+  "value_type": "stream"
+}
