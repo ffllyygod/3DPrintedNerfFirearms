@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/PPX4#6",
+  "claim_id": "615678fbb60ac9030978845dee069d9fb67302ce",
+  "claim_op": "update",
+  "confirmations": 620300,
+  "height": 1436465,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1436465,
+    "creation_height": 1384484,
+    "creation_timestamp": 1688246724,
+    "effective_amount": "18.22065894",
+    "expiration_height": 3538865,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "18.21965894",
+    "take_over_height": 1384484
+  },
+  "name": "PPX4",
+  "normalized_name": "ppx4",
+  "nout": 0,
+  "permanent_url": "lbry://PPX4#615678fbb60ac9030978845dee069d9fb67302ce",
+  "short_url": "lbry://PPX4#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1696559922,
+  "txid": "e8e8556812f860d680c4f400f3ed8d22e1fa22a06578e44845d578c597e91a32",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe PPX4 - a 3D Printable PX4 Storm Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1688246446",
+    "source": {
+      "hash": "6ace4d60b1033a3402128f2a2722bdd1e5d20d55133792cb743bc7fd409cd26526dd775f71db60fa5a627d59c17fb261",
+      "media_type": "application/zip",
+      "name": "PPX4_Rev2.zip",
+      "sd_hash": "21b6eb4898c77383451979a1191d14850ac0cb4433fd373a889122d2efe70bc9e13cd8f34a0564dfcf0a116d84fd35f1",
+      "size": "36919211"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f3c22444840d19e74fef0f7fcf7f4347.webp"
+    },
+    "title": "PPX4 - 3D Printable Beretta PX4 Storm Frame"
+  },
+  "value_type": "stream"
+}
