@@ -1,0 +1,98 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/PLASTICCATTO#6",
+  "claim_id": "6f57c1b3d305df3070d8395dbd4d10b742a6587f",
+  "claim_op": "create",
+  "confirmations": 200588,
+  "height": 1856152,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1856152,
+    "creation_height": 1856152,
+    "creation_timestamp": 1757605984,
+    "effective_amount": "1.0",
+    "expiration_height": 3958552,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "0.0",
+    "take_over_height": 1856152
+  },
+  "name": "PLASTICCATTO",
+  "normalized_name": "plasticcatto",
+  "nout": 0,
+  "permanent_url": "lbry://PLASTICCATTO#6f57c1b3d305df3070d8395dbd4d10b742a6587f",
+  "short_url": "lbry://PLASTICCATTO#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1757605984,
+  "txid": "df7cddb3dc22551eb819279a25cd7fe2a9c27243bb23e1e2714a86f940f0bb71",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Plasticcatto - 3D Printable Competition Driven Gen3 Glock Design\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1757605299",
+    "source": {
+      "hash": "2a0ffd6859a14f46ca4b12005004d0950ee349bf6775d8edfaee1ea8007aeed9e584de3a006393e9eb3b8a261c576b5f",
+      "media_type": "application/zip",
+      "name": "PLASTICCATTO.zip",
+      "sd_hash": "90280213b7089aedaa47af1282d9437dffc8e52ed56773cc32561d60aa63f604ea33854f1972d701a98b7b44a7548ac3",
+      "size": "1004613096"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "glock"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7bc197f357cca8d761691a07c5c077ba.webp"
+    },
+    "title": "PLASTICCATTO"
+  },
+  "value_type": "stream"
+}
