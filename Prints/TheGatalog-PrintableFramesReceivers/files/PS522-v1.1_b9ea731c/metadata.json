@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/PS522-v1.1#b",
+  "claim_id": "b9ea731c6e518e492764e44c6daaac8bdd23b045",
+  "claim_op": "update",
+  "confirmations": 744008,
+  "height": 1312757,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1312757,
+    "creation_height": 1312696,
+    "creation_timestamp": 1676752941,
+    "effective_amount": "109.55689146",
+    "expiration_height": 3415157,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "109.55589146",
+    "take_over_height": 1312755
+  },
+  "name": "PS522-v1.1",
+  "normalized_name": "ps522-v1.1",
+  "nout": 0,
+  "permanent_url": "lbry://PS522-v1.1#b9ea731c6e518e492764e44c6daaac8bdd23b045",
+  "short_url": "lbry://PS522-v1.1#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676762223,
+  "txid": "106e80716d4e08501ef71f445597d505fed4b813aa5549c4e99d0de5296111db",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe PS522 - a 3D printable SIG 522 receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1676752831",
+    "source": {
+      "hash": "177fe94af368530e66bc8b7f36497b0d07ec1804cf88894b7b2278b36765a404565ad76f417c42eb1ade027ae5699924",
+      "media_type": "application/zip",
+      "name": "PS522 v1.1.zip",
+      "sd_hash": "0ae9ea9c55344647c2cb964b8e349eb25a6979d7d7f93721bc69fca7b3789f858447f94ae3edfd691ec09e7cd26726d1",
+      "size": "2489681"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/dcb8535c4aa74c01ce30cba20682845a.webp"
+    },
+    "title": "The PS522"
+  },
+  "value_type": "stream"
+}
