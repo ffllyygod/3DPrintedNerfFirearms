@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/PRM-9-v1.0#b",
+  "claim_id": "b0a6626de1271a3c88634f20c957e545c0720564",
+  "claim_op": "create",
+  "confirmations": 744066,
+  "height": 1312699,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1312699,
+    "creation_height": 1312699,
+    "creation_timestamp": 1676754159,
+    "effective_amount": "114.97467843",
+    "expiration_height": 3415099,
+    "is_controlling": true,
+    "reposted": 5,
+    "support_amount": "114.97367843",
+    "take_over_height": 1312755
+  },
+  "name": "PRM-9-v1.0",
+  "normalized_name": "prm-9-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://PRM-9-v1.0#b0a6626de1271a3c88634f20c957e545c0720564",
+  "short_url": "lbry://PRM-9-v1.0#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676754159,
+  "txid": "adda9cbda36bed8353654d2a279faca2de5696e64ce73c37a770f040453a15cc",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe PRM-9 - 3D Printable AR9 Bufferless Lower Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1676753083",
+    "source": {
+      "hash": "ea250f44ad5594e415488c4f1d1d20dca5b1f629fc0167f45bc9464b41c75cd45916a765a40cb5e6de82f9347424d90b",
+      "media_type": "application/zip",
+      "name": "PRM-9 v1.0.zip",
+      "sd_hash": "af79f2965a70ad70791d95a7e40319a97eea9031aa9194ef91cbf81c12c70b651f7ba3ec1d429b84230ed15f0a4a58f6",
+      "size": "5978083"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/1f9568db01c73df50cc64e4c80dd980c.webp"
+    },
+    "title": "The PRM-9 - 3D Printable AR9 Bufferless Lower Receiver"
+  },
+  "value_type": "stream"
+}
