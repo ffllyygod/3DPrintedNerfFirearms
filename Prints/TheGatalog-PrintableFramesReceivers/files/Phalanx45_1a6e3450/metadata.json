@@ -1,0 +1,100 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Phalanx45#1",
+  "claim_id": "1a6e3450d011ea4d97eff5852e3220cc3a8e3ff4",
+  "claim_op": "update",
+  "confirmations": 184015,
+  "height": 1872725,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1872725,
+    "creation_height": 1872069,
+    "creation_timestamp": 1760032450,
+    "effective_amount": "0.001",
+    "expiration_height": 3975125,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1872137
+  },
+  "name": "Phalanx45",
+  "normalized_name": "phalanx45",
+  "nout": 0,
+  "permanent_url": "lbry://Phalanx45#1a6e3450d011ea4d97eff5852e3220cc3a8e3ff4",
+  "short_url": "lbry://Phalanx45#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1760130330,
+  "txid": "470d712897c7ec52d09cc05e5390623c4c9e6dfd1fa088a6f5bc7fd907593319",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Phalanx45 - 3D Printable M&P Shield45\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1760032165",
+    "source": {
+      "hash": "ad97af618cb8afb3f13c0bbe8d04ab559542bb76cb03fc2b5ab12f72355e5ce8ec5ce514e68cc4878213f85edfceced0",
+      "media_type": "application/zip",
+      "name": "Phalanx45.2.zip",
+      "sd_hash": "856626af10830510a2b2c6f902953b2f4278998b7a06f9381a3d157ade6b7eb7737317b8c69e8d39523cce8446acc2f5",
+      "size": "63946410"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "45",
+      "m&p45",
+      "gatalog"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/68d1f9d838d8fe08fab1e4fc8688091a.webp"
+    },
+    "title": "Phalanx45(updated)"
+  },
+  "value_type": "stream"
+}
