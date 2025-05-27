@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Plastikov-v4#d",
+  "claim_id": "d16e4ba4f75b02738c98eefccb35195ff39cf32c",
+  "claim_op": "update",
+  "confirmations": 478991,
+  "height": 1577774,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1577774,
+    "creation_height": 1558554,
+    "creation_timestamp": 1715116352,
+    "effective_amount": "38.06042668",
+    "expiration_height": 3680174,
+    "is_controlling": true,
+    "reposted": 14,
+    "support_amount": "38.05942668",
+    "take_over_height": 1558572
+  },
+  "name": "Plastikov-v4",
+  "normalized_name": "plastikov-v4",
+  "nout": 0,
+  "permanent_url": "lbry://Plastikov-v4#d16e4ba4f75b02738c98eefccb35195ff39cf32c",
+  "short_url": "lbry://Plastikov-v4#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1717878050,
+  "txid": "e866895079c3c3a102b02e9fe8c806196e7b1153a8c716d90f2fb98a170d1eb8",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Plastikov v4 - a 3D printable AKM Receiver System\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1715116133",
+    "source": {
+      "hash": "4a0dea26b70147d0580b47772b59ce596cf4560c7b3b39d80ac5eca93adca06ca5f3211091e05818ea86c9b46acef497",
+      "media_type": "application/zip",
+      "name": "Plastikov V4 Rev1.zip",
+      "sd_hash": "940fc4c6ba32a6d9e295275ec3d8d9040f365dd2ef867cf8ad23e1ec78936a49210e25ec8d7089f70b826c41d29c8b04",
+      "size": "52494382"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/1249c1e17bae21a03e06d87e7a96c176.webp"
+    },
+    "title": "The Plastikov v4"
+  },
+  "value_type": "stream"
+}
