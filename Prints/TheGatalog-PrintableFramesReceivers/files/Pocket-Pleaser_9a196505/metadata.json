@@ -1,0 +1,96 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Pocket-Pleaser#9",
+  "claim_id": "9a1965051a9627212780479812d1087378486243",
+  "claim_op": "update",
+  "confirmations": 292634,
+  "height": 1764123,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1764123,
+    "creation_height": 1762741,
+    "creation_timestamp": 1743787110,
+    "effective_amount": "0.001",
+    "expiration_height": 3866523,
+    "is_controlling": false,
+    "reposted": 6,
+    "support_amount": "0.0",
+    "take_over_height": 1763380
+  },
+  "name": "Pocket-Pleaser",
+  "normalized_name": "pocket-pleaser",
+  "nout": 0,
+  "permanent_url": "lbry://Pocket-Pleaser#9a1965051a9627212780479812d1087378486243",
+  "short_url": "lbry://Pocket-Pleaser#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237994,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1743980603,
+  "txid": "cd604b6bab1182137d397014b1f5903ab453843f8965461071a983ee7b66e027",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Pocket Pleaser - a 3D Printable Ruger LCP Gen1 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1743872400",
+    "source": {
+      "hash": "676735c11eb3499697e13db877754115b3199795831ee358b4b34002f895f535762f967c037bbf06fca61dd4f8ed6c7c",
+      "media_type": "application/zip",
+      "name": "Pocket Pleaser Rev2.zip",
+      "sd_hash": "9a3c4c8493c4acf578c1ab642df5cd8ba416beac1c5b4643e3e81c3bdf01456f8508a463d18ad9095a0e4d99c088c7da",
+      "size": "69844122"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "c:scheduled:hide"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/252c5c879419ded9304f5458d14f0cbe.webp"
+    },
+    "title": "The Pocket Pleaser"
+  },
+  "value_type": "stream"
+}
