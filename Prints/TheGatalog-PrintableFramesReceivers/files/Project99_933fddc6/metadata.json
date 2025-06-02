@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Project99#9",
+  "claim_id": "933fddc621c24a253acc8b0e269bbf7fa124bb17",
+  "claim_op": "update",
+  "confirmations": 899100,
+  "height": 1157665,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1157665,
+    "creation_height": 1155361,
+    "creation_timestamp": 1651855876,
+    "effective_amount": "10.75297196",
+    "expiration_height": 3260065,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "10.75197196",
+    "take_over_height": 1155440
+  },
+  "name": "Project99",
+  "normalized_name": "project99",
+  "nout": 0,
+  "permanent_url": "lbry://Project99#933fddc621c24a253acc8b0e269bbf7fa124bb17",
+  "short_url": "lbry://Project99#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1652227996,
+  "txid": "5bdb17059cc9e088da6db268f6f668fe131cb4d9bc6895f046efcb837bf4ff80",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Matthew's Patent Project 99 by Fuddbusters\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1651855581",
+    "source": {
+      "hash": "c7332ddd26c577c3ffce3ffe82902cd53729526e6f05f181699c8fc451baedf27c6b2bd1910fd508536d1a2802a0a230",
+      "media_type": "application/zip",
+      "name": "P99_Release Rev1.zip",
+      "sd_hash": "572267f2abf1e8373085d6e1932b3010887d134ef0fe0c623afda4ed2d20604e86ecbbf8716ecf709c377463a68d0340",
+      "size": "11142714"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/57af57718a1e64cc3f683878d1b88285.jpg"
+    },
+    "title": "Matthew's Patent Project 99"
+  },
+  "value_type": "stream"
+}
