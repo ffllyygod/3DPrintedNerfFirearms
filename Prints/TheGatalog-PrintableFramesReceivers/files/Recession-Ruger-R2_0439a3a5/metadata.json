@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Recession-Ruger-R2#0",
+  "claim_id": "0439a3a5d1ffc56b4182a93cb6fb3c505e7f4d0b",
+  "claim_op": "create",
+  "confirmations": 452996,
+  "height": 1603769,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1603769,
+    "creation_height": 1603769,
+    "creation_timestamp": 1721599369,
+    "effective_amount": "20.91290977",
+    "expiration_height": 3706169,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "20.91190977",
+    "take_over_height": 1603769
+  },
+  "name": "Recession-Ruger-R2",
+  "normalized_name": "recession-ruger-r2",
+  "nout": 0,
+  "permanent_url": "lbry://Recession-Ruger-R2#0439a3a5d1ffc56b4182a93cb6fb3c505e7f4d0b",
+  "short_url": "lbry://Recession-Ruger-R2#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1721599369,
+  "txid": "acfe25f471d7aa725e0736fa6836539da313d3b61f77718008c01bbac94fe7cd",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nRecession Ruger R2 - a 3D Printable Ruger P95, P85, and P89 PDW-style frame. \n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1721598963",
+    "source": {
+      "hash": "c51090d19dd255bd0e08e652001b149b26a9d12d111678625e3bdaa0ba45bf78b96b1ce155f36ad5694894726b4d5d7a",
+      "media_type": "application/zip",
+      "name": "Recession Ruger R2.zip",
+      "sd_hash": "f03754ed2ab399617f2cf67911456486f77904d9ed710cfa3f6e833ef92e09cb21fd601cb6e2526e837cb47f6875f7f9",
+      "size": "61698833"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/42a447dca058751d1e19096eb00d3c29.webp"
+    },
+    "title": "Recession Ruger R2"
+  },
+  "value_type": "stream"
+}
