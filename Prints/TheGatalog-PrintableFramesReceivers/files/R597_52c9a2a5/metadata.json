@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/R597#5",
+  "claim_id": "52c9a2a56520b2ceaf092105237377a84e6e6e82",
+  "claim_op": "create",
+  "confirmations": 705823,
+  "height": 1350942,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1350942,
+    "creation_height": 1350942,
+    "creation_timestamp": 1682882815,
+    "effective_amount": "38.93140042",
+    "expiration_height": 3453342,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "38.92140042",
+    "take_over_height": 1350942
+  },
+  "name": "R597",
+  "normalized_name": "r597",
+  "nout": 0,
+  "permanent_url": "lbry://R597#52c9a2a56520b2ceaf092105237377a84e6e6e82",
+  "short_url": "lbry://R597#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1682882815,
+  "txid": "9b7be4b91a122c00236cb771ebe2cfef850f8b4f61bcfbf9a2e0b09f7b4f64db",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe R597 3D Printable Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1682882065",
+    "source": {
+      "hash": "5ab94736e1e5b3675ac78ba128d6b55ddf5affe0cd74be7f4d266b93232619efa5ef18d99966ff85861f7e0f1cb96d14",
+      "media_type": "application/zip",
+      "name": "R597.zip",
+      "sd_hash": "08140c7129bff9671eb6340f7e865a6a8e5c4f417de3854cec4e476403ef88f1df799f5c9c653d86099398fe24e6d749",
+      "size": "4379188"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/851cb1fc90a13fa84569d5e2a28687a8.webp"
+    },
+    "title": "R597 3D Printable Receiver"
+  },
+  "value_type": "stream"
+}
