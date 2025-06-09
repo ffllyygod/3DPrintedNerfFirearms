@@ -1,0 +1,99 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SEMI-BiPoly#d",
+  "claim_id": "db060ae168095947e92bc342a6a3b1e04b197ba4",
+  "claim_op": "create",
+  "confirmations": 239735,
+  "height": 1817005,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1817005,
+    "creation_height": 1817005,
+    "creation_timestamp": 1751733139,
+    "effective_amount": "1.0",
+    "expiration_height": 3919405,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1817005
+  },
+  "name": "SEMI-BiPoly",
+  "normalized_name": "semi-bipoly",
+  "nout": 0,
+  "permanent_url": "lbry://SEMI-BiPoly#db060ae168095947e92bc342a6a3b1e04b197ba4",
+  "short_url": "lbry://SEMI-BiPoly#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1751733139,
+  "txid": "922fa23157fa86abb658e082606439f67ef177538512492772d98c4b53bd4f55",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Bi-Poly. A 3D printable AR10, AR15, AR9.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1751731457",
+    "source": {
+      "hash": "d3b8fe9086250a1fadcfb942430f82044fc523d7bfe0d4b2343c0448df18fd1f2ec607a36d9c8b85e237f4b3a0ae8de1",
+      "media_type": "application/zip",
+      "name": "SEMI-BiPoly.zip",
+      "sd_hash": "efae744eeb437910286417381b3477e2e2b0bce66382f5611fa2f4e9ca32ca014c71faccf145222dffa2d28083be4754",
+      "size": "2155411012"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ar15",
+      "guns",
+      "gatalog"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/e0d4db9031981e9abe22e4a8f42d366b.webp"
+    },
+    "title": "SEMI-BiPoly"
+  },
+  "value_type": "stream"
+}
