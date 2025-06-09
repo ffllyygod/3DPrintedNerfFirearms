@@ -1,0 +1,93 @@
+{
+  "address": "bUAWpWsGE2CHoJf4DEjKqth6uXpC4bxxpn",
+  "amount": "61.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SD9#9",
+  "claim_id": "96c6d7100addd75bb96be2cd0850ba7329e05db5",
+  "claim_op": "update",
+  "confirmations": 1111290,
+  "height": 946078,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946078,
+    "creation_height": 587537,
+    "creation_timestamp": 1561060788,
+    "effective_amount": "171.74655578",
+    "expiration_height": 3048478,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "110.74655578",
+    "take_over_height": 587537
+  },
+  "name": "SD9",
+  "normalized_name": "sd9",
+  "nout": 0,
+  "permanent_url": "lbry://SD9#96c6d7100addd75bb96be2cd0850ba7329e05db5",
+  "short_url": "lbry://SD9#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514163,
+  "txid": "474338c7a96bb143a778bd37052765733b68f042aea654daf06dfd6a1c52cc72",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\nFreeman's SD9\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1561060788",
+    "source": {
+      "hash": "e40fd604b48d03655eb585f35c676ff7c2df3cbcf305ee4fbc326af7a777b8ffa7f03726cd7b379a8192deb315715c28",
+      "media_type": "application/zip",
+      "name": "9mm-SD9_Pistol_Frame_and_DIY_Rail_System-FreeMenDontAsk.zip",
+      "sd_hash": "550f3095d3e121a72905b2249278ef92e1e98437d1d34264798948cd3de7f2778d8a710f7cddb724d48a815d1ce14175",
+      "size": "11663112"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/d/CXejQwfsDZy6L0HrGsTabYot.jpg"
+    },
+    "title": "Freeman's SD9 - 3d Printable SD9 Frame"
+  },
+  "value_type": "stream"
+}
