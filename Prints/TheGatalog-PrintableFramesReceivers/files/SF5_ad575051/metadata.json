@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SF5#a",
+  "claim_id": "ad575051553e2ab5c3b6a721756039f7461ec3e6",
+  "claim_op": "create",
+  "confirmations": 606373,
+  "height": 1450392,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1454424,
+    "creation_height": 1450392,
+    "creation_timestamp": 1698793246,
+    "effective_amount": "37.27226152",
+    "expiration_height": 3552792,
+    "is_controlling": true,
+    "reposted": 9,
+    "support_amount": "37.27126152",
+    "take_over_height": 1454484
+  },
+  "name": "SF5",
+  "normalized_name": "sf5",
+  "nout": 0,
+  "permanent_url": "lbry://SF5#ad575051553e2ab5c3b6a721756039f7461ec3e6",
+  "short_url": "lbry://SF5#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1698793246,
+  "txid": "ccc1bd0388dbb4c364549bd51d0a9253db80cb9a4dcae079e6317ede23cdbdca",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Schlank Flügelmann (SF5) - 3D Printable Universal MP5 Build\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1698793044",
+    "source": {
+      "hash": "579bd7ed1ca2531674d74d4999402c8e7090ee6060bf07b5aa31833bf9796fc16edc6d656255492bdc7ca2a36289a55a",
+      "media_type": "application/zip",
+      "name": "SF5 Package.zip",
+      "sd_hash": "66da69e91adeb53d654c444a32acf9f020d998e7153549bc0aefdedd9ac28d45df2e8a2a28345a6f90f1052b7cff92e8",
+      "size": "149243944"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/456e84a3990a211b1661010562beace0.webp"
+    },
+    "title": "The Schlank Flügelmann (SF5) - 3D Printable Universal MP5 Build"
+  },
+  "value_type": "stream"
+}
