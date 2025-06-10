@@ -1,0 +1,93 @@
+{
+  "address": "bF5HUUiLLvEHwTvrVrF9PZfce4F1FB88Bh",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SG22#b",
+  "claim_id": "b8404e7bd126e4c575091461f90a239a3b6548cd",
+  "claim_op": "create",
+  "confirmations": 1078029,
+  "height": 979339,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 979339,
+    "creation_height": 979339,
+    "creation_timestamp": 1623781265,
+    "effective_amount": "201.1308456",
+    "expiration_height": 3081739,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "201.1298456",
+    "take_over_height": 979339
+  },
+  "name": "SG22",
+  "normalized_name": "sg22",
+  "nout": 0,
+  "permanent_url": "lbry://SG22#b8404e7bd126e4c575091461f90a239a3b6548cd",
+  "short_url": "lbry://SG22#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1623781265,
+  "txid": "c1aed95865fc7a093ec3973c16107869e1b18fc112cf34f4bc4183009b5045c8",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe SG22 3D Printable AR-15/22 by Booligan\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1623781173",
+    "source": {
+      "hash": "0b97358cbe679a387d12bcde6d0ded0b24bcafac24db5f9002739da3ea31264de5785f38a2873b4123c499af37a61e4f",
+      "media_type": "application/zip",
+      "name": "SG22 Rev1.zip",
+      "sd_hash": "10afb6ae442a14fbab7db6a7687c8dc958392624e98f42e0216aeae3f576d220fe6567fdf72fc8d52ce5bf39890fac03",
+      "size": "9258778"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/e/dd5463704808fb8f.jpg"
+    },
+    "title": "SG22 3D Printable AR-15/22"
+  },
+  "value_type": "stream"
+}
