@@ -1,0 +1,93 @@
+{
+  "address": "bMTocotzKgPtGivzV2WFUpff7fpEbjf9xN",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SP2022-HerzAnHerz-v1.0#e",
+  "claim_id": "eaa836e4fa1f7a19daa31241eb4b1392a93f1933",
+  "claim_op": "create",
+  "confirmations": 1074740,
+  "height": 982628,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 982628,
+    "creation_height": 982628,
+    "creation_timestamp": 1624306166,
+    "effective_amount": "73.85793022",
+    "expiration_height": 3085028,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "73.85693022",
+    "take_over_height": 982628
+  },
+  "name": "SP2022-HerzAnHerz-v1.0",
+  "normalized_name": "sp2022-herzanherz-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://SP2022-HerzAnHerz-v1.0#eaa836e4fa1f7a19daa31241eb4b1392a93f1933",
+  "short_url": "lbry://SP2022-HerzAnHerz-v1.0#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1624306166,
+  "txid": "b5cf53ff3af246b0a80f40ce56058f79766f5d4333ab8174ce6500463d489a3b",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe HerzAnHerz - 3D Printable SP2022 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1624305823",
+    "source": {
+      "hash": "ee0764bafa6b005d2ed57527d3057afb716553e42ead06d9c3c24591ca4523c6e895b2b742d3cd59420f5471dec73f02",
+      "media_type": "application/zip",
+      "name": "SP2022-HerzAnHerz-v1.0.zip",
+      "sd_hash": "fc86139bd67c3d024ac2f288d40b0cdd9c313c1c67fe08bfe4599e474764b309bb3c4e4a741cd2eab181eb29edbeee33",
+      "size": "3434189"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/a/52a56fd172ee2805.png"
+    },
+    "title": "HerzAnHerz - 3D Printable SP2022 Frame"
+  },
+  "value_type": "stream"
+}
