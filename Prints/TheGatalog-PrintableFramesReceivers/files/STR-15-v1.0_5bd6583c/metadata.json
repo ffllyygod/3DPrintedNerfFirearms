@@ -1,0 +1,93 @@
+{
+  "address": "bEzonT39gVN2c18ErDsAPL2g844XDBY861",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/STR-15-v1.0#5",
+  "claim_id": "5bd6583c9e04c24bebba644a6df3d0d94e9138c1",
+  "claim_op": "update",
+  "confirmations": 1111280,
+  "height": 946088,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946088,
+    "creation_height": 856477,
+    "creation_timestamp": 1604245388,
+    "effective_amount": "195.65340856",
+    "expiration_height": 3048488,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "195.65240856",
+    "take_over_height": 856477
+  },
+  "name": "STR-15-v1.0",
+  "normalized_name": "str-15-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://STR-15-v1.0#5bd6583c9e04c24bebba644a6df3d0d94e9138c1",
+  "short_url": "lbry://STR-15-v1.0#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515673,
+  "txid": "4152450c60f1be83eee44d58598313aca7da038c3fa446d424b892279ccec123",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Superstar-15 3D Printable Lower Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1604245329",
+    "source": {
+      "hash": "16ec7e7b716eb331f93b8fef4a64259f6fc73f6259191d071bd89ceff634c16a2e4fe81553626570b5b743c2ef7666f0",
+      "media_type": "application/zip",
+      "name": "Superstar-15 Public Release v1.0.zip",
+      "sd_hash": "866ec39f1dd69197c80f8890ed351832076bdfba17501f78bb1f621c2ffff4a93da56dca76b525c6fc15c7a6ae221053",
+      "size": "7267073"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/3/1140ad5e658d9f71.jpg"
+    },
+    "title": "Superstar-15 3D Printable Lower Receiver"
+  },
+  "value_type": "stream"
+}
