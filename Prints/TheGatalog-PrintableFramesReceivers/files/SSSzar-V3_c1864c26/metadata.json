@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SSSzar-V3#c",
+  "claim_id": "c1864c265283bb123c1883690e85986ef8ebecd0",
+  "claim_op": "update",
+  "confirmations": 253990,
+  "height": 1802775,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1802775,
+    "creation_height": 1730163,
+    "creation_timestamp": 1739388413,
+    "effective_amount": "0.001",
+    "expiration_height": 3905175,
+    "is_controlling": false,
+    "reposted": 7,
+    "support_amount": "0.0",
+    "take_over_height": 1730613
+  },
+  "name": "SSSzar-V3",
+  "normalized_name": "ssszar-v3",
+  "nout": 0,
+  "permanent_url": "lbry://SSSzar-V3#c1864c265283bb123c1883690e85986ef8ebecd0",
+  "short_url": "lbry://SSSzar-V3#c",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1749491680,
+  "txid": "82951be1fd111eef1a23d4e5b63c08a80876adbb92590ace7b727cb7ef3e5d0c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe SSSzar V3 - 3D Printable, Super-safety compatible Vz61 receiver.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1739388319",
+    "source": {
+      "hash": "b6f13a0944f9ba1a8349d2efecf7e5666ea1dd1aceac419edab3f9c8b537bfcba1adaa0624030432f015f7c8ace64102",
+      "media_type": "application/zip",
+      "name": "SSSzar V3 REV 1.zip",
+      "sd_hash": "68a1d18f3cd77054a1371dd53f7867c533f8140b6c25c875901dfe9a72bd952b3b7bc5c51700aaa4ac9628d711cb54a7",
+      "size": "68652667"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/8d7e545ebf336e8f19428acc71c9e566.webp"
+    },
+    "title": "The SSSzar V3"
+  },
+  "value_type": "stream"
+}
