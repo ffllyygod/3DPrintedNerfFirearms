@@ -1,0 +1,93 @@
+{
+  "address": "bGYEEoLjVmB2Y4wWawBW4rueyusBvsYdfa",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SR9CPackage#1",
+  "claim_id": "17f5613b046a4d48a242b52e3c636ef98c843bb9",
+  "claim_op": "update",
+  "confirmations": 1111302,
+  "height": 946066,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946066,
+    "creation_height": 642393,
+    "creation_timestamp": 1569887149,
+    "effective_amount": "104.66734554",
+    "expiration_height": 3048466,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "104.66634554",
+    "take_over_height": 642393
+  },
+  "name": "SR9CPackage",
+  "normalized_name": "sr9cpackage",
+  "nout": 0,
+  "permanent_url": "lbry://SR9CPackage#17f5613b046a4d48a242b52e3c636ef98c843bb9",
+  "short_url": "lbry://SR9CPackage#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618512364,
+  "txid": "693727d4a3d6cb96dd7ce05852db315ff9877a55fafb71b3af595fe7bd1dcf87",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents: by FreeMenDontAsk\n\nFreeMan's SR9C 3D Printable Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1569887135",
+    "source": {
+      "hash": "4a5e3f14de54c9ab74dc0931ab16d2c73ec69e6c3a2af51337b10eb41158434871208db3e319ac00e5b6dfac6766b5b8",
+      "media_type": "application/zip",
+      "name": "SR9CPackage.zip",
+      "sd_hash": "971c1dbc05ce09fbba0ac51085d888214a4cc34cd576c47704d9984216696a04bc6f279928003492fa977c310f819485",
+      "size": "18815905"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/4/3So5UGQLWZ1OTKrgQGQhpIGO.jpg"
+    },
+    "title": "FreeMan's SR9C 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
