@@ -1,0 +1,93 @@
+{
+  "address": "bCwFhKgnPRUsEPTQSbmvckphxpmXyDpEdw",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SW1522-v1.0-Public-Release#b",
+  "claim_id": "ba95a06c6d90718c227676a2a9ff01c27732c822",
+  "claim_op": "update",
+  "confirmations": 745073,
+  "height": 1312295,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1312295,
+    "creation_height": 858275,
+    "creation_timestamp": 1604532595,
+    "effective_amount": "205.07319406",
+    "expiration_height": 3414695,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "205.07219406",
+    "take_over_height": 858275
+  },
+  "name": "SW1522-v1.0-Public-Release",
+  "normalized_name": "sw1522-v1.0-public-release",
+  "nout": 0,
+  "permanent_url": "lbry://SW1522-v1.0-Public-Release#ba95a06c6d90718c227676a2a9ff01c27732c822",
+  "short_url": "lbry://SW1522-v1.0-Public-Release#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1676687513,
+  "txid": "9da7924f4c9f4ac364259cc65e3ba2c2ed89f4cbe16d53b9fecadf94f39ab2f9",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe SW1522 3D Printable Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1604532567",
+    "source": {
+      "hash": "966fa140d61ee8f31bc956065392e27583a6bf3a14232664cd0db0d3d4dc1d4de03d29f7c864ea403e2d89c1d3ff5194",
+      "media_type": "application/zip",
+      "name": "SW1522 v2.0.zip",
+      "sd_hash": "5e6dfe0ee4b706d980ad2d48fb346a14b526df04c8cc2faa6ac475539eed1a83ea5d195d7432e2b6f3a4baf4efba871f",
+      "size": "12789609"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/3/5df089dcff67016a.png"
+    },
+    "title": "SW1522 3D Printable Receiver"
+  },
+  "value_type": "stream"
+}
