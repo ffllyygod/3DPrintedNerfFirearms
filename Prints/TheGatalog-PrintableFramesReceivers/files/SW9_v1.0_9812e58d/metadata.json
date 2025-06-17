@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SW9_v1.0#9",
+  "claim_id": "9812e58d5d4199827ea5f519b33c98c07861dede",
+  "claim_op": "create",
+  "confirmations": 981076,
+  "height": 1076266,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1076266,
+    "creation_height": 1076266,
+    "creation_timestamp": 1639175376,
+    "effective_amount": "24.84833996",
+    "expiration_height": 3178666,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "24.83833996",
+    "take_over_height": 1076266
+  },
+  "name": "SW9_v1.0",
+  "normalized_name": "sw9_v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://SW9_v1.0#9812e58d5d4199827ea5f519b33c98c07861dede",
+  "short_url": "lbry://SW9_v1.0#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238579,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1639175376,
+  "txid": "667312e1b5bfec75a79c549598f516c0d233bc2d1fe34e7abbd010f71e4f2bf2",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nVinh's SW9 - 3D Printable SW9 Frame\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1639175202",
+    "source": {
+      "hash": "495b3a2885baa2c016109d243c80a7eb7bff21f447a56ccd29d89eff315fbe9efc4f86368b6457400808003636a2435b",
+      "media_type": "application/zip",
+      "name": "SW9_v1.0.zip",
+      "sd_hash": "803ad3140e25f8e082b8092c0ba0e5507d1cae0c0e9365a2c09ed2706dab559173c0eaa2e232cf5acd99948139dc8edd",
+      "size": "18219721"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/3/186513a3af6a3428.jpg"
+    },
+    "title": "Vinh's SW9 - 3D Printable SW9 Frame"
+  },
+  "value_type": "stream"
+}
