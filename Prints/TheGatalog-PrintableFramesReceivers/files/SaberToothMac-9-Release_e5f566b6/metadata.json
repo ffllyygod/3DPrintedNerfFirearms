@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SaberToothMac-9-Release#e",
+  "claim_id": "e5f566b6d2c5e90c7a9c357c06464ea436544b21",
+  "claim_op": "create",
+  "confirmations": 912666,
+  "height": 1144099,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1144099,
+    "creation_height": 1144099,
+    "creation_timestamp": 1650045663,
+    "effective_amount": "10.12992344",
+    "expiration_height": 3246499,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "10.12892344",
+    "take_over_height": 1144099
+  },
+  "name": "SaberToothMac-9-Release",
+  "normalized_name": "sabertoothmac-9-release",
+  "nout": 0,
+  "permanent_url": "lbry://SaberToothMac-9-Release#e5f566b6d2c5e90c7a9c357c06464ea436544b21",
+  "short_url": "lbry://SaberToothMac-9-Release#e",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1650045663,
+  "txid": "d0eb154b87d8fd15f8cf4655494cc1ded668b7b7f307a2d99818b1e6cd5a1093",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Saber-Tooth Mac-9 3D Printable M11-9 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1650045505",
+    "source": {
+      "hash": "c65d439217e92144f0ee1f53f5d265bad9dc19ced5340d8b319c9aa7bed8c891f589a6a6684b0007abc7eeba7f9094c6",
+      "media_type": "application/zip",
+      "name": "SaberToothMac-9-Release.zip",
+      "sd_hash": "2679ab46e2d06b908c4398e6891b204e021ca8234f429fed2bbbe2dea8cd18d57640851fadcbb2f44e3725c0a870f124",
+      "size": "21548971"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/104c0cb225c9a3dd4fc2834d7e5831b5.jpg"
+    },
+    "title": "The Saber-Tooth Mac-9"
+  },
+  "value_type": "stream"
+}
