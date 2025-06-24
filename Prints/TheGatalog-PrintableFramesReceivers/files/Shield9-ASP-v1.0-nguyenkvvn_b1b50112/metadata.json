@@ -1,0 +1,93 @@
+{
+  "address": "bNPaLPTioXYgnqeJR8e8wrm23jDqmoj7to",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Shield9-ASP-v1.0-nguyenkvvn#b",
+  "claim_id": "b1b5011277b0c977a327b095c14b1283fefe3282",
+  "claim_op": "update",
+  "confirmations": 1111280,
+  "height": 946088,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946088,
+    "creation_height": 891196,
+    "creation_timestamp": 1609783591,
+    "effective_amount": "225.95771025",
+    "expiration_height": 3048488,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "225.95671025",
+    "take_over_height": 891196
+  },
+  "name": "Shield9-ASP-v1.0-nguyenkvvn",
+  "normalized_name": "shield9-asp-v1.0-nguyenkvvn",
+  "nout": 0,
+  "permanent_url": "lbry://Shield9-ASP-v1.0-nguyenkvvn#b1b5011277b0c977a327b095c14b1283fefe3282",
+  "short_url": "lbry://Shield9-ASP-v1.0-nguyenkvvn#b",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515673,
+  "txid": "c38fd2805040358233c935f36a3e83d9bce7406b4fafc092f9f86eddd3b1e98f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Shield 9 ASP by nguyenkvvn\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1609783481",
+    "source": {
+      "hash": "4b02d16ddf7449ebebaaddbde9d4c3dea27ac0aeff53b78643f4e4a7158ad6a8260b90af5f9a86b5ebcf0cdd9eec1f51",
+      "media_type": "application/zip",
+      "name": "Shield9-ASP v1.0 nguyenkvvn.zip",
+      "sd_hash": "a71b0c731fbcc9b90d5ef021af80c69c23c3a704c64148efc2edc506c7aa86121148f4f12000f6e60d41f2386cc46c84",
+      "size": "8162829"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/b/fb7d71cdee517681.jpg"
+    },
+    "title": "Shield 9 ASP"
+  },
+  "value_type": "stream"
+}
