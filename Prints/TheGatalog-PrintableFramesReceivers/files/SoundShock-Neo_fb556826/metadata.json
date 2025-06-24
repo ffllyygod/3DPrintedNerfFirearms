@@ -1,0 +1,98 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/SoundShock-Neo#f",
+  "claim_id": "fb556826d6e220cede661688bbf5f4775d1760ce",
+  "claim_op": "create",
+  "confirmations": 208483,
+  "height": 1848257,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1848257,
+    "creation_height": 1848257,
+    "creation_timestamp": 1756385006,
+    "effective_amount": "1.0",
+    "expiration_height": 3950657,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1848257
+  },
+  "name": "SoundShock-Neo",
+  "normalized_name": "soundshock-neo",
+  "nout": 0,
+  "permanent_url": "lbry://SoundShock-Neo#fb556826d6e220cede661688bbf5f4775d1760ce",
+  "short_url": "lbry://SoundShock-Neo#f",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1756385006,
+  "txid": "32adb9f5970605ee3de5324f0d68ef5c00e782b19cb699bc1502b063312a0a9c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe SoundShock Neos - 3D Printable Beretta U22 Neo\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1756384295",
+    "source": {
+      "hash": "08b1b9180417f4d1ec64ace45217712d6107289339457dfc571085813a038fe7017f23e79e3a09f65d28b7e5cddc337f",
+      "media_type": "application/zip",
+      "name": "SoundShock Neos.zip",
+      "sd_hash": "afd830c61c638159d052e8e0cb40b632a04363b4fd616eb9db1900fa4fd69bb52a9d4612f7d5e3fd9e19714ea900b619",
+      "size": "47546022"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "neo"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/c18853f138de64e1eb6afa55a50cd085.webp"
+    },
+    "title": "The SoundShock Neo"
+  },
+  "value_type": "stream"
+}
