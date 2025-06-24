@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Sphynx_V1#6",
+  "claim_id": "6f5e13d9f42021dbb231a031d4ba698c6e11d9ac",
+  "claim_op": "create",
+  "confirmations": 356368,
+  "height": 1700397,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1700397,
+    "creation_height": 1700397,
+    "creation_timestamp": 1735267520,
+    "effective_amount": "0.001",
+    "expiration_height": 3802797,
+    "is_controlling": false,
+    "reposted": 11,
+    "support_amount": "0.0",
+    "take_over_height": 1700423
+  },
+  "name": "Sphynx_V1",
+  "normalized_name": "sphynx_v1",
+  "nout": 0,
+  "permanent_url": "lbry://Sphynx_V1#6f5e13d9f42021dbb231a031d4ba698c6e11d9ac",
+  "short_url": "lbry://Sphynx_V1#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1735267520,
+  "txid": "cfd188f7de1aa2f8047972eead161492cea7a663b0f33da9cd500855cb5e06fc",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Sphynx - 3D Printable M9-Series Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1735267064",
+    "source": {
+      "hash": "ead2ab765786001bb2e5ce7939ee8ce40daf167c891e1f8b7d506dc45ab3b4b61a073a0f43496d8de475b8576b0adf1d",
+      "media_type": "application/zip",
+      "name": "Sphynx_V1.zip",
+      "sd_hash": "23e07b2dadfc3add01d8f61895610005536edda3f3264e3cabcc09fe9853bcaee0352e90a9dd11a59e7e68ed0e9a4654",
+      "size": "107827711"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f57d50fc052566d82f9288375c8bebef.webp"
+    },
+    "title": "The Sphynx - 3D Printable M9-Series Frame"
+  },
+  "value_type": "stream"
+}
