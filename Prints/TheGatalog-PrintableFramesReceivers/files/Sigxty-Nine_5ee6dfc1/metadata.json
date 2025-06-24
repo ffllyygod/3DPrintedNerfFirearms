@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.1",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Sigxty-Nine#5",
+  "claim_id": "5ee6dfc1a06eed6ab067b1811cf0168ecf98bbe3",
+  "claim_op": "create",
+  "confirmations": 540814,
+  "height": 1515951,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1515951,
+    "creation_height": 1515951,
+    "creation_timestamp": 1709304886,
+    "effective_amount": "20.2771622",
+    "expiration_height": 3618351,
+    "is_controlling": true,
+    "reposted": 7,
+    "support_amount": "20.1771622",
+    "take_over_height": 1515951
+  },
+  "name": "Sigxty-Nine",
+  "normalized_name": "sigxty-nine",
+  "nout": 0,
+  "permanent_url": "lbry://Sigxty-Nine#5ee6dfc1a06eed6ab067b1811cf0168ecf98bbe3",
+  "short_url": "lbry://Sigxty-Nine#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1709304886,
+  "txid": "6b28d37affc38ebfc890bd6cf40f8142bd9a094650545aa668d721e5ce57a0d3",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Sigxty Nine 3D Printable P226/8/9 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1709304763",
+    "source": {
+      "hash": "af955cbf8e6f87b02f8a2f9d3c65d42efce502ebf6124ce4abb2db2bd487026f2094e5f298e2328103904df4f1a6f988",
+      "media_type": "application/zip",
+      "name": "Sigxty Nine.zip",
+      "sd_hash": "44ce391753263b1a423d15bed0df3d7f674155699354889ce1c3f627c44c384a4c771fc66a43df517b4236062e406a22",
+      "size": "26447470"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/d8dc25b1eeaafe2363eba8e0f4d328ef.webp"
+    },
+    "title": "Sigxty Nine - 3D Printable P226/8/9 Frame"
+  },
+  "value_type": "stream"
+}
