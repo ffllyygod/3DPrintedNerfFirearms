@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/TacDaddy-Release-Package#7",
+  "claim_id": "7a58cc3037c08221cf356d8c49b9dc9029ec4963",
+  "claim_op": "update",
+  "confirmations": 835043,
+  "height": 1221722,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1221722,
+    "creation_height": 1215825,
+    "creation_timestamp": 1661562951,
+    "effective_amount": "127.41328954",
+    "expiration_height": 3324122,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "127.40328954",
+    "take_over_height": 1215825
+  },
+  "name": "TacDaddy-Release-Package",
+  "normalized_name": "tacdaddy-release-package",
+  "nout": 0,
+  "permanent_url": "lbry://TacDaddy-Release-Package#7a58cc3037c08221cf356d8c49b9dc9029ec4963",
+  "short_url": "lbry://TacDaddy-Release-Package#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1662508653,
+  "txid": "07b19867a7e47e81b6ad26ff69665a4cdd6f2ce80cff78e3b176f6bf8e6684cc",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe TacDaddy by CTRLPew\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1661562739",
+    "source": {
+      "hash": "23b22671fa3f617b8d682125746635439c29be179a99ac0a42652e80fb262fd9901062fb9032cc23990a9b66d5981cb1",
+      "media_type": "application/zip",
+      "name": "TacDaddy Release Package Rev3.zip",
+      "sd_hash": "800c210b921ef8464284d1819191b4abb365920b7f94831d89b53559ac22e98767dbab0886a424e83b3ffb9be51f175e",
+      "size": "43769485"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/48b459402048676df2122d687761f873.webp"
+    },
+    "title": "The TacDaddy"
+  },
+  "value_type": "stream"
+}
