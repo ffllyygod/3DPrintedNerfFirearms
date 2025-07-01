@@ -1,0 +1,93 @@
+{
+  "address": "bPNdjLwd6riWhE5VkVXpMZ7BkzWHWyfjcv",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Tec9BV1-5#9",
+  "claim_id": "9529a2bf17a675be48a40e344f18f5a2759c847f",
+  "claim_op": "update",
+  "confirmations": 1111293,
+  "height": 946075,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946075,
+    "creation_height": 712294,
+    "creation_timestamp": 1581097839,
+    "effective_amount": "266.48683353",
+    "expiration_height": 3048475,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "266.48583353",
+    "take_over_height": 712294
+  },
+  "name": "Tec9BV1-5",
+  "normalized_name": "tec9bv1-5",
+  "nout": 0,
+  "permanent_url": "lbry://Tec9BV1-5#9529a2bf17a675be48a40e344f18f5a2759c847f",
+  "short_url": "lbry://Tec9BV1-5#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618513432,
+  "txid": "1f0e555fb7cd6e195ce0a8b2953f595d12714b8c3e8cc5a105de1f702c0dee3a",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nFreeman's 'Ghetto Blaster' - a 3d printable Tec9/AB10 frame that takes Glock mags\n\nNow includes versions 1-5.\n\n>Does it take Glock mags?\n\nYes.\n\n\nJoin the community at thegatalog.com\n\n\nVersion 1.1\nChanges - Added mag catch files",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1581097406",
+    "source": {
+      "hash": "5b0f9b5d50d11e2acdbb8641b889fbe526e018b4d6187153e51bf31fdabdc1e403a747973d64c571789de3036a7da1e6",
+      "media_type": "application/zip",
+      "name": "Tec9.zip",
+      "sd_hash": "a1af360a98577d48cddfb666856e16addae6cf3a3ddb2bdf2f0834ed92dd0869ff4541e8d0b97e6d920b0bcdbd6ba1fd",
+      "size": "33126738"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/f/zhGjIqD2KfhoFgeIeKb4pm2I.jpeg"
+    },
+    "title": "Freeman's 'Ghetto Blaster' - Tec9/AB10 Printable Frame (Glock mag compatible) - Versions 1-5"
+  },
+  "value_type": "stream"
+}
