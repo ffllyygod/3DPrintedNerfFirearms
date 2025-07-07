@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.1",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Bozkurt-Canik-TP9#c",
+  "claim_id": "c4a9f379d9acd00e066ee83c82568b1e48fbcd48",
+  "claim_op": "create",
+  "confirmations": 556208,
+  "height": 1500557,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1500557,
+    "creation_height": 1500557,
+    "creation_timestamp": 1706835325,
+    "effective_amount": "20.28648162",
+    "expiration_height": 3602957,
+    "is_controlling": true,
+    "reposted": 6,
+    "support_amount": "20.18648162",
+    "take_over_height": 1500557
+  },
+  "name": "The-Bozkurt-Canik-TP9",
+  "normalized_name": "the-bozkurt-canik-tp9",
+  "nout": 0,
+  "permanent_url": "lbry://The-Bozkurt-Canik-TP9#c4a9f379d9acd00e066ee83c82568b1e48fbcd48",
+  "short_url": "lbry://The-Bozkurt-Canik-TP9#c",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1706835325,
+  "txid": "04840e5bc56422b94f601dc90a628011f4da917aa46ee88b3cc6037666c69398",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Bozkurt Canik TP9 - 3D Printable TP9 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1706835025",
+    "source": {
+      "hash": "b29258ecef3b1187bb4e4d842ea04ba12f35f02bc817aa1d471d15700815f21bdb052b1410b58e1645d2cd482878f3fd",
+      "media_type": "application/zip",
+      "name": "The Bozkurt Canik TP9.zip",
+      "sd_hash": "aea78ed802562354a09bcc94cdf32051f97b7b01e129a71cf41579bf50557f65b7e18f26f7f8c23dffd0178cc3a2c578",
+      "size": "38102878"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/8c2c99df75fa78d031a7d2d19fc21dc8.webp"
+    },
+    "title": "The Bozkurt Canik TP9"
+  },
+  "value_type": "stream"
+}
