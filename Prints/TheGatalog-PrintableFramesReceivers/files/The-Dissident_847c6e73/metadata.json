@@ -1,0 +1,97 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Dissident#8",
+  "claim_id": "847c6e73a6126252b2c6a14a616e1a5b92254f66",
+  "claim_op": "create",
+  "confirmations": 264989,
+  "height": 1791751,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1791751,
+    "creation_height": 1791751,
+    "creation_timestamp": 1747879907,
+    "effective_amount": "1.0",
+    "expiration_height": 3894151,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1791751
+  },
+  "name": "The-Dissident",
+  "normalized_name": "the-dissident",
+  "nout": 0,
+  "permanent_url": "lbry://The-Dissident#847c6e73a6126252b2c6a14a616e1a5b92254f66",
+  "short_url": "lbry://The-Dissident#8",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1747879907,
+  "txid": "a9f80dae885f96c5fdb0bcdf5e8ae3b94a070bc067411f82a4b090b9ad67842b",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Dissident - Printable bufferless AR using the CMMG Dissent bolt\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1747879713",
+    "source": {
+      "hash": "3e470118a150b221d69e1815b555c43b8b3d865ae428a1664ad311c0d22cd9e7fc8d6e9d3fefe6ab0c5629fb14e86875",
+      "media_type": "application/zip",
+      "name": "The Dissident.zip",
+      "sd_hash": "803a137dc989bc0c44cf58951523cf3395d5f2dd1e2dedd747a3c9b224a77d7cd3c01e468863b433547b4d41c0ae274b",
+      "size": "69580820"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "ar15",
+      "cmmg"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/2a65f01c312692c1944e7229ed0f7213.webp"
+    },
+    "title": "The Dissident"
+  },
+  "value_type": "stream"
+}
