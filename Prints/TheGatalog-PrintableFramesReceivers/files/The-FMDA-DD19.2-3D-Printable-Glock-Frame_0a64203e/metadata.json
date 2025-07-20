@@ -1,0 +1,96 @@
+{
+  "address": "bJRdHuZx9qDDNCsqx5jd1jM2n7H9mRoUiU",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-FMDA-DD19.2-3D-Printable-Glock-Frame#0",
+  "claim_id": "0a64203e178b7fe5813fbea65cdb4697f5004349",
+  "claim_op": "update",
+  "confirmations": 1090159,
+  "height": 967209,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 967209,
+    "creation_height": 908389,
+    "creation_timestamp": 1612547106,
+    "effective_amount": "399.73108824",
+    "expiration_height": 3069609,
+    "is_controlling": true,
+    "reposted": 8,
+    "support_amount": "399.73008824",
+    "take_over_height": 908389
+  },
+  "name": "The-FMDA-DD19.2-3D-Printable-Glock-Frame",
+  "normalized_name": "the-fmda-dd19.2-3d-printable-glock-frame",
+  "nout": 0,
+  "permanent_url": "lbry://The-FMDA-DD19.2-3D-Printable-Glock-Frame#0a64203e178b7fe5813fbea65cdb4697f5004349",
+  "short_url": "lbry://The-FMDA-DD19.2-3D-Printable-Glock-Frame#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1621871718,
+  "txid": "0ea06195f0cd38aadf8157a65d6e7404a1129fc04cea7900421e6dfeea7df1df",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe FMDA DD19.2 3D Printable Glock Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1612546992",
+    "source": {
+      "hash": "c7ae7203913d9477a3e1448c5d495a726902ad1ae13ad66572afef0bfbe47408fd5f22e59dbc011846257550f8f2c20b",
+      "media_type": "application/zip",
+      "name": "FMDA DD19.2 Rev3.zip",
+      "sd_hash": "9d6994f4dc9aa8308da35aa14a70e5a0df92a85942b995d8ecd081d912e4231e3e47720d7ad96dab492b727c23cdd9e6",
+      "size": "141471358"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "recommended"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/3/7c45a997837d6baf.jpg"
+    },
+    "title": "The FMDA DD19.2 3D Printable Glock Frame"
+  },
+  "value_type": "stream"
+}
