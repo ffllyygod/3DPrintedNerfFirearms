@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Glocknofsky#d",
+  "claim_id": "d197ba8bdfff310357795e8294fd0297e725635e",
+  "claim_op": "create",
+  "confirmations": 869665,
+  "height": 1187100,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1187100,
+    "creation_height": 1187100,
+    "creation_timestamp": 1656955510,
+    "effective_amount": "22.86215833",
+    "expiration_height": 3289500,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "22.85215833",
+    "take_over_height": 1187100
+  },
+  "name": "The-Glocknofsky",
+  "normalized_name": "the-glocknofsky",
+  "nout": 0,
+  "permanent_url": "lbry://The-Glocknofsky#d197ba8bdfff310357795e8294fd0297e725635e",
+  "short_url": "lbry://The-Glocknofsky#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1656955510,
+  "txid": "6e07541bf77d9092269bb599586d26c2ed30dab96996d1d0c3e5f185c76a81d1",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Glocknofsky - a 3D Printable Double Glock Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1656954915",
+    "source": {
+      "hash": "a266596ae8237336efcd8d041c73af0b1b4be71102655f619c188a486839437d1f06b9e8b6e52acc35bc4479b191f748",
+      "media_type": "application/zip",
+      "name": "The Glocknofsky.zip",
+      "sd_hash": "c145dcc9af4f6c186bdeb467c97fbf7571948925a8aac6df499cc21813ed87b29caecf0a8521c9c09269365c57c99a0c",
+      "size": "151310528"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/9cfdc04225d2fbf1897bba602710e873.webp"
+    },
+    "title": "The Glocknofsky"
+  },
+  "value_type": "stream"
+}
