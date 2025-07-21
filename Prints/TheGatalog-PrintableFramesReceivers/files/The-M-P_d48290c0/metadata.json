@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-M-P#d",
+  "claim_id": "d48290c061f9dd1778ece19c57a15da3cb32290f",
+  "claim_op": "create",
+  "confirmations": 607076,
+  "height": 1449689,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1449689,
+    "creation_height": 1449689,
+    "creation_timestamp": 1698680822,
+    "effective_amount": "16.13754913",
+    "expiration_height": 3552089,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "16.13654913",
+    "take_over_height": 1449689
+  },
+  "name": "The-M-P",
+  "normalized_name": "the-m-p",
+  "nout": 0,
+  "permanent_url": "lbry://The-M-P#d48290c061f9dd1778ece19c57a15da3cb32290f",
+  "short_url": "lbry://The-M-P#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1698680822,
+  "txid": "1dfe653c5d243236acf113776f7e29b519b73b0c75dbbb68b9c2a96367a7ef6f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe M&P 3D Printable M&P9 / M&P40 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1698680705",
+    "source": {
+      "hash": "53d13ac54d57862ef1e25af75e622f9f3fb182df46749922f95c52efbae91f8204b8920df87e1ae1d36f1f9f060d06fe",
+      "media_type": "application/zip",
+      "name": "The M&P by Wunder9.zip",
+      "sd_hash": "43642611955012fd583c01eddd8076e434e2c74c9aa3ebd55f38a17b2d20353c946ca667df9c6943bb3892e838e1b9dc",
+      "size": "53639904"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/19bec6825ea3eee3c7f6b9bda31f64c0.webp"
+    },
+    "title": "The M&P 3D Printable M&P9 / M&P40 Frame"
+  },
+  "value_type": "stream"
+}
