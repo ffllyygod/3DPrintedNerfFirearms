@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Hornet#3",
+  "claim_id": "3eda596a493bf9f5c934853ee49e4cb2e6ed33cc",
+  "claim_op": "create",
+  "confirmations": 456097,
+  "height": 1600668,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1600668,
+    "creation_height": 1600668,
+    "creation_timestamp": 1721164456,
+    "effective_amount": "25.82121376",
+    "expiration_height": 3703068,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "25.82021376",
+    "take_over_height": 1600668
+  },
+  "name": "The-Hornet",
+  "normalized_name": "the-hornet",
+  "nout": 0,
+  "permanent_url": "lbry://The-Hornet#3eda596a493bf9f5c934853ee49e4cb2e6ed33cc",
+  "short_url": "lbry://The-Hornet#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1721164456,
+  "txid": "c8db81df1f1acb58cc95122a203371444a145320cf4571133949d076ef9934ea",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Hornet - a 3D Printable DB9 (Diamonback) Frame (Supports Gen 1 -3, with a remix to support Gen 4)\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1721164379",
+    "source": {
+      "hash": "210e6c3836c65151a5ce0b6fe1af141f3e8219d9e2e299f19cce28273c604a878e4d3fff97a57426ffb2361f79fbe6a7",
+      "media_type": "application/zip",
+      "name": "The Hornet.zip",
+      "sd_hash": "6162c041c36b372f7bf68e35271c9c347dfdf2182ae027706506501c1636cb6380e82b5cb32ecb76d67f4a57746e35d4",
+      "size": "47966036"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/c6d1c11d2081b71f0396c850e79e8c89.webp"
+    },
+    "title": "The Hornet"
+  },
+  "value_type": "stream"
+}
