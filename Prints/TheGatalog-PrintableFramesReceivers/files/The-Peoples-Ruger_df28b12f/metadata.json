@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Peoples-Ruger#d",
+  "claim_id": "df28b12fa15c5369e138fdcaa005088b61a1bac5",
+  "claim_op": "update",
+  "confirmations": 319538,
+  "height": 1737227,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1737227,
+    "creation_height": 1693368,
+    "creation_timestamp": 1734284363,
+    "effective_amount": "0.001",
+    "expiration_height": 3839627,
+    "is_controlling": false,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1693427
+  },
+  "name": "The-Peoples-Ruger",
+  "normalized_name": "the-peoples-ruger",
+  "nout": 0,
+  "permanent_url": "lbry://The-Peoples-Ruger#df28b12fa15c5369e138fdcaa005088b61a1bac5",
+  "short_url": "lbry://The-Peoples-Ruger#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1740333771,
+  "txid": "b944f8b6686b417777f0704256d70df5c9a03e37af91297990c0f7f614275293",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe People's Ruger - a 3D Printable P95 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1734284224",
+    "source": {
+      "hash": "533fcb79d50787e9fae91039fadf07489ca1a11ab68b2a29c00c56c01b1ee53bb043ad71ac6eaf9b73096f52a28ac1bc",
+      "media_type": "application/zip",
+      "name": "The Peoples Ruger Rev2.zip",
+      "sd_hash": "a4e7edf9a2d38cb221ad858a2b8783b2dd34f864c20a69c1820ac05ee60a6717884a8dc7b493d176af5a8742a90bd638",
+      "size": "30444645"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/df663382fb9c648940f663e5b1cefa21.webp"
+    },
+    "title": "The People's Ruger - 3D Printable P95 Frame"
+  },
+  "value_type": "stream"
+}
