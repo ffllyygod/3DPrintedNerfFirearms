@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Monarch-and-The-Apple-Pie#d",
+  "claim_id": "def016a9c9d77f47823b22600a88f2ead8b16c19",
+  "claim_op": "create",
+  "confirmations": 823357,
+  "height": 1233408,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1233408,
+    "creation_height": 1233408,
+    "creation_timestamp": 1664383406,
+    "effective_amount": "119.98825196",
+    "expiration_height": 3335808,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "119.97825196",
+    "take_over_height": 1233408
+  },
+  "name": "The-Monarch-and-The-Apple-Pie",
+  "normalized_name": "the-monarch-and-the-apple-pie",
+  "nout": 0,
+  "permanent_url": "lbry://The-Monarch-and-The-Apple-Pie#def016a9c9d77f47823b22600a88f2ead8b16c19",
+  "short_url": "lbry://The-Monarch-and-The-Apple-Pie#d",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1664383406,
+  "txid": "1713e0cda38602940c276d04f3e326843f12b2a78ced71f0af9d76aeb6e5acf2",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Monarch and The Apple Pie - 3D Printable Manually Operated AR-15s\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1664382541",
+    "source": {
+      "hash": "6739dc444cdd7f27eb6a63a646fbbdf2fcd7c2a853e0d965c1c0dde86d0195f7d2b448a2e3afc2696b5195de9828e129",
+      "media_type": "application/zip",
+      "name": "The Monarch and The Apple Pie.zip",
+      "sd_hash": "aec70a06323f8e88103be988e277f149995fdd323bca078043112181e4eae8b66fb3ddf7b9e642464f1d6f3294306b73",
+      "size": "486565819"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/f3efc94a1e7f939c76fdbec50d609339.webp"
+    },
+    "title": "The Monarch and The Apple Pie"
+  },
+  "value_type": "stream"
+}
