@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Regular-1022#6",
+  "claim_id": "6391de9d8226c6e4423ec2c297dba043de4de508",
+  "claim_op": "create",
+  "confirmations": 294033,
+  "height": 1762724,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1762724,
+    "creation_height": 1762724,
+    "creation_timestamp": 1743784216,
+    "effective_amount": "0.001",
+    "expiration_height": 3865124,
+    "is_controlling": false,
+    "reposted": 6,
+    "support_amount": "0.0",
+    "take_over_height": 1762731
+  },
+  "name": "The-Regular-1022",
+  "normalized_name": "the-regular-1022",
+  "nout": 0,
+  "permanent_url": "lbry://The-Regular-1022#6391de9d8226c6e4423ec2c297dba043de4de508",
+  "short_url": "lbry://The-Regular-1022#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237994,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1743784216,
+  "txid": "a991dae049be06701570b2103f744ca2adc2d6297dfd7b3717a69ef2d90fbbb9",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Regular 1022 - a 3D Printable 10/22 Receiver with an optional Stock Set\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1743783729",
+    "source": {
+      "hash": "9e2575970d070b8eda351c0c3ca7dcb7ae15fe07614b3d18790b68a4eddc354b0fd478af9b29cea76ef4bc8c26a1d393",
+      "media_type": "application/zip",
+      "name": "The Regular 1022.zip",
+      "sd_hash": "eb3321432d2259edf6ce47b1e42741d20e6abec33479375108eb6c77f284e4cac15cb8490d7045b0237cea645ceb9d14",
+      "size": "74461165"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/c71c2debc753b657323f817e3294f58c.webp"
+    },
+    "title": "The Regular 1022"
+  },
+  "value_type": "stream"
+}
