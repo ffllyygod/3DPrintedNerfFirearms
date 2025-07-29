@@ -1,0 +1,93 @@
+{
+  "address": "bDSVWsxsVq8ograpXCNaVAmoZpAXur3fyR",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Thunderbolt#4",
+  "claim_id": "40f49a7a31725cb7ae3c035a080154db14c60ff3",
+  "claim_op": "update",
+  "confirmations": 1019537,
+  "height": 1037831,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1037831,
+    "creation_height": 1013125,
+    "creation_timestamp": 1629128282,
+    "effective_amount": "150.59842369",
+    "expiration_height": 3140231,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "150.59742369",
+    "take_over_height": 1014770
+  },
+  "name": "Thunderbolt",
+  "normalized_name": "thunderbolt",
+  "nout": 0,
+  "permanent_url": "lbry://Thunderbolt#40f49a7a31725cb7ae3c035a080154db14c60ff3",
+  "short_url": "lbry://Thunderbolt#4",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1633047778,
+  "txid": "c2ecc3a75dfae418c382f4148e70fc7f27b65e20d3a3bc7c300884b7787e8dd0",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Thunderbolt V2 3D Printable AR10 Lower Receiver\n\nJoin the community: thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1629128226",
+    "source": {
+      "hash": "26f793cf826c309a0f48ce3bd1b5a026fb49cbb86abc21a3b0d694bd08fcf0eafba37f0a7c974cffa60289491bbb1304",
+      "media_type": "application/zip",
+      "name": "Thunderbolt 2.0.zip",
+      "sd_hash": "13979bbfbc7bb3f8c2046b3dc93deab07add6acf2ff8ef9a3b77c6b55673f48de38dc07d70a5999b24aafaf09d3c70e5",
+      "size": "22829615"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/7c9e8ff49d6a4a7f.jpg"
+    },
+    "title": "The Thunderbolt V2 3D Printable AR10 Lower Receiver"
+  },
+  "value_type": "stream"
+}
