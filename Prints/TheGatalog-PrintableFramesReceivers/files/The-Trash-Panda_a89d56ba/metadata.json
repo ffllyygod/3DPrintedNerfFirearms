@@ -1,0 +1,100 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/The-Trash-Panda#a",
+  "claim_id": "a89d56ba7dc0423148c7a1b410e09a4b6ffa81ef",
+  "claim_op": "create",
+  "confirmations": 110826,
+  "height": 1945914,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1945914,
+    "creation_height": 1945914,
+    "creation_timestamp": 1769110341,
+    "effective_amount": "5.001",
+    "expiration_height": 4048314,
+    "is_controlling": true,
+    "reposted": 5,
+    "support_amount": "5.0",
+    "take_over_height": 1947168
+  },
+  "name": "The-Trash-Panda",
+  "normalized_name": "the-trash-panda",
+  "nout": 0,
+  "permanent_url": "lbry://The-Trash-Panda#a89d56ba7dc0423148c7a1b410e09a4b6ffa81ef",
+  "short_url": "lbry://The-Trash-Panda#a",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1769110341,
+  "txid": "487f2753ab640de52c74792732df36435e677b935ced21f4c6fbd88f2fdd2b00",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\nThe Trash Panda.  A 3D printable lever action AR15.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1769110207",
+    "source": {
+      "hash": "04de8d24f2a0ce6f619223b142383c08dd1d1491220bb9fad31b81b52233c84abec07e2a9520cf43d21e4bcd3346bfdd",
+      "media_type": "application/zip",
+      "name": "The Trash Panda.zip",
+      "sd_hash": "43a7fb703e57ad47fa64cd459753d6f975d95cb5be1e88bff98d9f486535642576d0e065e8a6f4d2eb94e3599faaa4a7",
+      "size": "56258680"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3dprinted",
+      "guns",
+      "ar15",
+      "thegatalog",
+      "leveraction"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/b5f62a4cb4ea7cd5cfbd8d5f2243aba8.webp"
+    },
+    "title": "The Trash Panda"
+  },
+  "value_type": "stream"
+}
