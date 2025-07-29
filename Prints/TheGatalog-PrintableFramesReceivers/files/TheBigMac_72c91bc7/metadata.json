@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/TheBigMac#7",
+  "claim_id": "72c91bc707e57a89f400b10981eec76468037bd9",
+  "claim_op": "update",
+  "confirmations": 607057,
+  "height": 1449708,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1449708,
+    "creation_height": 1449692,
+    "creation_timestamp": 1698681358,
+    "effective_amount": "25.42533326",
+    "expiration_height": 3552108,
+    "is_controlling": true,
+    "reposted": 7,
+    "support_amount": "25.42433326",
+    "take_over_height": 1449719
+  },
+  "name": "TheBigMac",
+  "normalized_name": "thebigmac",
+  "nout": 0,
+  "permanent_url": "lbry://TheBigMac#72c91bc707e57a89f400b10981eec76468037bd9",
+  "short_url": "lbry://TheBigMac#7",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1698683620,
+  "txid": "e149764f5e90a8076279aad6e9905d7fc873016b534e005eedcad74d2637cd2b",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Big Mac - 3D Printable MAC10 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1698681222",
+    "source": {
+      "hash": "cc6b546a3c8a98e136b18bfca564db9917b7a9e530ee662d6dde4e2c1013476513ba86ddacda14a09551574a25dd934d",
+      "media_type": "application/zip",
+      "name": "TheBigMac.zip",
+      "sd_hash": "3fc8681bf6bd5d65292902374aaeff025d2ce153d948719fca52f5f368bd3b972c5dafec4fd6e52ecbbf3327c0586ffa",
+      "size": "18675989"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/78b478093a6c0c780023aa1e04189bf1.webp"
+    },
+    "title": "The Big Mac - 3D Printable MAC10 Frame"
+  },
+  "value_type": "stream"
+}
