@@ -1,0 +1,93 @@
+{
+  "address": "bMmL7CSft4hvP4jichR3aedQELDX9katzY",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Tokarev_Nautilus-TT_v.1.0-MBBI#3",
+  "claim_id": "31a5577f5ea5e4d67512b05399c44c129d9e103b",
+  "claim_op": "update",
+  "confirmations": 1111280,
+  "height": 946088,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946088,
+    "creation_height": 855377,
+    "creation_timestamp": 1604071110,
+    "effective_amount": "85.06078135",
+    "expiration_height": 3048488,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "85.05978135",
+    "take_over_height": 855377
+  },
+  "name": "Tokarev_Nautilus-TT_v.1.0-MBBI",
+  "normalized_name": "tokarev_nautilus-tt_v.1.0-mbbi",
+  "nout": 0,
+  "permanent_url": "lbry://Tokarev_Nautilus-TT_v.1.0-MBBI#31a5577f5ea5e4d67512b05399c44c129d9e103b",
+  "short_url": "lbry://Tokarev_Nautilus-TT_v.1.0-MBBI#3",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515673,
+  "txid": "cc20dd968116786aebe9fe0c95449e054d1a47fb7cfef41a62d0026d5c5c409c",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Nautilus 3D Printable Tokarev TT33 Frame by MrBumpysBigIgloo\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1604070893",
+    "source": {
+      "hash": "c8ad80536580ff5b0af263cae1f2c282b64f11aa56eac3ad2c7219fd82fcf852966f98f9aea6c7b9646b74f66e4999c0",
+      "media_type": "application/zip",
+      "name": "Tokarev_Nautilus-TT_v.1.0-MBBI.zip",
+      "sd_hash": "e70ab9aaa386485bba43fe5af33bc08db0cf31e81c707be5d4964bc8e425408e72d21071d43633d86c9e784a7acf5eff",
+      "size": "19578229"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/09c1d2202c63ae33.png"
+    },
+    "title": "The Nautilus 3D Printable Tokarev TT33 Frame"
+  },
+  "value_type": "stream"
+}
