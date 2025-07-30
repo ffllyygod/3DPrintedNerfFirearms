@@ -1,0 +1,99 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "1.0",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Triton-9#2",
+  "claim_id": "22cf8bb5c0373dd6fc58d46284397aca909945cb",
+  "claim_op": "create",
+  "confirmations": 260016,
+  "height": 1796724,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1796730,
+    "creation_height": 1796724,
+    "creation_timestamp": 1748607057,
+    "effective_amount": "1.0",
+    "expiration_height": 3899124,
+    "is_controlling": true,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1796730
+  },
+  "name": "Triton-9",
+  "normalized_name": "triton-9",
+  "nout": 0,
+  "permanent_url": "lbry://Triton-9#22cf8bb5c0373dd6fc58d46284397aca909945cb",
+  "short_url": "lbry://Triton-9#2",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1748607057,
+  "txid": "07d894aed0113ce5dc26d437c81b976adf44209f7fb65f3f19d34555f09315be",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Triton 9 - A 9mm pistol-caliber carbine (PCC) based on the FGC-9 V2, designed to incorporate Riptide Rails’ bufferless bolt.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1748606763",
+    "source": {
+      "hash": "b8ca2ae5ee35e80e0c44b00d611828915d7e4ded4a1e16dfa62c28975262a07c3c9f59d01cdc6914fde95a83ad9f751f",
+      "media_type": "application/zip",
+      "name": "Triton-9.zip",
+      "sd_hash": "34b1f1379a33fc426bf0abccb2937ee59431c78867afad9f7da0361eb878fda65c0dcfa3f28924e2babd9e05a27cfb2d",
+      "size": "31799814"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guns",
+      "fgc9v2",
+      "9mm"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/1a6afe9ed23a34792455b7eb19763c1d.webp"
+    },
+    "title": "The Triton 9"
+  },
+  "value_type": "stream"
+}
