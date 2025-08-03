@@ -1,0 +1,93 @@
+{
+  "address": "bXTr4Zn2PHS6UWQS2kcpwoTgsoRpP3FpUx",
+  "amount": "0.1",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/U-Bolt-Vanguard#9",
+  "claim_id": "92e5d8b04c5c0140b57d64f6bf8ab4c3a024cb4c",
+  "claim_op": "update",
+  "confirmations": 1111289,
+  "height": 946079,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946079,
+    "creation_height": 770816,
+    "creation_timestamp": 1590515712,
+    "effective_amount": "402.42837828",
+    "expiration_height": 3048479,
+    "is_controlling": true,
+    "reposted": 7,
+    "support_amount": "402.32837828",
+    "take_over_height": 770816
+  },
+  "name": "U-Bolt-Vanguard",
+  "normalized_name": "u-bolt-vanguard",
+  "nout": 0,
+  "permanent_url": "lbry://U-Bolt-Vanguard#92e5d8b04c5c0140b57d64f6bf8ab4c3a024cb4c",
+  "short_url": "lbry://U-Bolt-Vanguard#9",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618514261,
+  "txid": "2097c39a7319734f7fbea81cc9d723994535dcd103e874284f1851ed44373d65",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe U-Bolt Vanguard - a 3D printable, reinforced AR15 lower receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1590515434",
+    "source": {
+      "hash": "efa4b598537ee29655ab860440ee8c7227e9deaffe581998a8b81caf30bc05cb5295fcd7a737e6b4c1fe17af93dff0b2",
+      "media_type": "application/zip",
+      "name": "U-Bolt Vanguard-V1.1.zip",
+      "sd_hash": "41ee6a9275f4718439a12df8cb20c1a357364a11d753896a6e5d673085f3b2902a6a9f084b9cb88b8be333eb823ed735",
+      "size": "14590340"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/f/aebb57968b9a7850.jpg"
+    },
+    "title": "U-Bolt Vanguard 3D Printable AR15 Lower Receiver"
+  },
+  "value_type": "stream"
+}
