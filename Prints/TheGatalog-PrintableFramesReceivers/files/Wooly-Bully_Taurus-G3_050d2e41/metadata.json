@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Wooly-Bully_Taurus-G3#0",
+  "claim_id": "050d2e4144e8fe283cafa85e41ba29d88eed52b6",
+  "claim_op": "update",
+  "confirmations": 889473,
+  "height": 1167292,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1167292,
+    "creation_height": 1167183,
+    "creation_timestamp": 1653753421,
+    "effective_amount": "14.23687168",
+    "expiration_height": 3269692,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "14.23587168",
+    "take_over_height": 1167183
+  },
+  "name": "Wooly-Bully_Taurus-G3",
+  "normalized_name": "wooly-bully_taurus-g3",
+  "nout": 0,
+  "permanent_url": "lbry://Wooly-Bully_Taurus-G3#050d2e4144e8fe283cafa85e41ba29d88eed52b6",
+  "short_url": "lbry://Wooly-Bully_Taurus-G3#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1653770031,
+  "txid": "eada86b58f94654fce03cb851ed075a00b3bdbce86630b76a58f72e9bcd3aeae",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Wooly Bully 3D Printable Taurus G3 Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1653753210",
+    "source": {
+      "hash": "af124adda6b75af3b77619ed850c41e91897ddddf298313a5ebd5e3261677da0c54b59a926ade56a536ebb30e9e3e689",
+      "media_type": "application/zip",
+      "name": "Wooly-Bully_Taurus-G3.zip",
+      "sd_hash": "9091f1748a8e006843f74ff50ac68635d06b6973b5024b72acf6cca3e2774ad0a8f45037d07fa51b93c7e553634c220b",
+      "size": "220532099"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/634a75ded63545b9e4262c2903e6a436.jpg"
+    },
+    "title": "The Wooly Bully 3D Printable Taurus G3 Frame"
+  },
+  "value_type": "stream"
+}
