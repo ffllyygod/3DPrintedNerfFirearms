@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/UBAR3-X#1",
+  "claim_id": "14e163697d715654d7386af2fece4074020c7190",
+  "claim_op": "update",
+  "confirmations": 247183,
+  "height": 1809557,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1809557,
+    "creation_height": 1804545,
+    "creation_timestamp": 1749749562,
+    "effective_amount": "1.001",
+    "expiration_height": 3911957,
+    "is_controlling": true,
+    "reposted": 5,
+    "support_amount": "1.0",
+    "take_over_height": 1804545
+  },
+  "name": "UBAR3-X",
+  "normalized_name": "ubar3-x",
+  "nout": 0,
+  "permanent_url": "lbry://UBAR3-X#14e163697d715654d7386af2fece4074020c7190",
+  "short_url": "lbry://UBAR3-X#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 237977,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1750541422,
+  "txid": "b03e4920d271626c6d0b54531a0d2c5b015fd2a02c91e585707a65b6f35a18f5",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe UBAR3 / UBARX - a 3D Printable AR15 Lower with support for fixed Rifle Stocks, an Integral Pistol Grip Option, and More!\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1749749832",
+    "source": {
+      "hash": "c1c6ba1af76e068b9ec83a67834b8874052f7514d218cede0605860b561ed8a9674f126cffd857124668c50bafbdf431",
+      "media_type": "application/zip",
+      "name": "UBAR3-X REV1.zip",
+      "sd_hash": "488c9d51e46e0fa2b045a86ebb5cb22c47dcf77481742739d6025954531a0f1ae8c235317957a418b716e38c46a441dd",
+      "size": "255762494"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/69e810ede766a45aa97a97d8be8381f6.webp"
+    },
+    "title": "The UBAR3 / UBARX"
+  },
+  "value_type": "stream"
+}
