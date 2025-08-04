@@ -1,0 +1,93 @@
+{
+  "address": "bKhf2ymG65eGmoBKxnZiEADKbKxUW86M1g",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/Vs22-1.00#0",
+  "claim_id": "03c4e7209be8e17b1873604720eaa0b735f94ef3",
+  "claim_op": "update",
+  "confirmations": 1111281,
+  "height": 946087,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 946087,
+    "creation_height": 846186,
+    "creation_timestamp": 1602597669,
+    "effective_amount": "98.30012616",
+    "expiration_height": 3048487,
+    "is_controlling": true,
+    "reposted": 6,
+    "support_amount": "98.29912616",
+    "take_over_height": 846186
+  },
+  "name": "Vs22-1.00",
+  "normalized_name": "vs22-1.00",
+  "nout": 0,
+  "permanent_url": "lbry://Vs22-1.00#03c4e7209be8e17b1873604720eaa0b735f94ef3",
+  "short_url": "lbry://Vs22-1.00#0",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1618515288,
+  "txid": "557eaa9eb3539fc8f85a92e0a0577210af7b31d04a2f1a0bf05ebd0639603e57",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Vs22: A printable receiver optimized for 22lr Vz61 uppers from Czechpoint.\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1602597506",
+    "source": {
+      "hash": "c19b96e9c4fed8b46b5b1b227ae9a2a1ac82c4c5405a5b9e118aeecdac92eed34f6a88e4d72cf229e5e4d5e6de7ba977",
+      "media_type": "application/zip",
+      "name": "Vs22-1.00.zip",
+      "sd_hash": "d342af56a8bf1f4bca122a27f986227c423f797255950a6f617692b3fe1a2e522cc5036181398978e6bc5c46f5ad22c0",
+      "size": "44451189"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/4/ad3f81f53ff12503.jpg"
+    },
+    "title": "Vs22 (Vs61 22lr Receiver)"
+  },
+  "value_type": "stream"
+}
