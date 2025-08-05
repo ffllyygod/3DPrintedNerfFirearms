@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/dd20.1-dnl#5",
+  "claim_id": "5f3f1d5a954bc724066d28061e83b9d75fa8b1a0",
+  "claim_op": "create",
+  "confirmations": 723487,
+  "height": 1333278,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1333278,
+    "creation_height": 1333278,
+    "creation_timestamp": 1680056834,
+    "effective_amount": "116.63089475",
+    "expiration_height": 3435678,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "116.62989475",
+    "take_over_height": 1333278
+  },
+  "name": "dd20.1-dnl",
+  "normalized_name": "dd20.1-dnl",
+  "nout": 0,
+  "permanent_url": "lbry://dd20.1-dnl#5f3f1d5a954bc724066d28061e83b9d75fa8b1a0",
+  "short_url": "lbry://dd20.1-dnl#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1680056834,
+  "txid": "7c7594a5df14414e6e26d840449af86bb089908c64a3bc15f1470d041bfd8439",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe DD20.1 - 3D Printable Glock 20/21 Frame by Digital Nimbus Labs\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1680056557",
+    "source": {
+      "hash": "436b830dacf44d8c3c437c88d7bf593c3cfc25ed96e43b737fd31523657d5ece5f451a90a686c1972edceb991e0dc58c",
+      "media_type": "application/zip",
+      "name": "dd20.1-dnl.zip",
+      "sd_hash": "cd648a642e61fd23bdb867450ec907f519fb847c0b481b6c1e8d2ef879eea94a6bd38503ebbe1f557e689fef87f4bfc0",
+      "size": "181213184"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/90392bcc9d42a0fe1d2d5f4604576d64.webp"
+    },
+    "title": "DD20.1 - 3D Printable Glock 20/21 Frame"
+  },
+  "value_type": "stream"
+}
