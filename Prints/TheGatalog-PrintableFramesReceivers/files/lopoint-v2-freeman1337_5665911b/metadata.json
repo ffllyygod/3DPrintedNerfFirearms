@@ -1,0 +1,93 @@
+{
+  "address": "bJQRqwoJK2HLNZHZmjw43peUBQ4w1EEbpE",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/lopoint-v2-freeman1337#5",
+  "claim_id": "5665911b0739e9d31bba305e70178780e86568ec",
+  "claim_op": "create",
+  "confirmations": 1093899,
+  "height": 963469,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 963469,
+    "creation_height": 963469,
+    "creation_timestamp": 1621281219,
+    "effective_amount": "105.32283304",
+    "expiration_height": 3065869,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "105.32183304",
+    "take_over_height": 963469
+  },
+  "name": "lopoint-v2-freeman1337",
+  "normalized_name": "lopoint-v2-freeman1337",
+  "nout": 0,
+  "permanent_url": "lbry://lopoint-v2-freeman1337#5665911b0739e9d31bba305e70178780e86568ec",
+  "short_url": "lbry://lopoint-v2-freeman1337#5",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1621281219,
+  "txid": "879df1a5b97ee321d3befa95bd7be6806c604914e1ad3bf6a40f4ab319a83dfe",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Lo-Point v2 3D Printable HiPoint C9/CF380 Frame, by freeman1337\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1621281034",
+    "source": {
+      "hash": "5df68505cc1b488defe91be5a20849e6d63a61c1ef38b1d9807984a7429c5ac183700b7cfa73769514b9cc6ab99a122b",
+      "media_type": "application/zip",
+      "name": "lopoint-v2-freeman1337.zip",
+      "sd_hash": "c1e0174f5bc246c46a357e57cf7bc8f6e50b81dad9e68630358f810e0e2b650b3a4bd595a5928fb9895314238fe91c20",
+      "size": "37233741"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/5/84f5849e7bfb7eff.png"
+    },
+    "title": "Lo-Point v2"
+  },
+  "value_type": "stream"
+}
