@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/kap9_v1.0#4",
+  "claim_id": "411bab9ebfb4490d407e5f913a4671fddd9fbedc",
+  "claim_op": "create",
+  "confirmations": 920740,
+  "height": 1136628,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1136628,
+    "creation_height": 1136628,
+    "creation_timestamp": 1648851915,
+    "effective_amount": "12.28876187",
+    "expiration_height": 3239028,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "12.28776187",
+    "take_over_height": 1136628
+  },
+  "name": "kap9_v1.0",
+  "normalized_name": "kap9_v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://kap9_v1.0#411bab9ebfb4490d407e5f913a4671fddd9fbedc",
+  "short_url": "lbry://kap9_v1.0#4",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1648851915,
+  "txid": "12c7542d4bc4b405a164acbe44b60b64250163a4c1df79871adaac9d84ab969f",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe Kimmel AP9 3D Printable Frame\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1648851842",
+    "source": {
+      "hash": "7ca08396fbde4d46dfafef9fb4d04a368d651d29e7a710e67c5d7fd083ba815b5ce634c2f0766802f35a41985333cfdc",
+      "media_type": "application/zip",
+      "name": "kap9_v1.0.zip",
+      "sd_hash": "3c21b42cc2072396545315e8b9ac36ebdfd97a3b21e1d16f747272576eeba6354d170e9a0127b1721b9b648352a59fc7",
+      "size": "6819663"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/36c31fa6dacfa8ab8ba6c11106b50259.jpeg"
+    },
+    "title": "The Kimmel AP9 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
