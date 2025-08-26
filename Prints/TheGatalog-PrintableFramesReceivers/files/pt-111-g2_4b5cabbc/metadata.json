@@ -1,0 +1,93 @@
+{
+  "address": "bJeXFkNHZvA1pYrg5cowzQ9WE9svwRi1Xr",
+  "amount": "0.001",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/pt-111-g2#4",
+  "claim_id": "4b5cabbca06a38c1ea32eab563e2beb4ce6b829c",
+  "claim_op": "create",
+  "confirmations": 1077561,
+  "height": 979807,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 979807,
+    "creation_height": 979807,
+    "creation_timestamp": 1623857735,
+    "effective_amount": "102.36028192",
+    "expiration_height": 3082207,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "102.35928192",
+    "take_over_height": 979807
+  },
+  "name": "pt-111-g2",
+  "normalized_name": "pt-111-g2",
+  "nout": 0,
+  "permanent_url": "lbry://pt-111-g2#4b5cabbca06a38c1ea32eab563e2beb4ce6b829c",
+  "short_url": "lbry://pt-111-g2#4",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238605,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1623857735,
+  "txid": "103137d25fda82342d94ad17a56376788fe9e8e66130a7d14e770aa31d85be10",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nThe PT111 G2 3D Printable Frame by FMDA\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1623857725",
+    "source": {
+      "hash": "6cbaaaa7c292d92b5b59b6e414719c3d05bf35714441abb6121bfc9c20660e9f05ba7e26d9523bac10e00225a55f962e",
+      "media_type": "application/zip",
+      "name": "pt-111-g2-v1.1.zip",
+      "sd_hash": "8d793e2420a3893cddba7f0b428785f093033bffd8c29dd1393cc5718f368ce1c5116b22cd683b86b162052a5bf1bc2f",
+      "size": "10614135"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/b/bbc455016ee0bb27.jpg"
+    },
+    "title": "PT-111 G2 3D Printable Frame"
+  },
+  "value_type": "stream"
+}
