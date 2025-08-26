@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/ppx-16#1",
+  "claim_id": "19e18f84955bc03471de7209bcab8341953cbce4",
+  "claim_op": "create",
+  "confirmations": 705823,
+  "height": 1350942,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1350942,
+    "creation_height": 1350942,
+    "creation_timestamp": 1682882815,
+    "effective_amount": "13.13536336",
+    "expiration_height": 3453342,
+    "is_controlling": true,
+    "reposted": 4,
+    "support_amount": "13.12536336",
+    "take_over_height": 1350942
+  },
+  "name": "ppx-16",
+  "normalized_name": "ppx-16",
+  "nout": 0,
+  "permanent_url": "lbry://ppx-16#19e18f84955bc03471de7209bcab8341953cbce4",
+  "short_url": "lbry://ppx-16#1",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1682882815,
+  "txid": "980f13a79dff1fd8f83354a17e1377580dc2eae4a2f1f599f0fbdb04bcbe6424",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:  \n\nThe PPX-16 3D Printable Perun-16 Lower Receiver  \n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1682882294",
+    "source": {
+      "hash": "e1614afba411bef3ab67f4310f2ec8077875f0c9ea8024cdeb804addeeebc00e7408e4d8876321864beb22b34647707d",
+      "media_type": "application/zip",
+      "name": "ppx-16 v1.0.zip",
+      "sd_hash": "78c5d5149a32d46b4e649bf15d70f775747b7a0f940905195dd56a9efd7324a1b3705b249e29948e405772d67f81a568",
+      "size": "9499883"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/403d4f1295379488a959ea5593b8080d.webp"
+    },
+    "title": "The PPX-16 3D Printable Perun-16 Lower Receiver"
+  },
+  "value_type": "stream"
+}
