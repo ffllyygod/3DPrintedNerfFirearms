@@ -1,0 +1,38 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.01",
+  "canonical_url": "lbry://@db-firearms#4",
+  "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+  "claim_op": "update",
+  "confirmations": 884151,
+  "has_signing_key": false,
+  "height": 1172580,
+  "meta": {
+    "activation_height": 1172580,
+    "claims_in_channel": 62,
+    "creation_height": 1078568,
+    "creation_timestamp": 1639545100,
+    "effective_amount": "0.01",
+    "expiration_height": 3274980,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1078568
+  },
+  "name": "@db-firearms",
+  "normalized_name": "@db-firearms",
+  "nout": 0,
+  "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+  "short_url": "lbry://@db-firearms#4",
+  "timestamp": 1654617741,
+  "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+  "type": "claim",
+  "value": {
+    "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+    "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+    }
+  },
+  "value_type": "channel"
+}
