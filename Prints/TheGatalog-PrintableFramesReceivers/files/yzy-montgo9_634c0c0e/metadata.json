@@ -1,0 +1,93 @@
+{
+  "address": "bN1sH99nLAZyS9B13wGxyo6yj5w5gvykpA",
+  "amount": "0.01",
+  "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9/yzy-montgo9#6",
+  "claim_id": "634c0c0ed22c223e2982bd15b36ff006f424d208",
+  "claim_op": "create",
+  "confirmations": 711570,
+  "height": 1345195,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1345195,
+    "creation_height": 1345195,
+    "creation_timestamp": 1681963571,
+    "effective_amount": "110.82977781",
+    "expiration_height": 3447595,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "110.81977781",
+    "take_over_height": 1345195
+  },
+  "name": "yzy-montgo9",
+  "normalized_name": "yzy-montgo9",
+  "nout": 0,
+  "permanent_url": "lbry://yzy-montgo9#634c0c0ed22c223e2982bd15b36ff006f424d208",
+  "short_url": "lbry://yzy-montgo9#6",
+  "signing_channel": {
+    "address": "bQs8skZvTQYVvrfEo2FBH7TGoS1j6fyR9x",
+    "amount": "69.0",
+    "canonical_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "claim_id": "95e955143f006aa54a1785d3ee71739b02937464",
+    "claim_op": "update",
+    "confirmations": 238002,
+    "has_signing_key": false,
+    "height": 1818763,
+    "meta": {
+      "activation_height": 1818763,
+      "claims_in_channel": 118,
+      "creation_height": 945998,
+      "creation_timestamp": 1618501414,
+      "effective_amount": "2253.783",
+      "expiration_height": 3921163,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "2184.783",
+      "take_over_height": 945998
+    },
+    "name": "@TheGatalog-PrintableFramesReceivers",
+    "normalized_name": "@thegatalog-printableframesreceivers",
+    "nout": 0,
+    "permanent_url": "lbry://@TheGatalog-PrintableFramesReceivers#95e955143f006aa54a1785d3ee71739b02937464",
+    "short_url": "lbry://@TheGatalog-PrintableFramesReceivers#9",
+    "timestamp": 1752017162,
+    "txid": "4bc967ff3b2d8a70aa33c3318cf82e3b236fb107ab6aa409849e748235aa1c2f",
+    "type": "claim",
+    "value": {
+      "public_key": "03392b4b7f09d17c4075301ba3ef53f19a788e84ee4980d7a97f80c2d768e58548",
+      "public_key_id": "bVKVZzimKeN9NWaBXiJn4oabAo8TLB5r8U",
+      "tags": [
+        "guncad"
+      ],
+      "thumbnail": {
+        "url": "https://spee.ch/d/a7bdcc531a7a6c72.png"
+      },
+      "title": "The Gatalog's Printable Frames and Receivers",
+      "website_url": "thegatalog.com"
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1681963571,
+  "txid": "f4d9cdd8259a686aafdbf59886a40291a7c890a7c76b47b6da8a9ccf15bd8f19",
+  "type": "claim",
+  "value": {
+    "description": "The Gatalog presents:\n\nYZY's Montgo-9 Lower Receiver\n\nJoin the community at thegatalog.com",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1681963362",
+    "source": {
+      "hash": "a9b5e673ff1763dff2bb52e6847028da96cbb9a17b56453b53fc82fb3d8b7b859ec7b8256ee5467924b772321dc23af5",
+      "media_type": "application/zip",
+      "name": "YZY's Montgo-9 Lower Receiver.zip",
+      "sd_hash": "f1320505a3953c2c475d066cc9e6389ce44d234c8054fef3656a792f0559f57e5118a54c992e9545b112955c868997a7",
+      "size": "21077282"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/1478426a37887cd8f000f9a363a3def2.webp"
+    },
+    "title": "YZY's Montgo-9 Lower Receiver"
+  },
+  "value_type": "stream"
+}
