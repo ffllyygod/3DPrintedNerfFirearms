@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/3DP0709#2",
+  "claim_id": "2538c3606244cdc827a3a513aa0d84be3cbd8344",
+  "claim_op": "update",
+  "confirmations": 46836,
+  "height": 2009871,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009871,
+    "creation_height": 1885017,
+    "creation_timestamp": 1761956157,
+    "effective_amount": "0.001",
+    "expiration_height": 4112271,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1885040
+  },
+  "name": "3DP0709",
+  "normalized_name": "3dp0709",
+  "nout": 0,
+  "permanent_url": "lbry://3DP0709#2538c3606244cdc827a3a513aa0d84be3cbd8344",
+  "short_url": "lbry://3DP0709#2",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586442,
+  "txid": "91906f1ebf8ee84e617c3402fad2ae15ec929aded490b735fdaf418460a0939d",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThese frames are designed to turn your CZ P-07 or P-09 parts kits back into functional firearms. YAY!\nI may have gotten some of the geometry wrong, aesthetically. However, these should be functional frames.\n\nThese frames are compatible with all generations of parts kits. That includes the older \"Duty\" kits. When shopping for a magazine, keep in mind what frame you're going to use. The P-07 frames will accept all magazines. The P-09 and P-07x will only accept the P-09 sized magazines. There are grip sleeves to convert the longer P-09 magazines to look good with the P-07 length frames. The P-07X has the P-09 grip length but is for a P-07 length \"compact\" frame.\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1761955505",
+    "source": {
+      "hash": "b99b54b46d1b48f62f35375b19bb50bc8e03d8ed9140579ee794d7ead5f52e87e8a20bfb71151bac3818e574ae0024e7",
+      "media_type": "application/zip",
+      "name": "3dP0709 V1.zip",
+      "sd_hash": "c3c2647d4e883b9590e3293f769759e0099a2fcdfc0076bc7f83b5c2f71e6e41b5dbc81f1cac385dcd9ee48f1c3fe8b9",
+      "size": "114463171"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guncad",
+      "cz",
+      "9mm",
+      "guns"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/22f52c5ea0fe7b7c98a150ec9fef934d.webp"
+    },
+    "title": "The 3dP0709: A 3d printable CZ P-07 and P-09 Pistol Frame by DB Firearms"
+  },
+  "value_type": "stream"
+}
