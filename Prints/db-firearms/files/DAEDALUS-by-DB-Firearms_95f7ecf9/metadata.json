@@ -1,0 +1,97 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/DAEDALUS-by-DB-Firearms#9",
+  "claim_id": "95f7ecf99b2b45c48278fba07ee7a41355b59a03",
+  "claim_op": "create",
+  "confirmations": 28415,
+  "height": 2028292,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2028292,
+    "creation_height": 2028292,
+    "creation_timestamp": 1777573035,
+    "effective_amount": "0.001",
+    "expiration_height": 4130692,
+    "is_controlling": false,
+    "reposted": 5,
+    "support_amount": "0.0",
+    "take_over_height": 2029565
+  },
+  "name": "DAEDALUS-by-DB-Firearms",
+  "normalized_name": "daedalus-by-db-firearms",
+  "nout": 0,
+  "permanent_url": "lbry://DAEDALUS-by-DB-Firearms#95f7ecf99b2b45c48278fba07ee7a41355b59a03",
+  "short_url": "lbry://DAEDALUS-by-DB-Firearms#9",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1777573035,
+  "txid": "4300d0f988b668f321de2898eca1f82102cb6d37f3cd096015d6bf3890a68856",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\nDBDESIGNWORKS is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\n\n++++++++THE DAEDALUS by DB Firearms++++++++\n\nDescription\nThe DAEDALUS is a bullpup Glock pistol that was loosely patterned off the SRU Glock bullpup airsoft chassis. However, significant design changes have been made. It is compatible with Glock 17, 17L and 34 Slides and DD 17.2 Rails. It is also compatible with the Glock 20/21/40/41 in LARGE FRAME\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1777636800",
+    "source": {
+      "hash": "755e2d685a0edb15667402c2c29228f4fb3b95f0ebd7dab9727e007b5bd4b947936ff3d5ab30c0cec8f20f1a5d9d7a87",
+      "media_type": "application/zip",
+      "name": "DAEDALUS by DB Firearms.zip",
+      "sd_hash": "6159a497b0796edcf68fceb4502aee11a72bf755c9d7f4e6d3c6cfaa5fb4ec5258ee2e303db804d37212d98383d02c0f",
+      "size": "98569868"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guncad",
+      "glock",
+      "bullpup",
+      "db firearms",
+      "c:scheduled:show"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/0786514a5a2ffe5ddabb38b8dde953ec.webp"
+    },
+    "title": "THE DAEDALUS by DB Firearms"
+  },
+  "value_type": "stream"
+}
