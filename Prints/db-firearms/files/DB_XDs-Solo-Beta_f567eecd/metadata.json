@@ -1,0 +1,89 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/DB_XDs-Solo-Beta#f",
+  "claim_id": "f567eecd74b95ea91058f97aa9890054dcba7cf3",
+  "claim_op": "update",
+  "confirmations": 46836,
+  "height": 2009871,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009871,
+    "creation_height": 1878361,
+    "creation_timestamp": 1760987502,
+    "effective_amount": "0.001",
+    "expiration_height": 4112271,
+    "is_controlling": false,
+    "reposted": 4,
+    "support_amount": "0.0",
+    "take_over_height": 1878541
+  },
+  "name": "DB_XDs-Solo-Beta",
+  "normalized_name": "db_xds-solo-beta",
+  "nout": 0,
+  "permanent_url": "lbry://DB_XDs-Solo-Beta#f567eecd74b95ea91058f97aa9890054dcba7cf3",
+  "short_url": "lbry://DB_XDs-Solo-Beta#f",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586442,
+  "txid": "3baa3edb860a24424fa4800428528fa3f5731f7f648f11137c266de93f7f9224",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThis printable frame is for Springfield XDs 45ACP parts kits. There are frames for Mod 1(Original), and Mod2. \nMost of the kits are for the original frame. The main difference is the locking block. \n\nI've included blank and stippled versions of the frame. If you want to texture your own, have at it! The file is ready for blender. \n\nIf you are printing the version of the frame called EZSHOOT it is designed to integrate seamlessly with this flashlight: https://amzn.to/4qlXl45",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1760987333",
+    "source": {
+      "hash": "74c2abfa4a942048af80b53aca21b05dedef02e03173327792693ea2bf14760f964dacaf3eee9160c6689869541184da",
+      "media_type": "application/zip",
+      "name": "DB_XDs Solo Beta V1.0.zip",
+      "sd_hash": "a4d40d5efb9924f0d8b428f8c9e56a0cfa004aa06042c023c228ce982d6d343545f99c4a321e141728f86fb4baa5a7af",
+      "size": "77616474"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/38fecd20e638ba1685fc75c0d552f245.webp"
+    },
+    "title": "DB's XDs 45ACP"
+  },
+  "value_type": "stream"
+}
