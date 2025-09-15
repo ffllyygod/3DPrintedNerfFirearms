@@ -1,0 +1,96 @@
+{
+  "address": "bDpUeW9z1RBvaTseqpXVRQTPCXk4XgqoFm",
+  "amount": "0.01",
+  "canonical_url": "lbry://@db-firearms#4/DBs-FCG-Reinforcement-Dev-Pack-V1#4",
+  "claim_id": "4e655fee2ca8ba2f2386a529b1c24872b4bd2aa2",
+  "claim_op": "update",
+  "confirmations": 46843,
+  "height": 2009875,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009875,
+    "creation_height": 1465467,
+    "creation_timestamp": 1701212597,
+    "effective_amount": "0.01",
+    "expiration_height": 4112275,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1465467
+  },
+  "name": "DBs-FCG-Reinforcement-Dev-Pack-V1",
+  "normalized_name": "dbs-fcg-reinforcement-dev-pack-v1",
+  "nout": 0,
+  "permanent_url": "lbry://DBs-FCG-Reinforcement-Dev-Pack-V1#4e655fee2ca8ba2f2386a529b1c24872b4bd2aa2",
+  "short_url": "lbry://DBs-FCG-Reinforcement-Dev-Pack-V1#4",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884138,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775588034,
+  "txid": "3d6036d61b302e3946090d520ff722d6699c0f19fe3251bc2210a710accd05db",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThis dev pack is designed to help you integrate fire control group reinforcement into your design. There are also instructions for ordering the plates from a laser cutting supplier. These plates should help solve the most common FCG issues with 3d printed receivers using AR-15 Hammer, Trigger, and Safety Selector.\n\nThese plates mount on the outside and are held in place with anti-rotation pins. PLEASE READ THE README FOR FULL INSTRUCTIONS",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1701212519",
+    "source": {
+      "hash": "b77564fa6e7595bfbc69628dcc6b1c76e3121320fd8e75e84a711766b76365cb4baccd6d002710eebf462e563547aeea",
+      "media_type": "application/zip",
+      "name": "DBs FCG Reinforcement Dev Pack V1.zip",
+      "sd_hash": "361ef47df30626fa6214ac81a613d7fc64d9fd096dfc104e00428491d75e970ab0d28f557112e77c0aaf0d0dc6a97611",
+      "size": "1112559"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "ar-15",
+      "guns",
+      "guncad",
+      "metal"
+    ],
+    "thumbnail": {
+      "url": "https://spee.ch/0/074d0afd041ecd68.jpg"
+    },
+    "title": "DB's Fire Control Group(FCG) Reinforcement Plate Dev Pack"
+  },
+  "value_type": "stream"
+}
