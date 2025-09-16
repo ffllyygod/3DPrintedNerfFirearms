@@ -1,0 +1,88 @@
+{
+  "address": "bJQJgiGU4nfi45wdLjFVaKpE8FyLH5EQza",
+  "amount": "0.5",
+  "canonical_url": "lbry://@db-firearms#4/FNS-Crusader-PDW-By-DB-Firearms-V1.0#4",
+  "claim_id": "442b061ee3b631a408353cba307ffb1f213b849a",
+  "claim_op": "update",
+  "confirmations": 46843,
+  "height": 2009875,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009875,
+    "creation_height": 1318548,
+    "creation_timestamp": 1677694604,
+    "effective_amount": "0.5",
+    "expiration_height": 4112275,
+    "is_controlling": true,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1318548
+  },
+  "name": "FNS-Crusader-PDW-By-DB-Firearms-V1.0",
+  "normalized_name": "fns-crusader-pdw-by-db-firearms-v1.0",
+  "nout": 0,
+  "permanent_url": "lbry://FNS-Crusader-PDW-By-DB-Firearms-V1.0#442b061ee3b631a408353cba307ffb1f213b849a",
+  "short_url": "lbry://FNS-Crusader-PDW-By-DB-Firearms-V1.0#4",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884138,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775588034,
+  "txid": "0fcb046dca23f89cc10d9fb6fe0d0df07a0d396181e55bcb7be3e19ecdb231f9",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThis is a PDW chassis for the FNS 9/40 frames. This best supports the LONG SLIDE version OR a standard slide with a long barrel. If you have a standard slide version it is not recommended that you print this as the muzzle will be very close to your hands.\n\nSpecial thanks to Unseenkiller for the incredible remixes also contained in the download files. ",
+    "languages": [
+      "en"
+    ],
+    "license": "None",
+    "release_time": "1677694499",
+    "source": {
+      "hash": "54a4aa0cdf76fc50af31e2443f6d471fd9d85c9885bada3eff299735aa7771e3bf3dbe35d2300729633a7511128917f6",
+      "media_type": "application/zip",
+      "name": "FNS Crusader PDW By DB Firearms V1.0.zip",
+      "sd_hash": "fd5a6da05e14fa8877fca35f82e9d6c40c708813bef587b3d9c04e5564eb44a9b5b0d0c218f206ac33aa3879dc17d5b5",
+      "size": "98326920"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/d3ae1ee3998a30c7.jpg"
+    },
+    "title": "FNS Crusdader PDW by DB Firearms"
+  },
+  "value_type": "stream"
+}
