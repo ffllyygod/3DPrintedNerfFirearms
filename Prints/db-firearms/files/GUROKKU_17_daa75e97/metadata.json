@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/GUROKKU_17#d",
+  "claim_id": "daa75e979343b92c9e272ec5e7ed6d3ce7067f66",
+  "claim_op": "update",
+  "confirmations": 46836,
+  "height": 2009871,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009871,
+    "creation_height": 1901015,
+    "creation_timestamp": 1764022958,
+    "effective_amount": "0.001",
+    "expiration_height": 4112271,
+    "is_controlling": false,
+    "reposted": 4,
+    "support_amount": "0.0",
+    "take_over_height": 1901041
+  },
+  "name": "GUROKKU_17",
+  "normalized_name": "gurokku_17",
+  "nout": 0,
+  "permanent_url": "lbry://GUROKKU_17#daa75e979343b92c9e272ec5e7ed6d3ce7067f66",
+  "short_url": "lbry://GUROKKU_17#d",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586442,
+  "txid": "3703008b6de99040247c6c6f18ff62d344c12bb2bf40550c2759ea617f9d323c",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThis is an aesthetically pleasing and ergonomic Glock 17 frame compatible with all Glock 17 GEN 3 Parts. Additionally, there are frames that will support a Gen 4 slide with adapter for the spring.\n\nThere are 3 sizes of frames for each style. The Medium should fit most hands. Small is also really nice for most hands. The Large size will only be comfortable for folks with very large hands. I'd suggest starting with the MEDIUM frame and if you find it lacking, move up or down a size.\n\nHeavy vs regular: The heavy frames will allow you to insert 200mm of 4mm round Tungsten stock. you can purchase the 4mm stock in 100mm lengths on amazon, then crack them in half and put them in the front of the frame. Hold them in place with some super glue down the center of the rods. This adds some weight underneath the slide to help absorb recoil.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1764022600",
+    "source": {
+      "hash": "015c59baaff84aa23877cfbe094fa5ee7b482368b35bb8456e1f84b5c0950b77cc885e3d298cd5ae62b1552f3e8e2649",
+      "media_type": "application/zip",
+      "name": "Gurokku 17 by DB Firearms.zip",
+      "sd_hash": "3a3ab6b1b5ff2270f32aa10d0a839e2f6137f269206b385fdbded8507b6a5984c6f978e8d6a58ce05b402aaac4e8b024",
+      "size": "263329651"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "gun",
+      "glock 17",
+      "9mm",
+      "guncad"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/bd02cd48560729d0ffb2b9119099ae56.webp"
+    },
+    "title": "Gurokku 17 by DB Firearms"
+  },
+  "value_type": "stream"
+}
