@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/FNS-9_40-DB-Firearms#d",
+  "claim_id": "d3a6c7a41febfbfa4ea06d30222dea29a4bf5585",
+  "claim_op": "create",
+  "confirmations": 24615,
+  "height": 2032092,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2032092,
+    "creation_height": 2032092,
+    "creation_timestamp": 1778011937,
+    "effective_amount": "0.001",
+    "expiration_height": 4134492,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 2032615
+  },
+  "name": "FNS-9_40-DB-Firearms",
+  "normalized_name": "fns-9_40-db-firearms",
+  "nout": 0,
+  "permanent_url": "lbry://FNS-9_40-DB-Firearms#d3a6c7a41febfbfa4ea06d30222dea29a4bf5585",
+  "short_url": "lbry://FNS-9_40-DB-Firearms#d",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1778011937,
+  "txid": "48cfed4c16136c7f2db6f5a740816e6ab3edf581b8de0afcf8f90b34208b28d2",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\nDBDESIGNWORKS is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\n\n++++++++FNS 9/40 Full Size Frame by DB Firearms++++++++\n\n\nThis frame is designed to turn your FNS 9/40 parts kit back into functional firearms. YAY! This is for now only for the Full Size (and long slide) models and I don't have plans to support the compact frames or magazines.\n\nNOTES ON FINDING KITS: There are two main sources for kits that will vary daily and weekly. \n1. Gunbroker search: \"FNS Repair parts\". There are weekly auctions that end on Sundays and kits will often appear there weekly. \n2. Everygunpart: This company will have inventory that fluctuates daily. If you are searching for a kit, it's best to look often. https://everygunpart.com/?acc=ad1288236b3a6b1d28115a1f92ab8bb6 (This is an affiliate link. I get 10% in credit back if you use it. Use code REFSV2648 for 10% off)",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1778011850",
+    "source": {
+      "hash": "c364a203ddaea1ef08104c2eb091af8335f98243118b1ca42a7e5d0d51d4ce6c0901c293622e040fa289600ab5337061",
+      "media_type": "application/zip",
+      "name": "FNS 9_40 DB Firearms.zip",
+      "sd_hash": "69a01ad5d78269ec078375864cc31d2a565fa941dd03caca0fca7d8dcfd887a31bb933dcba27c3d106c3801ce62098e2",
+      "size": "24321237"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "guncad",
+      "db firearms",
+      "fns",
+      "fn"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a27161e805d0827ae4c8a9482e610080.webp"
+    },
+    "title": "FN FNS 9/40 Full Size by DB Firearms"
+  },
+  "value_type": "stream"
+}
