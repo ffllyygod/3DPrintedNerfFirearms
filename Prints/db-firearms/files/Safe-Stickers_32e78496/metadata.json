@@ -1,0 +1,89 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/Safe-Stickers#3",
+  "claim_id": "32e78496a6ff3c921e9c3fda8d89c31ba9591dd5",
+  "claim_op": "update",
+  "confirmations": 46835,
+  "height": 2009872,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009872,
+    "creation_height": 1845059,
+    "creation_timestamp": 1755889091,
+    "effective_amount": "0.001",
+    "expiration_height": 4112272,
+    "is_controlling": true,
+    "reposted": 0,
+    "support_amount": "0.0",
+    "take_over_height": 1845059
+  },
+  "name": "Safe-Stickers",
+  "normalized_name": "safe-stickers",
+  "nout": 0,
+  "permanent_url": "lbry://Safe-Stickers#32e78496a6ff3c921e9c3fda8d89c31ba9591dd5",
+  "short_url": "lbry://Safe-Stickers#3",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586446,
+  "txid": "39343d2600fc02cbc22320106a1c2000166a69a5d82a110513e63e487be48960",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThese little guys are a simple solution to store multiple firearms in your safe. After installing an adhesive Velcro pad on one side, you can stand your weapon vertically in your safe, slide the stick into your gun barrel, and move the stick upwards until the stick makes contact with the top of your safe. If your safe has a shelf with no Velcro on it, use the other side (either hook or loop) of the Velcro dot to keep the stick in place. This will allow you to fit many more weapons in your safe.",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1755889035",
+    "source": {
+      "hash": "8fc2886df976523f484211439ea20463c90b5ea59537767e3167d4a6eb5696c25f6036c159d426ff1f02b5ec0e7b28dd",
+      "media_type": "application/zip",
+      "name": "Safe Stickers.zip",
+      "sd_hash": "f3ec8402f4a1c2043698488b83397d7214c47c3913edb7a3fcd184e6d7da391cfb77e3261035ade0c977ba405fb5643d",
+      "size": "1200267"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7d42de400c3a50bb09002d452b0380be.webp"
+    },
+    "title": "DB's Safe Stickers: Gun Safe Organizing Tool"
+  },
+  "value_type": "stream"
+}
