@@ -1,0 +1,101 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/SAR-B6-Assembly-by-mprtech#9",
+  "claim_id": "9053ff4c656ca6857b3e9d8a60fbb960ddd6c2f9",
+  "claim_op": "create",
+  "confirmations": 553099,
+  "height": 1503632,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 1503632,
+    "creation_height": 1503632,
+    "creation_timestamp": 1707328781,
+    "effective_amount": "0.001",
+    "expiration_height": 3606032,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1503725
+  },
+  "name": "SAR-B6-Assembly-by-mprtech",
+  "normalized_name": "sar-b6-assembly-by-mprtech",
+  "nout": 0,
+  "permanent_url": "lbry://SAR-B6-Assembly-by-mprtech#9053ff4c656ca6857b3e9d8a60fbb960ddd6c2f9",
+  "short_url": "lbry://SAR-B6-Assembly-by-mprtech#9",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884151,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1707328781,
+  "txid": "55e40443b27f0ec17f7720d3e7f46d4caba837a22ed46a23286b6df89bdb28ee",
+  "type": "claim",
+  "value": {
+    "description": "This assembly video can be used to help you assemble your 3d printed SAR B6. Additionally, many of the steps are the same for the EAA Witness version of this frame. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1707327825",
+    "source": {
+      "hash": "301a096a3482efc067bc22ff71afb690a538f5473fcbe7d7caa8b0ee756dae3635be630d2192be85eafc25a657e257fd",
+      "media_type": "video/mp4",
+      "name": "SAR B6 Assembly by mprtech.mp4",
+      "sd_hash": "e8269c822feb3272ef24ff34a236b8109a4a016d3961150eaa9df4c3050f07deab003e58e5453f70bd3190b7dea28298",
+      "size": "1039290739"
+    },
+    "stream_type": "video",
+    "tags": [
+      "witness",
+      "3d printing",
+      "guns",
+      "sar",
+      "eaa"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/7245d94e5520ece833731533ab285931.webp"
+    },
+    "title": "SAR B6 Assembly by Mprtech",
+    "video": {
+      "duration": 1759,
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "value_type": "stream"
+}
