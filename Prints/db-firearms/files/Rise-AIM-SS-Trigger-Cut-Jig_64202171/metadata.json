@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/Rise-AIM-SS-Trigger-Cut-Jig#6",
+  "claim_id": "64202171339f2ad8708c7ed841bbbd73ca7292e5",
+  "claim_op": "update",
+  "confirmations": 46835,
+  "height": 2009872,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009872,
+    "creation_height": 1856731,
+    "creation_timestamp": 1757696103,
+    "effective_amount": "0.001",
+    "expiration_height": 4112272,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1863537
+  },
+  "name": "Rise-AIM-SS-Trigger-Cut-Jig",
+  "normalized_name": "rise-aim-ss-trigger-cut-jig",
+  "nout": 0,
+  "permanent_url": "lbry://Rise-AIM-SS-Trigger-Cut-Jig#64202171339f2ad8708c7ed841bbbd73ca7292e5",
+  "short_url": "lbry://Rise-AIM-SS-Trigger-Cut-Jig#6",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586446,
+  "txid": "e14e7ff89068c2851b34bb50d51b9875765d47217a3a3f81dd41cb01af0e6696",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThis is a very simple marking jig to be used to guide your cut for these triggers to make them compatible with the Hoffman Tactical Super Safety. \n\nThe below triggers should be compatible: \nRise Armament Single stage drop in triggers like the Rave PCC, Rave 140, etc. \nNOT SURE ABOUT THEIR TWO-STAGE TRIGGERS AND I WOULDN'T WASTE MONEY CONVERTING ONE FOR SUPER SAFE...SORT OF DEFEATS THE PURPOSE?\nThese will also work with the more budget Aim Surplus SSTAT triggers. These are made by Rise Armament and just a little less fancy. But the profile of the back of the trigger is the same. \n\nPrint the jig, cut the material off, and install in your build. \n\nThis is not sponsored or endorsed by Rise Armament or Aim Surplus. Use this jig at your own risk. DB Does not assume any responsibility for your gunsmiffing. ",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1757695859",
+    "source": {
+      "hash": "e1c14f657d6acf05044fd85f7ea3eda0eb6459d94929b1b80609d6e07ebfe2b6268ae1849f9f7686505eb33289160023",
+      "media_type": "application/zip",
+      "name": "Rise-AIM SS Trigger Cut Jig V1.zip",
+      "sd_hash": "27deb8ad9837ac7c96f30c04bb16efca1a833be59c9a90815f386ee8c06b48e383985c5f1764f50d6aa7355f457af29b",
+      "size": "523393"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "super safety",
+      "trigger",
+      "ar",
+      "3d printing",
+      "gun"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/125c4afd058eecc6a48380cdd264fc7c.webp"
+    },
+    "title": "The Rise Armament & Aim Surplus Drop in Trigger Cut Jig for the Hoffman Tactical Super Safety."
+  },
+  "value_type": "stream"
+}
