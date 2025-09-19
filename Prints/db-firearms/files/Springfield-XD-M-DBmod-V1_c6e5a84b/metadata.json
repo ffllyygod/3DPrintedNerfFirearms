@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/Springfield-XD-M-DBmod-V1#c",
+  "claim_id": "c6e5a84b6b82c0ee16cbc157736d0dbb7c636834",
+  "claim_op": "update",
+  "confirmations": 46838,
+  "height": 2009869,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009869,
+    "creation_height": 1935277,
+    "creation_timestamp": 1767993437,
+    "effective_amount": "0.001",
+    "expiration_height": 4112269,
+    "is_controlling": false,
+    "reposted": 1,
+    "support_amount": "0.0",
+    "take_over_height": 1936974
+  },
+  "name": "Springfield-XD-M-DBmod-V1",
+  "normalized_name": "springfield-xd-m-dbmod-v1",
+  "nout": 0,
+  "permanent_url": "lbry://Springfield-XD-M-DBmod-V1#c6e5a84b6b82c0ee16cbc157736d0dbb7c636834",
+  "short_url": "lbry://Springfield-XD-M-DBmod-V1#c",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586903,
+  "txid": "7dfb35032f49bc07aedb4744ba8563c3f871dd99f994d516f3e4b29b260300b9",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThese frames are designed to turn your Springfield XD-M 9mm & 40 parts kits back into functional firearms. YAY!\nThe main frame was edited from the work of 458SOCOM (THE XD KING) Be sure to thank 458SOCOM for his hard work in making these a reality!\n\n\nPLEASE READ THE README THERE IS CRUCIAL INFO THERE\n\nFull Size Frame: This frame is for the XD-M 4.5\" or 5.25\" slides. it's setup to use full size 19 round magazines with custom baseplate in files\nCompact-X Frame: This frame is for the 3.8\" slide but uses only the full size 19rd magazines and is not compatible with shorter mags.\nComact Frame: This frame is for the 3.8\" slide but can use any magazine. Specifically designed to use the 13rd magazines with pinky rest. Will also fit 19rd mags.\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1767993087",
+    "source": {
+      "hash": "614c2fb1ede58751417ff36460c7b4359583ac48cf8cd65faac5731cb64eba2725243d401922363a7a0fa4f057725f06",
+      "media_type": "application/zip",
+      "name": "Springfield XD-M DBmod V1.zip",
+      "sd_hash": "0ad79d376b84e53b79a672c606eaf94e9cecf6fcc6e5ff8cbe98d10e72cdec039e518228ada6e5030b50a04f608818b8",
+      "size": "130832434"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "springfield",
+      "xd",
+      "9mm",
+      "3d printing",
+      "guncad"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/a463d41feb11116e5ae66773e23f7755.webp"
+    },
+    "title": "Springfield XD-M DBmod"
+  },
+  "value_type": "stream"
+}
