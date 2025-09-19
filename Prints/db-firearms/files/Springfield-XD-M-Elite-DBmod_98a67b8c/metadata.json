@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/Springfield-XD-M-Elite-DBmod#9",
+  "claim_id": "98a67b8ce7b585db677319ea2e3bd2ee75cebfd2",
+  "claim_op": "update",
+  "confirmations": 46838,
+  "height": 2009869,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009869,
+    "creation_height": 1975403,
+    "creation_timestamp": 1772043225,
+    "effective_amount": "0.001",
+    "expiration_height": 4112269,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1975514
+  },
+  "name": "Springfield-XD-M-Elite-DBmod",
+  "normalized_name": "springfield-xd-m-elite-dbmod",
+  "nout": 0,
+  "permanent_url": "lbry://Springfield-XD-M-Elite-DBmod#98a67b8ce7b585db677319ea2e3bd2ee75cebfd2",
+  "short_url": "lbry://Springfield-XD-M-Elite-DBmod#9",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775586903,
+  "txid": "e31b749479ed5169b34a14ea61d65abebe19883ffd531e71f667506a656dadb2",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThese frames are designed to turn your Springfield XD-M ELITE 9mm & 40 parts kits back into functional firearms. YAY!\n\nNOTE: This is only for parts kits that include the ELITE trigger components. If you have an older XD-M kit, use this frame: https://odysee.com/@db-firearms:4/Springfield-XD-M-DBmod-V1:c\n\nThe main frame was edited from the work of 458SOCOM (THE XD KING) Be sure to thank 458SOCOM for his hard work in making these a reality!\n\nPLEASE READ THE README THERE IS CRUCIAL INFO THERE\n\nFull Size Frame: This frame is for the XD-M Elite 4.5\" or 5.25\" slides. it's setup to use full size 19 round magazines with custom baseplate in files\nCompact-X Frame: This frame is for the 3.8\" slide but uses only the full size 19rd magazines and is not compatible with shorter mags.\nComact Frame: This frame is for the 3.8\" slide but can use any magazine. Specifically designed to use the 13rd magazines with pinky rest. Will also fit 19rd mags.\n\nELITE FRAME DIFFERENCES VS STANDARD XD-M:\nThe Elite came out in 2020 and was a general improvement to the XD-M. They released an improved META trigger, which is basically a trigger group with an enhanced coating, some geometry changes, flat faced trigger, and shorter reset. The META trigger system needed a small redesign of the frame to accommodate the changes over standard XD-M. This is definitely an upgrade. Additionally, it includes an ambidextrous slide release. Also, many of the elites come with an optics ready slide (referred to as OSP) and threaded barrel options. This frame will only accommodate the 9mm/40cal kits.\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1772043163",
+    "source": {
+      "hash": "13a8702011049fc1719a6b2a76713cfc59a8198717688c104783c6b9417b892233794f25a2a80e9eb43e90afb18a50df",
+      "media_type": "application/zip",
+      "name": "Springfield XD-M Elite DBmod.zip",
+      "sd_hash": "04abf34333f2ccaa73a722f91022223504a4503952ce5f060d778e70b0c92be4843232cf6e99d74585e1776cc31844d4",
+      "size": "71421111"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "3d printing",
+      "springfield",
+      "xdm",
+      "elite",
+      "guncad"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/8b721a50edb18e7d79c877418d5cbb02.webp"
+    },
+    "title": "Springfield XD-M Elite DBmod"
+  },
+  "value_type": "stream"
+}
