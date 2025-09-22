@@ -1,0 +1,88 @@
+{
+  "address": "bT9JayostxgYyRENUXSvsyKPyThBVpLJVy",
+  "amount": "0.01",
+  "canonical_url": "lbry://@db-firearms#4/db-witness-p#f",
+  "claim_id": "f47f0ad4f04a8ad5aebc8463ae036a2ce53e7067",
+  "claim_op": "update",
+  "confirmations": 46845,
+  "height": 2009873,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2009873,
+    "creation_height": 1173760,
+    "creation_timestamp": 1654804775,
+    "effective_amount": "0.01",
+    "expiration_height": 4112273,
+    "is_controlling": true,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 1173760
+  },
+  "name": "db-witness-p",
+  "normalized_name": "db-witness-p",
+  "nout": 0,
+  "permanent_url": "lbry://db-witness-p#f47f0ad4f04a8ad5aebc8463ae036a2ce53e7067",
+  "short_url": "lbry://db-witness-p#f",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884138,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1775587663,
+  "txid": "b5dcbf92908fd4a9a1bdf29fe6f371591fa6e2747b9fccc0c20b1ab478691644",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nThese frames are a heavy remix of the frames from FMDA - huge thanks to their work and inspiration on many of my projects. They have been stylized based on the grip profile of the CZ P-07/P-09 and I've added both compact and full size versions. Also, a nice stipple. \nThey are designed to use parts kits from the EAA Witness P, which is the polymer SMALL FRAME of the witness in 9mm or 40 S&W.\nAdditionally, MPRTECH has modified the witness frames to be compatible with the SAR Arms B6 frames which have \na slightly different rear housing. When searching for parts kits, please be aware that these kits have integrated rails both front and rear. If you don't see the rail inserts, you're not looking at the right kits. \n\nThe small frame witness uses a smaller grip and magazine and was discountinued in the early 2000's. This will not work with witness steel frame kits because they lack the rails, or the newer witness frame kits designed for LARGE FRAMES. If you have a question on compatibility, feel free to reach out to me on twitter @ArthurClaudeen. This is designed for SMALL FRAME FULL SIZE magazines. They hold 17 rounds. \n",
+    "languages": [
+      "en"
+    ],
+    "license": "Public Domain",
+    "release_time": "1654804741",
+    "source": {
+      "hash": "f078720ce5b775534c73811f299aaa9075fbd52bd53d39d2c983e04b1702433b0d66c66e24594a73b3812eb3f43212c6",
+      "media_type": "application/zip",
+      "name": "Witness P and SAR B6 Frames v1.zip",
+      "sd_hash": "f9dd4f02161d882ffed7549c7bd8cd7aa57c9edbd92ffb1aeacbb98ea727a3cfcb1baec13d565f463a2d116cbe117959",
+      "size": "19688108"
+    },
+    "stream_type": "binary",
+    "thumbnail": {
+      "url": "https://spee.ch/1/ebe78d3f53bf90c3.jpg"
+    },
+    "title": "Witness P and SAR B6 Printable Frames by DB Firearms and Mprtech"
+  },
+  "value_type": "stream"
+}
