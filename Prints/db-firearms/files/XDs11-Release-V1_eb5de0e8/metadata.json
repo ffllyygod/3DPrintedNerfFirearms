@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/XDs11-Release-V1#e",
+  "claim_id": "eb5de0e8627c20ef3635d722f409b9bb92d69bcf",
+  "claim_op": "create",
+  "confirmations": 4483,
+  "height": 2052248,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2052248,
+    "creation_height": 2052248,
+    "creation_timestamp": 1780516478,
+    "effective_amount": "0.001",
+    "expiration_height": 4154648,
+    "is_controlling": false,
+    "reposted": 2,
+    "support_amount": "0.0",
+    "take_over_height": 2052502
+  },
+  "name": "XDs11-Release-V1",
+  "normalized_name": "xds11-release-v1",
+  "nout": 0,
+  "permanent_url": "lbry://XDs11-Release-V1#eb5de0e8627c20ef3635d722f409b9bb92d69bcf",
+  "short_url": "lbry://XDs11-Release-V1#e",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884151,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1780516478,
+  "txid": "061e0c56bac68a155efff96b13a3aec2a4f1d74689f4f8d1aa9eb29f20ec01ed",
+  "type": "claim",
+  "value": {
+    "description": "These frames are designed to turn your Springfield XDs (9mm/.40/.45) Single Stack parts kits back into functional firearms. Yes, you read that right. all of the available XDs caliber parts kits are supported!\n\nThey do not use the normal XDs magazines. They require a 1911 style single stack magazine and magazine catch assembly.\n\nThere are 2 styles of frames for this release. Mod.1 is for all calibers of XDs Mod.1 kits. This will encompass the majority of kits available. Mod.2 is for all calibers of XDs Mod.2 kits. Mod.2 kits are mainly different at the front locking block area.\n\nMy favorite light that fits this frame: https://amzn.to/4vroYdB\nMy favorite filament for this frame: https://amzn.to/4xpsebB\n",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1780516310",
+    "source": {
+      "hash": "828476e21882fe20eb196effe8181d79100ac9d7d068cf9a01dcc354af5cdcfc2dbcf2c359d3c37c666e3a5a80117db8",
+      "media_type": "application/zip",
+      "name": "XDs11 Release V1.zip",
+      "sd_hash": "153ed33159a7b2e1d3414d69031b56efebd7e991e0c23cdcaf8b8410c15217ba615b9a2e99cc095372354abc94230565",
+      "size": "47226977"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "springfield",
+      "xds",
+      "db firearms",
+      "1911",
+      "guncad"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/685050382cbf01951955c9d2fd4bacda.webp"
+    },
+    "title": "DBs Springfield XDs11 Frames"
+  },
+  "value_type": "stream"
+}
