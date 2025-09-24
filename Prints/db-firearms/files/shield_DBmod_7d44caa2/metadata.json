@@ -1,0 +1,96 @@
+{
+  "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+  "amount": "0.001",
+  "canonical_url": "lbry://@db-firearms#4/shield_DBmod#7",
+  "claim_id": "7d44caa2f11d1c037152879d0734bfd4a6041869",
+  "claim_op": "update",
+  "confirmations": 33033,
+  "height": 2023674,
+  "is_channel_signature_valid": true,
+  "meta": {
+    "activation_height": 2023674,
+    "creation_height": 1922390,
+    "creation_timestamp": 1766593156,
+    "effective_amount": "0.001",
+    "expiration_height": 4126074,
+    "is_controlling": false,
+    "reposted": 3,
+    "support_amount": "0.0",
+    "take_over_height": 1924951
+  },
+  "name": "shield_DBmod",
+  "normalized_name": "shield_dbmod",
+  "nout": 0,
+  "permanent_url": "lbry://shield_DBmod#7d44caa2f11d1c037152879d0734bfd4a6041869",
+  "short_url": "lbry://shield_DBmod#7",
+  "signing_channel": {
+    "address": "bH21uMcD15Cpa56mi2s1utKhRi9SrAp533",
+    "amount": "0.01",
+    "canonical_url": "lbry://@db-firearms#4",
+    "claim_id": "44e405b61649761a5abfe018ee02b3c77606e12b",
+    "claim_op": "update",
+    "confirmations": 884127,
+    "has_signing_key": false,
+    "height": 1172580,
+    "meta": {
+      "activation_height": 1172580,
+      "claims_in_channel": 62,
+      "creation_height": 1078568,
+      "creation_timestamp": 1639545100,
+      "effective_amount": "0.01",
+      "expiration_height": 3274980,
+      "is_controlling": true,
+      "reposted": 0,
+      "support_amount": "0.0",
+      "take_over_height": 1078568
+    },
+    "name": "@db-firearms",
+    "normalized_name": "@db-firearms",
+    "nout": 0,
+    "permanent_url": "lbry://@db-firearms#44e405b61649761a5abfe018ee02b3c77606e12b",
+    "short_url": "lbry://@db-firearms#4",
+    "timestamp": 1654617741,
+    "txid": "e70d81250f23925170b315de8e9b9fdc989e61bb2d29ba1696180595732f731f",
+    "type": "claim",
+    "value": {
+      "public_key": "027bad828044b76e5a0d441c7bafbd15b9f39efbc4ffb5b9f22a31125710143eb5",
+      "public_key_id": "bMbbkyQbSAC3HBFQDqo3xoMbcLxmF5FT3o",
+      "thumbnail": {
+        "url": "https://thumbs.odycdn.com/af8e88cd0ad612346dc985c2e7bc81e0.png"
+      }
+    },
+    "value_type": "channel"
+  },
+  "timestamp": 1777048308,
+  "txid": "bb63abee7b27cd265507c5297d11d6e2e3b08da8d89eef030ab343eb1aee7f0c",
+  "type": "claim",
+  "value": {
+    "description": "## Legal Notice & Compliance Statement\n\n**dbdesignworks** is a sole proprietorship based in and operating under the laws of the State of Idaho, USA.\n\nThese 3D-printable files are provided **exclusively for lawful personal use** by individuals who are:\n- Not prohibited from possessing or manufacturing firearms under federal law (including 18 U.S.C. § 922(g)), and\n- Fully authorized under all applicable federal, state, and local laws in their jurisdiction of residence to manufacture firearm components or complete firearms.\n\n**These files are not intended for, and are not offered or distributed to, residents of any state or jurisdiction where the possession, manufacture, download, or use of these files is prohibited or requires a specific license that the user does not possess.** This includes, but is not limited to, the State of California.\n\nBy downloading, accessing, or using any file from this repository or website, you expressly represent and warrant that:\n1. You are a law-abiding adult in full compliance with all federal, state, and local laws governing firearms and firearm-related items in your jurisdiction.\n2. You are not located in, and will not use these files in, any jurisdiction where such activity is illegal.\n3. You will not distribute, share, or sell these files in violation of any law.\n\n**DB Design Works complies with all applicable federal and Idaho state laws.** We make no representation that these files are legal in your specific state or locality. It is solely your responsibility to determine the legality of these files, to verify your own eligibility, and to ensure full compliance before downloading or using them.\n\nThese files are provided **\"AS IS\"** without any warranty, express or implied. DB Design Works disclaims all liability for any loss, damage, injury, or legal consequence arising from the use or misuse of these files. Any unlawful use is strictly prohibited and is a violation of this notice.\n\nIf you are unsure whether you may legally download or use these files in your jurisdiction, do not download them.\n\nTHIS IS NO LONGER BETA, FILES COMPLETE AS RELEASED. \n\nThese frames are designed to turn your original Shield parts kits back into functional firearms. YAY!\nThe main frame was edited from the gatalog release by FMDA (Thanks FMDA you're the GOAT)\nAlso, big thanks to OA for helping with the 7rd magazine baseplate!\n\nThe final revision includes a redesigned magazine catch area for easier mag ejection as well as some small ergonomic tweaks to make it easier to print multi material. Also including a 7 round magazine baseplate",
+    "languages": [
+      "en"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "release_time": "1777047902",
+    "source": {
+      "hash": "45be78786ebee5658552af4f5730f9209dfe201677dcfdf4e099b6e2db876353f3cd386f091e480fcae32202711ad0b4",
+      "media_type": "application/zip",
+      "name": "Shield DBmod Official V1.zip",
+      "sd_hash": "7d9e695d2a6be72f30ed6b81aa738faa5f95552ea2d9315c59d331252de6d509b4435057d078352c4675a3b65f2166c1",
+      "size": "48773348"
+    },
+    "stream_type": "binary",
+    "tags": [
+      "shield",
+      "9mm",
+      "guncad",
+      "3d printing",
+      "pla"
+    ],
+    "thumbnail": {
+      "url": "https://thumbs.odycdn.com/9c01f035e2db4f9bac2cb49f99fb8c05.webp"
+    },
+    "title": "Shield DBmod Official V1"
+  },
+  "value_type": "stream"
+}
